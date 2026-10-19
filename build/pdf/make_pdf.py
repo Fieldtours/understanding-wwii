@@ -64,17 +64,17 @@ def build(key):
     P.append('</section>')
     # ---- the tour, day by day
     for d in D['days']:
-        P.append(f'<section class="reg"><h2>{d["n"]} — {E(d["title"])}</h2>{mapblock(key, "day%d" % d["n"], [(i+1, s["name"]) for i, s in enumerate(d["stops"])])}<p class="cap">{E(d["route"])}</p><p class="lede">{E(d["q"])}</p>')
+        P.append(f'<section class="reg"><h2>{d["n"]} — {E(d["title"])}</h2>{mapblock(key, "day%d" % d["n"], [(chr(65+i), s["name"]) for i, s in enumerate(d["stops"])])}<p class="cap">{E(d["route"])}</p><p class="lede">{E(d["q"])}</p>')
         for i, s in enumerate(d['stops']):
             meta = f'{pill(s["cert"])} {E(s["cat"])} · ≈{s["min"]} min' + (' · ★ must see' if s['pri'] == 1 else '')
-            P.append(stop(i + 1, s['name'], meta, s['text'], s['look'], s['plan'], s['priv'], s['lat'], s['lon'], s['links']))
+            P.append(stop(chr(65 + i), s['name'], meta, s['text'], s['look'], s['plan'], s['priv'], s['lat'], s['lon'], s['links']))
         n = d.get('night')
         if n: P.append(f'<div class="night"><b>Where to sleep after this part:</b> a good area to stay is {E(n.get("base"))}. The phone guide opens hotels, Airbnb and campsites around it on a map, with prices and availability.</div>')
         P.append('</section>')
     if D['extra']:
-        P.append(f'<section class="reg"><h2>Worth a detour</h2>{mapblock(key, "extra", [(i+1, s["name"]) for i, s in enumerate(D["extra"])])}<p class="lede">Extra sites, added to the tour when you have more days.</p>')
+        P.append(f'<section class="reg"><h2>Worth a detour</h2>{mapblock(key, "extra", [(chr(65+i), s["name"]) for i, s in enumerate(D["extra"])])}<p class="lede">Extra sites, added to the tour when you have more days.</p>')
         for i, s in enumerate(D['extra']):
-            P.append(stop(i + 1, s['name'], f'{pill(s["cert"])} {E(s["cat"])} · ≈{s["min"]} min', s['text'], s['look'], s['plan'], s['priv'], s['lat'], s['lon'], s['links']))
+            P.append(stop(chr(65 + i), s['name'], f'{pill(s["cert"])} {E(s["cat"])} · ≈{s["min"]} min', s['text'], s['look'], s['plan'], s['priv'], s['lat'], s['lon'], s['links']))
         P.append('</section>')
     # ---- timeline
     P.append(f'<section class="reg"><h2>The timeline</h2>{mapblock(key, "tl", [(t["n"], t["name"]) for t in D["tl"]])}<p class="lede">{len(D["tl"])} historical positions in date order: what happened, where and when. The numbers follow the war in date order.</p>')

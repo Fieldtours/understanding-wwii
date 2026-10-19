@@ -34,8 +34,8 @@ fs.writeFileSync(`/home/claude/uwwii/build/pdf/${f}.json`,JSON.stringify(D,null,
 const jobs=[...D.days.map(d=>['day'+d.n,d.stops,d.n+' — '+d.title.toUpperCase(),1]),['tl',D.tl,'THE WAR IN DATE ORDER, 1939 – 1945',1],['dd',D.dd,D.ddTitle.split('—')[0].trim().toUpperCase(),0],['mus',D.mus,'MUSEUMS',0]];
 if(D.extra.length)jobs.push(['extra',D.extra,'WORTH A DETOUR',0]);
 for(const [k,pts,t,line] of jobs){
- await p.evaluate(([pts,t,line])=>{let h=document.getElementById('pdfmap');if(!h){h=document.createElement('div');h.id='pdfmap';h.style.cssText='position:fixed;left:0;top:0;width:560px;z-index:99999;background:#fff';document.body.appendChild(h)}
-  h.innerHTML=sitmap(pts.map((x,i)=>({key:'k'+i,tab:'tab-tour',num:x.n||i+1,name:x.name,short:x.name.split(/ — | \/ /)[0].slice(0,24),lat:x.lat,lon:x.lon,conf:{HIGH:'DOC',MEDIUM:'MEDIUM',LOW:'AREA'}[x.cert]||'DOC'})),t);if(!line)h.innerHTML=h.innerHTML.replace(/<path d="[^"]*" fill="none" stroke="#e6dfc4"[^>]*><\/path><path d="[^"]*" fill="none" stroke="#a3261e" stroke-width="2.2" stroke-dasharray="7 4"><\/path>/,'');h.querySelectorAll('.zoomhint,.cap').forEach(x=>x.style.display='none')},[pts,t,line]);
+ await p.evaluate(([pts,t,line,k])=>{let h=document.getElementById('pdfmap');if(!h){h=document.createElement('div');h.id='pdfmap';h.style.cssText='position:fixed;left:0;top:0;width:560px;z-index:99999;background:#fff';document.body.appendChild(h)}
+  h.innerHTML=sitmap(pts.map((x,i)=>({key:'k'+i,tab:'tab-tour',num:(/^(day|extra)/.test(k)?String.fromCharCode(65+i):(x.n||i+1)),name:x.name,short:x.name.split(/ — | \/ /)[0].slice(0,24),lat:x.lat,lon:x.lon,conf:{HIGH:'DOC',MEDIUM:'MEDIUM',LOW:'AREA'}[x.cert]||'DOC'})),t);if(!line)h.innerHTML=h.innerHTML.replace(/<path d="[^"]*" fill="none" stroke="#e6dfc4"[^>]*><\/path><path d="[^"]*" fill="none" stroke="#a3261e" stroke-width="2.2" stroke-dasharray="7 4"><\/path>/,'');h.querySelectorAll('.zoomhint,.cap').forEach(x=>x.style.display='none')},[pts,t,line,k]);
  await p.waitForTimeout(1200);
  const el=await p.$('#pdfmap svg')||await p.$('#pdfmap');await el.screenshot({path:`/home/claude/uwwii/build/pdf/maps/${f}-${k}.png`});
 }
