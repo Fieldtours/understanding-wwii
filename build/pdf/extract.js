@@ -31,7 +31,7 @@ const D=await p.evaluate(()=>{ensureDdayPool();
   armies:[...document.querySelectorAll('#p-armies > h3, #p-armies > p, #p-armies .memo p, #p-armies .fact')].map(e=>e.tagName==='H3'?['h',T(e)]:e.classList.contains('fact')?['f',T(e.querySelector('.h')),[...e.querySelectorAll('p')].map(x=>x.innerHTML)]:['p',e.innerHTML])}});
 fs.writeFileSync(`/home/claude/uwwii/build/pdf/${f}.json`,JSON.stringify(D,null,1));
 // maps: each day, the timeline, the wider war, the museums
-const jobs=[...D.days.map(d=>['day'+d.n,d.stops,'DAY '+d.n+' — '+d.title.toUpperCase(),1]),['tl',D.tl,'THE WAR IN DATE ORDER, 1939 – 1945',1],['dd',D.dd,D.ddTitle.split('—')[0].trim().toUpperCase(),0],['mus',D.mus,'MUSEUMS',0]];
+const jobs=[...D.days.map(d=>['day'+d.n,d.stops,d.n+' — '+d.title.toUpperCase(),1]),['tl',D.tl,'THE WAR IN DATE ORDER, 1939 – 1945',1],['dd',D.dd,D.ddTitle.split('—')[0].trim().toUpperCase(),0],['mus',D.mus,'MUSEUMS',0]];
 if(D.extra.length)jobs.push(['extra',D.extra,'WORTH A DETOUR',0]);
 for(const [k,pts,t,line] of jobs){
  await p.evaluate(([pts,t,line])=>{let h=document.getElementById('pdfmap');if(!h){h=document.createElement('div');h.id='pdfmap';h.style.cssText='position:fixed;left:0;top:0;width:560px;z-index:99999;background:#fff';document.body.appendChild(h)}

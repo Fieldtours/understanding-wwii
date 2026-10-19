@@ -49,10 +49,10 @@ def build(key):
     # ---- cover
     P.append(f'''<section class="cover"><div class="doc"><span>{E(D["top"])}</span><span>{E(D["dates"])}</span></div>
 <div class="ttl"><h1><small>Understanding WWII</small><br>{G["place"]}</h1>
-<p class="sub">{E(D["sub"])}</p><p class="stamp">{nstops} SITES · {len(D["days"])} DAYS · {len(D["tl"])} POSITIONS</p></div>
+<p class="sub">{E(D["sub"])}</p><p class="stamp">{nstops} SITES · {len(D["tl"])} DATED POSITIONS</p></div>
 <p class="note">Free guide · dzcharlie.com · Printed edition of the phone guide. Positions carry a rating for how sure we are of the exact spot: HIGH (exact spot known), MEDIUM (right area), LOW (general area only).</p></section>''')
     # ---- contents + the story in brief
-    toc = [f'Day {d["n"]} — {E(d["title"])} <span>{len(d["stops"])} sites</span>' for d in D['days']]
+    toc = [f'{E(d["title"])} <span>{len(d["stops"])} sites</span>' for d in D['days']]
     if D['extra']: toc.append(f'Worth a detour <span>{len(D["extra"])} sites</span>')
     toc += [f'The timeline <span>{len(D["tl"])} positions</span>', f'{E(D["ddTitle"])} <span>{len(D["dd"])} sites</span>',
             f'Museums <span>{len(D["mus"])}</span>', 'The armies', f'Key figures <span>{len(D["men"])}</span>', 'Words to know', 'Credits']
@@ -64,12 +64,12 @@ def build(key):
     P.append('</section>')
     # ---- the tour, day by day
     for d in D['days']:
-        P.append(f'<section class="reg"><h2>Day {d["n"]} — {E(d["title"])}</h2>{mapblock(key, "day%d" % d["n"], [(i+1, s["name"]) for i, s in enumerate(d["stops"])])}<p class="cap">{E(d["route"])}</p><p class="lede">{E(d["q"])}</p>')
+        P.append(f'<section class="reg"><h2>{d["n"]} — {E(d["title"])}</h2>{mapblock(key, "day%d" % d["n"], [(i+1, s["name"]) for i, s in enumerate(d["stops"])])}<p class="cap">{E(d["route"])}</p><p class="lede">{E(d["q"])}</p>')
         for i, s in enumerate(d['stops']):
             meta = f'{pill(s["cert"])} {E(s["cat"])} · ≈{s["min"]} min' + (' · ★ must see' if s['pri'] == 1 else '')
             P.append(stop(i + 1, s['name'], meta, s['text'], s['look'], s['plan'], s['priv'], s['lat'], s['lon'], s['links']))
         n = d.get('night')
-        if n: P.append(f'<div class="night"><b>End of day {d["n"]} — where to sleep:</b> a good area to stay is {E(n.get("base"))}. The phone guide opens hotels, Airbnb and campsites around it on a map, with prices and availability.</div>')
+        if n: P.append(f'<div class="night"><b>Where to sleep after this part:</b> a good area to stay is {E(n.get("base"))}. The phone guide opens hotels, Airbnb and campsites around it on a map, with prices and availability.</div>')
         P.append('</section>')
     if D['extra']:
         P.append(f'<section class="reg"><h2>Worth a detour</h2>{mapblock(key, "extra", [(i+1, s["name"]) for i, s in enumerate(D["extra"])])}<p class="lede">Extra sites, added to the tour when you have more days.</p>')
@@ -86,11 +86,11 @@ def build(key):
     for f in D['factors']:
         P.append(f'<p class="tl"><b>{E(f[0])}.</b> {E(f[1])}' + (f' <span class="stat">{E(f[2])}</span>' if len(f) > 2 and f[2] else '') + '</p>')
     P.append(f'<h3>{E(D["ddHeads"][-1] if D["ddHeads"] else "Key sites")}</h3>')
-    P.append('<p class="lede">Every one of these is a stop on the tour, with its full story in the day chapters.</p><ol class="cl">' + ''.join(f'<li><b>{E(s["name"])}</b> — {E(s["cat"])}</li>' for s in D['dd']) + '</ol>')
+    P.append('<p class="lede">Every one of these is a stop on the tour, with its full story in the numbered chapters.</p><ol class="cl">' + ''.join(f'<li><b>{E(s["name"])}</b> — {E(s["cat"])}</li>' for s in D['dd']) + '</ol>')
     P.append('</section>')
     # ---- museums
-    P.append(f'<section class="reg"><h2>Museums</h2>{mapblock(key, "mus", [(i+1, s["name"]) for i, s in enumerate(D["mus"])])}<p class="lede">The museums worth your time, west to east, with the tour day they are on (their full stories are in the day chapters). Check opening days before you travel.</p>')
-    P.append('<ol class="cl">' + ''.join(f'<li><b>{E(m["name"])}</b> — {E(m["place"])} · tour {E(m["day"])} · allow {E(m["tip"])}</li>' for m in D['mus']) + '</ol>')
+    P.append(f'<section class="reg"><h2>Museums</h2>{mapblock(key, "mus", [(i+1, s["name"]) for i, s in enumerate(D["mus"])])}<p class="lede">The museums worth your time, west to east, with the chapter they are in (their full stories are there). Check opening days before you travel.</p>')
+    P.append('<ol class="cl">' + ''.join(f'<li><b>{E(m["name"])}</b> — {E(m["place"])} · see {E(str(m["day"]).replace("Day ",""))} · allow {E(m["tip"])}</li>' for m in D['mus']) + '</ol>')
     P.append('</section>')
     # ---- people
     A = D.get('armies', [])
