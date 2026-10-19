@@ -18,9 +18,10 @@ for gi, gid in enumerate(order):
     for t in json.load(open(f)):
         lv = t['lv']
         if gid == 'ov' and lv == 0: continue
-        if g and g['tier'] == 'reg' and lv >= 2: continue
-        if g and g['tier'] == 'close' and lv >= 2: continue
-        if g and g['tier'] == 'mid' and lv >= 1 and any(inside(g['b'], r['b']) for r in REG): continue
+        # keep a full ladder of sizes (each about half the one before), so every place can be shown with names at the right size
+        if g and g['tier'] == 'reg' and lv >= 3: continue
+        if g and g['tier'] == 'close' and lv >= 3: continue
+        if g and g['tier'] == 'mid' and lv >= 2: continue
         src = os.path.join(U, 'tiles', os.path.basename(t['src']))
         name = f"uw-g{gi}-{'b' if lv < 0 else lv}-{os.path.basename(t['src']).rsplit('-', 2)[-2]}-{os.path.basename(t['src']).rsplit('-', 1)[-1]}"
         w, h = t['w'], t['h']
@@ -30,6 +31,6 @@ for gi, gid in enumerate(order):
             im.resize((w, h), Image.LANCZOS).save(os.path.join(OUT, name), quality=74, optimize=True, progressive=True)
         else: shutil.copy(src, os.path.join(OUT, name))
         size += os.path.getsize(os.path.join(OUT, name))
-        R.append({'b': t['b'], 'w': w, 'h': h, 'g': gi, 'lv': lv, 'src': 'maps/' + name})
+        R.append({'b': t['b'], 'w': w, 'h': h, 'g': gi, 'lv': lv, 't': 'o' if gid == 'ov' else g['tier'][0], 'src': 'maps/' + name})
 json.dump(R, open('/home/claude/uwwii/build/raster.json', 'w'), separators=(',', ':'))
 print(len(R), 'tiles', round(size / 1e6, 1), 'MB', 'missing groups:', len(missing), missing[:20])

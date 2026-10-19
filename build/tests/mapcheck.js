@@ -3,7 +3,7 @@
 // may be stretched so far that the names turn giant and blurry.
 const {chromium}=require('/home/claude/gmap/node_modules/playwright');
 (async()=>{const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
-const p=await (await b.newContext({viewport:{width:390,height:844},serviceWorkers:'block'})).newPage();
+const p=await (await b.newContext({viewport:{width:+(process.env.WIDTH||390),height:+(process.env.HEIGHT||844)},serviceWorkers:'block'})).newPage();
 const errs=[];p.on('pageerror',e=>errs.push(e.message));
 await p.goto(process.env.URL||'http://localhost:8830/understanding-wwii/index.html');await p.waitForTimeout(1200);
 await p.evaluate(()=>document.querySelectorAll('.welcome,#welcome').forEach(w=>w.remove()));
@@ -11,18 +11,18 @@ const check=()=>p.evaluate(()=>{
   const RES=r=>r.w/(r.b[2]-r.b[0]);const out=[];const seen=new Set();
   document.querySelectorAll('svg[data-proj]').forEach(svg=>{
     const pr=svg.getAttribute('data-proj');if(seen.has(pr)||window.__done&&window.__done.has(pr))return;seen.add(pr);(window.__done=window.__done||new Set()).add(pr);
-    const [cx,cy,sc,W,H]=pr.split(',').map(Number);
+    const [cx,cy,sc,W,H]=pr.split(',').map(Number);const fdisp=Math.max(1,(svg.getBoundingClientRect().width||W)/W),fview=Math.max(1,window.innerWidth/W);
     const x0=cx-W/2/sc,x1=cx+W/2/sc,y0=cy-H/2/sc,y1=cy+H/2/sc;
     const host=svg.closest('section,[id]');const title=(svg.closest('.sitmap')?'sitmap ':'')+(host?host.id:'')+' : '+([...svg.querySelectorAll('text')].map(t=>t.textContent).join(' ').slice(0,60))+' ['+pr.split(',').map(v=>(+v).toFixed(2)).join(',')+']';
-    let best=0;RASTER.forEach(r=>{if(r.lv>=0&&r.b[2]>x0&&r.b[0]<x1&&MY(r.b[3])>y0&&MY(r.b[1])<y1)best=Math.max(best,RES(r))});const lbMax=best?Math.max(1,Math.min(8,best*2.2/(sc*RAS_PR))):8;
-    for(const z of [1,1.6,2.56,4.1,6.55,8].filter(z=>z<lbMax).concat([lbMax])){const d=sc*z*1.5;const want=rasPick(d,x0,x1,y0,y1);
-      let gap=0,giant=0,blur=0,N=0;
+    let best=0;RASTER.forEach(r=>{if(r.lv>=0&&r.b[2]>x0&&r.b[0]<x1&&MY(r.b[3])>y0&&MY(r.b[1])<y1)best=Math.max(best,RES(r))});const lbMax=best?Math.max(1,Math.min(8,best*2.2/(sc*RAS_PR*fview))):8;
+    for(const [z,f] of [['inline',fdisp]].concat([].filter(z=>z<lbMax).concat([]).map(z=>[z,Math.min(z*fview,best?Math.max(360,best*2.2/(sc*RAS_PR)*W)/W:1e9)]))){if(f===0)continue;const d=sc*f*1.5;const want=rasPick(d,x0,x1,y0,y1);
+      let gap=0,giant=0,blur=0,tiny=0,N=0,rmin=9,rmax=0;
       for(let i=0;i<24;i++)for(let j=0;j<24;j++){const lo=x0+(x1-x0)*(i+.5)/24,y=y0+(y1-y0)*(j+.5)/24;N++;
-        let top=null;for(const r of want){if(lo>=r.b[0]&&lo<=r.b[2]&&y>=MY(r.b[1])&&y<=MY(r.b[3])&&(!top||RES(r)>RES(top)))top=r}
+        let top=null;for(const r of want){if(lo>=r.b[0]&&lo<=r.b[2]&&y>=MY(r.b[1])&&y<=MY(r.b[3])&&true)top=r}
         if(!top){gap++;(window.__gaps=window.__gaps||[]).push([+lo.toFixed(3),+(Math.atan(Math.sinh(y*Math.PI/180))*180/Math.PI).toFixed(3)]);continue}
         if(top.lv>=0&&RES(top)<0.45*d)giant++;
-        if(RES(top)<0.2*d)blur++}
-      if(gap||giant)out.push({title,z,gap:Math.round(gap/N*100),giant:Math.round(giant/N*100),blur:Math.round(blur/N*100)})}});
+        if(top.lv<0&&RES(top)<0.25*d)blur++;if(top.lv>=0&&RES(top)>2.6*d)tiny++;if(top.lv>=0){const q=RES(top)/d;rmin=Math.min(rmin,q);rmax=Math.max(rmax,q)}}
+      const mix=rmax>0?+(rmax/rmin).toFixed(2):0;if(gap||giant||tiny||mix>2.05||(z==='inline'&&blur/N>0.25))out.push({title,z,mix,gap:Math.round(gap/N*100),giant:Math.round(giant/N*100),tiny:Math.round(tiny/N*100),blur:Math.round(blur/N*100)})}});
   return {n:seen.size,bad:out}});
 let total=0,bad=[];
 const run=async(label)=>{const r=await check();total+=r.n;r.bad.forEach(x=>bad.push(label+' | '+JSON.stringify(x)));return r.n};
