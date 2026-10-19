@@ -34,7 +34,7 @@ WHERE IT LIVES
 Netlify project "understanding-wwii" (understanding-wwii.netlify.app) - TO BE CREATED,
 shown on dzcharlie.com/understanding-wwii/ once the home page folder is uploaded too.
 To update: drag "UPLOAD THIS TO NETLIFY - Understanding WWII" onto that project.
-GitHub: not yet (github.com/Fieldtours/understanding-wwii to be created).
+Code and build scripts: github.com/Fieldtours/understanding-wwii (private)
 
 FOLDERS
 UPLOAD THIS TO NETLIFY - Understanding WWII  - the finished app
