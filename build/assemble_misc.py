@@ -63,7 +63,7 @@ T = T.replace('aria-label="War Diary — your trip journal: save or share each d
 # storage keys and caches: this guide's own prefix
 for k in ['plan', 'today', 'visited', 'aar', 'ap-', 'arrived', 'myroute', 'saved2-', 'style', 'tourpick', 'welcomed', 'seen2']:
     T = T.replace(f'"ie-{k}', f'"uw-{k}').replace(f"'ie-{k}", f"'uw-{k}")
-T = T.replace('"ie-core2"', '"uw-core1"').replace('"ie-data2"', '"uw-data1"')
+T = T.replace('"ie-core2"', '"uw-core2"').replace('"ie-data2"', '"uw-data2"')
 
 # diary: "Despatches"
 a = T.index('AAR_CFG={key:"ie-aar",data:') if 'AAR_CFG={key:"ie-aar",data:' in T else T.index('AAR_CFG={key:"uw-aar",data:')
@@ -150,7 +150,7 @@ FILES = [r['src'] for r in RAS] + ['fonts/bss-700.woff2', 'fonts/bss-800.woff2',
 a = T.index('const FILES=['); b = T.index('];', a) + 2
 T = T[:a] + 'const FILES=' + json.dumps(FILES) + ';' + T[b:]
 SW = open('/home/claude/fieldtours/into-europe/app/sw.js').read()
-SW = SW.replace('Into Europe service worker', 'Understanding WWII service worker').replace('"ie-core2", DATA="ie-data2", VERSION="v2"', '"uw-core1", DATA="uw-data1", VERSION="v1"')
+SW = SW.replace('Into Europe service worker', 'Understanding WWII service worker').replace('"ie-core2", DATA="ie-data2", VERSION="v2"', '"uw-core2", DATA="uw-data2", VERSION="v2"')
 SW = SW.replace('"ie-seen2"', '"uw-seen1"')
 SW = SW.replace('"fonts/stardos-stencil-400.woff2","fonts/stardos-stencil-700.woff2"', '"fonts/bss-700.woff2","fonts/bss-800.woff2","fonts/bss-700-ext.woff2","fonts/bss-800-ext.woff2"')
 assert 'ie-' not in SW and 'stardos' not in SW
