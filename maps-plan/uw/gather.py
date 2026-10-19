@@ -17,14 +17,14 @@ for gi, gid in enumerate(order):
     g = tier.get(gid)
     for t in json.load(open(f)):
         lv = t['lv']
-        if gid == 'ov' and lv in (0, -1): continue
+        if gid == 'ov' and lv == 0: continue
         if g and g['tier'] == 'reg' and lv >= 2: continue
         if g and g['tier'] == 'close' and lv >= 2: continue
         if g and g['tier'] == 'mid' and lv >= 1 and any(inside(g['b'], r['b']) for r in REG): continue
         src = os.path.join(U, 'tiles', os.path.basename(t['src']))
         name = f"uw-g{gi}-{'b' if lv < 0 else lv}-{os.path.basename(t['src']).rsplit('-', 2)[-2]}-{os.path.basename(t['src']).rsplit('-', 1)[-1]}"
         w, h = t['w'], t['h']
-        if g and g['tier'] in ('reg', 'mid') and lv == 0:   # regional 450 and middle 1050 px/degree instead of 600 and 1400: same map, smaller file
+        if (g and g['tier'] in ('reg', 'mid') and lv == 0) or (gid == 'ov' and lv == -1):   # regional 450 and middle 1050 px/degree instead of 600 and 1400: same map, smaller file
             from PIL import Image
             im = Image.open(src); w, h = max(1, round(w * .75)), max(1, round(h * .75))
             im.resize((w, h), Image.LANCZOS).save(os.path.join(OUT, name), quality=74, optimize=True, progressive=True)

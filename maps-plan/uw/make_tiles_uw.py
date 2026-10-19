@@ -9,7 +9,7 @@ from vtjobs import vt_jobs
 from PIL import Image
 U = '/home/claude/gmap/uw'; G = json.load(open(f'{U}/groups.json'))
 PPD = {'ov': 150, 'reg': 600, 'mid': 1400, 'close': 4550}
-G = [{'id': 'ov', 'tier': 'ov', 'b': [-11, 34.3, 46, 71.2]}] + G
+G = [{'id': 'ov', 'tier': 'ov', 'b': [-12, 31.5, 48, 71.2]}] + G
 want = sys.argv[1:] or [g['id'] for g in G]
 OUT = f'{U}/tiles'; os.makedirs(OUT, exist_ok=True); os.makedirs(f'{U}/raster', exist_ok=True)
 os.makedirs('/home/claude/gmap/png/parts', exist_ok=True)
