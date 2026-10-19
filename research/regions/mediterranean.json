@@ -1,0 +1,337 @@
+{
+ "region": "mediterranean",
+ "story": "Malta lay across the Axis sea route from Italy to North Africa. From the first Italian air raid on 11 June 1940 to the lifting of the siege in November 1942, the island was bombed almost daily, and in March–April 1942 it became the most heavily bombed place on earth. Aircraft and submarines based on Malta sank the ships carrying fuel and supplies to Rommel, so Axis success in the desert depended on neutralising the island. Its people endured under ground in rock shelters, King George VI awarded Malta the George Cross in April 1942, and the tanker Ohio, with the Pedestal convoy, brought fuel in August 1942. In 1943 Malta became the Allied headquarters for the invasion of Sicily. Crete fell the other way. On 20 May 1941 Germany launched Operation Merkur, the first major airborne invasion in history. British, Commonwealth and Greek troops, supported by Cretan civilians, nearly defeated it, but the loss of Maleme airfield allowed reinforcements to fly in. The island fell by 1 June, and German airborne losses were so heavy that Hitler never again used paratroops on such a scale.",
+ "stops": [
+  {
+   "id": "lascaris",
+   "name": "Lascaris War Rooms, Valletta",
+   "short": "Lascaris War Rooms",
+   "town": "Valletta",
+   "country": "Malta",
+   "lat": 35.8944972,
+   "lon": 14.51105,
+   "coord_src": "https://en.wikipedia.org/wiki/Lascaris_War_Rooms",
+   "conf": "HIGH",
+   "cat": "Headquarters",
+   "kind": "battle",
+   "pri": 1,
+   "when": "1940–1943 (Husky HQ Jul 1943)",
+   "sort": "1943-07-10",
+   "min": 90,
+   "text": "Work on these tunnels beneath the Upper Barrakka Gardens and the Saluting Battery began in 1940, during the siege, and was finished in early 1943. They held the War Headquarters from which Malta's defence was run, including fighter control rooms that directed RAF squadrons against Axis raids. In July 1943 the complex served as the advance Allied headquarters for Operation Husky, the invasion of Sicily, with Eisenhower, Admiral Cunningham, General Montgomery and Air Chief Marshal Tedder working here. After the war it housed the Royal Navy's Mediterranean Fleet HQ and, from 1967, a NATO communications centre, until 1977. The heritage foundation Fondazzjoni Wirt Artna now runs it.",
+   "look": "A maze of rock-cut rooms deep under Valletta, with operations rooms restored with plotting tables, wall maps and figures, including the Sector Fighter Control room and the Operation Husky room. The ticket includes the separate Operation Husky Museum. Tickets can also be bought at the Saluting Battery above.",
+   "plan": "Mon–Sat 9:30–17:30 (last entry 17:00); closed Sundays and 24, 25, 31 Dec, 1 Jan, Good Friday and Easter. Adult €20, child €7, with audio guide; guided tours 10:30 and 12:30 (€5). Book online or at the entrance; check the website before you go.",
+   "url": "https://www.wirtartna.org/lascariswarrooms",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Lascaris War Rooms (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Lascaris_War_Rooms"
+    ],
+    [
+     "Lascaris War Rooms (official)",
+     "https://www.wirtartna.org/lascariswarrooms"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lascaris_War_Rooms",
+    "https://www.wirtartna.org/lascariswarrooms"
+   ],
+   "aar": {
+    "when": "10 JUL 1943",
+    "ev": "Eisenhower and his commanders direct the invasion of Sicily from tunnels under Valletta.",
+    "st": "These tunnels under the Upper Barrakka Gardens were dug from 1940 and housed the War Headquarters that ran Malta's defence. In July 1943 Eisenhower, Cunningham, Montgomery and Tedder used them as the advance headquarters for the invasion of Sicily. Today restored operations rooms with plotting tables and wall maps lie deep in the rock, reached from Lascaris Ditch.",
+    "q": {
+     "t": "Which operation was directed from Lascaris as the Allies' advance headquarters in July 1943?",
+     "o": [
+      "Operation Pedestal",
+      "Operation Husky",
+      "Operation Torch"
+     ],
+     "a": 1,
+     "x": "In July 1943 Eisenhower and his commanders used Lascaris as the advance headquarters for Operation Husky, the invasion of Sicily."
+    },
+    "rem": "The rooms that defended Malta in 1942 helped launch the invasion of Europe in 1943."
+   },
+   "notes": "Entry from Lascaris Ditch (walk through Ganado Gardens from the bus terminus) or from the Saluting Battery."
+  },
+  {
+   "id": "fort-st-elmo",
+   "name": "National War Museum, Fort St Elmo, Valletta",
+   "short": "Fort St Elmo",
+   "town": "Valletta",
+   "country": "Malta",
+   "lat": 35.901159,
+   "lon": 14.518901,
+   "coord_src": "https://heritagemalta.mt/explore/fort-st-elmo-national-war-museum/",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 2,
+   "when": "11 Jun 1940 – 20 Nov 1942",
+   "sort": "1942-04-15",
+   "min": 90,
+   "text": "Fort St Elmo guards the mouth of Grand Harbour at the tip of Valletta. The National War Museum, in the Old Drill Hall of Lower St Elmo, tells the story of the siege of Malta from June 1940 to November 1942. On the first day the island's only fighters were a few obsolete Gloster Sea Gladiators of the Hal Far Fighter Flight, later nicknamed Faith, Hope and Charity. Between 20 March and 28 April 1942 the Luftwaffe flew 11,819 sorties and dropped 6,557 tons of bombs on Malta. On 15 April 1942 King George VI awarded the island the George Cross. The museum reopened in 2015 after the fort's restoration.",
+   "look": "The fuselage of Sea Gladiator N5520 'Faith', the George Cross itself, and the Willys jeep 'Husky' used by Eisenhower and by Roosevelt on his visit to Malta. The wider museum covers Malta's military history; the star-shaped fort walls overlook Grand Harbour.",
+   "plan": "Adults €10, concessions €7.50, children €5.50. Open daily; hours change by season and the Sunday In Guardia parade delays general entry to 12:00. Closed 24, 25, 31 Dec, 1 Jan and Good Friday. WWI section closed until further notice. Check the website before you go.",
+   "url": "https://heritagemalta.mt/explore/fort-st-elmo-national-war-museum/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "National War Museum, Malta (Wikipedia)",
+     "https://en.wikipedia.org/wiki/National_War_Museum_(Malta)"
+    ],
+    [
+     "Siege of Malta (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Siege_of_Malta_(World_War_II)"
+    ],
+    [
+     "Fort St Elmo and National War Museum (Heritage Malta)",
+     "https://heritagemalta.mt/explore/fort-st-elmo-national-war-museum/"
+    ]
+   ],
+   "sources": [
+    "https://heritagemalta.mt/explore/fort-st-elmo-national-war-museum/",
+    "https://en.wikipedia.org/wiki/National_War_Museum_(Malta)",
+    "https://en.wikipedia.org/wiki/Siege_of_Malta_(World_War_II)",
+    "https://heritagemalta.mt/opening-hours/"
+   ],
+   "aar": {
+    "when": "15 APR 1942",
+    "ev": "King George VI awards the George Cross to the whole island of Malta.",
+    "st": "When Italy declared war in June 1940, Malta's only fighters were a few obsolete Sea Gladiators at Hal Far. In March and April 1942 the Luftwaffe dropped more than 6,500 tons of bombs on the island, and on 15 April King George VI awarded Malta the George Cross. Today the museum shows the Gladiator 'Faith', the George Cross and Eisenhower's jeep 'Husky'.",
+    "q": {
+     "t": "What were Malta's only fighter aircraft on the first day of the siege?",
+     "o": [
+      "A few obsolete Gloster Sea Gladiators",
+      "A squadron of Spitfires",
+      "Hawker Hurricanes from HMS Illustrious"
+     ],
+     "a": 0,
+     "x": "In June 1940 the Hal Far Fighter Flight had only a few obsolete Sea Gladiators, later nicknamed Faith, Hope and Charity. The fuselage of 'Faith' is in this museum."
+    },
+    "rem": "The George Cross on show here is the one awarded to the people of Malta in 1942."
+   },
+   "notes": "Exact hours are only shown as images on Heritage Malta's opening-hours page and could not be read; coordinates taken from the official page's 'Get Directions' link."
+  },
+  {
+   "id": "malta-at-war",
+   "name": "Malta at War Museum, Birgu",
+   "short": "Malta at War",
+   "town": "Birgu (Vittoriosa)",
+   "country": "Malta",
+   "lat": 35.885417,
+   "lon": 14.522667,
+   "coord_src": "https://en.wikipedia.org/wiki/Malta_at_War_Museum",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 2,
+   "when": "1940–1942",
+   "sort": "1942-03-20",
+   "min": 90,
+   "text": "Birgu faces Valletta across Grand Harbour, beside the dockyard that was a prime target throughout the siege. The museum occupies the Couvre Porte, a 17th-century counterguard whose 18th-century casemates became barracks. During the war they served as a police headquarters and then a civil defence centre. In 1940 the police began digging an air-raid shelter into the rock below, which grew into a small underground village where the town's people slept, gave birth and sheltered from raids. The Luftwaffe's arrival in Sicily in January 1941, when Ju 87s bombed HMS Illustrious in the harbour, brought the war to Birgu's doorstep. The museum is run by Fondazzjoni Wirt Artna.",
+   "look": "Above ground, nine galleries of wartime memorabilia and the wartime documentary 'Malta G.C.'. Below, a rock-cut shelter with dormitories, a surgery, a birth room, family cubicles and long tunnels. Allow time for the hourly English guided tour.",
+   "plan": "Mon–Sat 9:30–17:30 (last entry 17:00); closed Sundays and 24, 25, 31 Dec, 1 Jan, Good Friday and Easter. Adult €14, child €7; guided tour and audio guide included, English tours hourly 10:00–14:00. Check the website before you go.",
+   "url": "https://www.wirtartna.org/maltaatwarmuseum",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Malta at War Museum (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Malta_at_War_Museum"
+    ],
+    [
+     "Malta at War Museum (official)",
+     "https://www.wirtartna.org/maltaatwarmuseum"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Malta_at_War_Museum",
+    "https://www.wirtartna.org/maltaatwarmuseum",
+    "https://en.wikipedia.org/wiki/Siege_of_Malta_(World_War_II)"
+   ],
+   "aar": {
+    "when": "JAN 1941",
+    "ev": "Birgu's people move into rock-cut shelters as German bombers attack the dockyard.",
+    "st": "Birgu sits beside the Grand Harbour dockyard, a constant target during the siege. From 1940 the police dug an air-raid shelter into the rock below the Couvre Porte, and it grew into an underground village with dormitories, a surgery and a birth room. Today you can walk through the shelter tunnels and see nine galleries of wartime objects and the film 'Malta G.C.'.",
+    "q": {
+     "t": "Who first began digging the air-raid shelter under the Couvre Porte in 1940?",
+     "o": [
+      "The Royal Navy",
+      "The Maltese police",
+      "The Italian prisoners of war"
+     ],
+     "a": 1,
+     "x": "The shelter was begun by the police in 1940, whose headquarters were in the Couvre Porte barracks, and grew into a small underground village."
+    },
+    "rem": "Malta's siege was survived underground, in shelters cut into the island's soft limestone."
+   },
+   "notes": "Wikipedia's decimal coordinates are rounded; values used are the exact conversion of its DMS figures (35°53′7.5″N 14°31′21.6″E)."
+  },
+  {
+   "id": "maleme",
+   "name": "Maleme German War Cemetery and Hill 107, Crete",
+   "short": "Maleme Hill 107",
+   "town": "Maleme",
+   "country": "Greece",
+   "lat": 35.522903,
+   "lon": 23.831186,
+   "coord_src": "https://kriegsgraeberstaetten.volksbund.de/en/military-cemetery/maleme",
+   "conf": "HIGH",
+   "cat": "Cemetery",
+   "kind": "battle",
+   "pri": 1,
+   "when": "20–22 May 1941",
+   "sort": "1941-05-20",
+   "min": 60,
+   "text": "Hill 107 overlooks Maleme airfield, the key objective of the German airborne invasion of Crete. On 20 May 1941 German glider and parachute troops attacked the airfield and the hill, held by the New Zealand 22nd Battalion under Lieutenant Colonel Leslie Andrew. Out of contact with two of his companies and refused reinforcements by Brigadier Hargest, Andrew withdrew from the hill that night. On 21 May the Germans took the airfield and Ju 52 transports began flying in the 5th Mountain Division. The Allied counter-attack on the night of 21/22 May started late and failed in daylight. This decided the battle. The German cemetery on the hilltop was consecrated on 6 October 1974.",
+   "look": "Terraced graves with flat stones and small groups of crosses on the hilltop. From the edge you look straight down onto the old Maleme airfield runway and along the coast towards Chania, the ground the 22nd Battalion held. Small visitor building with information.",
+   "plan": "Free. Greek war-tourism portal lists it as always accessible and wheelchair-accessible, but the Volksbund page gives no hours, so check before you go. About 17 km west of Chania, signposted from the coast road at Maleme.",
+   "url": "https://kriegsgraeberstaetten.volksbund.de/en/military-cemetery/maleme",
+   "private": false,
+   "solemn": true,
+   "disputed": "Andrew's withdrawal from Hill 107 is still argued over: some blame him, others the brigade and division commanders who did not reinforce him or counter-attack quickly. Historians also differ on how much the Ultra intelligence that warned of the attack could have helped Freyberg.",
+   "links": [
+    [
+     "Battle of Crete (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Battle_of_Crete"
+    ],
+    [
+     "Maleme war cemetery (Volksbund)",
+     "https://kriegsgraeberstaetten.volksbund.de/en/military-cemetery/maleme"
+    ],
+    [
+     "German Military Cemetery Hill 107 (Hellenic War Museum)",
+     "https://militarytourism.warmuseum.gr/en/attractions/german-military-cemetery-hill-107"
+    ]
+   ],
+   "sources": [
+    "https://kriegsgraeberstaetten.volksbund.de/en/military-cemetery/maleme",
+    "https://militarytourism.warmuseum.gr/en/attractions/german-military-cemetery-hill-107",
+    "https://en.wikipedia.org/wiki/Battle_of_Crete"
+   ],
+   "aar": {
+    "when": "20 MAY 1941",
+    "ev": "German airborne troops attack Maleme airfield; Hill 107's defenders withdraw that night.",
+    "st": "On 20 May 1941 German glider and parachute troops attacked Maleme airfield and Hill 107, held by the New Zealand 22nd Battalion. Its commander withdrew that night, the airfield fell, and transport aircraft flew in mountain troops, which decided the battle for Crete. Today German graves cover the hilltop, which looks straight down onto the old airfield runway.",
+    "q": null,
+    "rem": "Losing one hill above one airfield cost the Allies Crete."
+   },
+   "notes": "Graves: Volksbund gives 4,468 dead; the Hellenic War Museum portal gives 4,465. Stop is a cemetery on the exact battlefield, so conf HIGH."
+  },
+  {
+   "id": "souda-bay",
+   "name": "Souda Bay War Cemetery, Crete",
+   "short": "Souda Bay CWGC",
+   "town": "Souda (Chania)",
+   "country": "Greece",
+   "lat": 35.500162,
+   "lon": 24.060457,
+   "coord_src": "https://tracesofwar.com/sights/3546/Commonwealth-War-Cemetery-Suda-Bay.htm",
+   "conf": "DOC",
+   "cat": "Cemetery",
+   "kind": "battle",
+   "pri": 2,
+   "when": "20 May – 1 Jun 1941",
+   "sort": "1941-05-28",
+   "min": 45,
+   "text": "In May 1941 Commonwealth forces on Crete held five defence areas along the north coast. After the German airborne landings began on 20 May, Maleme fell and the line west of Chania broke on 26 May. Souda Bay became indefensible, and the troops retreated over the mountains to Sfakia. Between 28 and 31 May the Royal Navy evacuated about 18,000 men from Crete, most of them from Sfakia. Of 32,000 Commonwealth soldiers on the island, about 12,000 were captured and 2,000 killed. After the war, Australian War Graves Units moved the dead here from German-made burial grounds at Chania, Heraklion, Rethymno and Galatas and from isolated graves. About 1,500 Second World War servicemen lie here, 776 unidentified.",
+   "look": "A quiet, walled cemetery in an olive grove on the shore of Souda Bay, designed by Louis de Soissons. Rows of headstones run down towards the water. Look for the grave of the archaeologist and SOE officer John Pendlebury and for the many headstones marked 'Known unto God'.",
+   "plan": "Free; open permanently. About 5 km east of Chania: follow Souda Boulevard to the Ellis junction, then CWGC signs via Mavridaki Street. Car park near the entrance.",
+   "url": "https://www.cwgc.org/find-a-cemetery/cemetery/69004",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Souda Bay War Cemetery (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Souda_Bay_Allied_War_Cemetery"
+    ],
+    [
+     "Suda Bay War Cemetery (CWGC)",
+     "https://www.cwgc.org/find-a-cemetery/cemetery/69004"
+    ]
+   ],
+   "sources": [
+    "https://www.cwgc.org/find-a-cemetery/cemetery/69004",
+    "https://tracesofwar.com/sights/3546/Commonwealth-War-Cemetery-Suda-Bay.htm",
+    "https://en.wikipedia.org/wiki/Souda_Bay_Allied_War_Cemetery"
+   ],
+   "aar": {
+    "when": "28 MAY 1941",
+    "ev": "Commonwealth troops abandon Souda Bay and retreat across the mountains to Sfakia.",
+    "st": "After the line west of Chania broke on 26 May 1941, Souda Bay could not be held, and the troops retreated to Sfakia for evacuation by sea. About 12,000 were left behind as prisoners. Today about 1,500 servicemen, half of them unidentified, lie in a walled olive grove on the shore of Souda Bay.",
+    "q": null,
+    "rem": "Half the men buried here could not be identified."
+   },
+   "notes": "CWGC uses the spelling 'Suda Bay'. Unidentified count: CWGC 776, TracesOfWar 778. The Souda naval base nearby is military: no photography of installations."
+  },
+  {
+   "id": "galatas",
+   "name": "Galatas, Crete: the battle for the village",
+   "short": "Galatas",
+   "town": "Galatas",
+   "country": "Greece",
+   "lat": 35.491923,
+   "lon": 23.966326,
+   "coord_src": "https://tracesofwar.com/sights/26109/Allied-War-Memorial-Galatas.htm",
+   "conf": "MEDIUM",
+   "cat": "Battlefield",
+   "kind": "battle",
+   "pri": 3,
+   "when": "20–25 May 1941",
+   "sort": "1941-05-25",
+   "min": 60,
+   "text": "Galatas, a hill village south-west of Chania, anchored the line held by Colonel Howard Kippenberger's 10th Brigade and later by 4th New Zealand Brigade. On 25 May 1941 German mountain and parachute troops attacked after heavy bombing. A covering force on Pink Hill held out until overrun, and Brigadier Inglis threw in 23rd Battalion and improvised troops, including bandsmen and the Kiwi Concert Party. The Germans entered Galatas. That evening Kippenberger sent two companies of 23rd Battalion and the remnants of 18th Battalion in behind two light tanks of 3rd Hussars under Lieutenant Roy Farran. They charged into the square and drove the Germans out, but were too weak to stay and withdrew that night.",
+   "look": "The village square where the bayonet charge ended, the Allied memorial on the edge of the village and views to Pink Hill and the former 'Prison Valley' to the south. A small local museum covers the battle. Annual commemorations are held here each May.",
+   "plan": "Free to walk the village. A small Battle of Galatas museum is nearby but its opening hours could not be confirmed; check locally before you go. Galatas is about 6 km south-west of Chania.",
+   "url": "https://nzhistory.govt.nz/war/the-battle-for-crete/the-battle-day-4-6",
+   "private": false,
+   "solemn": false,
+   "disputed": "Sources differ on the tanks' unit: NZHistory names 7th Royal Tank Regiment, while most accounts, including Farran's own, place him in the 3rd Hussars.",
+   "links": [
+    [
+     "Battle for Crete, days 4–6 (NZHistory)",
+     "https://nzhistory.govt.nz/war/the-battle-for-crete/the-battle-day-4-6"
+    ],
+    [
+     "Battle of Crete (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Battle_of_Crete"
+    ],
+    [
+     "Allied War Memorial Galatas (TracesOfWar)",
+     "https://tracesofwar.com/sights/26109/Allied-War-Memorial-Galatas.htm"
+    ]
+   ],
+   "sources": [
+    "https://nzhistory.govt.nz/war/the-battle-for-crete/the-battle-day-4-6",
+    "https://tracesofwar.com/sights/26109/Allied-War-Memorial-Galatas.htm",
+    "https://tracesofwar.com/sights/26040/Museum-Battle-of-Pink-Hill-Galatas.htm",
+    "https://gg.govt.nz/node/754"
+   ],
+   "aar": {
+    "when": "25 MAY 1941",
+    "ev": "New Zealanders charge back into Galatas behind two light tanks and clear the square.",
+    "st": "On 25 May 1941 German troops broke through on Pink Hill and entered Galatas. That evening two companies of 23rd Battalion and the remnants of 18th Battalion followed two light tanks into the village and drove the Germans out, but withdrew the same night. Today you can stand in the village square where the charge ended and visit the Allied memorial nearby.",
+    "q": {
+     "t": "What happened after the New Zealand counter-attack recaptured Galatas on 25 May 1941?",
+     "o": [
+      "They held it until the evacuation",
+      "Greek troops took over the village",
+      "They withdrew that night, too weak to stay"
+     ],
+     "a": 2,
+     "x": "The charge drove the Germans out, but with few men, no air support and civilians in the village, the New Zealanders pulled back to a new line west of Chania that night."
+    },
+    "rem": "Galatas was a brilliant local counter-attack that could not change the outcome of the battle."
+   },
+   "notes": "Coordinates are the Allied War Memorial on the edge of the village (TracesOfWar); the Pink Hill museum is at 35.49919, 23.963531 (TracesOfWar). Tank troop: NZHistory says 7th Royal Tank Regiment; most accounts (and Farran's own) say 3rd Hussars. Text uses 3rd Hussars — editor to verify. The Galatas Wikipedia pages could not be fetched."
+  }
+ ]
+}

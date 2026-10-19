@@ -1,0 +1,730 @@
+{
+ "region": "ardennes",
+ "story": "Belgium and Luxembourg bracket the war in the West. At dawn on 10 May 1940 German glider troops landed on the roof of Fort Eben-Emael, the strongest fort on the Albert Canal, and silenced it within hours; the road into Belgium lay open and the Low Countries fell within weeks. Liberated in September 1944, the Ardennes then became the stage for Hitler's last great gamble in the West. On 16 December 1944 German armies struck thinly held American lines, aiming for the Meuse and Antwerp. Inexperienced regiments were cut off and captured in the Schnee Eifel, Kampfgruppe Peiper murdered prisoners at Baugnez, and St Vith held for five vital days. At Bastogne, where seven main roads meet, the 101st Airborne and armoured units held out under siege until Patton's Third Army broke through on 26 December. On 16 January 1945 the US First and Third Armies met at Houffalize and the Bulge was closed. The offensive used up Germany's last reserves in the West; the cemeteries at Henri-Chapelle, Hamm and Recogne show what it cost.",
+ "stops": [
+  {
+   "id": "eben-emael",
+   "name": "Fort Eben-Emael",
+   "short": "Eben-Emael",
+   "town": "Eben-Emael (Bassenge)",
+   "country": "Belgium",
+   "lat": 50.79679953,
+   "lon": 5.67333131,
+   "coord_src": "https://www.tracesofwar.com/sights/128415/War-Memorial-Fort-Eben-Emael.htm",
+   "conf": "HIGH",
+   "cat": "Fortification",
+   "kind": "battle",
+   "pri": 2,
+   "when": "10–11 May 1940",
+   "sort": "1940-05-10",
+   "min": 180,
+   "text": "Built in 1931–35 above the Caestert cutting of the Albert Canal, Eben-Emael was the largest fort of the Fortified Position of Liège, armed with 120 mm, 75 mm and 60 mm guns in turrets and casemates and linked by over 4 km of galleries. At dawn on 10 May 1940 Assault Group Granit of Sturmabteilung Koch, 85 men in 11 DFS 230 gliders, set out for its roof. Nine landed; Oberleutnant Rudolf Witzig's tow rope snapped, so Oberfeldwebel Helmut Wenzel took charge. Shaped charges and a flamethrower knocked out guns and cupolas while other groups seized the Veldwezelt and Vroenhoven bridges. The garrison surrendered at 12:30 on 11 May; Belgian losses were 23 killed and 59 wounded, Granit's 6 killed.",
+   "look": "The fort is still Belgian Army property. Inside are the underground barracks, a museum, a 180° film of the attack and long, cold galleries. Above ground you can walk the grassed roof between the blocks, see casemates and cupolas holed by German charges, and look down into the canal cutting.",
+   "plan": "Open mid-February to early January on set days, usually Tuesday–Sunday 10:00–17:00, last entry 15:00; check the opening calendar. Guided tours of a combat bunker are best booked online. Galleries stay at 11 °C and involve many stairs; bunkers are not wheelchair accessible.",
+   "url": "https://www.fort-eben-emael.be/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Garrison figures vary: about 1,200 on strength but perhaps 750 present on 10 May (Witzig's figure), while some books give 1,185 or even 2,000. Wikipedia's fort article gives the glider force as both 85 and 78 men.",
+   "links": [
+    [
+     "Fort Eben-Emael (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Fort_%C3%89ben-%C3%89mael"
+    ],
+    [
+     "Battle of Fort Eben-Emael (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Battle_of_Fort_Eben-Emael"
+    ],
+    [
+     "Fort Eben-Emael (official)",
+     "https://www.fort-eben-emael.be/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Fort_Eben-Emael",
+    "https://en.wikipedia.org/wiki/Fort_%C3%89ben-%C3%89mael",
+    "https://fr.wikipedia.org/wiki/Fort_d%27%C3%89ben-%C3%89mael",
+    "https://www.tracesofwar.com/sights/128415/War-Memorial-Fort-Eben-Emael.htm",
+    "https://www.fort-eben-emael.be/en/"
+   ],
+   "aar": {
+    "when": "10 MAY 1940",
+    "ev": "German glider troops land on the fort's roof and blast its guns with shaped charges.",
+    "st": "At dawn on 10 May 1940, 85 men of Assault Group Granit flew to Eben-Emael in eleven gliders and nine landed on the roof. Shaped charges and a flamethrower knocked out the guns and cupolas, and the garrison surrendered at 12:30 the next day. Today you can explore the cold galleries, underground barracks and museum, then walk the roof past cupolas holed by the German charges.",
+    "q": {
+     "t": "Who led Assault Group Granit on the roof for most of the attack?",
+     "o": [
+      "Rudolf Witzig",
+      "Helmut Wenzel",
+      "Walter Koch"
+     ],
+     "a": 1,
+     "x": "Witzig's glider snapped its tow rope and came down in Germany, so Oberfeldwebel Helmut Wenzel led on the roof until Witzig arrived in a replacement glider."
+    },
+    "rem": "A few dozen glider troops with shaped charges silenced Belgium's strongest fort and opened the road into the Low Countries."
+   },
+   "notes": "Coordinates are for the Belgian war memorial at the entrance on Rue du Fort (Block 1). French Wikipedia gives the fort as 50°47′49″N 5°40′47″E, i.e. the centre of the roof area about 500 m east. Ticket prices are not shown on the home page; check the visit page."
+  },
+  {
+   "id": "bastogne-museum",
+   "name": "Bastogne War Museum",
+   "short": "Bastogne War Museum",
+   "town": "Bastogne",
+   "country": "Belgium",
+   "lat": 50.010608,
+   "lon": 5.739187,
+   "coord_src": "https://www.tracesofwar.com/sights/132/Bastogne-War-Museum.htm",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 1,
+   "when": "Dec 1944 – Jan 1945",
+   "sort": "1944-12-16",
+   "min": 180,
+   "text": "Opened on 21 March 2014 on the site of the former Bastogne Historical Center, the museum tells the story of the Battle of the Bulge from its origins to its aftermath. Bastogne mattered because all seven main roads through the central Ardennes met there. The 101st Airborne Division arrived on 19 December 1944 and, with Combat Command B of the 10th Armored Division and a scratch force of stragglers called Team SNAFU, held the town after Lüttwitz's XLVII Panzer Corps cut the roads on 20–21 December. The exhibition follows four fictional characters, an American paratrooper, a German Volksgrenadier officer, a Bastogne teacher and a 13-year-old boy, through the siege, with three immersive shows along the way.",
+   "look": "A long chronological walk-through with audio guide: original weapons, uniforms and vehicles, three immersive shows including a cellar scene under bombing, and near the end a restored 11th Armored Division tank stopped on 30 December 1944. The Mardasson Memorial stands next door.",
+   "plan": "Open daily 09:30–18:00 in October 2026. Tickets are sold online in time slots; booking ahead is advised in summer and around the December anniversaries. The ticket also covers the Bois Jacques Battlefield trail. Allow at least two hours. Check the website for prices.",
+   "url": "https://www.bastognewarmuseum.be/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Bastogne War Museum (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Bastogne_War_Museum"
+    ],
+    [
+     "Siege of Bastogne (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Siege_of_Bastogne"
+    ],
+    [
+     "Bastogne War Museum (official)",
+     "https://www.bastognewarmuseum.be/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bastogne_War_Museum",
+    "https://en.wikipedia.org/wiki/Siege_of_Bastogne",
+    "https://www.tracesofwar.com/sights/132/Bastogne-War-Museum.htm",
+    "https://www.bastognewarmuseum.be/en/"
+   ],
+   "aar": {
+    "when": "19 DEC 1944",
+    "ev": "The 101st Airborne Division arrives to hold Bastogne, where seven main roads meet.",
+    "st": "Bastogne mattered because all seven main roads through the central Ardennes met there. The 101st Airborne arrived on 19 December 1944 and, with armour and stragglers, held the town after German forces cut the roads on 20–21 December. Today a long walk-through with audio guide shows weapons, uniforms and vehicles, three immersive shows, and a restored 11th Armored Division tank near the end.",
+    "q": {
+     "t": "Why was Bastogne so important to both sides in December 1944?",
+     "o": [
+      "It held the main US fuel depot",
+      "It was the headquarters of US First Army",
+      "All seven main roads in the area met there"
+     ],
+     "a": 2,
+     "x": "Bastogne was the road hub of the central Ardennes: all seven main roads converged on it, so the Germans needed it to keep their advance moving."
+    },
+    "rem": "Bastogne was fought over because of its roads: whoever held the town controlled movement across the central Ardennes."
+   },
+   "notes": "TracesOfWar and uswarmemorials.org give near-identical coordinates for the museum and Mardasson hill; the point is the museum building. Prices were not readable on the site in October 2026."
+  },
+  {
+   "id": "mardasson",
+   "name": "Mardasson Memorial, Bastogne",
+   "short": "Mardasson Memorial",
+   "town": "Bastogne",
+   "country": "Belgium",
+   "lat": 50.00933,
+   "lon": 5.73927,
+   "coord_src": "https://www.uswarmemorials.org/html/site_details.php?SiteID=185 ; corrected after GPS check: OSM: Battle of the Bulge Monument",
+   "conf": "DOC",
+   "cat": "Memorial",
+   "kind": "battle",
+   "pri": 1,
+   "when": "Dec 1944 – Jan 1945; inaugurated 16 Jul 1950",
+   "sort": "1944-12-26",
+   "min": 30,
+   "text": "The memorial stands on Mardasson hill, chosen partly because it lies on the divide between the Meuse and Rhine basins and looks over the ground held during the siege. Earth from the site was presented to President Truman on 4 July 1946. Designed by the Belgian architect Georges Dedoyard, the memorial was inaugurated on 16 July 1950 in the presence of Prince Baudouin and General Anthony McAuliffe. It is a five-pointed star 12 m high with 31 m sides, carrying the names of the then 48 US states and, on its pillars, the history of the battle and the main American units. In 2020 the Belgian state handed its management to the American Battle Monuments Commission.",
+   "look": "Climb the spiral stairs to the walkway on top for a panorama of the siege perimeter. Read the ten stone panels describing the battle and the Latin dedication from the Belgian people, then go down to the crypt with three altars and mosaics by Fernand Léger.",
+   "plan": "Open-air memorial beside the Bastogne War Museum, free, with shared parking. Run since 2020 by the American Battle Monuments Commission, which now calls it the Battle of the Bulge Monument. Crypt access may be limited; check before you go.",
+   "url": "https://www.liberationroute.com/pois/930",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Mardasson Memorial (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Mardasson_Memorial"
+    ],
+    [
+     "Mardasson Memorial (Liberation Route Europe)",
+     "https://www.liberationroute.com/pois/930"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mardasson_Memorial",
+    "https://en.wikipedia.org/wiki/Battle_of_the_Bulge_Monument",
+    "https://www.liberationroute.com/pois/930",
+    "https://www.landofmemory.eu/en/sites-historiques/le-mardasson/",
+    "https://www.uswarmemorials.org/html/site_details.php?SiteID=185"
+   ],
+   "aar": {
+    "when": "16 JUL 1950",
+    "ev": "Belgium dedicates a star-shaped memorial to the Americans who fought in the Battle of the Bulge.",
+    "st": "Designed by Georges Dedoyard, the Mardasson Memorial was inaugurated on 16 July 1950 with General McAuliffe present. The five-pointed star carries the names of the then 48 US states and, on its pillars, the history of the battle and the main American units. Today you can climb to the walkway for a view over the siege perimeter and visit the crypt with Fernand Léger's mosaics.",
+    "q": null,
+    "rem": "The star shape recalls the American Army emblem; the walkway on top shows the ground the defenders held around Bastogne."
+   },
+   "notes": "No source opened gave coordinates for the star itself: the uswarmemorials.org point is for 'Mardasson Hill' and is effectively at the museum (about 100–200 m from the memorial). Editor may wish to refine with ABMC data (abmc.gov could not be fetched). ABMC has renamed it the Battle of the Bulge Monument; consider showing both names."
+  },
+  {
+   "id": "barracks",
+   "name": "Bastogne Barracks (McAuliffe's HQ)",
+   "short": "Bastogne Barracks",
+   "town": "Bastogne",
+   "country": "Belgium",
+   "lat": 50.00973,
+   "lon": 5.71891,
+   "coord_src": "https://www.tracesofwar.com/sights/8359/Bastogne-Barracks-Headquarter-Gen-McAuliffe.htm ; corrected after GPS check: OSM: Bastogne Barracks museum",
+   "conf": "HIGH",
+   "cat": "Headquarters",
+   "kind": "battle",
+   "pri": 2,
+   "when": "19–26 Dec 1944",
+   "sort": "1944-12-22",
+   "min": 120,
+   "text": "In December 1944 the Heintz Barracks on the La Roche road housed the headquarters of the 101st Airborne Division. With its commander, Maxwell Taylor, away, the division was led by Brigadier General Anthony McAuliffe. On 22 December General Heinrich von Lüttwitz of XLVII Panzer Corps sent a written demand for surrender; McAuliffe's reply was 'NUTS!'. Bad weather prevented air resupply until 23 December, and Patton's Third Army reached the town from Assenois on 26 December. The barracks remained a Belgian Army site and since 2010 has been an interpretation centre, now run by the War Heritage Institute, with a workshop restoring armoured vehicles from the national collection.",
+   "look": "Visits take you to the 'Nuts' cellar, where McAuliffe's headquarters is reconstructed, then through renovated halls of Second World War vehicles and equipment. You may see restorers at work in the vehicle workshop and, on some days, engines being run.",
+   "plan": "Tuesday–Sunday 09:00–17:00; closed Mondays and 1 Jan, 1 May, 1 Nov, 25 Dec. Adults €12, ages 6–18 and students €9, card only; free from 13:00 on the first Wednesday of the month. Guided group tours must be booked three weeks ahead. Check the website before you go.",
+   "url": "https://bastognebarracks.be",
+   "private": false,
+   "solemn": false,
+   "disputed": "The barracks is spelled Heintz in most sources but Heinz in some veterans' material.",
+   "links": [
+    [
+     "Siege of Bastogne (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Siege_of_Bastogne"
+    ],
+    [
+     "Bastogne Barracks (official)",
+     "https://bastognebarracks.be"
+    ]
+   ],
+   "sources": [
+    "https://365.be/en/attractions/visit-commemorative-tourism-bastogne-bastogne-barracks-war-heritage-institute/",
+    "https://www.tracesofwar.com/sights/8359/Bastogne-Barracks-Headquarter-Gen-McAuliffe.htm",
+    "https://france.liberationroute.com/pois/385/bastogne-barracks",
+    "https://fr.wikipedia.org/wiki/Bastogne_Barracks",
+    "https://en.wikipedia.org/wiki/Siege_of_Bastogne",
+    "https://www.509thgeronimo.org/other/heinzbarracks/heinzbarracks.html"
+   ],
+   "aar": {
+    "when": "22 DEC 1944",
+    "ev": "McAuliffe answers a German demand to surrender Bastogne with one word: 'NUTS!'",
+    "st": "In December 1944 the Heintz Barracks housed the headquarters of the 101st Airborne, led by Brigadier General Anthony McAuliffe. On 22 December General von Lüttwitz sent a written demand for surrender, and McAuliffe replied 'NUTS!'. Patton's Third Army reached the town on 26 December. Today visits lead to the reconstructed 'Nuts' cellar and halls of restored vehicles, with restorers often at work in the workshop.",
+    "q": {
+     "t": "What did McAuliffe reply to the German surrender demand on 22 December?",
+     "o": [
+      "'NUTS!'",
+      "'Come and take it'",
+      "'We are not surrounded'"
+     ],
+     "a": 0,
+     "x": "McAuliffe's written reply to General von Lüttwitz was the single word 'NUTS!'. Patton's Third Army broke through to the town four days later."
+    },
+    "rem": "The 101st Airborne's headquarters was here, in an ordinary army barracks on the La Roche road."
+   },
+   "notes": "Address given as Rue de La Roche 40 (365.be, Liberation Route) and 26 (TracesOfWar). The 365.be listing showed a one-off closure on 19 Oct 2026. Older sources say free entry; current pricing is from 365.be (October 2026)."
+  },
+  {
+   "id": "bois-jacques",
+   "name": "Bois Jacques foxholes, Foy",
+   "short": "Bois Jacques",
+   "town": "Foy (Bastogne)",
+   "country": "Belgium",
+   "lat": 50.02890278,
+   "lon": 5.75670719,
+   "coord_src": "https://tracesofwar.com/sights/760/Memorial-101st-Airborne-Division.htm",
+   "conf": "MEDIUM",
+   "cat": "Battlefield",
+   "kind": "battle",
+   "pri": 2,
+   "when": "Dec 1944 – 13 Jan 1945",
+   "sort": "1945-01-13",
+   "min": 60,
+   "text": "During the siege, Easy Company, 2nd Battalion, 506th Parachute Infantry Regiment, 101st Airborne Division, held foxholes in the Bois Jacques as part of the Bastogne perimeter, facing German-held Foy. The men endured snow, shortages and German tree bursts that showered splinters and shrapnel into their holes. On 24 December about 45 Germans attacked the position and were beaten off, for one American casualty. On 13 January 1945 the company attacked out of the wood to retake Foy. Their story became widely known through Stephen E. Ambrose's book Band of Brothers and the television series. A memorial on the Bizory–Foy road honours the company and 14 of its men killed in the area.",
+   "look": "From the Easy Company memorial on the Bizory–Foy road, paths lead into the managed pine wood where the hollows of foxholes are still visible. Stay on the paths and leave anything you find. Look out across the open ground towards Foy, which the company attacked in January 1945.",
+   "plan": "Public woodland, free and open at all times; park near the memorial. The Bastogne War Museum's Bois Jacques Battlefield trail, with six geolocated 360° videos in an app, is included in a museum ticket. Wear boots outside summer.",
+   "url": "https://www.bastognewarmuseum.be/en/bois-jacques",
+   "private": false,
+   "solemn": false,
+   "disputed": "The memorial text says Easy Company dug in on 18 December, but the 101st Airborne only reached Bastogne on 19 December; the line was probably occupied a day or two later.",
+   "links": [
+    [
+     "Siege of Bastogne (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Siege_of_Bastogne"
+    ],
+    [
+     "Bois Jacques Battlefield (Bastogne War Museum)",
+     "https://www.bastognewarmuseum.be/en/bois-jacques"
+    ],
+    [
+     "Jack's Wood (Liberation Route Europe)",
+     "https://nrw.liberationroute.com/pois/386/jacks-wood"
+    ]
+   ],
+   "sources": [
+    "https://tracesofwar.com/sights/760/Memorial-101st-Airborne-Division.htm",
+    "https://nrw.liberationroute.com/pois/386/jacks-wood",
+    "https://www.band-of-brothers.nl/artikel/res_prt_foy_01.htm",
+    "https://www.bastognewarmuseum.be/en/bois-jacques"
+   ],
+   "aar": {
+    "when": "13 JAN 1945",
+    "ev": "Easy Company climbs out of its frozen foxholes and attacks Foy.",
+    "st": "Easy Company of the 506th Parachute Infantry held foxholes in the Bois Jacques through the siege, under snow and German tree bursts. On 24 December they beat off an attack by about 45 Germans, and on 13 January 1945 they attacked out of the wood to retake Foy. Today paths from the Easy Company memorial lead into the pine wood, where the hollows of foxholes are still visible.",
+    "q": {
+     "t": "What made German shelling in the Bois Jacques so dangerous?",
+     "o": [
+      "It used poison gas",
+      "Shells burst in the treetops and showered splinters into the foxholes",
+      "It came from railway guns at Antwerp"
+     ],
+     "a": 1,
+     "x": "Tree bursts exploded in the canopy and sprayed wood splinters and shrapnel down into the foxholes, so even dug-in men were exposed."
+    },
+    "rem": "These shallow hollows were home to the men of Band of Brothers for most of the siege of Bastogne."
+   },
+   "notes": "Coordinates are the Easy Company memorial on the Bizory–Foy road, beside the wood; the foxholes extend through the wood behind. TracesOfWar also lists a 'Memorial Battle of the Bulge' in the Bois Jacques at 50.044602, 5.749298. The woods are actively managed for timber."
+  },
+  {
+   "id": "la-gleize",
+   "name": "December 44 Historical Museum, La Gleize",
+   "short": "December 44 Museum",
+   "town": "La Gleize (Stoumont)",
+   "country": "Belgium",
+   "lat": 50.410059,
+   "lon": 5.84559,
+   "coord_src": "https://tracesofwar.com/sights/131/Historical-Museum-December-1944.htm",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 2,
+   "when": "19–24 Dec 1944",
+   "sort": "1944-12-24",
+   "min": 90,
+   "text": "Kampfgruppe Peiper, the armoured spearhead drawn from the 1st SS Panzer Division, drove west from 16 December 1944 towards the Meuse. Without supplies or contact with other German units, it was stopped in the Amblève valley. American attacks at Stoumont forced its remnants back to La Gleize, where they were almost trapped; on 21 December they captured Hal McCown, commander of 2nd Battalion, 119th Infantry. Short of fuel and with heavy losses, Joachim Peiper abandoned his vehicles on 24 December and led his remaining men out on foot, leaving wounded and prisoners behind. By his own account 717 men got back out of 3,000. The village museum, renovated in 2013, is devoted to these events.",
+   "look": "On the square stands Tiger II number 213, abandoned in December 1944, its broken gun barrel repaired in 1972. Inside the museum are 17 dioramas, vehicles and guns, Peiper's map case and many objects found around La Gleize. The church opposite was badly damaged in 1944 and rebuilt.",
+   "plan": "Private museum on the village square opposite the church. Opening is seasonal and could not be checked online (the site blocks automated reading); check december44.com before you go. The Tiger II outside can be seen at any time, free.",
+   "url": "https://www.december44.com",
+   "private": false,
+   "solemn": false,
+   "disputed": "Peiper's figure of 717 survivors out of 3,000 is his own testimony; the battle group's strength is variously given, up to 4,800 men. The Tiger is said to have been saved from scrapping by a local woman's gift of a bottle of cognac to the Americans, a local story rather than a documented fact.",
+   "links": [
+    [
+     "La Gleize (Wikipedia)",
+     "https://en.wikipedia.org/wiki/La_Gleize"
+    ],
+    [
+     "Joachim Peiper (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Joachim_Peiper"
+    ],
+    [
+     "December 44 Museum (official)",
+     "https://www.december44.com"
+    ]
+   ],
+   "sources": [
+    "https://tracesofwar.com/sights/131/Historical-Museum-December-1944.htm",
+    "https://tracesofwar.com/sights/197/Tiger-II-Tank-La-Gleize.htm",
+    "https://en.wikipedia.org/wiki/La_Gleize",
+    "https://en.wikipedia.org/wiki/Joachim_Peiper",
+    "https://en.wikipedia.org/wiki/Kampfgruppe_Peiper"
+   ],
+   "aar": {
+    "when": "24 DEC 1944",
+    "ev": "Trapped and out of fuel, Peiper's men abandon their tanks and slip away on foot.",
+    "st": "Kampfgruppe Peiper, the SS spearhead of the offensive, was stopped in the Amblève valley and forced back to La Gleize. Short of fuel and with heavy losses, Peiper abandoned his vehicles on 24 December and led his remaining men out on foot, leaving the wounded and American prisoners behind. Today Tiger II number 213 stands on the square, and the museum holds dioramas, vehicles and Peiper's map case.",
+    "q": {
+     "t": "How did Peiper's battle group leave La Gleize on 24 December?",
+     "o": [
+      "In its remaining tanks",
+      "By rail from Stoumont",
+      "On foot, abandoning its vehicles"
+     ],
+     "a": 2,
+     "x": "Out of fuel and nearly surrounded, Peiper abandoned his vehicles and led his remaining men out on foot, leaving wounded and American prisoners behind."
+    },
+    "rem": "The most powerful German spearhead of the offensive ended in this small village, its tanks left behind for lack of fuel."
+   },
+   "notes": "Tiger II on the square: TracesOfWar 50.410113, 5.846017. december44.com could not be read (robots block); opening days unverified."
+  },
+  {
+   "id": "baugnez",
+   "name": "Baugnez: Malmedy massacre memorial",
+   "short": "Baugnez memorial",
+   "town": "Baugnez (Malmedy)",
+   "country": "Belgium",
+   "lat": 50.403689,
+   "lon": 6.066738,
+   "coord_src": "https://tracesofwar.com/sights/310/Memorial-Prisoners-of-War-Baugnez.htm",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 2,
+   "when": "17 Dec 1944",
+   "sort": "1944-12-17",
+   "min": 30,
+   "text": "On 17 December 1944 the vanguard of Kampfgruppe Peiper met a convoy of Battery B, 285th Field Artillery Observation Battalion, at the Baugnez crossroads south-east of Malmedy. After a brief fight the Americans surrendered and were assembled in a field beside the road, where they were machine-gunned; many were then shot in the head. Eighty-four prisoners died. Some feigned death or ran, and 43 survivors reached American-held Malmedy, spreading word of the killings. At the Dachau trials in 1946, 73 men were convicted and 43 sentenced to death, Peiper among them. No death sentence was carried out, and Peiper was paroled in December 1956.",
+   "look": "A low stone wall at the junction carries a plaque explaining the events and stones naming the dead. The field where the prisoners were assembled and shot lies beside the road. Across the junction stands the building of the former Baugnez 44 museum.",
+   "plan": "Roadside memorial, free and accessible at all times; take care at the busy N62/N632 junction. The Baugnez 44 Historical Center opposite was reported closed in 2023 and its old web address now shows unrelated content, so do not plan on visiting it.",
+   "url": "https://tracesofwar.com/sights/310/Memorial-Prisoners-of-War-Baugnez.htm",
+   "private": false,
+   "solemn": true,
+   "disputed": "Wikipedia's Baugnez article speaks of 'more than 70' victims and 72 stones in the wall, while the memorial and most accounts give 84 dead. Who gave the order to fire was never established at the trial; witnesses named Werner Poetschke, while Peiper bears command responsibility.",
+   "links": [
+    [
+     "Malmedy massacre (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Malmedy_massacre"
+    ],
+    [
+     "Baugnez (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Baugnez"
+    ],
+    [
+     "Memorial Prisoners of War Baugnez (TracesOfWar)",
+     "https://tracesofwar.com/sights/310/Memorial-Prisoners-of-War-Baugnez.htm"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Malmedy_massacre",
+    "https://en.wikipedia.org/wiki/Baugnez",
+    "https://tracesofwar.com/sights/310/Memorial-Prisoners-of-War-Baugnez.htm",
+    "https://en.wikipedia.org/wiki/Joachim_Peiper",
+    "https://brf.be/regional/1695560",
+    "https://www.landofmemory.eu/en/?p=4422"
+   ],
+   "aar": {
+    "when": "17 DEC 1944",
+    "ev": "SS troops machine-gun captured American artillerymen in a field at the Baugnez crossroads.",
+    "st": "On 17 December 1944 the vanguard of Kampfgruppe Peiper overran a convoy of Battery B, 285th Field Artillery Observation Battalion, at this crossroads. The Americans surrendered, were assembled in a field and machine-gunned; 43 survivors reached Malmedy and spread the news. Today a low stone wall at the junction carries a plaque and stones naming the dead, beside the field where they were shot.",
+    "q": null,
+    "rem": "Word of the killings spread fast and hardened American attitudes towards the SS for the rest of the battle."
+   },
+   "notes": "Stop renamed: the Baugnez 44 Historical Center (Route de Luxembourg 10) closed (BRF report, 26 Feb 2023); Malmedy planned to buy part of the collection for a museum in the Malmundarium, status unconfirmed. baugnez44.be now hosts an unrelated online-casino page: do not link to it. Wikipedia gives the massacre site as 50.40389, 6.0661944, about 40 m from the memorial."
+  },
+  {
+   "id": "stvith",
+   "name": "St Vith",
+   "short": "St Vith",
+   "town": "Sankt Vith",
+   "country": "Belgium",
+   "lat": 50.272141,
+   "lon": 6.128386,
+   "coord_src": "https://tracesofwar.com/sights/660/Monument-106th-Infantry-Division.htm",
+   "conf": "AREA",
+   "cat": "Town",
+   "kind": "battle",
+   "pri": 3,
+   "when": "16–21 Dec 1944; retaken 23 Jan 1945",
+   "sort": "1944-12-21",
+   "min": 60,
+   "text": "St Vith, a German-speaking town transferred to Belgium in 1925, controlled a road junction the German plan expected to take by 18:00 on 17 December 1944. Instead Brigadier General Bruce Clarke's Combat Command B of the 7th Armored Division, with the 424th Infantry of the 106th Division, CCB of the 9th Armored Division and the 112th Infantry, held the approaches until 21 December, wrecking the German timetable. Meanwhile the 106th's 422nd and 423rd Infantry, cut off in the Schnee Eifel, surrendered on 19 December, about 7,000 men. American and RAF bombers destroyed the town on 25–26 December, and American forces retook it on 23 January 1945.",
+   "look": "Almost nothing pre-war survived except the Büchel Tower. Look for the 106th Infantry Division monument on Klosterstrasse, the 2nd Infantry Division memorial and the plaques in the park on Pulverstrasse. The Prümerberg, just east of the town, was the last defensive line.",
+   "plan": "A town stop; the memorials are outdoors and free. Combine with the 106th Division POW memorial at Schönberg and the 168th Engineer Combat Battalion memorial on the Prümerberg. Ask the local tourist office for walking routes.",
+   "url": "https://en.wikipedia.org/wiki/Sankt_Vith",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Battle of St. Vith (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Battle_of_St._Vith"
+    ],
+    [
+     "Sankt Vith (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Sankt_Vith"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_St._Vith",
+    "https://en.wikipedia.org/wiki/Sankt_Vith",
+    "https://tracesofwar.com/sights/660/Monument-106th-Infantry-Division.htm",
+    "https://www.paratrooper.be/2025/05/on-the-trail-of-the-106th-infantry-division-at-saint-vith/"
+   ],
+   "aar": {
+    "when": "21 DEC 1944",
+    "ev": "After five days' defence, American armour gives up St Vith and withdraws west.",
+    "st": "The German plan expected to take St Vith by the evening of 17 December 1944. Clarke's armour and the remnants of the 106th Division held the approaches until 21 December, wrecking the timetable, while two cut-off regiments surrendered in the Schnee Eifel. Today almost nothing pre-war survives except the Büchel Tower, but memorials to the 106th and 2nd Infantry Divisions stand in the town.",
+    "q": {
+     "t": "By when did the German plan expect to capture St Vith?",
+     "o": [
+      "18:00 on 17 December",
+      "Christmas Day",
+      "The morning of 16 December"
+     ],
+     "a": 0,
+     "x": "The Germans planned to take St Vith by 18:00 on 17 December. The Americans held it until 21 December, a serious blow to the German timetable."
+    },
+    "rem": "Holding a road junction for four extra days could matter as much as winning a battle."
+   },
+   "notes": "Coordinates are the 106th Infantry Division monument (Klosterstrasse) as a town reference point. The German-speaking Community; signage mainly in German."
+  },
+  {
+   "id": "houffalize",
+   "name": "Houffalize and its Panther tank",
+   "short": "Houffalize Panther",
+   "town": "Houffalize",
+   "country": "Belgium",
+   "lat": 50.128941,
+   "lon": 5.790701,
+   "coord_src": "https://tracesofwar.com/sights/140/Panther-Tank-Houffalize.htm",
+   "conf": "MEDIUM",
+   "cat": "Memorial",
+   "kind": "battle",
+   "pri": 3,
+   "when": "19 Dec 1944 – 16 Jan 1945",
+   "sort": "1945-01-16",
+   "min": 45,
+   "text": "Houffalize, on the Ourthe north of Bastogne, was taken by the 116th Panzer Division on 19 December 1944 and became a crossroads for German supply columns. On the night of 5–6 January 1945 about ninety RAF Lancasters flattened the town to block it. The Germans withdrew on 15 January, and on 16 January the US First Army, attacking from the north, and the Third Army from the south met at Houffalize, closing the Bulge. The Panther now on display, originally numbered 111, had fought in Normandy, the Netherlands and the Hürtgen Forest. It overturned into the Ourthe from a bridge, killing its five crew, was pulled out in 1948 and restored in 2023.",
+   "look": "The restored Panther Ausf. G stands on Square Saint-Pair by the Bastogne road, with about a dozen information panels and a small exhibition in a reconstructed period barracks. Walk to the Ourthe bridge on the road to La Roche, where the tank fell.",
+   "plan": "The tank and panels can be seen at any time, free. The small exhibition has limited opening; contact the Houffalize tourist office (+32 61 28 81 16) or check coeurdelardenne.be before you go.",
+   "url": "https://www.coeurdelardenne.be",
+   "private": false,
+   "solemn": false,
+   "disputed": "Accounts differ on how the Panther ended up in the river: a driver's error or the partial collapse of the bridge. One source says the crew's bodies were recovered in 1947, another that the tank was raised by Namur engineers on 20 September 1948.",
+   "links": [
+    [
+     "Houffalize (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Houffalize"
+    ],
+    [
+     "The Panther tank of Houffalize (Europe Remembers)",
+     "https://www.europeremembers.com/pois/2865/the-panther-tank-of-houffalize"
+    ],
+    [
+     "Cœur de l'Ardenne tourism (official)",
+     "https://www.coeurdelardenne.be"
+    ]
+   ],
+   "sources": [
+    "https://tracesofwar.com/sights/140/Panther-Tank-Houffalize.htm",
+    "https://www.europeremembers.com/pois/2865/the-panther-tank-of-houffalize",
+    "https://en.wikipedia.org/wiki/Houffalize"
+   ],
+   "aar": {
+    "when": "16 JAN 1945",
+    "ev": "American armies from north and south meet at Houffalize, closing the Bulge.",
+    "st": "Taken by the 116th Panzer Division on 19 December 1944, Houffalize was flattened by RAF Lancasters on the night of 5–6 January 1945. On 16 January the US First and Third Armies met here, closing the Bulge. Today a restored Panther, which overturned into the Ourthe from a bridge, stands on Square Saint-Pair with information panels and a small exhibition.",
+    "q": {
+     "t": "What happened at Houffalize on 16 January 1945?",
+     "o": [
+      "German paratroopers landed to hold the bridge",
+      "The US First and Third Armies met, closing the Bulge",
+      "The RAF bombed the town"
+     ],
+     "a": 1,
+     "x": "On 16 January 1945 the First Army from the north and the Third Army from the south linked up at Houffalize. The RAF raid came ten days earlier."
+    },
+    "rem": "Where the two American armies met, the Bulge was closed: Houffalize marks the end of the German salient."
+   },
+   "notes": "Coordinates are the tank on Square Saint-Pair (Rue de Bastogne); Europe Remembers gives the address as Place Roi Albert. The tank is not at the spot where it fell (the Ourthe bridge on Rue de la Roche)."
+  },
+  {
+   "id": "recogne",
+   "name": "Recogne German war cemetery",
+   "short": "Recogne cemetery",
+   "town": "Recogne (Bastogne)",
+   "country": "Belgium",
+   "lat": 50.04842,
+   "lon": 5.740871,
+   "coord_src": "https://tracesofwar.com/sights/205/German-War-Cemetery-Recogne.htm",
+   "conf": "DOC",
+   "cat": "Cemetery",
+   "kind": "battle",
+   "pri": 3,
+   "when": "Opened 4 Feb 1945",
+   "sort": "1945-02-04",
+   "min": 30,
+   "text": "The US Army opened a cemetery at Recogne, north of Bastogne, on 4 February 1945, burying about 2,700 Americans and over 3,000 Germans there. The American dead were later moved to Henri-Chapelle or repatriated, and the Belgian authorities concentrated German graves from field burials and local cemeteries here or at Lommel. Recogne now holds 6,807 German dead, most killed around Bastogne in the Battle of the Bulge, together with men who died in 1940 or during the occupation. The cemetery passed to the German War Graves Commission (Volksbund) in the 1950s and reopened to the public in 1960 after refurbishment.",
+   "look": "Beyond the entrance building, rows of low grey stone crosses stand on lawn among trees. Compare its subdued atmosphere with the white headstones and open lawns of the American cemeteries at Henri-Chapelle and Hamm.",
+   "plan": "Open-air cemetery, free to visit, just off the N30 about 4 km north of Bastogne. Opening arrangements could not be checked on the Volksbund website; check before you go.",
+   "url": "https://tracesofwar.com/sights/205/German-War-Cemetery-Recogne.htm",
+   "private": false,
+   "solemn": true,
+   "disputed": "Sources differ on when the American dead were moved: Wikipedia says 1945–46, TracesOfWar summer 1948.",
+   "links": [
+    [
+     "Recogne German war cemetery (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Recogne_German_war_cemetery"
+    ],
+    [
+     "German War Cemetery Recogne (TracesOfWar)",
+     "https://tracesofwar.com/sights/205/German-War-Cemetery-Recogne.htm"
+    ]
+   ],
+   "sources": [
+    "https://tracesofwar.com/sights/205/German-War-Cemetery-Recogne.htm",
+    "https://en.wikipedia.org/wiki/Recogne_German_war_cemetery"
+   ],
+   "aar": {
+    "when": "4 FEB 1945",
+    "ev": "The US Army opens a cemetery at Recogne, burying American and German dead side by side.",
+    "st": "The US Army opened a cemetery at Recogne on 4 February 1945, burying about 2,700 Americans and over 3,000 Germans. The Americans were later moved to Henri-Chapelle or repatriated, and German graves from across the region were brought here. Today 6,807 German dead lie in rows of low grey stone crosses on lawn among trees, in the care of the Volksbund.",
+    "q": null,
+    "rem": "Recogne began as a shared American and German burial ground before becoming a German war cemetery."
+   },
+   "notes": "The 'look' detail on stone crosses is from general knowledge of Volksbund cemeteries and was not confirmed on a source opened for this stop; the Volksbund page could not be fetched. Wikipedia gives 50.04833, 5.74083, matching TracesOfWar."
+  },
+  {
+   "id": "henri-chapelle",
+   "name": "Henri-Chapelle American Cemetery",
+   "short": "Henri-Chapelle",
+   "town": "Hombourg (Plombières)",
+   "country": "Belgium",
+   "lat": 50.696607,
+   "lon": 5.899079,
+   "coord_src": "https://tracesofwar.com/sights/141/American-War-Cemetery-Henri-Chapelle.htm",
+   "conf": "DOC",
+   "cat": "Cemetery",
+   "kind": "battle",
+   "pri": 3,
+   "when": "Opened 28 Sep 1944; dedicated 1960",
+   "sort": "1944-09-28",
+   "min": 60,
+   "text": "Troops of the US 1st Infantry Division liberated this area on 12 September 1944, and a temporary cemetery opened a few hundred metres to the north on 28 September. The permanent cemetery, dedicated in 1960, covers 57 acres on a ridge near Hombourg. It holds 7,992 American dead, 94 of them unknown, most killed in the Battle of the Bulge or the advance into Germany in 1944–45, together with airmen lost over the region. A colonnade lists 450 missing; bronze rosettes mark those since found and identified. In 1947 the first repatriation of American war dead to the United States began here.",
+   "look": "Headstones curve across a sloping lawn facing the memorial, with a road running through the site. The chapel and map room show carved granite maps of the American advance, the colonnade carries the names of the missing, and the Angel of Peace statue stands nearby.",
+   "plan": "Free. American Battle Monuments Commission cemeteries normally open daily 09:00–17:00, closed 25 December and 1 January; the ABMC website could not be checked, so confirm before you go. Staff at the visitor centre can help find a grave.",
+   "url": "https://www.liberationroute.com/pois/384/henri-chapelle-american-cemetery",
+   "private": false,
+   "solemn": true,
+   "disputed": "Burial totals differ slightly between sources (7,989 on TracesOfWar, 7,992 on Wikipedia and Liberation Route).",
+   "links": [
+    [
+     "Henri-Chapelle American Cemetery and Memorial (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Henri-Chapelle_American_Cemetery_and_Memorial"
+    ],
+    [
+     "Henri-Chapelle American Cemetery (Liberation Route Europe)",
+     "https://www.liberationroute.com/pois/384/henri-chapelle-american-cemetery"
+    ]
+   ],
+   "sources": [
+    "https://tracesofwar.com/sights/141/American-War-Cemetery-Henri-Chapelle.htm",
+    "https://en.wikipedia.org/wiki/Henri-Chapelle_American_Cemetery_and_Memorial",
+    "https://www.liberationroute.com/pois/384/henri-chapelle-american-cemetery"
+   ],
+   "aar": {
+    "when": "28 SEP 1944",
+    "ev": "A temporary US military cemetery opens on the ridge near Hombourg.",
+    "st": "A temporary cemetery opened here on 28 September 1944, soon after the 1st Infantry Division liberated the area. The permanent cemetery, dedicated in 1960, holds 7,992 American dead, most from the Battle of the Bulge and the advance into Germany, and lists 450 missing. Today headstones curve across a sloping lawn below a memorial with carved granite maps and the names of the missing.",
+    "q": null,
+    "rem": "A bronze rosette beside a name on the colonnade means that missing man has since been found and identified."
+   },
+   "notes": "abmc.gov returned errors to every fetch, so hours follow the standard ABMC pattern and were not confirmed for 2026. Wikipedia gives 50.697, 5.900 (3 decimals); TracesOfWar used for precision. Some sources place it in Henri-Chapelle (Welkenraedt) though it lies in Hombourg (Plombières)."
+  },
+  {
+   "id": "lux-cemetery",
+   "name": "Luxembourg American Cemetery, Hamm",
+   "short": "Lux. US Cemetery",
+   "town": "Hamm (Luxembourg City)",
+   "country": "Luxembourg",
+   "lat": 49.61167,
+   "lon": 6.18556,
+   "coord_src": "https://en.wikipedia.org/wiki/Luxembourg_American_Cemetery_and_Memorial",
+   "conf": "DOC",
+   "cat": "Cemetery",
+   "kind": "battle",
+   "pri": 2,
+   "when": "Opened 29 Dec 1944; dedicated 1960",
+   "sort": "1944-12-29",
+   "min": 60,
+   "text": "The 609th Quartermaster Company of the US Third Army opened a temporary cemetery here at Hamm on 29 December 1944, while the Battle of the Bulge was still being fought. Dedicated in 1960, the cemetery covers about 20 hectares and holds 5,076 American dead, most of whom died in Luxembourg between September 1944 and February 1945. Among them are 101 unknowns, 22 pairs of brothers, 118 Jewish soldiers under Star of David headstones and an army nurse. General George S. Patton, commander of the Third Army, who died in December 1945, is buried at the head of the graves between the two flagpoles.",
+   "look": "Pass the white stone chapel with its stained-glass window of five US command insignia and mosaic ceiling. Headstones fan out across the lawn; Patton's grave stands alone at the front between the flagpoles, facing his men.",
+   "plan": "Open daily 09:00–17:00, free, with a car park (Visit Luxembourg listing, October 2026). Run by the American Battle Monuments Commission; hours can change, so check before you go.",
+   "url": "https://www.visitluxembourg.com/de/attraktion/luxembourg-american-cemetery",
+   "private": false,
+   "solemn": true,
+   "disputed": "Burial totals vary slightly: Wikipedia gives 5,074 and Visit Luxembourg 5,076.",
+   "links": [
+    [
+     "Luxembourg American Cemetery and Memorial (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Luxembourg_American_Cemetery_and_Memorial"
+    ],
+    [
+     "Luxembourg American Cemetery (Visit Luxembourg)",
+     "https://www.visitluxembourg.com/de/attraktion/luxembourg-american-cemetery"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Luxembourg_American_Cemetery_and_Memorial",
+    "https://www.visitluxembourg.com/de/attraktion/luxembourg-american-cemetery"
+   ],
+   "aar": {
+    "when": "29 DEC 1944",
+    "ev": "Third Army quartermasters open a temporary cemetery at Hamm during the Battle of the Bulge.",
+    "st": "The 609th Quartermaster Company of the Third Army opened a temporary cemetery at Hamm on 29 December 1944. Dedicated in 1960, it holds 5,076 American dead, most killed in Luxembourg between September 1944 and February 1945, and General George S. Patton. Today you pass the white stone chapel and walk out to Patton's grave, alone at the head of the graves between the flagpoles.",
+    "q": null,
+    "rem": "General Patton lies at the head of his Third Army dead, between the flagpoles, not in a separate plot."
+   },
+   "notes": "abmc.gov could not be fetched. The cemetery address is 50 Val du Scheid, L-2517 Luxembourg."
+  },
+  {
+   "id": "diekirch",
+   "name": "National Museum of Military History, Diekirch",
+   "short": "MNHM Diekirch",
+   "town": "Diekirch",
+   "country": "Luxembourg",
+   "lat": 49.871023,
+   "lon": 6.159048,
+   "coord_src": "https://en.wikipedia.org/wiki/National_Museum_of_Military_History_(Luxembourg)",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 2,
+   "when": "Dec 1944 – Jan 1945; Sauer crossing 18 Jan 1945",
+   "sort": "1945-01-18",
+   "min": 120,
+   "text": "Diekirch, on the Sauer in north-eastern Luxembourg, lay on the southern flank of the Bulge. On the night of 18 January 1945 units of the US 5th Infantry Division crossed the river here as the Americans went over to the offensive. The museum grew out of the Diekirch Historical Museum, opened in 1984 in part of the former brewery, and now fills about 3,200 m² over four floors. Its life-size dioramas, centred on the night crossing of the Sauer, are surrounded by weapons, uniforms, photographs and more than 50 vehicles and guns from both sides. A second section covers the Luxembourg Army from 1815 to its UN missions.",
+   "look": "Start with the large diorama of the night-time Sauer crossing, then work through four floors of dioramas, vehicles and personal belongings from both sides. Look for the working Enigma cipher machine. The museum is in the old brewery buildings about 200 m from the town centre.",
+   "plan": "Check opening days and prices on mnhm.lu before you go; the site could not be read in October 2026. Multilingual group tours can be booked through reception@mnhm.lu or +352 808 908.",
+   "url": "https://www.mnhm.lu",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "National Museum of Military History (Wikipedia)",
+     "https://en.wikipedia.org/wiki/National_Museum_of_Military_History_(Luxembourg)"
+    ],
+    [
+     "MNHM Diekirch (Liberation Route Europe)",
+     "https://luxembourg.liberationroute.com/pois/1984/mnhm-national-museum-of-military-history-diekirch"
+    ],
+    [
+     "MNHM (official)",
+     "https://www.mnhm.lu"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/National_Museum_of_Military_History_(Luxembourg)",
+    "https://tracesofwar.com/sights/60/National-Museum-of-Military-History.htm",
+    "https://luxembourg.liberationroute.com/pois/1984/mnhm-national-museum-of-military-history-diekirch"
+   ],
+   "aar": {
+    "when": "18 JAN 1945",
+    "ev": "Under cover of darkness, the US 5th Infantry Division crosses the Sauer at Diekirch.",
+    "st": "Diekirch lay on the southern flank of the Bulge. On the night of 18 January 1945 units of the US 5th Infantry Division crossed the Sauer here as the Americans went over to the offensive. Today the museum, in the old brewery, fills four floors with life-size dioramas centred on the night crossing, more than 50 vehicles and guns, and a working Enigma machine.",
+    "q": {
+     "t": "Which US division crossed the Sauer at Diekirch on 18 January 1945?",
+     "o": [
+      "101st Airborne Division",
+      "7th Armored Division",
+      "5th Infantry Division"
+     ],
+     "a": 2,
+     "x": "Units of the US 5th Infantry Division made a night crossing of the Sauer at Diekirch on 18 January 1945; the museum's central diorama recreates it."
+    },
+    "rem": "The Bulge was fought in Luxembourg as well as Belgium, and Diekirch tells the story from both sides."
+   },
+   "notes": "TracesOfWar gives 49.870992, 6.159558 (Bamertal 10). Chronicle.lu says the museum was started by volunteers in 1982; Wikipedia and Liberation Route say 1984. Hours unverified: mnhm.lu blocks automated reading."
+  }
+ ]
+}

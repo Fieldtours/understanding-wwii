@@ -1,0 +1,1089 @@
+{
+ "region": "germany-east",
+ "story": "By early 1945 the war had come home to the cities where it was planned. Berlin held the machinery of the Nazi state: the Gestapo and SS headquarters, the army offices where the July 1944 plotters failed, and the lakeside villa where officials coordinated the murder of Europe's Jews. Around it lay the concentration camps of Sachsenhausen and Ravensbrück, with Buchenwald and Bergen-Belsen further west, whose liberation in April 1945 showed the world what the regime had done. Allied bombing reached Hamburg in July 1943 and Dresden in February 1945, and Peenemünde on the Baltic coast had produced the V-2 rocket. In April 1945 the Red Army broke through at the Seelow Heights and fought its way into Berlin; on 25 April American and Soviet troops met on the Elbe at Torgau. Hitler killed himself in his bunker on 30 April, the Reichstag fell on 2 May and the Wehrmacht's surrender was signed at Karlshorst on the night of 8–9 May. This region is where the war in Europe ended, and where its causes are best explained.",
+ "stops": [
+  {
+   "id": "reichstag",
+   "name": "Reichstag, Berlin",
+   "short": "Reichstag",
+   "town": "Berlin",
+   "country": "Germany",
+   "lat": 52.51861,
+   "lon": 13.37611,
+   "coord_src": "https://en.wikipedia.org/wiki/Reichstag_building",
+   "conf": "HIGH",
+   "cat": "Battlefield",
+   "kind": "battle",
+   "pri": 1,
+   "when": "28 Apr–2 May 1945",
+   "sort": "1945-04-30",
+   "min": 90,
+   "text": "Burnt out in the February 1933 fire and unused by the Nazi parliament, the Reichstag was still treated by the Red Army as the symbol of Berlin. Troops of the 3rd Shock Army stormed it from 30 April 1945 against a substantial German garrison, fighting room by room until the defenders gave up on 2 May. That day Yevgeny Khaldei photographed a soldier raising the Soviet flag on the roof, a picture that became the defining image of the war's end. Soviet soldiers covered the walls with graffiti. When Norman Foster rebuilt the building for the Bundestag in the 1990s, much of it was deliberately kept.",
+   "look": "Inside, preserved Soviet graffiti in Cyrillic and bullet scars survive on the walls, though most are seen only on guided tours. Visitors with a booking climb the glass dome and use the roof terrace. Outside, on the Tiergarten edge, slate plates remember the Reichstag deputies murdered by the Nazis.",
+   "plan": "Dome and roof terrace are free but need advance online registration with names and dates of birth; bring photo ID. The dome is closed for maintenance 19–30 October 2026 (terrace stays open). Check the website before you go.",
+   "url": "https://www.bundestag.de/en/visittheBundestag/dome",
+   "private": false,
+   "solemn": false,
+   "disputed": "Khaldei's 2 May photograph was staged the day after the building was taken and retouched before publication; accounts also differ over which soldiers first raised a flag on 30 April.",
+   "links": [
+    [
+     "Reichstag building (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Reichstag_building"
+    ],
+    [
+     "Raising a Flag over the Reichstag (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Raising_a_Flag_over_the_Reichstag"
+    ],
+    [
+     "Visiting the dome (official)",
+     "https://www.bundestag.de/en/visittheBundestag/dome"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Reichstag_building",
+    "https://www.bundestag.de/en/visittheBundestag/dome/registration-245686"
+   ],
+   "aar": {
+    "when": "2 MAY 1945",
+    "ev": "Soviet troops take the Reichstag after days of room-by-room fighting.",
+    "st": "The Red Army saw the burnt-out Reichstag as the symbol of Berlin and stormed it from 30 April 1945. The garrison fought room by room until 2 May, when Yevgeny Khaldei photographed the Soviet flag on the roof. Soldiers covered the walls with graffiti, much of it kept in the 1990s rebuild. Today you can climb the glass dome and see preserved Cyrillic graffiti and bullet scars on the walls.",
+    "q": {
+     "t": "What happened to the Soviet graffiti when the Reichstag was rebuilt in the 1990s?",
+     "o": [
+      "It was all painted over",
+      "Much of it was deliberately preserved",
+      "It was moved to a Moscow museum"
+     ],
+     "a": 1,
+     "x": "Norman Foster's rebuild for the Bundestag kept much of the graffiti and bullet damage as traces of history; only offensive inscriptions were removed in agreement with Russian diplomats."
+    },
+    "rem": "The Reichstag mattered to the Soviets as a symbol, not as a working seat of Nazi government."
+   },
+   "notes": "Dome closed 19–30 Oct 2026. Graffiti tours inside the building are by separate booking with the Bundestag visitors' service."
+  },
+  {
+   "id": "topography",
+   "name": "Topography of Terror, Berlin",
+   "short": "Topography of Terror",
+   "town": "Berlin",
+   "country": "Germany",
+   "lat": 52.506352,
+   "lon": 13.383884,
+   "coord_src": "https://tripomatic.com/en/places/Gry03BY52il6l7Sa",
+   "conf": "HIGH",
+   "cat": "Headquarters",
+   "kind": "historic",
+   "pri": 1,
+   "when": "1933–1945",
+   "sort": "1939-09-27",
+   "min": 90,
+   "text": "From 1933 the buildings on Prinz-Albrecht-Straße (now Niederkirchnerstraße) housed the Gestapo headquarters, with its notorious house prison at No. 8, and later the Reich Security Main Office (RSHA) formed in September 1939. Here Himmler's SS and police apparatus ran persecution across Germany and occupied Europe, directing the Einsatzgruppen that murdered Jews behind the Eastern Front. The buildings were wrecked by bombing and cleared after the war. The site lay forgotten beside the Berlin Wall until citizens' groups dug out the cellars in the 1980s. The present documentation centre opened in May 2010.",
+   "look": "A low grey pavilion holds the main exhibition on the SS and Gestapo. Outside, an open-air trench exhibition runs along excavated cellar walls of the Gestapo buildings, beneath the longest surviving stretch of the outer Berlin Wall on Niederkirchnerstraße.",
+   "plan": "Open daily 10:00–20:00; free admission. No booking needed for individuals. The official site could not be loaded in October 2026, so check the website before you go.",
+   "url": "https://www.topographie.de/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Topography of Terror (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Topography_of_Terror"
+    ],
+    [
+     "Topography of Terror (official)",
+     "https://www.topographie.de/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Topography_of_Terror",
+    "https://tripomatic.com/en/places/Gry03BY52il6l7Sa",
+    "https://www.liberationroute.com/it/pois/324"
+   ],
+   "aar": {
+    "when": "27 SEP 1939",
+    "ev": "The Reich Security Main Office is formed to run the SS and police terror.",
+    "st": "From 1933 this street housed the Gestapo headquarters and its house prison, and from September 1939 the Reich Security Main Office. From here Himmler's apparatus ran persecution across occupied Europe and directed the Einsatzgruppen. Bombed and cleared after the war, the site was rediscovered in the 1980s. Today an exhibition pavilion stands beside excavated Gestapo cellars and a long surviving stretch of the Berlin Wall.",
+    "q": null,
+    "rem": "The offices that organised terror across Europe stood here, in the heart of government Berlin."
+   },
+   "notes": "topographie.de failed to load during research; opening hours taken from a travel listing (tripomatic). Editor should confirm."
+  },
+  {
+   "id": "wannsee",
+   "name": "House of the Wannsee Conference",
+   "short": "Wannsee House",
+   "town": "Berlin-Wannsee",
+   "country": "Germany",
+   "lat": 52.43306,
+   "lon": 13.16556,
+   "coord_src": "https://en.wikipedia.org/wiki/Wannsee_Conference",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 1,
+   "when": "20 Jan 1942",
+   "sort": "1942-01-20",
+   "min": 90,
+   "text": "On 20 January 1942 Reinhard Heydrich, head of the Reich Security Main Office, met fifteen senior officials of ministries, the Nazi Party and the SS in this lakeside villa at Am Großen Wannsee 56–58. The meeting lasted about ninety minutes. The decision to murder Europe's Jews had already been taken; Heydrich's purpose was to secure the ministries' cooperation with deportations under SS control. Adolf Eichmann prepared the figures and the minutes, written in bureaucratic euphemism. Only one of thirty copies survived, found by US prosecutor Robert Kempner in Foreign Office files in 1947. The villa opened as a memorial and education centre on 20 January 1992.",
+   "look": "You walk through the rooms of the villa, including the dining room where the meeting is believed to have taken place. The exhibition explains the participants, the protocol and the course of the Holocaust. The garden runs down to the lake.",
+   "plan": "Exhibition and garden open daily 10:00–18:00; free. Closed 1–4 Jan, 8 Mar, Good Friday, 1 May, Ascension Day, 3 Oct and 24–31 Dec. Groups of 10+ must book. S-Bahn to Wannsee, then bus 114.",
+   "url": "https://www.ghwk.de/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Wannsee Conference (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Wannsee_Conference"
+    ],
+    [
+     "House of the Wannsee Conference (Wikipedia)",
+     "https://en.wikipedia.org/wiki/House_of_the_Wannsee_Conference"
+    ],
+    [
+     "House of the Wannsee Conference (official)",
+     "https://www.ghwk.de/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Wannsee_Conference",
+    "https://en.wikipedia.org/wiki/House_of_the_Wannsee_Conference",
+    "https://www.ghwk.de/en/your-visit"
+   ],
+   "aar": {
+    "when": "20 JAN 1942",
+    "ev": "Heydrich gathers senior officials to coordinate the deportation and murder of Europe's Jews.",
+    "st": "On 20 January 1942 Reinhard Heydrich met fifteen senior officials in this villa for about ninety minutes. The decision to murder Europe's Jews had already been taken; he wanted the ministries' cooperation. Eichmann wrote the minutes, and the only surviving copy was found in 1947. Today you walk through the villa's rooms, including the dining room where the meeting probably took place, with the garden running down to the lake.",
+    "q": null,
+    "rem": "Wannsee did not decide the Holocaust; it organised the bureaucracy that carried it out."
+   },
+   "notes": "Bus 114 from S-Bahn Wannsee; the transport detail is from general knowledge, not the official page."
+  },
+  {
+   "id": "holocaust-memorial",
+   "name": "Memorial to the Murdered Jews of Europe",
+   "short": "Holocaust Memorial",
+   "town": "Berlin",
+   "country": "Germany",
+   "lat": 52.51389,
+   "lon": 13.37861,
+   "coord_src": "https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe",
+   "conf": "DOC",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 2,
+   "when": "1941–1945 (opened 2005)",
+   "sort": "1942-01-20",
+   "min": 60,
+   "text": "Germany's central Holocaust memorial was designed by the American architect Peter Eisenman and dedicated on 10 May 2005, sixty years after the war ended. It covers a whole city block between the Brandenburg Gate and Potsdamer Platz, close to where Hitler's Chancellery stood. The field of 2,711 concrete stelae on undulating ground carries no names or symbols; Eisenman meant it to unsettle rather than explain. The explanation lies underneath, in the Information Centre, which tells the stories of individual families and holds the names of about three million Jewish victims obtained from Yad Vashem.",
+   "look": "Walk into the field: the ground dips and the stelae rise above head height, cutting off the city. The entrance to the underground Information Centre is at the south-east corner, with rooms on individual victims, families and the sites of murder across Europe.",
+   "plan": "Field of stelae open 24 hours, free. Information Centre Tue–Sun 10:00–18:00 (last entry 45 minutes before), free; closed Mondays and 24–26 Dec. Security checks can mean a queue.",
+   "url": "https://www.stiftung-denkmal.de/en/memorials/memorial-to-the-murdered-jews-of-europe/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Memorial to the Murdered Jews of Europe (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe"
+    ],
+    [
+     "Foundation Memorial (official)",
+     "https://www.stiftung-denkmal.de/en/memorials/memorial-to-the-murdered-jews-of-europe/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe",
+    "https://www.stiftung-denkmal.de/en/memorials/memorial-to-the-murdered-jews-of-europe/"
+   ],
+   "aar": {
+    "when": "10 MAY 2005",
+    "ev": "Germany dedicates its national memorial to the six million Jews murdered in Europe.",
+    "st": "Peter Eisenman's memorial was dedicated on 10 May 2005, close to where Hitler's Chancellery stood. Its 2,711 concrete stelae carry no names; the explanation lies underneath, in an Information Centre holding the names of about three million Jewish victims from Yad Vashem. Today you walk into a field of stelae that rise above your head, then go down to rooms on individual victims and families.",
+    "q": null,
+    "rem": "Go below ground: the Information Centre turns the abstract field into individual lives."
+   },
+   "notes": ""
+  },
+  {
+   "id": "bendlerblock",
+   "name": "German Resistance Memorial (Bendlerblock)",
+   "short": "Bendlerblock",
+   "town": "Berlin",
+   "country": "Germany",
+   "lat": 52.506944,
+   "lon": 13.361389,
+   "coord_src": "https://en.wikipedia.org/wiki/Bendlerblock",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 2,
+   "when": "20–21 Jul 1944",
+   "sort": "1944-07-20",
+   "min": 90,
+   "text": "The Bendlerblock housed the headquarters of the Replacement Army, where officers planned Operation Valkyrie. On 20 July 1944 Colonel Claus von Stauffenberg planted a bomb at Hitler's headquarters in East Prussia and flew back here to launch the coup. Hitler survived, and by evening loyal troops had regained control. General Friedrich Fromm had the leaders arrested; Stauffenberg, General Friedrich Olbricht, Colonel Albrecht Mertz von Quirnheim and Lieutenant Werner von Haeften were shot in the courtyard that night, and Ludwig Beck was allowed to shoot himself. The memorial centre documents the whole breadth of German resistance.",
+   "look": "In the courtyard a bronze figure of a bound young man and a plaque mark the place of the executions. Upstairs, in the rooms used by the plotters, the permanent exhibition covers resistance from churches, workers, students, Jews and the military.",
+   "plan": "Free. Mon–Fri 9:00–18:00, weekends and holidays 10:00–18:00. Entrance at Stauffenbergstraße 13–14; no booking needed for individuals. Special exhibition on Ravensbrück resistance runs until 4 April 2027.",
+   "url": "https://www.gdw-berlin.de/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Bendlerblock (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Bendlerblock"
+    ],
+    [
+     "20 July plot (Wikipedia)",
+     "https://en.wikipedia.org/wiki/20_July_plot"
+    ],
+    [
+     "German Resistance Memorial Center (official)",
+     "https://www.gdw-berlin.de/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bendlerblock",
+    "https://www.gdw-berlin.de/en/"
+   ],
+   "aar": {
+    "when": "20 JUL 1944",
+    "ev": "The plot to kill Hitler fails, and its leaders are shot in this courtyard at night.",
+    "st": "Officers here planned Operation Valkyrie. On 20 July 1944 Stauffenberg planted a bomb at Hitler's East Prussian headquarters and flew back to launch the coup, but Hitler survived. That night Stauffenberg, Olbricht, Mertz von Quirnheim and Haeften were shot in the courtyard. Today a bronze figure of a bound man marks the courtyard, and the plotters' rooms upstairs hold an exhibition on all forms of German resistance.",
+    "q": null,
+    "rem": "The exhibition covers all German resistance, not only the officers of 20 July."
+   },
+   "notes": "The Bendlerblock is also still a Defence Ministry building; only the memorial section is open to the public."
+  },
+  {
+   "id": "tiergarten",
+   "name": "Soviet War Memorial, Tiergarten",
+   "short": "Tiergarten Memorial",
+   "town": "Berlin",
+   "country": "Germany",
+   "lat": 52.51667,
+   "lon": 13.37222,
+   "coord_src": "https://en.wikipedia.org/wiki/Soviet_War_Memorial_(Tiergarten)",
+   "conf": "DOC",
+   "cat": "Memorial",
+   "kind": "battle",
+   "pri": 3,
+   "when": "Apr–May 1945 (unveiled 11 Nov 1945)",
+   "sort": "1945-11-11",
+   "min": 20,
+   "text": "Built within months of the fighting and unveiled on 11 November 1945, this was the first Soviet memorial in Berlin. Architect Mikhail Gorvits designed the curved colonnade, and Lev Kerbel and Vladimir Tsigal sculpted the bronze soldier on top. More than 2,000 of the Red Army soldiers killed in the Battle of Berlin are buried behind it. Two T-34 tanks and two ML-20 152mm guns, said to be among the first to enter the city, flank the approach. The memorial stood in the British sector, so throughout the Cold War Soviet guards marched into West Berlin to mount guard here under British protection.",
+   "look": "A curved colonnade of reddish stone topped by a soldier with a rifle slung, on Straße des 17. Juni a few hundred metres west of the Brandenburg Gate. Look for the tanks and guns on their plinths and the inscriptions in Russian.",
+   "plan": "Open-air and free; accessible at any time, with no booking needed. Easily combined on foot with the Reichstag and the Brandenburg Gate, a few minutes away.",
+   "url": "https://www.berlin.de/en/attractions-and-sights/3560533-3558930-soviet-war-memorial-tiergarten.en.html",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Soviet War Memorial, Tiergarten (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Soviet_War_Memorial_(Tiergarten)"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Soviet_War_Memorial_(Tiergarten)"
+   ],
+   "aar": {
+    "when": "11 NOV 1945",
+    "ev": "The Soviets unveil their first Berlin memorial over the graves of the city's attackers.",
+    "st": "Unveiled on 11 November 1945, this was the first Soviet memorial in Berlin, built within months of the fighting. More than 2,000 Red Army soldiers killed in the battle are buried behind it. It stood in the British sector, so Soviet guards mounted guard here throughout the Cold War. Today a curved colonnade topped by a bronze soldier stands near the Brandenburg Gate, flanked by T-34 tanks and heavy guns.",
+    "q": null,
+    "rem": "A Soviet war grave in what became West Berlin, guarded by Soviet troops all through the Cold War."
+   },
+   "notes": "Official URL is a berlin.de listing; not opened during research. No coordinates more precise than 5 decimals available."
+  },
+  {
+   "id": "treptow",
+   "name": "Soviet War Memorial, Treptower Park",
+   "short": "Treptower Park",
+   "town": "Berlin",
+   "country": "Germany",
+   "lat": 52.4875,
+   "lon": 13.46833,
+   "coord_src": "https://en.wikipedia.org/wiki/Soviet_War_Memorial_(Treptower_Park)",
+   "conf": "DOC",
+   "cat": "Cemetery",
+   "kind": "battle",
+   "pri": 2,
+   "when": "Apr–May 1945 (opened 8 May 1949)",
+   "sort": "1949-05-08",
+   "min": 45,
+   "text": "Opened on 8 May 1949, the fourth anniversary of the German surrender, Treptow is the largest Soviet war memorial outside the former USSR. It commemorates 7,000 of the roughly 80,000 Red Army soldiers killed in the Battle of Berlin; some 5,000 are buried in the central lawns. Architect Yakov Belopolsky laid out the park, and sculptor Yevgeny Vuchetich made the 12-metre bronze of a Soviet soldier holding a German child and a sword, standing on a broken swastika. Sixteen stone sarcophagi, one for each Soviet republic, carry reliefs and quotations from Stalin in Russian and German.",
+   "look": "Enter through a granite gateway past the kneeling soldiers, walk down the long axis between the sixteen sarcophagi and the grave lawns, and climb the mound to the soldier statue. Inside its base is a mosaic hall.",
+   "plan": "Open-air park memorial, free and open at all times, with no booking needed. Take the S-Bahn to Treptower Park station, then walk about ten minutes through the park.",
+   "url": "https://www.berlin.de/en/attractions-and-sights/3560707-3558930-soviet-memorial-treptower-park.en.html",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Soviet War Memorial, Treptower Park (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Soviet_War_Memorial_(Treptower_Park)"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Soviet_War_Memorial_(Treptower_Park)"
+   ],
+   "aar": {
+    "when": "8 MAY 1949",
+    "ev": "The Soviet Union opens its largest memorial in Germany over 5,000 of its soldiers' graves.",
+    "st": "Opened on 8 May 1949, Treptow is the largest Soviet war memorial outside the former USSR. Some 5,000 Red Army soldiers of the Battle of Berlin lie in its central lawns. Vuchetich's 12-metre bronze shows a soldier holding a German child and standing on a broken swastika. Today you walk past sixteen carved sarcophagi to the statue on its mound, with a mosaic hall in its base.",
+    "q": null,
+    "rem": "This is a cemetery as well as a monument: some 5,000 Soviet soldiers lie under the lawns."
+   },
+   "notes": "The treaty protection of the Soviet memorials (1990 German–Soviet agreements) is general knowledge, not from an opened source; editor may wish to cut that remark. Official URL is a berlin.de listing not opened during research."
+  },
+  {
+   "id": "karlshorst",
+   "name": "Museum Berlin-Karlshorst",
+   "short": "Karlshorst Museum",
+   "town": "Berlin-Karlshorst",
+   "country": "Germany",
+   "lat": 52.486111,
+   "lon": 13.539722,
+   "coord_src": "https://de.wikipedia.org/wiki/Museum_Berlin-Karlshorst",
+   "conf": "HIGH",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 1,
+   "when": "8–9 May 1945",
+   "sort": "1945-05-08",
+   "min": 90,
+   "text": "Shortly before midnight on 8 May 1945, in the officers' mess of a former Wehrmacht engineer school in Karlshorst, Field Marshal Wilhelm Keitel, Admiral Hans-Georg von Friedeburg and General Hans-Jürgen Stumpff signed Germany's unconditional surrender for the army, navy and Luftwaffe. Marshal Georgy Zhukov signed for the Soviet high command and Air Chief Marshal Arthur Tedder for Eisenhower's SHAEF, with General de Lattre de Tassigny and General Carl Spaatz as witnesses. It ratified the surrender signed at Reims the day before. The building became Zhukov's headquarters, then a Soviet museum; it reopened in 1995 and dropped 'German-Russian' from its name in 2022.",
+   "look": "The signing hall is kept as it was in 1945, with the flags of the four powers behind the table. The upper floor covers the German–Soviet war from both sides. Outside stand Soviet guns, a T-34 and an SU-100 tank destroyer.",
+   "plan": "Tue–Sun 10:00–18:00, closed Mondays; admission free. No booking needed for individual visitors. Take the S-Bahn to Karlshorst, then walk about 15 minutes.",
+   "url": "https://www.museum-karlshorst.de/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Because the Karlshorst signing took effect just after midnight Moscow time, Russia marks Victory Day on 9 May while the West marks 8 May.",
+   "links": [
+    [
+     "Museum Berlin-Karlshorst (Wikipedia)",
+     "https://en.wikipedia.org/wiki/German-Russian_Museum_Berlin-Karlshorst"
+    ],
+    [
+     "German Instrument of Surrender (Wikipedia)",
+     "https://en.wikipedia.org/wiki/German_Instrument_of_Surrender"
+    ],
+    [
+     "Museum Berlin-Karlshorst (official)",
+     "https://www.museum-karlshorst.de/en/"
+    ]
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/Museum_Berlin-Karlshorst",
+    "https://en.wikipedia.org/wiki/German-Russian_Museum_Berlin-Karlshorst",
+    "https://www.museum-karlshorst.de/en/",
+    "https://v3.tracesofwar.com/sights/item.php?id=3572"
+   ],
+   "aar": {
+    "when": "8 MAY 1945",
+    "ev": "Keitel signs Germany's unconditional surrender before Zhukov and Tedder in an officers' mess.",
+    "st": "Shortly before midnight on 8 May 1945, Keitel, Friedeburg and Stumpff signed Germany's unconditional surrender in this officers' mess, before Marshal Zhukov and Air Chief Marshal Tedder. It ratified the surrender signed at Reims the day before. The building later became a Soviet museum. Today the signing hall is kept as it was in 1945, with the four powers' flags behind the table, and Soviet armour stands outside.",
+    "q": {
+     "t": "Why was a second surrender signed at Karlshorst on 8 May 1945?",
+     "o": [
+      "To ratify the surrender signed at Reims the day before",
+      "Because the Reims document was lost",
+      "Because Dönitz refused to recognise Reims"
+     ],
+     "a": 0,
+     "x": "Jodl had signed at Reims on 7 May. The Karlshorst ceremony, with Keitel signing before Zhukov and Tedder, ratified it with the Soviet high command present."
+    },
+    "rem": "The war in Europe formally ended here, in a room you can still stand in."
+   },
+   "notes": "Transport times from general knowledge."
+  },
+  {
+   "id": "fuhrerbunker",
+   "name": "Site of the Führerbunker",
+   "short": "Führerbunker site",
+   "town": "Berlin",
+   "country": "Germany",
+   "lat": 52.512472,
+   "lon": 13.381083,
+   "coord_src": "https://de.wikipedia.org/wiki/Führerbunker",
+   "conf": "HIGH",
+   "cat": "Bunker",
+   "kind": "battle",
+   "pri": 4,
+   "when": "16 Jan–2 May 1945",
+   "sort": "1945-04-30",
+   "min": 20,
+   "text": "Hitler moved into the bunker beneath the Reich Chancellery garden in January 1945 and directed the last months of the war from there. The main bunker's floor lay 8.5 metres underground. On 29 April he married Eva Braun, and on 30 April 1945 both killed themselves in his study; their bodies were burned in the garden above. Soviet troops reached the bunker on 2 May. The Soviets and later the East German authorities demolished the Chancellery and most of the bunker, and flats and a car park were built over the site in the late 1980s. Nothing of it is visible.",
+   "look": "A car park and blocks of flats at the corner of Gertrud-Kolmar-Straße and In den Ministergärten. An information board put up by Berliner Unterwelten in 2006 explains the bunker's layout and fate. It is two minutes from the Holocaust memorial.",
+   "plan": "Public street, free and open at all times; there is nothing to book. Combine it on foot with the Holocaust memorial and the Topography of Terror.",
+   "url": "https://www.berliner-unterwelten.de/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Führerbunker (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Führerbunker"
+    ],
+    [
+     "Führerbunker (German Wikipedia)",
+     "https://de.wikipedia.org/wiki/Führerbunker"
+    ]
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/Führerbunker",
+    "https://en.wikipedia.org/wiki/Reichstag_building"
+   ],
+   "aar": {
+    "when": "30 APR 1945",
+    "ev": "Hitler and Eva Braun kill themselves in the bunker beneath the Chancellery garden.",
+    "st": "Hitler directed the last months of the war from this bunker, 8.5 metres underground. On 30 April 1945 he and Eva Braun killed themselves in his study, and their bodies were burned in the garden above. The Chancellery and most of the bunker were later demolished and built over. Today a car park and flats cover the site, with a 2006 information board explaining what lay below.",
+    "q": {
+     "t": "What marks the site of the Führerbunker today?",
+     "o": [
+      "A preserved entrance and museum",
+      "A Soviet victory monument",
+      "An information board beside a car park"
+     ],
+     "a": 2,
+     "x": "The bunker was demolished and built over. The association Berliner Unterwelten put up an information board in 2006, partly to stop the site becoming a shrine."
+    },
+    "rem": "Nothing survives above ground, deliberately; the board is there to inform, not to commemorate."
+   },
+   "notes": "Coordinates from German Wikipedia DMS (52°30′44.9″N 13°22′51.9″E) converted to decimal. Berliner Unterwelten URL not opened during research."
+  },
+  {
+   "id": "seelow",
+   "name": "Seelow Heights Memorial",
+   "short": "Seelow Heights",
+   "town": "Seelow",
+   "country": "Germany",
+   "lat": 52.534896,
+   "lon": 14.395727,
+   "coord_src": "https://de.wikipedia.org/wiki/Gedenkstätte_Seelower_Höhen",
+   "conf": "DOC",
+   "cat": "Battlefield",
+   "kind": "battle",
+   "pri": 1,
+   "when": "16–19 Apr 1945",
+   "sort": "1945-04-16",
+   "min": 90,
+   "text": "The Seelow Heights rise above the flat Oderbruch about 70 km east of Berlin. Early on 16 April 1945 Marshal Zhukov's 1st Belorussian Front, close to a million men including the Polish 1st Army, attacked from its Oder bridgehead. Gotthard Heinrici had pulled General Theodor Busse's 9th Army back onto the heights, so the huge bombardment fell largely on empty ground, and searchlights meant to blind the defenders were defeated by dust and smoke. Zhukov fed his tank armies into the marshy valley and needed four days to break through. By 19 April the road to Berlin was open.",
+   "look": "On the crest stands the Soviet soldier statue by Lev Kerbel and Vladimir Tsigal, unveiled in November 1945, above graves of Soviet soldiers. The museum below, reworked in 2012, overlooks the Oderbruch. Soviet guns and vehicles stand outside. The view east explains the battle.",
+   "plan": "Tue–Sun 10:00–17:00; November–March 10:00–16:00; closed Mondays and over Christmas and New Year. Small admission charge for the museum; grounds free. Check the website before you go.",
+   "url": "https://www.gedenkstaette-seelower-hoehen.de/",
+   "private": false,
+   "solemn": true,
+   "disputed": "Soviet losses are disputed: Hastings and Beevor put Soviet dead at 30,000–33,000, while Russian historian Aleksey Isaev, using archives, gives 5,000–6,000 killed and missing.",
+   "links": [
+    [
+     "Battle of the Seelow Heights (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Battle_of_the_Seelow_Heights"
+    ],
+    [
+     "Gedenkstätte Seelower Höhen (German Wikipedia)",
+     "https://de.wikipedia.org/wiki/Gedenkstätte_Seelower_Höhen"
+    ],
+    [
+     "Seelow Heights Memorial (official)",
+     "https://www.gedenkstaette-seelower-hoehen.de/"
+    ]
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/Gedenkstätte_Seelower_Höhen",
+    "https://en.wikipedia.org/wiki/Battle_of_the_Seelow_Heights",
+    "https://www.bpb.de/themen/holocaust/erinnerungsorte/503115/gedenkstaette-seelower-hoehen/"
+   ],
+   "aar": {
+    "when": "16 APR 1945",
+    "ev": "Zhukov's armies storm the heights guarding the last approach to Berlin.",
+    "st": "On 16 April 1945 Zhukov's 1st Belorussian Front attacked the Seelow Heights from the Oder. Heinrici had pulled the 9th Army back onto the heights, so the bombardment fell largely on empty ground, and dust defeated the searchlights. It took four days to break through. Today a Soviet soldier statue stands above soldiers' graves on the crest, with a museum overlooking the Oderbruch.",
+    "q": null,
+    "rem": "Stand on the crest and look east: the open valley below explains the Soviet losses."
+   },
+   "notes": "Official site blocks automated reading; hours from bpb.de, which may lag. Admission price not verified. More than 7,000 Soviet soldiers are buried on the site according to German Wikipedia."
+  },
+  {
+   "id": "sachsenhausen",
+   "name": "Sachsenhausen Memorial and Museum",
+   "short": "Sachsenhausen",
+   "town": "Oranienburg",
+   "country": "Germany",
+   "lat": 52.76583,
+   "lon": 13.26417,
+   "coord_src": "https://en.wikipedia.org/wiki/Sachsenhausen_concentration_camp",
+   "conf": "DOC",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 1,
+   "when": "Jul 1936–22 Apr 1945",
+   "sort": "1945-04-22",
+   "min": 180,
+   "text": "Built in July 1936 just north of Berlin, Sachsenhausen was laid out as a model camp, a triangle overseen from a single gatehouse, and it trained SS camp staff. More than 200,000 people passed through, including Soviet prisoners of war murdered in large numbers in 1941. Station Z, with its crematoria and later a gas chamber, was built outside the wall in 1942, and prisoners forged British and American banknotes for Operation Bernhard. In April 1945 the SS drove most prisoners out on a death march; Soviet and Polish troops freed about 3,400 left behind on 22 April. The NKVD then used the camp as Special Camp No. 7 until 1950.",
+   "look": "Enter through Tower A, with its 'Arbeit macht frei' gate, onto the semicircular roll-call ground. See the reconstructed barracks, the cell block, the foundations of Station Z and the 1961 East German obelisk. Exhibitions cover the camp, the Soviet special camp and the memorial.",
+   "plan": "Grounds and exhibitions 8:30–18:00 (31 Mar–26 Oct), 8:30–16:30 (27 Oct–30 Mar). Free; audio guide €3.50. S1 to Oranienburg then 20 minutes' walk. Allow half a day.",
+   "url": "https://www.sachsenhausen-sbg.de/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "The death toll is uncertain because records were destroyed: historians estimate at least 30,000, while commandant Anton Kaindl acknowledged 42,000 deaths during his time.",
+   "links": [
+    [
+     "Sachsenhausen concentration camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Sachsenhausen_concentration_camp"
+    ],
+    [
+     "Sachsenhausen Memorial (official)",
+     "https://www.sachsenhausen-sbg.de/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sachsenhausen_concentration_camp",
+    "https://www.sachsenhausen-sbg.de/en/visitor-service/opening-times-prices-and-travel-information/"
+   ],
+   "aar": {
+    "when": "22 APR 1945",
+    "ev": "Soviet and Polish troops free the prisoners the SS left behind.",
+    "st": "Built in 1936 as a model camp near Berlin, Sachsenhausen held more than 200,000 people and trained SS camp staff. Station Z, with crematoria and later a gas chamber, stood outside the wall. In April 1945 the SS forced most prisoners onto a death march; about 3,400 left behind were freed on 22 April. Today you enter through Tower A onto the roll-call ground and see barracks, cell block and Station Z.",
+    "q": null,
+    "rem": "The camp was a model and training school for the whole SS camp system."
+   },
+   "notes": "Tour buses can no longer park at Schäferweg from 22 Sep 2026; private cars unaffected."
+  },
+  {
+   "id": "bergen-belsen",
+   "name": "Bergen-Belsen Memorial",
+   "short": "Bergen-Belsen",
+   "town": "Lohheide (near Bergen)",
+   "country": "Germany",
+   "lat": 52.75944,
+   "lon": 9.91168,
+   "coord_src": "https://en.wikipedia.org/wiki/Bergen-Belsen_concentration_camp ; corrected after GPS check: OSM: Gedenkstätte Bergen-Belsen documentation centre",
+   "conf": "DOC",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 1,
+   "when": "1940–15 Apr 1945",
+   "sort": "1945-04-15",
+   "min": 180,
+   "text": "Bergen-Belsen began in 1940 as a Wehrmacht camp for prisoners of war; almost 20,000 Soviet prisoners died there. From 1943 the SS used part of it as an exchange camp for Jews, but in the last months it became a dumping ground for prisoners evacuated from other camps. Typhus spread through the overcrowded huts; Anne and Margot Frank died there in February or March 1945. On 15 April 1945 British troops, including 11th Armoured Division, found about 60,000 prisoners and more than 13,000 unburied bodies. Around 14,000 more died after liberation. The British burned the huts, and BBC reporter Richard Dimbleby's broadcast shocked Britain.",
+   "look": "Nothing of the camp stands. A documentation centre opened in 2007 leads onto open heath with grassed mass graves marked by stones giving numbers buried, an obelisk and inscription wall, the Jewish monument and memorial stones, including one for Anne and Margot Frank.",
+   "plan": "Daily 10:00–18:00 April–September and 10:00–17:00 October–March; grounds open daily. Free. No dogs or bicycles on the grounds; large bags go in lockers. Car is easiest.",
+   "url": "https://www.bergen-belsen.de/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Bergen-Belsen concentration camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Bergen-Belsen_concentration_camp"
+    ],
+    [
+     "Bergen-Belsen Memorial (official)",
+     "https://www.bergen-belsen.de/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bergen-Belsen_concentration_camp",
+    "https://www.bergen-belsen.de/"
+   ],
+   "aar": {
+    "when": "15 APR 1945",
+    "ev": "British troops enter the camp and find thousands of dead and dying prisoners.",
+    "st": "Bergen-Belsen began as a prisoner-of-war camp, became an SS exchange camp in 1943 and in 1945 a dumping ground for evacuated prisoners. Anne and Margot Frank died of typhus there. On 15 April 1945 British troops found about 60,000 prisoners and more than 13,000 unburied bodies. Today a documentation centre leads onto open heath with grassed mass graves, monuments and a stone for the Frank sisters.",
+    "q": null,
+    "rem": "The camp's horror was largely the result of its final months, when it became a dumping ground."
+   },
+   "notes": "Documentation centre closes during Lower Saxony's Christmas school holidays. The memorial's Soviet POW cemetery is a separate site nearby."
+  },
+  {
+   "id": "buchenwald",
+   "name": "Buchenwald Memorial, near Weimar",
+   "short": "Buchenwald",
+   "town": "Weimar",
+   "country": "Germany",
+   "lat": 51.022778,
+   "lon": 11.249167,
+   "coord_src": "https://de.wikipedia.org/wiki/Speziallager_Nr._2_Buchenwald",
+   "conf": "DOC",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 1,
+   "when": "Jul 1937–11 Apr 1945",
+   "sort": "1945-04-11",
+   "min": 180,
+   "text": "The SS opened Buchenwald on the Ettersberg above Weimar in July 1937. About 280,000 prisoners passed through it and its subcamps, and 56,545 died. When US troops of the 6th Armored Division arrived on 11 April 1945, prisoners had already taken control from the remaining guards; the gate clock is kept at 3.15 pm, the hour of liberation. General Patton ordered Weimar's mayor to bring about 1,000 citizens to see the camp on 16 April. From 1945 to 1950 the Soviets used it as Special Camp No. 2, where about 7,000 died. The East German memorial of 1958 told a story of communist resistance.",
+   "look": "Pass through the gatehouse with its inscription 'Jedem das Seine', readable from inside. The barracks are gone, marked by foundations; the crematorium and storehouse exhibitions remain. Below the hill stands the 1958 GDR bell tower, with the mass graves of 1945.",
+   "plan": "Exhibitions Tue–Sun 10:00–18:00 April–October, 10:00–16:00 November–March; closed Mondays; grounds open daily until dusk. Free. Bus 6 from Weimar. Check the website before you go.",
+   "url": "https://www.buchenwald.de/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "The memorial gives 56,545 deaths, but the Soviet special camp death toll is variously given as 7,113 or 7,127, and the GDR's heroic account of communist self-liberation has been revised since 1990.",
+   "links": [
+    [
+     "Buchenwald concentration camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Buchenwald_concentration_camp"
+    ],
+    [
+     "Buchenwald Memorial (official)",
+     "https://www.buchenwald.de/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Buchenwald_concentration_camp",
+    "https://de.wikipedia.org/wiki/KZ_Buchenwald",
+    "https://de.wikipedia.org/wiki/Speziallager_Nr._2_Buchenwald",
+    "https://www.bpb.de/themen/holocaust/erinnerungsorte/502990/gedenkstaette-buchenwald/"
+   ],
+   "aar": {
+    "when": "11 APR 1945",
+    "ev": "US tanks reach Buchenwald, where prisoners have already taken over the camp.",
+    "st": "The SS opened Buchenwald above Weimar in 1937; about 280,000 prisoners passed through. When the US 6th Armored Division arrived on 11 April 1945, prisoners had already taken control, and the gate clock still shows 3.15 pm. Patton made Weimar's citizens see the camp. Today you pass through the gate inscribed 'Jedem das Seine' to barrack foundations, the crematorium and exhibitions.",
+    "q": null,
+    "rem": "Goethe's Weimar and Buchenwald lie a few kilometres apart; that closeness is the lesson."
+   },
+   "notes": "Official site returned only outdated 2024 pages; hours from bpb.de. Coordinates taken from the German Wikipedia page for Soviet Special Camp No. 2, which occupied the same camp grounds."
+  },
+  {
+   "id": "colditz",
+   "name": "Colditz Castle",
+   "short": "Colditz Castle",
+   "town": "Colditz",
+   "country": "Germany",
+   "lat": 51.131111,
+   "lon": 12.8075,
+   "coord_src": "https://en.wikipedia.org/wiki/Colditz_Castle",
+   "conf": "HIGH",
+   "cat": "Fortification",
+   "kind": "historic",
+   "pri": 2,
+   "when": "1940–16 Apr 1945",
+   "sort": "1945-04-16",
+   "min": 120,
+   "text": "Perched above the Mulde, Colditz Castle became Oflag IV-C, a prisoner-of-war camp for Allied officers the Germans classed as escape or security risks. Concentrating persistent escapers in one place produced the opposite of what was intended: tunnels, forged papers, home-made uniforms and one of the best escape records of any camp. In the winter of 1944–45 prisoners built a two-man glider, the Colditz Cock, in a hidden attic workshop, but it never flew. In the last days Himmler ordered prominent prisoners moved away. US troops took the castle on 16 April 1945 after a two-day fight in the town.",
+   "look": "Tour the inner courtyard where prisoners exercised, the chapel with the excavated tunnel under its floor, and the museum of escape devices. Guided tours show the routes of famous escapes; a replica of the Colditz Cock has been displayed.",
+   "plan": "Museum Mon–Fri 10:00–17:00, Sat–Sun 10:00–18:00; €12 (reduced €10). English 'Legendary Escapes' tours run on set dates; book ahead. Check the website before you go.",
+   "url": "https://www.schloss-colditz.de/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Popular accounts of the number of 'home runs' from Colditz vary, often around 30 or more, depending on whether escapes from hospitals or during transfers are counted.",
+   "links": [
+    [
+     "Colditz Castle (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Colditz_Castle"
+    ],
+    [
+     "Oflag IV-C (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Oflag_IV-C"
+    ],
+    [
+     "Colditz Castle (official)",
+     "https://www.schloss-colditz.de/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Colditz_Castle",
+    "https://www.schloss-colditz.de/en/"
+   ],
+   "aar": {
+    "when": "16 APR 1945",
+    "ev": "US troops reach Colditz Castle and free the Allied officers held there.",
+    "st": "Colditz Castle became Oflag IV-C, a camp for Allied officers judged escape risks. Gathering persistent escapers together produced one of the best escape records of any camp. Prisoners even built a glider, the Colditz Cock, in a hidden attic, but it never flew. Today you tour the courtyard, the chapel with its excavated tunnel and a museum of escape devices.",
+    "q": {
+     "t": "What happened to the Colditz Cock glider built by the prisoners?",
+     "o": [
+      "It carried two officers to Switzerland",
+      "It never flew because the camp was liberated first",
+      "The guards found and destroyed it"
+     ],
+     "a": 1,
+     "x": "Prisoners built the two-man glider in a hidden attic workshop in winter 1944–45, but US troops reached Colditz on 16 April 1945 before it could be launched."
+    },
+    "rem": "Putting all the escapers in one castle created an escape academy."
+   },
+   "notes": "The official page showed an inconsistent Monday notice; confirm days before visiting. 'Replica displayed' should be confirmed by the editor."
+  },
+  {
+   "id": "torgau",
+   "name": "Torgau: the Elbe Day meeting",
+   "short": "Torgau Elbe Day",
+   "town": "Torgau",
+   "country": "Germany",
+   "lat": 51.560048,
+   "lon": 13.009391,
+   "coord_src": "https://www.komoot.com/highlight/4201918",
+   "conf": "MEDIUM",
+   "cat": "Bridge",
+   "kind": "battle",
+   "pri": 3,
+   "when": "25 Apr 1945",
+   "sort": "1945-04-25",
+   "min": 45,
+   "text": "On 25 April 1945 the US 69th Infantry Division and the Soviet 58th Guards Rifle Division met on the Elbe, cutting Germany in two. The first contact was made that morning near Strehla, some 30 km upstream, by Lieutenant Albert Kotzebue's patrol. At Torgau, Second Lieutenant William Robertson waved a home-made American flag from the tower of Hartenfels Castle; after confusion over signal flares he crossed the wreck of the blown bridge and met Soviet soldiers on it at about 4 pm. The famous handshake photographs were staged on the ruined bridge for the cameras the following day.",
+   "look": "On the riverbank stands the Monument to the Meeting, designed by Soviet architect Avraham Miletzki and dedicated in September 1945, beside a viewing platform that is all that remains of the old bridge. Hartenfels Castle, from whose tower Robertson signalled, rises behind.",
+   "plan": "The monument and riverbank are open-air and free. Torgau holds Elbe Day events each April. Check the town website for castle opening times.",
+   "url": "https://en.stsg.de/cms/node/893",
+   "private": false,
+   "solemn": false,
+   "disputed": "Torgau is remembered as the meeting place, but Kotzebue's patrol made the first documented contact earlier the same day near Strehla; the best-known photographs were staged on 26 April.",
+   "links": [
+    [
+     "Elbe Day (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Elbe_Day"
+    ],
+    [
+     "The meeting on the Elbe (Saxon Memorials Foundation)",
+     "https://en.stsg.de/cms/node/893"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Elbe_Day",
+    "https://de.wikipedia.org/wiki/Torgau",
+    "https://en.stsg.de/cms/node/893",
+    "https://www.denkmalpflege.sachsen.de/download/PM_DenkmalderBegegnung_final.pdf",
+    "https://www.komoot.com/highlight/4201918"
+   ],
+   "aar": {
+    "when": "25 APR 1945",
+    "ev": "American and Soviet soldiers meet on the wrecked Elbe bridge, cutting Germany in two.",
+    "st": "On 25 April 1945 patrols of the US 69th Infantry Division met the Soviet 58th Guards Rifle Division on the Elbe. At Torgau, Lieutenant William Robertson waved a home-made flag from Hartenfels Castle and crossed the wrecked bridge to meet Soviet soldiers. The famous handshake photographs were staged the next day. Today a 1945 Soviet monument stands on the bank beside the last fragment of the bridge.",
+    "q": {
+     "t": "Where was the first documented American–Soviet contact on 25 April 1945?",
+     "o": [
+      "On Torgau bridge",
+      "In Berlin",
+      "Near Strehla, upstream of Torgau"
+     ],
+     "a": 2,
+     "x": "Lieutenant Albert Kotzebue's patrol of the 69th Infantry Division met Soviet troops near Strehla, about 30 km upstream, hours before Robertson's meeting at Torgau."
+    },
+    "rem": "Torgau got the fame and the photographs; Strehla got there first."
+   },
+   "notes": "Coordinates from a komoot highlight for the Denkmal der Begegnung; no Wikipedia coordinates found. Exhibition provision in Torgau on Elbe Day not verified."
+  },
+  {
+   "id": "dresden-frauenkirche",
+   "name": "Dresden Frauenkirche and the 1945 bombing",
+   "short": "Frauenkirche",
+   "town": "Dresden",
+   "country": "Germany",
+   "lat": 51.05194,
+   "lon": 13.74167,
+   "coord_src": "https://en.wikipedia.org/wiki/Frauenkirche,_Dresden",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 2,
+   "when": "13–15 Feb 1945",
+   "sort": "1945-02-13",
+   "min": 60,
+   "text": "On the night of 13 February 1945 RAF Bomber Command attacked Dresden, followed by the US Eighth Air Force; over three days some 1,300 heavy bombers dropped more than 3,900 tons of bombs, and a firestorm destroyed the old city. The baroque Frauenkirche survived the night but, gutted by fire, its great stone dome collapsed at 10 am on 15 February. Under East German rule the heap of rubble was kept as a memorial against war. It was rebuilt from 1994 using original stones where possible and reconsecrated on 30 October 2005; the new orb and cross were made by Alan Smith, son of an RAF bomber crewman.",
+   "look": "Look at the exterior: darker, fire-blackened original stones are set among the pale new sandstone. Inside, the twisted original cross from the dome stands near the altar. A memorial room recalls the ruin, and the dome platform gives views over the rebuilt Altstadt.",
+   "plan": "Church open to visitors most days, roughly 10:00–11:30 and 13:00–17:30 between services; free. Dome ascent is charged. Times vary with services and concerts, so check the website before you go.",
+   "url": "https://www.frauenkirche-dresden.de/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "Nazi propaganda claimed 200,000 dead and later deniers higher still; a 2010 Dresden historians' commission found 22,700 to 25,000. Whether the raid was militarily justified is still debated.",
+   "links": [
+    [
+     "Frauenkirche, Dresden (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Frauenkirche,_Dresden"
+    ],
+    [
+     "Bombing of Dresden (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Bombing_of_Dresden"
+    ],
+    [
+     "Frauenkirche Dresden (official)",
+     "https://www.frauenkirche-dresden.de/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Frauenkirche,_Dresden",
+    "https://en.wikipedia.org/wiki/Bombing_of_Dresden",
+    "https://www.frauenkirche-dresden.de/en/"
+   ],
+   "aar": {
+    "when": "15 FEB 1945",
+    "ev": "Gutted by the firestorm, the Frauenkirche's stone dome collapses two days after the raid.",
+    "st": "From the night of 13 February 1945 British and American bombers attacked Dresden, and a firestorm destroyed the old city. The Frauenkirche survived the night but its dome collapsed on 15 February. Its rubble was kept as a memorial against war until rebuilding began in 1994. Today blackened original stones are set among pale new sandstone, and the twisted old cross stands inside.",
+    "q": null,
+    "rem": "The new cross on the dome was made by the son of an RAF bomber crewman."
+   },
+   "notes": "Official site gave only calendar times; exact visiting hours and dome price not verified. 'Original cross inside' from general knowledge; editor may check."
+  },
+  {
+   "id": "dresden-mhm",
+   "name": "Bundeswehr Military History Museum, Dresden",
+   "short": "MHM Dresden",
+   "town": "Dresden",
+   "country": "Germany",
+   "lat": 51.079241,
+   "lon": 13.760633,
+   "coord_src": "https://tracesofwar.com/sights/13553/Militrhistorisches-Museum-der-Bundeswehr.htm",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "historic",
+   "pri": 3,
+   "when": "13 Feb 1945 (museum reopened Oct 2011)",
+   "sort": "1945-02-13",
+   "min": 180,
+   "text": "Germany's national military museum occupies an arsenal built in 1873–1876 in Dresden's Albertstadt garrison quarter. When it reopened in October 2011, Daniel Libeskind had driven a steel and glass wedge through the old façade. Its tip points towards the former stadium in the Ostragehege, where RAF Pathfinders dropped the target markers for the bombing of 13 February 1945, and the wedge echoes the shape of the bombers' approach over the city. Rather than a parade of weapons, the museum asks about the causes and human cost of war, with strong sections on the Wehrmacht, the Holocaust and the bombing war.",
+   "look": "From outside, Libeskind's wedge splitting the neo-classical arsenal. Inside, a chronological route and themed displays in the wedge; climb to its viewing platform 29 metres up and look along the line to the marker point. Special exhibition 'WUNDERWAFFEN' runs to 9 March 2027.",
+   "plan": "Thu–Tue 10:00–18:00, Mondays until 21:00; closed Wednesdays and 24–26, 31 Dec and 1 Jan. Adults €5 (combined ticket €7); under-18s free. Allow at least three hours.",
+   "url": "https://dresden.mhmbw.de/en",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Military History Museum of the Bundeswehr (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Military_History_Museum_of_the_Bundeswehr"
+    ],
+    [
+     "Militärhistorisches Museum (official)",
+     "https://dresden.mhmbw.de/en"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Military_History_Museum_of_the_Bundeswehr",
+    "https://de.wikipedia.org/wiki/Militärhistorisches_Museum_der_Bundeswehr",
+    "https://dresden.mhmbw.de/en/plan-your-visit-to-the-museum",
+    "https://tracesofwar.com/sights/13553/Militrhistorisches-Museum-der-Bundeswehr.htm"
+   ],
+   "aar": {
+    "when": "13 FEB 1945",
+    "ev": "RAF Pathfinders mark the Ostragehege stadium as the aiming point for the Dresden raid.",
+    "st": "Germany's national military museum fills an 1870s arsenal in Dresden's garrison quarter. Daniel Libeskind's steel and glass wedge, added for the 2011 reopening, points towards the stadium where RAF Pathfinders dropped target markers on 13 February 1945. Today you can climb to the wedge's viewing platform, 29 metres up, and look along that line before exploring galleries on the human cost of war.",
+    "q": {
+     "t": "What does the tip of Libeskind's wedge point towards?",
+     "o": [
+      "The stadium where RAF target markers were dropped in 1945",
+      "The Frauenkirche",
+      "Berlin"
+     ],
+     "a": 0,
+     "x": "The tip points to the former Ostragehege stadium, where RAF Pathfinders set the target markers for the 13 February 1945 raid; the wedge echoes the bombers' approach."
+    },
+    "rem": "A military museum that asks why wars happen and what they cost, not just how they were fought."
+   },
+   "notes": ""
+  },
+  {
+   "id": "hamburg-nikolai",
+   "name": "St Nikolai Memorial, Hamburg",
+   "short": "St Nikolai Hamburg",
+   "town": "Hamburg",
+   "country": "Germany",
+   "lat": 53.5475,
+   "lon": 9.99056,
+   "coord_src": "https://en.wikipedia.org/wiki/St._Nicholas_Church,_Hamburg",
+   "conf": "HIGH",
+   "cat": "Ruins",
+   "kind": "historic",
+   "pri": 2,
+   "when": "24 Jul–3 Aug 1943",
+   "sort": "1943-07-27",
+   "min": 60,
+   "text": "In late July 1943 RAF Bomber Command, flying by night, and the US Eighth Air Force, by day, attacked Hamburg in Operation Gomorrah. On the first night the RAF used 'Window' metal strips for the first time to blind German radar. On the night of 27/28 July 787 RAF aircraft created a firestorm across the working-class districts of Hammerbrook, Hamm, Borgfelde and Rothenburgsort. Around 37,000 people died and about a million fled the city. The 147-metre spire of St Nikolai, then among the tallest buildings in the world, served the bombers as a landmark and was badly damaged; the ruined church was kept as a memorial against war.",
+   "look": "The blackened tower and fragments of the nave walls stand in a small park. A glass lift climbs inside the spire to a platform at 75 metres with views over the city and port. The crypt holds an exhibition on the raids and on Coventry, Warsaw and Rotterdam.",
+   "plan": "Exhibition and lift are charged; opening times vary by season. The official site could not be read in October 2026, so check the website before you go.",
+   "url": "https://www.mahnmal-st-nikolai.de/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "Estimates of deaths range from 34,000 (police records) to 40,000 (a wartime German figure); 37,000 is the most widely accepted.",
+   "links": [
+    [
+     "St. Nicholas Church, Hamburg (Wikipedia)",
+     "https://en.wikipedia.org/wiki/St._Nicholas_Church,_Hamburg"
+    ],
+    [
+     "Bombing of Hamburg (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Bombing_of_Hamburg_in_World_War_II"
+    ],
+    [
+     "Mahnmal St. Nikolai (official)",
+     "https://www.mahnmal-st-nikolai.de/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/St._Nicholas_Church,_Hamburg",
+    "https://en.wikipedia.org/wiki/Bombing_of_Hamburg_in_World_War_II"
+   ],
+   "aar": {
+    "when": "28 JUL 1943",
+    "ev": "A firestorm sweeps through Hamburg's eastern districts during the RAF's Operation Gomorrah.",
+    "st": "In late July 1943 British and American bombers attacked Hamburg in Operation Gomorrah. On the night of 27/28 July 787 RAF aircraft created a firestorm across the eastern working-class districts, and about a million people fled. St Nikolai's spire, a landmark for the bombers, was badly damaged. Today a lift climbs the blackened tower to a platform at 75 metres, and the crypt holds an exhibition on the raids.",
+    "q": null,
+    "rem": "Hamburg's firestorm in 1943 showed both sides what area bombing could do to a city."
+   },
+   "notes": "Official site returned empty pages; hours and prices not verified. Exhibition content (Coventry, Warsaw, Rotterdam) from general knowledge."
+  },
+  {
+   "id": "peenemunde",
+   "name": "Peenemünde Historical-Technical Museum",
+   "short": "Peenemünde",
+   "town": "Peenemünde (Usedom)",
+   "country": "Germany",
+   "lat": 54.137778,
+   "lon": 13.768889,
+   "coord_src": "https://de.wikipedia.org/wiki/Historisch-Technisches_Museum_Peenemünde",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "historic",
+   "pri": 1,
+   "when": "1937–May 1945",
+   "sort": "1943-08-17",
+   "min": 180,
+   "text": "From 1937 the Army Research Centre at Peenemünde, on the island of Usedom, developed Germany's long-range rockets under Walter Dornberger, with Wernher von Braun as technical director; the Luftwaffe tested the V-1 flying bomb next door. Here the A4, later called the V-2, was developed. On the night of 17/18 August 1943 RAF Bomber Command attacked in Operation Hydra, hitting the staff housing first and also the camp at Trassenheide, where forced labourers had no shelters. Production moved to the underground Mittelwerk in the Harz, built and worked by concentration camp prisoners. Soviet troops took the wrecked site in May 1945.",
+   "look": "The museum fills the huge brick power station of the research centre. Outside are replicas of the A4 rocket and V-1, a V-1 launch ramp and a model of Test Stand VII. Exhibitions cover forced labourers and camp prisoners as well as the engineers.",
+   "plan": "April–September 10:00–18:00; October–March 10:00–16:00, closed Mondays November–March. Admission charged. Allow at least three hours. Check the website before you go.",
+   "url": "https://museum-peenemuende.de/?lang=en",
+   "private": false,
+   "solemn": false,
+   "disputed": "The site is often presented as the birthplace of space flight; critics stress that more people died building the V-2 than were killed by it.",
+   "links": [
+    [
+     "Peenemünde Army Research Center (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Peenemünde_Army_Research_Center"
+    ],
+    [
+     "Historisch-Technisches Museum Peenemünde (German Wikipedia)",
+     "https://de.wikipedia.org/wiki/Historisch-Technisches_Museum_Peenemünde"
+    ],
+    [
+     "Peenemünde museum (official)",
+     "https://museum-peenemuende.de/?lang=en"
+    ]
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/Historisch-Technisches_Museum_Peenemünde",
+    "https://en.wikipedia.org/wiki/Peenemünde_Army_Research_Center",
+    "https://museum-peenemuende.de/?lang=en"
+   ],
+   "aar": {
+    "when": "17 AUG 1943",
+    "ev": "RAF bombers attack the rocket research centre, aiming first at the scientists' housing.",
+    "st": "From 1937 Peenemünde developed Germany's long-range rockets under Dornberger and von Braun, including the V-2. On the night of 17/18 August 1943 the RAF attacked in Operation Hydra, and production moved to the underground Mittelwerk, worked by camp prisoners. Today the museum fills the research centre's brick power station, with replica V-1 and V-2 rockets outside.",
+    "q": {
+     "t": "Where did V-2 production move after the RAF raid on Peenemünde?",
+     "o": [
+      "To occupied France",
+      "To the underground Mittelwerk in the Harz",
+      "To Berlin-Spandau"
+     ],
+     "a": 1,
+     "x": "After Operation Hydra in August 1943, production moved to the underground Mittelwerk in the Harz mountains, built and worked by concentration camp prisoners."
+    },
+    "rem": "The V-2 was built by prisoners in appalling conditions; the engineers are only half the story."
+   },
+   "notes": "Admission price not verified (official visitor page failed to load). The 'more died building it' line is a widely cited assessment, not taken from an opened source; the A4 first reaching space on 3 Oct 1942 was not confirmed in opened sources and has been left out. Mittelbau-Dora (Nordhausen) is the natural companion stop."
+  },
+  {
+   "id": "cecilienhof",
+   "name": "Cecilienhof: the Potsdam Conference",
+   "short": "Cecilienhof",
+   "town": "Potsdam",
+   "country": "Germany",
+   "lat": 52.41917,
+   "lon": 13.07083,
+   "coord_src": "https://en.wikipedia.org/wiki/Cecilienhof",
+   "conf": "HIGH",
+   "cat": "Headquarters",
+   "kind": "historic",
+   "pri": 3,
+   "when": "17 Jul–2 Aug 1945",
+   "sort": "1945-07-17",
+   "min": 60,
+   "text": "From 17 July to 2 August 1945 Truman, Stalin and Churchill (replaced partway through by Clement Attlee after the British general election) met at Cecilienhof, a mock-Tudor country house in Potsdam's New Garden built for the last Crown Prince. It was the third and longest of the wartime summits, organised by the Soviets, who fitted the Great Hall with a round table. The conference settled the occupation of Germany, reparations, the move of Poland's border west to the Oder–Neisse line and the expulsion of Germans from the east, and issued the Potsdam Declaration demanding Japan's surrender.",
+   "look": "From outside you can see the half-timbered house in the New Garden and the red star of flowers the Soviets planted in the courtyard. When open, the Great Hall with its round table and the delegations' studies are shown.",
+   "plan": "The house is closed until further notice for restoration (October 2026); the park and exterior remain accessible and free. Check the SPSG website before you go.",
+   "url": "https://www.spsg.de/en/palaces-gardens/object/cecilienhof-palace/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Cecilienhof (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Cecilienhof"
+    ],
+    [
+     "Potsdam Conference (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Potsdam_Conference"
+    ],
+    [
+     "Cecilienhof (SPSG, official)",
+     "https://www.spsg.de/en/palaces-gardens/object/cecilienhof-palace/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Cecilienhof",
+    "https://www.spsg.de/en/palaces-gardens/object/cecilienhof-palace/"
+   ],
+   "aar": {
+    "when": "17 JUL 1945",
+    "ev": "Truman, Stalin and Churchill meet to decide the fate of defeated Germany.",
+    "st": "From 17 July to 2 August 1945 the Allied leaders met at Cecilienhof, in Potsdam's New Garden, around a round table the Soviets placed in the Great Hall. Churchill was replaced partway through by Attlee. The conference settled Germany's occupation and Poland's new western border. Today you can see the half-timbered house and its courtyard from the park while the interior is closed for restoration.",
+    "q": {
+     "t": "Who replaced Churchill partway through the Potsdam Conference?",
+     "o": [
+      "Anthony Eden",
+      "Clement Attlee",
+      "Lord Halifax"
+     ],
+     "a": 1,
+     "x": "Labour won the 1945 general election, so Clement Attlee took Churchill's place at the table for the conference's final days."
+    },
+    "rem": "The post-war map of Central Europe was drawn up in this country house."
+   },
+   "notes": "ADDED STOP. Interior closed until further notice (SPSG, Oct 2026). Attlee, Oder–Neisse and the Potsdam Declaration are general knowledge not confirmed in the opened Wikipedia page; the 'red star of flowers' is likewise from general knowledge. Editor should verify."
+  },
+  {
+   "id": "ravensbrueck",
+   "name": "Ravensbrück Memorial",
+   "short": "Ravensbrück",
+   "town": "Fürstenberg/Havel",
+   "country": "Germany",
+   "lat": 53.18958,
+   "lon": 13.17078,
+   "coord_src": "https://de.wikipedia.org/wiki/Mahn-_und_Gedenkstätte_Ravensbrück ; corrected after GPS check: OSM: Mahn- und Gedenkstätte Ravensbrück",
+   "conf": "DOC",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 3,
+   "when": "May 1939–30 Apr 1945",
+   "sort": "1945-04-30",
+   "min": 180,
+   "text": "Ravensbrück, 90 km north of Berlin, opened in May 1939 when the SS moved 900 women there from Lichtenburg. It was the only large concentration camp built for women, and an estimated 130,000 to 132,000 passed through it, from across occupied Europe. Prisoners worked in SS textile workshops and for firms such as Siemens. From summer 1942 SS doctors carried out experiments on 86 women, mostly Polish, whom they called 'rabbits'. In January 1945 the SS converted a hut near the crematorium into a gas chamber. The Red Army liberated the camp on 30 April 1945, finding fewer than 3,500 prisoners alive.",
+   "look": "On the Schwedtsee shore Will Lammert's bronze 'Tragende', a woman carrying another, faces Fürstenberg across the lake. See the crematorium, the camp road, the female guards' houses and the main exhibition in the former commandant's building.",
+   "plan": "Exhibitions daily 10:00–18:00; grounds 9:00–20:00 (Apr–Sep), 9:00–18:00 (Oct–Mar). Free. Cell block closed for renovation until 2028. RE5 to Fürstenberg, then 25 minutes' walk.",
+   "url": "https://www.ravensbrueck-sbg.de/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "Death toll estimates vary widely; Britannica cites about 50,000 plus some 2,200 gassed, while the memorial's own figures are lower.",
+   "links": [
+    [
+     "Ravensbrück concentration camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Ravensbrück_concentration_camp"
+    ],
+    [
+     "Ravensbrück Memorial (official)",
+     "https://www.ravensbrueck-sbg.de/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ravensbrück_concentration_camp",
+    "https://de.wikipedia.org/wiki/Mahn-_und_Gedenkstätte_Ravensbrück",
+    "https://www.ravensbrueck-sbg.de/en/visitor-service/opening-times-and-travel-information/"
+   ],
+   "aar": {
+    "when": "30 APR 1945",
+    "ev": "The Red Army liberates the women's camp, finding fewer than 3,500 prisoners alive.",
+    "st": "Ravensbrück opened in May 1939 as the only large concentration camp built for women; some 130,000 passed through. SS doctors experimented on Polish women they called 'rabbits', and in 1945 a gas chamber was set up. The Red Army arrived on 30 April 1945. Today Will Lammert's bronze of a woman carrying another stands on the lakeshore, near the crematorium and exhibitions.",
+    "q": null,
+    "rem": "The only large camp built for women; its prisoners came from every country Germany occupied."
+   },
+   "notes": "ADDED STOP. 'Firms such as Siemens' is general knowledge not confirmed in opened sources. Memorial's own death-toll figure not obtained. Visitor centre closed Mondays. Neuengamme (Hamburg) and Mittelbau-Dora were considered as alternative additions."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+<!doctype html><html><head><meta charset="utf-8">
+<link rel="stylesheet" href="node_modules/maplibre-gl/dist/maplibre-gl.css">
+<style>html,body{margin:0}#map{width:1100px;height:700px}</style>
+<script src="node_modules/maplibre-gl/dist/maplibre-gl.js"></script></head><body><div id="map"></div>
+<script>
+// Google-style road map drawn from OpenStreetMap data (OpenMapTiles vector tiles saved locally).
+const Q=new URLSearchParams(location.search);const JOB=JSON.parse(decodeURIComponent(Q.get('job')));
+document.getElementById('map').style.width=JOB.w+'px';document.getElementById('map').style.height=JOB.h+'px';
+const F='Noto Sans Regular',FM='Noto Sans Medium',FI='Noto Sans Italic';
+const NAME=['coalesce',['get','name:latin'],['get','name']];
+const RC=['match',['get','class'],'motorway',0,'trunk',1,'primary',2,'secondary',3,'tertiary',4,'minor',5,'service',7,9];
+const roadW=(base,e=0)=>['interpolate',['exponential',1.6],['zoom'],5,base*.22+e*.4,8,base*.35+e*.5,11,base*.8+e,13,base*1.6+e,15,base*3.2+e];
+const SPEC=[[7,'#ffffff','#dcd9d2',0.9,12.5],[5,'#ffffff','#d6d3cc',1.3,10.4],[4,'#ffffff','#cfcac0',1.9,9.0],[3,'#fdf2c4','#e3cf8a',2.4,7.6],[2,'#fde293','#e0b95a',2.9,6.4],[1,'#fcd26b','#d9a43a',3.3,5],[0,'#f9bf5a','#d18f2b',3.6,3]];
+const style={version:8,glyphs:location.origin+'/glyphs/{fontstack}/{range}.pbf',
+ sources:{omt:{type:'vector',tiles:[location.origin+'/vt/{z}/{x}/{y}.pbf'],tileSize:512,minzoom:0,maxzoom:JOB.srcMax||14},
+  sites:{type:'geojson',data:{type:'FeatureCollection',features:[]}},
+  extra:{type:'geojson',data:{type:'FeatureCollection',features:(JOB.labels||[]).map(l=>({type:'Feature',geometry:{type:'Point',coordinates:[l.lon,l.lat]},properties:{name:l.name,kind:l.kind||'sea'}}))}},
+  leaders:{type:'geojson',data:{type:'FeatureCollection',features:[]}}},
+ layers:[
+  {id:'bg',type:'background',paint:{'background-color':'#f5f3ee'}},
+  {id:'urban',type:'fill',source:'omt','source-layer':'landuse',filter:['match',['get','class'],['residential','suburb','neighbourhood','commercial','industrial','retail'],true,false],paint:{'fill-color':'#ebe7df'}},
+  {id:'wood',type:'fill',source:'omt','source-layer':'landcover',filter:['match',['get','class'],['wood','forest'],true,false],paint:{'fill-color':'#cfe6c4'}},
+  {id:'wet',type:'fill',source:'omt','source-layer':'landcover',filter:['==',['get','class'],'wetland'],paint:{'fill-color':'#dcebd9'}},
+  {id:'park',type:'fill',source:'omt','source-layer':'park',paint:{'fill-color':'#d4ecc9','fill-opacity':.8}},
+  {id:'water',type:'fill',source:'omt','source-layer':'water',filter:['!=',['get','brunnel'],'tunnel'],paint:{'fill-color':'#aadaff'}},
+  {id:'rivers',type:'line',source:'omt','source-layer':'waterway',filter:['all',['match',['get','class'],['river','canal'],true,false],['!=',['get','brunnel'],'tunnel']],paint:{'line-color':'#aadaff','line-width':['interpolate',['linear'],['zoom'],6,.6,9,1,13,3]}},
+  {id:'streams',type:'line',source:'omt','source-layer':'waterway',minzoom:11,filter:['==',['get','class'],'stream'],paint:{'line-color':'#aadaff','line-width':.8}},
+  {id:'borders',type:'line',source:'omt','source-layer':'boundary',filter:['all',['==',['get','admin_level'],2],['!=',['get','maritime'],1]],paint:{'line-color':'#8c86a3','line-width':1.6,'line-dasharray':[3,1.5]}},
+  {id:'rail',type:'line',source:'omt','source-layer':'transportation',minzoom:9.5,filter:['all',['==',['get','class'],'rail'],['!',['has','service']]],paint:{'line-color':'#bdbdbd','line-width':1.2,'line-dasharray':[3,2]}},
+  ...SPEC.map(([c,fill,cas,w,mz])=>({id:'rc'+c,type:'line',source:'omt','source-layer':'transportation',minzoom:mz,filter:['all',['==',RC,c],['!=',['get','brunnel'],'tunnel']],layout:{'line-cap':'round','line-join':'round'},paint:{'line-color':cas,'line-width':roadW(w,1.6)}})),
+  ...SPEC.map(([c,fill,cas,w,mz])=>({id:'rf'+c,type:'line',source:'omt','source-layer':'transportation',minzoom:mz,filter:['all',['==',RC,c],['!=',['get','brunnel'],'tunnel']],layout:{'line-cap':'round','line-join':'round'},paint:{'line-color':fill,'line-width':roadW(w)}})),
+  {id:'lead',type:'line',source:'leaders',paint:{'line-color':'#24323f','line-width':1.5}},
+  {id:'water-names',type:'symbol',source:'omt','source-layer':'water_name',filter:['match',['get','class'],['ocean','sea','bay','strait','lake'],true,false],layout:{'text-field':NAME,'text-font':[FI],'text-size':['match',['get','class'],['ocean','sea'],14,12],'text-letter-spacing':.1,'text-max-width':8},paint:{'text-color':'#1a5f8f','text-halo-color':'#e8f4ff','text-halo-width':1.6}},
+  {id:'river-names',type:'symbol',source:'omt','source-layer':'waterway',minzoom:9.5,filter:['==',['get','class'],'river'],layout:{'symbol-placement':'line','text-field':NAME,'text-font':[FI],'text-size':12,'symbol-spacing':400},paint:{'text-color':'#4a86b8','text-halo-color':'#fff','text-halo-width':1.5}},
+  {id:'street-names',type:'symbol',source:'omt','source-layer':'transportation_name',minzoom:13.5,filter:['match',['get','class'],['secondary','tertiary','minor'],true,false],layout:{'symbol-placement':'line','text-field':NAME,'text-font':[F],'text-size':11},paint:{'text-color':'#5f6368','text-halo-color':'#fff','text-halo-width':1.5}},
+  {id:'hamlets',type:'symbol',source:'omt','source-layer':'place',minzoom:11.2,filter:['match',['get','class'],['hamlet','isolated_dwelling'],true,false],layout:{'text-field':NAME,'text-font':[F],'text-size':11,'text-max-width':7},paint:{'text-color':'#70757a','text-halo-color':'#fff','text-halo-width':1.5}},
+  {id:'villages',type:'symbol',source:'omt','source-layer':'place',minzoom:9.2,filter:['match',['get','class'],['village','suburb','quarter'],true,false],layout:{'text-variable-anchor':['center','top','bottom','left','right'],'text-radial-offset':0.9,'text-field':NAME,'text-font':[F],'text-size':['interpolate',['linear'],['zoom'],10,11,13,14],'text-max-width':7,'symbol-sort-key':['get','rank']},paint:{'text-color':'#3c4043','text-halo-color':'#fff','text-halo-width':1.8}},
+  {id:'shields2',minzoom:9.6,type:'symbol',source:'omt','source-layer':'transportation_name',filter:['all',['match',['get','class'],['secondary','tertiary'],true,false],['has','ref'],['<=',['get','ref_length'],7]],layout:{'symbol-placement':'line','symbol-spacing':260,'text-field':['get','ref'],'text-font':[FM],'text-size':11,'text-rotation-alignment':'viewport','icon-image':'shieldW','icon-text-fit':'both','icon-text-fit-padding':[2,4,2,4],'icon-rotation-alignment':'viewport'},paint:{'text-color':'#3c4043'}},
+  {id:'shields',type:'symbol',source:'omt','source-layer':'transportation_name',filter:['all',['match',['get','class'],['motorway','trunk','primary'],true,false],['has','ref'],['<=',['get','ref_length'],7]],layout:{'symbol-placement':'line','symbol-spacing':['interpolate',['linear'],['zoom'],5,700,8,500,10,320],'text-field':['get','ref'],'text-font':[FM],'text-size':11,'text-rotation-alignment':'viewport','icon-image':['match',['get','class'],'motorway','shieldR','shieldY'],'icon-text-fit':'both','icon-text-fit-padding':[2,4,2,4],'icon-rotation-alignment':'viewport'},paint:{'text-color':['match',['get','class'],'motorway','#ffffff','#3c4043']}},
+  {id:'extra',type:'symbol',source:'extra',filter:['==',['get','kind'],'sea'],layout:{'text-field':['get','name'],'text-font':[FI],'text-size':14,'text-letter-spacing':0.12,'text-allow-overlap':true},paint:{'text-color':'#1a5f8f','text-halo-color':'#e8f4ff','text-halo-width':2}},
+  {id:'countries',type:'symbol',source:'omt','source-layer':'place',maxzoom:7.5,filter:['==',['get','class'],'country'],layout:{'text-field':['upcase',['coalesce',['get','name:en'],NAME]],'text-font':[FM],'text-size':14,'text-letter-spacing':0.25,'text-max-width':8},paint:{'text-color':'#7b7394','text-halo-color':'#fff','text-halo-width':2}},
+  {id:'towns',type:'symbol',source:'omt','source-layer':'place',filter:['match',['get','class'],['town','city'],true,false],layout:{'text-variable-anchor':['center','top','bottom','left','right'],'text-radial-offset':0.9,'text-field':NAME,'text-font':[FM],'text-size':['interpolate',['linear'],['zoom'],5,['match',['get','class'],'city',12,10.5],8,['match',['get','class'],'city',14,12.5],12,17],'text-max-width':8,'symbol-sort-key':['get','rank']},paint:{'text-color':'#202124','text-halo-color':'#fff','text-halo-width':2}},
+ ]};
+if(JOB.textScale){const k=JOB.textScale;style.layers.forEach(l=>{const t=l.layout&&l.layout['text-size'];if(t===undefined)return;
+ const sc=v=>typeof v==='number'?v*k:(Array.isArray(v)&&v[0]==='match')?v.map((x,i)=>i>=3&&i%2===1&&typeof x==='number'||i===v.length-1&&typeof x==='number'?x*k:x):v;
+ if(typeof t==='number')l.layout['text-size']=t*k;else if(t[0]==='match')l.layout['text-size']=sc(t);else if(t[0]==='interpolate')l.layout['text-size']=t.map((v,i)=>i>=3&&i%2===0?sc(v):v)})}
+if(JOB.bare)style.layers=style.layers.filter(l=>l.type!=='symbol');
+// virtual zoom: draw from more detailed tiles by zooming the map in by SHIFT levels while shrinking everything by the same factor
+const SH=JOB.shift||0,FAC=2**SH;
+if(SH){const SC=['line-width','text-size','text-halo-width','icon-size','text-padding','symbol-spacing','line-gap-width','line-offset','circle-radius','circle-stroke-width'];
+ const fix=(v,scale)=>{if(Array.isArray(v)&&v[0]==='interpolate'&&Array.isArray(v[2])&&v[2][0]==='zoom'){return v.map((x,i)=>i>=3&&i%2===1?x+SH:(i>=4&&i%2===0&&scale?fix(x,scale):x))}
+   if(typeof v==='number')return scale?v*FAC:v;
+   if(Array.isArray(v)&&v[0]==='match')return v.map((x,i)=>i>=3&&(i%2===1||i===v.length-1)&&typeof x==='number'&&scale?x*FAC:x);
+   return v};
+ style.layers.forEach(l=>{if('minzoom' in l)l.minzoom+=SH;if('maxzoom' in l)l.maxzoom+=SH;
+  for(const g of ['paint','layout']){const o=l[g];if(!o)continue;for(const k in o){if(['icon-text-fit-padding'].includes(k)){o[k]=o[k].map(x=>x*FAC);continue}
+   o[k]=fix(o[k],SC.includes(k))}}
+  })}
+document.getElementById('map').style.width=(JOB.w*FAC)+'px';document.getElementById('map').style.height=(JOB.h*FAC)+'px';
+
+const map=new maplibregl.Map({container:'map',style,center:JOB.center,zoom:JOB.zoom+SH,interactive:false,attributionControl:false,preserveDrawingBuffer:true,fadeDuration:0,maxCanvasSize:[8192,8192],pixelRatio:(JOB.ratio||2)/FAC});
+function img(w,h,draw){const c=document.createElement('canvas');c.width=w;c.height=h;const x=c.getContext('2d');draw(x);return x.getImageData(0,0,w,h)}
+map.on('load',()=>{
+ const R=JOB.ratio||2;
+ const sh=(fill,stroke)=>img(20*R,20*R,x=>{x.scale(R,R);x.fillStyle=fill;x.strokeStyle=stroke;x.lineWidth=1.2;x.beginPath();x.roundRect(1,1,18,18,3);x.fill();x.stroke()});
+ const st={pixelRatio:R,stretchX:[[4*R,16*R]],stretchY:[[4*R,16*R]],content:[4*R,4*R,16*R,16*R]};
+ map.addImage('shieldR',sh('#c5221f','#8e1a17'),st);map.addImage('shieldY',sh('#fde293','#c9a13a'),st);map.addImage('shieldW',sh('#ffffff','#9aa0a6'),st);
+ map.jumpTo({center:JOB.center,zoom:JOB.zoom+SH});
+ map.once('idle',()=>{document.title='READY '+map.getZoom().toFixed(2)});
+});
+map.on('error',e=>{const m=e.error&&e.error.message||'';console.log('maperr',m)});
+</script></body></html>

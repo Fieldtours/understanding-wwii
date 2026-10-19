@@ -1,0 +1,303 @@
+{
+ "region": "central",
+ "story": "Czechoslovakia was the first country Hitler dismembered without a shot: the Sudetenland was handed over at Munich in September 1938 and Prague was occupied in March 1939, becoming the 'Protectorate of Bohemia and Moravia'. Its arms factories fed the German war effort. In May 1942 two London-trained Czechoslovak soldiers, Jozef Gabčík and Jan Kubiš, ambushed Reinhard Heydrich, head of the Reich Security Main Office and acting Reich Protector, in a Prague suburb; he died on 4 June. The reprisals, including the destruction of Lidice and Ležáky, became a byword for Nazi terror and made Lidice a worldwide symbol. North of Prague the fortress town of Terezín became a ghetto and transit camp from which tens of thousands were sent to Auschwitz and other killing sites. Austria, annexed in March 1938, was part of the Reich throughout the war. At Mauthausen and its satellite camp Gusen near Linz, the SS ran one of the harshest camp complexes of all, working prisoners to death in granite quarries and, from 1944, in underground factories for jet fighters.",
+ "stops": [
+  {
+   "id": "lidice",
+   "name": "Lidice Memorial",
+   "short": "Lidice",
+   "town": "Lidice",
+   "country": "Czech Republic",
+   "lat": 50.14361,
+   "lon": 14.19028,
+   "coord_src": "https://en.wikipedia.org/wiki/Lidice",
+   "conf": "MEDIUM",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 1,
+   "when": "10 Jun 1942",
+   "sort": "1942-06-10",
+   "min": 120,
+   "text": "After the attack on Reinhard Heydrich, the Gestapo falsely linked the mining village of Lidice, west of Prague, to the assassins on the strength of an intercepted love letter. On 10 June 1942 German security police shot the village's men and boys over 15 on the Horák farm, sent the women to Ravensbrück and took the children; most of the children were later gassed at Chełmno, while a few judged 'racially suitable' were handed to German families. The village was burned, blown up and levelled, and its name erased from maps. The crime was publicised by the Nazis themselves, and towns from Britain to Latin America answered by taking the name Lidice. The memorial landscape was laid out between 1946 and 1962.",
+   "look": "A grassy valley where the village stood, with the foundations of the church, school and Horák farm, the cross over the men's mass grave, Marie Uchytilová's bronze group of 82 children, a rose garden of some 21,000 bushes and a museum with the exhibition 'And Those Innocent Were Guilty...'.",
+   "plan": "Open daily 9:00–17:00. Adults 150 Kč, children 70 Kč. The memorial landscape is open-air; allow time to walk down to the village site. About 30 minutes by bus or car from Prague. Check the website before you go.",
+   "url": "https://www.lidice-memorial.cz/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "Figures vary by source: 173 men were shot at Lidice on 10 June according to most counts, while other accounts give 199 men killed in total including those executed elsewhere; about 340 villagers died overall.",
+   "links": [
+    [
+     "Lidice massacre (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Lidice_massacre"
+    ],
+    [
+     "Lidice Memorial (official)",
+     "https://www.lidice-memorial.cz/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Lidice_massacre",
+    "https://en.wikipedia.org/wiki/Lidice",
+    "https://www.lidice-memorial.cz/en/"
+   ],
+   "aar": {
+    "when": "10 JUN 1942",
+    "ev": "German police destroy Lidice in reprisal for Heydrich's assassination, falsely linking the village to his killers.",
+    "st": "On 10 June 1942 German security police shot Lidice's men, sent the women to Ravensbrück and took the children, most of whom were later gassed at Chełmno. The village was burned and levelled and its name erased from maps. Today a grassy valley holds the foundations of the church and school, the men's grave, a bronze group of 82 children, a rose garden and a museum.",
+    "q": null,
+    "rem": "The Nazis meant Lidice to vanish; instead its name was taken up by towns around the world."
+   },
+   "notes": "Coordinates are those of the village from the Wikipedia infobox (the Lidice massacre article gives 50°08′35″N, 2 seconds further south); the memorial area and museum lie on and beside the old village site. Ležáky, the second village destroyed, is in eastern Bohemia near Chrudim."
+  },
+  {
+   "id": "anthropoid",
+   "name": "National Memorial to the Heroes of the Heydrich Terror",
+   "short": "Paratroopers' Crypt",
+   "town": "Prague",
+   "country": "Czech Republic",
+   "lat": 50.0759637,
+   "lon": 14.4176245,
+   "coord_src": "https://www.prague.eu/en/object/places/565/national-monument-to-the-heroes-of-the-heydrich-terror-narodni-pamatnik-hrdinu-heydrichiady",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 1,
+   "when": "18 Jun 1942",
+   "sort": "1942-06-18",
+   "min": 60,
+   "text": "After the attack on Heydrich, the Orthodox Church of Sts Cyril and Methodius in Resslova Street hid seven Czechoslovak paratroopers in its crypt, including Gabčík, Kubiš and Josef Valčík. Karel Čurda, another parachutist, gave the Gestapo the names of their helpers, and after the arrest of the Moravec family the SS surrounded the church before dawn on 18 June 1942. Adolf Opálka, Josef Bublík and Kubiš fought from the prayer loft until all three were dead or dying. Gabčík, Valčík, Jaroslav Švarc and Jan Hrubý held the crypt for hours against gunfire, tear gas and attempts to flood it, then killed themselves. Bishop Gorazd and the church's priests were executed in September 1942. Čurda was hanged for treason in 1947.",
+   "look": "The crypt itself, with the narrow ventilation slit to Resslova Street still scarred by bullets and the hole the paratroopers dug towards the sewer, plus an exhibition on the operation and the Heydrich terror. A plaque and memorial outside mark the bullet-pocked window.",
+   "plan": "Open Tuesday to Sunday 9:00–17:00, last entry 16:30, closed Mondays. Admission free. Run by the Military History Institute (VHU). The church above is a working Orthodox cathedral. Check the website before you go.",
+   "url": "https://www.vhu.cz/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Operation Anthropoid (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Operation_Anthropoid"
+    ],
+    [
+     "Prague City Tourism: National Monument to the Heroes of the Heydrich Terror",
+     "https://www.prague.eu/en/object/places/565/national-monument-to-the-heroes-of-the-heydrich-terror-narodni-pamatnik-hrdinu-heydrichiady"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Operation_Anthropoid",
+    "https://www.prague.eu/en/object/places/565/national-monument-to-the-heroes-of-the-heydrich-terror-narodni-pamatnik-hrdinu-heydrichiady"
+   ],
+   "aar": {
+    "when": "18 JUN 1942",
+    "ev": "SS troops besiege the paratroopers who killed Heydrich in the crypt of a Prague church.",
+    "st": "Betrayed by a fellow parachutist, the seven Czechoslovak soldiers hiding in this crypt were surrounded by the SS on 18 June 1942. Three fell in the prayer loft; the rest held the crypt for hours against gunfire, gas and flooding before taking their own lives. Today you can stand in the crypt, see the bullet-scarred ventilation slit and follow the story in the exhibition.",
+    "q": null,
+    "rem": "The seven men in the crypt chose to die fighting rather than surrender; their helpers and families paid with their lives too."
+   },
+   "notes": "Address Resslova 9a, Prague 2. Coordinates from the directions link on Prague City Tourism's page. The crypt was renovated in 2022 for the 80th anniversary. Official URL is the Military History Institute (operator); the prague.eu page has current hours."
+  },
+  {
+   "id": "heydrich-site",
+   "name": "Operation Anthropoid Memorial, Prague-Libeň",
+   "short": "Anthropoid site",
+   "town": "Prague",
+   "country": "Czech Republic",
+   "lat": 50.117856,
+   "lon": 14.465147,
+   "coord_src": "https://www.praha8.cz/Operation-Anthropoid-Memorial.html",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 3,
+   "when": "27 May 1942",
+   "sort": "1942-05-27",
+   "min": 30,
+   "text": "On the morning of 27 May 1942 Reinhard Heydrich was driven in an open Mercedes from his country house towards Prague Castle. At a tight hairpin bend in Libeň, where Kirchmayerova třída (now Zenklova) met V Holešovičkách, Jozef Gabčík stepped out with a Sten gun, which jammed. Jan Kubiš threw a modified anti-tank grenade that burst against the rear wheel, wounding Heydrich; Josef Valčík kept watch further up the road. Both attackers escaped. Heydrich died of his wounds on 4 June. He was the most senior Nazi assassinated during the war, and the reprisals that followed killed thousands of Czechs.",
+   "look": "A tall corten-steel column on a traffic island of the modern interchange, with three bronze figures, two soldiers and one civilian, reaching out from its edges, unveiled on 27 May 2009 at 10:35. A bronze slab in front explains the attack. The original bend has been swallowed by the road layout.",
+   "plan": "Open-air memorial, accessible at all times and free. It stands amid busy roads: use the pedestrian crossings. Trams stop nearby on V Holešovičkách.",
+   "url": "https://www.praha8.cz/Operation-Anthropoid-Memorial.html",
+   "private": false,
+   "solemn": false,
+   "disputed": "Heydrich's exact cause of death is debated: the autopsy pointed to sepsis from wound fragments; others propose an embolism, and a fringe claim that the grenade carried botulinum toxin is rejected by most historians.",
+   "links": [
+    [
+     "Operation Anthropoid Memorial (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Operation_Anthropoid_Memorial"
+    ],
+    [
+     "Operation Anthropoid (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Operation_Anthropoid"
+    ],
+    [
+     "Prague 8: Operation Anthropoid Memorial (official)",
+     "https://www.praha8.cz/Operation-Anthropoid-Memorial.html"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Operation_Anthropoid",
+    "https://en.wikipedia.org/wiki/Operation_Anthropoid_Memorial",
+    "https://www.praha8.cz/Operation-Anthropoid-Memorial.html"
+   ],
+   "aar": {
+    "when": "27 MAY 1942",
+    "ev": "Czechoslovak paratroopers ambush Reinhard Heydrich's car at a hairpin bend in Libeň.",
+    "st": "At this hairpin bend on 27 May 1942 Jozef Gabčík's Sten gun jammed as Heydrich's open car slowed, but Jan Kubiš's grenade wounded him and both men escaped. Heydrich died on 4 June. Today a steel column with three bronze figures, unveiled in 2009, stands on a traffic island above the spot.",
+    "q": {
+     "t": "What went wrong for Gabčík when Heydrich's car reached the bend?",
+     "o": [
+      "The car did not slow down",
+      "His Sten gun jammed",
+      "Heydrich was not in the car"
+     ],
+     "a": 1,
+     "x": "Gabčík's Sten gun jammed. Kubiš then threw a modified grenade that burst against the rear wheel and wounded Heydrich, who died a week later."
+    },
+    "rem": "The only successful assassination of a top Nazi leader was carried out by two soldiers sent from Britain."
+   },
+   "notes": "Coordinates from the map link on the Prague 8 district page. The memorial stands on the spot of the attack but the road layout is completely changed."
+  },
+  {
+   "id": "terezin",
+   "name": "Terezín Memorial",
+   "short": "Terezín",
+   "town": "Terezín",
+   "country": "Czech Republic",
+   "lat": 50.51333,
+   "lon": 14.16694,
+   "coord_src": "https://en.wikipedia.org/wiki/Theresienstadt_Ghetto",
+   "conf": "MEDIUM",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 1,
+   "when": "Jun 1940 – May 1945",
+   "sort": "1941-11-24",
+   "min": 240,
+   "text": "Terezín, an 18th-century fortress town 60 km north of Prague, served the Nazis in two ways. From June 1940 the Small Fortress across the river was the Prague Gestapo's main prison, holding about 32,000 people. From 24 November 1941 the town itself became the Theresienstadt ghetto, a transit camp for Jews from the Protectorate, Germany, Austria and beyond, including the elderly and prominent. About 33,000 died there of hunger and disease, and about 88,000 were deported on to Auschwitz, Treblinka and other killing sites. In June 1944 the SS staged a 'beautified' ghetto for a Red Cross delegation and later filmed it for propaganda. The Red Army reached Terezín on 8 May 1945.",
+   "look": "The Ghetto Museum in the former boys' home, the Magdeburg Barracks with rooms on the ghetto's art, music and theatre, the crematorium and cemetery outside the walls, and across the river the Small Fortress with its cells, courtyards and execution ground. The town is lived in today.",
+   "plan": "Small Fortress daily 9:00–17:00 (to 16:00 in winter); Ghetto Museum and Magdeburg Barracks daily 9:00–17:00; crematorium closed Saturdays. Combined tickets available. Some exhibitions are closed for reconstruction. Allow a full day. Check the website before you go.",
+   "url": "https://www.pamatnik-terezin.cz/",
+   "private": false,
+   "solemn": true,
+   "disputed": "Totals vary: about 141,000–154,000 people passed through the ghetto depending on how late arrivals and repeat prisoners are counted, and onward deportations are given as 88,000–90,000.",
+   "links": [
+    [
+     "Theresienstadt Ghetto (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Theresienstadt_Ghetto"
+    ],
+    [
+     "Small Fortress (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Small_Fortress_(Terez%C3%ADn)"
+    ],
+    [
+     "Terezín Memorial (official)",
+     "https://www.pamatnik-terezin.cz/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Theresienstadt_Ghetto",
+    "https://en.wikipedia.org/wiki/Small_Fortress_(Terez%C3%ADn)",
+    "https://www.pamatnik-terezin.cz/"
+   ],
+   "aar": {
+    "when": "24 NOV 1941",
+    "ev": "The first transport arrives as the SS turns the fortress town into a ghetto and transit camp.",
+    "st": "From November 1941 the SS used Terezín as a ghetto and transit camp; about 88,000 people were sent on to Auschwitz and other killing sites, while the Small Fortress across the river served as a Gestapo prison. In 1944 the SS staged a fake 'model ghetto' for the Red Cross. Today you can visit the Ghetto Museum and Magdeburg Barracks in the town and the cells of the Small Fortress.",
+    "q": null,
+    "rem": "Terezín was presented to the world as a model Jewish settlement while it served as a waiting room for Auschwitz."
+   },
+   "notes": "Coordinates are those of the ghetto town from the Wikipedia infobox; the memorial's sites are spread across the town (Ghetto Museum, Komenského 148; Magdeburg Barracks, Tyršova 204) and the Small Fortress (Principova alej 304) about 1 km east. The Ravensbrück exhibition is closed for reconstruction and the transports exhibition can only be seen with a pre-booked guide."
+  },
+  {
+   "id": "mauthausen",
+   "name": "Mauthausen Memorial",
+   "short": "Mauthausen",
+   "town": "Mauthausen",
+   "country": "Austria",
+   "lat": 48.25694,
+   "lon": 14.50111,
+   "coord_src": "https://en.wikipedia.org/wiki/Mauthausen_concentration_camp",
+   "conf": "HIGH",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 1,
+   "when": "8 Aug 1938 – 5 May 1945",
+   "sort": "1938-08-08",
+   "min": 180,
+   "text": "The SS opened Mauthausen on 8 August 1938, five months after the Anschluss, on a hill above the Danube 20 km east of Linz, beside the Wiener Graben granite quarry owned by the SS company DEST. It became the centre of a system of about 100 subcamps, the largest at Gusen. About 190,000 people from across Europe were deported there; prisoners hauled granite blocks up the 186 'Stairs of Death', and many were killed by gas, shooting or deliberate starvation. In February 1945 about 500 escaped prisoners, mostly Soviet officers, were hunted down and murdered by the SS, police and local civilians in the 'Mühlviertel hare hunt'. A reconnaissance squad of the US 11th Armored Division under Staff Sergeant Albert Kosiek reached the camp on 5 May 1945.",
+   "look": "The granite walls and gate of the main camp, the roll-call ground, surviving barracks, the camp prison, gas chamber and crematorium, a large exhibition in the former infirmary, national memorials outside the walls, and the quarry with the Stairs of Death below.",
+   "plan": "Open daily 9:00–17:30, last entry 16:45. Admission free, no registration needed; guided tours and audio guides charged and bookable online. The Stairs of Death are open 1 April to 26 October. Check the website before you go.",
+   "url": "https://www.mauthausen-memorial.org/en",
+   "private": false,
+   "solemn": true,
+   "disputed": "Because records were destroyed and prisoner numbers reused, death totals for Mauthausen and its subcamps range from 'more than 90,000' to about 120,000 depending on the source.",
+   "links": [
+    [
+     "Mauthausen concentration camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Mauthausen_concentration_camp"
+    ],
+    [
+     "Mauthausen Memorial (official)",
+     "https://www.mauthausen-memorial.org/en"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mauthausen_concentration_camp",
+    "https://de.wikipedia.org/wiki/KZ_Mauthausen",
+    "https://www.mauthausen-memorial.org/en"
+   ],
+   "aar": {
+    "when": "8 AUG 1938",
+    "ev": "The SS opens a concentration camp beside the granite quarry above Mauthausen.",
+    "st": "Mauthausen opened in August 1938 beside an SS-owned granite quarry and grew into a system of about 100 subcamps. Prisoners carried stone up the 186 Stairs of Death, and in February 1945 escaped Soviet officers were hunted down in the surrounding countryside. Today you enter through the granite gate to the roll-call ground, barracks, crematorium and exhibition, and can walk down to the quarry.",
+    "q": null,
+    "rem": "Mauthausen was built around a quarry: killing through labour was its purpose, not a side effect."
+   },
+   "notes": "Address Erinnerungsstraße 1, 4310 Mauthausen. The Melk subcamp memorial is closed until further notice. Coordinates supplied by the editor from Wikipedia; my own fetch of that page did not return a coordinate string, so worth a spot-check against the main gate."
+  },
+  {
+   "id": "gusen",
+   "name": "Gusen Memorial",
+   "short": "Gusen",
+   "town": "Langenstein",
+   "country": "Austria",
+   "lat": 48.25703,
+   "lon": 14.46412,
+   "coord_src": "https://de.wikipedia.org/wiki/Memorial_Gusen",
+   "conf": "HIGH",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 3,
+   "when": "25 May 1940 – 5 May 1945",
+   "sort": "1940-05-25",
+   "min": 60,
+   "text": "Gusen, 5 km west of Mauthausen, opened on 25 May 1940 as a subcamp but at times held more prisoners than the main camp. Polish intellectuals and Spanish Republicans were among the early inmates, worked in granite quarries under murderous conditions. From March 1944 Gusen II housed prisoners who dug the Bergkristall tunnels at St Georgen, where Messerschmitt built Me 262 jet fighter fuselages underground; 987 were completed before May 1945. Official records list 27,842 deaths, but estimates run to 35,000 or more, since many killed on arrival were never registered. US troops of the 11th Armored and 26th Infantry Divisions arrived on 5 May 1945. Most of the camp was later built over by housing.",
+   "look": "The memorial built by survivors around the camp's crematorium oven, a small visitor centre with an exhibition, and the surviving gatehouse (the 'Jourhaus', now a private house) among suburban homes. The site is being redesigned as a larger place of remembrance.",
+   "plan": "Open daily 9:00–17:00. Admission free, no registration needed; guided tours bookable through the Mauthausen Memorial. The memorial is being redeveloped, so expect changes. The Bergkristall tunnels open only on occasional guided tours. Check the website before you go.",
+   "url": "https://www.gusen-memorial.org/en",
+   "private": false,
+   "solemn": true,
+   "disputed": "Death figures range from the 27,842 in official records to estimates of 35,000–37,000 or more, because unregistered prisoners killed on arrival are missing from the records.",
+   "links": [
+    [
+     "Gusen concentration camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Gusen_concentration_camp"
+    ],
+    [
+     "Gusen Memorial (official)",
+     "https://www.gusen-memorial.org/en"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Gusen_concentration_camp",
+    "https://www.gusen-memorial.org/en"
+   ],
+   "aar": {
+    "when": "25 MAY 1940",
+    "ev": "The first prisoners and guards arrive at Gusen, Mauthausen's largest subcamp.",
+    "st": "Gusen opened in May 1940 and at times held more prisoners than Mauthausen itself. From 1944 prisoners of Gusen II dug the Bergkristall tunnels where Messerschmitt built Me 262 jet fuselages underground. Today a memorial built by survivors around the crematorium oven and a small visitor centre stand among the houses that cover most of the former camp.",
+    "q": null,
+    "rem": "Most of Gusen disappeared under post-war housing; the memorial exists because survivors insisted on it."
+   },
+   "notes": "Memorial at Georgestraße 7, visitor centre Georgestraße 5, 4222 Langenstein. The gatehouse is privately owned and seen from the road. Austria is redeveloping the site after a design competition (2024/25). Coordinates supplied by the editor from German Wikipedia (not opened by me)."
+  }
+ ]
+}

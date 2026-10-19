@@ -1,0 +1,161 @@
+id,name,lat,lon,result
+eben-emael,"Fort Eben-Emael",50.79679953,5.67333131,confirmed: OpenStreetMap feature within 300 m
+bastogne-museum,"Bastogne War Museum",50.010608,5.739187,confirmed: OpenStreetMap feature within 300 m
+mardasson,"Mardasson Memorial, Bastogne",50.00933,5.73927,moved to the OpenStreetMap position (see gps-moves.csv)
+barracks,"Bastogne Barracks (McAuliffe's HQ)",50.00973,5.71891,moved to the OpenStreetMap position (see gps-moves.csv)
+bois-jacques,"Bois Jacques foxholes, Foy",50.02890278,5.75670719,area site: matches the OpenStreetMap feature/area
+la-gleize,"December 44 Historical Museum, La Gleize",50.410059,5.84559,confirmed: OpenStreetMap feature within 300 m
+baugnez,"Baugnez: Malmedy massacre memorial",50.403689,6.066738,confirmed: OpenStreetMap feature within 300 m
+stvith,"St Vith",50.272141,6.128386,area site: matches the OpenStreetMap feature/area
+houffalize,"Houffalize and its Panther tank",50.128941,5.790701,confirmed: OpenStreetMap feature within 300 m
+recogne,"Recogne German war cemetery",50.04842,5.740871,confirmed: OpenStreetMap feature within 300 m
+henri-chapelle,"Henri-Chapelle American Cemetery",50.696607,5.899079,confirmed: OpenStreetMap feature within 300 m
+lux-cemetery,"Luxembourg American Cemetery, Hamm",49.61167,6.18556,confirmed: OpenStreetMap feature within 300 m
+diekirch,"National Museum of Military History, Diekirch",49.871023,6.159048,single source only: not found by name in OpenStreetMap search
+bob-bunker,"Battle of Britain Bunker, Uxbridge",51.54125,-0.46528,confirmed: OpenStreetMap feature within 300 m
+bentley-priory,"Bentley Priory Museum, Stanmore",51.62669,-0.334175,confirmed: OpenStreetMap feature within 300 m
+duxford,"IWM Duxford",52.09306,0.12944,confirmed: OpenStreetMap feature within 300 m
+capel,"Battle of Britain Memorial, Capel-le-Ferne",51.09888,1.205181,confirmed: OpenStreetMap feature within 300 m
+biggin-hill,"Biggin Hill Memorial Museum",51.327036,0.023428,confirmed: OpenStreetMap feature within 300 m
+manston,"RAF Manston Spitfire & Hurricane Memorial Museum",51.3502456,1.3498244,confirmed: OpenStreetMap feature within 300 m
+dover-tunnels,"Dover Castle Secret Wartime Tunnels",51.1297,1.3214,confirmed: OpenStreetMap feature within 300 m
+war-rooms,"Churchill War Rooms, London",51.502083,-0.129028,confirmed: OpenStreetMap feature within 300 m
+iwm-london,"Imperial War Museum London",51.495831,-0.108662,confirmed: OpenStreetMap feature within 300 m
+st-pauls,"St Paul's Cathedral and the Blitz, London",51.513889,-0.098333,confirmed: OpenStreetMap feature within 300 m
+coventry,"Coventry Cathedral ruins",52.40856,-1.5071,confirmed: OpenStreetMap feature within 300 m
+bletchley,"Bletchley Park",51.99806,-0.74111,confirmed: OpenStreetMap feature within 300 m
+western-approaches,"Western Approaches HQ, Liverpool",53.407549,-2.992809,confirmed: OpenStreetMap feature within 300 m
+dday-story,"The D-Day Story, Portsmouth",50.7798,-1.089333,single source only: not found by name in OpenStreetMap search
+lidice,"Lidice Memorial",50.14361,14.19028,confirmed: OpenStreetMap feature within 300 m
+anthropoid,"National Memorial to the Heroes of the Heydrich Terror",50.0759637,14.4176245,confirmed: OpenStreetMap feature within 300 m
+heydrich-site,"Operation Anthropoid Memorial, Prague-Libeň",50.117856,14.465147,confirmed: OpenStreetMap feature within 300 m
+terezin,"Terezín Memorial",50.51333,14.16694,confirmed: OpenStreetMap feature within 300 m
+mauthausen,"Mauthausen Memorial",48.25694,14.50111,confirmed: OpenStreetMap feature within 300 m
+gusen,"Gusen Memorial",48.25703,14.46412,confirmed: OpenStreetMap feature within 300 m
+dk-museum,"Dunkirk 1940 Museum (Bastion 32)",51.0461133,2.3812714,confirmed: OpenStreetMap feature within 300 m
+dk-beach,"Malo-les-Bains evacuation beach, Dunkirk",51.048386,2.381005,area site: matches the OpenStreetMap feature/area
+dk-mole,"East Mole (Jetée de l'Est), Dunkirk",51.050406,2.368703,single source only: not found by name in OpenStreetMap search
+fort-dunes,"Fort des Dunes, Leffrinckoucke",51.052833,2.444823,confirmed: OpenStreetMap feature within 300 m
+dk-memorial,"Dunkirk Memorial and Town Cemetery (CWGC)",51.0306,2.38967,confirmed: OpenStreetMap feature within 300 m
+bray-dunes,"Zuydcoote and Bray-Dunes beach wrecks",51.075821,2.491208,area site: matches the OpenStreetMap feature/area
+wormhout,"La Plaine au Bois massacre memorial, Esquelbecq (Wormhout)",50.877818,2.442286,confirmed: OpenStreetMap feature within 300 m
+la-coupole,"La Coupole V-2 site, Helfaut",50.7052616,2.2436221,confirmed: OpenStreetMap feature within 300 m
+eperlecques,"Blockhaus d'Éperlecques",50.82861,2.18361,confirmed: OpenStreetMap feature within 300 m
+batterie-todt,"Batterie Todt (Atlantic Wall Museum), Audinghen",50.843858,1.600035,confirmed: OpenStreetMap feature within 300 m
+brest-fortress,"Brest Fortress, Belarus (June 1941)",52.082411,23.656852,area site: matches the OpenStreetMap feature/area
+poklonnaya,"Victory Museum, Poklonnaya Hill, Moscow",55.73056,37.50389,confirmed: OpenStreetMap feature within 300 m
+piskaryovskoye,"Piskaryovskoye Cemetery, St Petersburg",59.996534,30.422602,confirmed: OpenStreetMap feature within 300 m
+siege-museum,"Museum of the Defence and Siege of Leningrad",59.9445,30.3409,confirmed: OpenStreetMap feature within 300 m
+mamayev,"Mamayev Kurgan and 'The Motherland Calls'",48.7425,44.536944,confirmed: OpenStreetMap feature within 300 m
+panorama,"Panorama Museum & Gerhardt's Mill, Volgograd",48.715036,44.532731,confirmed: OpenStreetMap feature within 300 m
+pavlov,"Pavlov's House, Volgograd",48.715969,44.531654,confirmed: OpenStreetMap feature within 300 m
+rossoshka,"Rossoshka war cemeteries",48.825447,44.165319,single source only: not found by name in OpenStreetMap search
+prokhorovka,"Prokhorovka battlefield, Belgorod region",51.017354,36.672313,confirmed: OpenStreetMap feature within 300 m
+kursk-arc,"Kursk Arc memorial complex, Kursk",51.787353,36.170674,single source only: not found by name in OpenStreetMap search
+khatyn,"Khatyn Memorial, Belarus",54.334444,27.943611,confirmed: OpenStreetMap feature within 300 m
+reichstag,"Reichstag, Berlin",52.51861,13.37611,confirmed: OpenStreetMap feature within 300 m
+topography,"Topography of Terror, Berlin",52.506352,13.383884,confirmed: OpenStreetMap feature within 300 m
+wannsee,"House of the Wannsee Conference",52.43306,13.16556,confirmed: OpenStreetMap feature within 300 m
+holocaust-memorial,"Memorial to the Murdered Jews of Europe",52.51389,13.37861,confirmed: OpenStreetMap feature within 300 m
+bendlerblock,"German Resistance Memorial (Bendlerblock)",52.506944,13.361389,confirmed: OpenStreetMap feature within 300 m
+tiergarten,"Soviet War Memorial, Tiergarten",52.51667,13.37222,confirmed: OpenStreetMap feature within 300 m
+treptow,"Soviet War Memorial, Treptower Park",52.4875,13.46833,single source only: not found by name in OpenStreetMap search
+karlshorst,"Museum Berlin-Karlshorst",52.486111,13.539722,confirmed: OpenStreetMap feature within 300 m
+fuhrerbunker,"Site of the Führerbunker",52.512472,13.381083,confirmed: OpenStreetMap feature within 300 m
+seelow,"Seelow Heights Memorial",52.534896,14.395727,confirmed: OpenStreetMap feature within 300 m
+sachsenhausen,"Sachsenhausen Memorial and Museum",52.76583,13.26417,single source only: not found by name in OpenStreetMap search
+bergen-belsen,"Bergen-Belsen Memorial",52.75944,9.91168,moved to the OpenStreetMap position (see gps-moves.csv)
+buchenwald,"Buchenwald Memorial, near Weimar",51.022778,11.249167,confirmed: OpenStreetMap feature within 300 m
+colditz,"Colditz Castle",51.131111,12.8075,confirmed: OpenStreetMap feature within 300 m
+torgau,"Torgau: the Elbe Day meeting",51.560048,13.009391,confirmed: OpenStreetMap feature within 300 m
+dresden-frauenkirche,"Dresden Frauenkirche and the 1945 bombing",51.05194,13.74167,confirmed: OpenStreetMap feature within 300 m
+dresden-mhm,"Bundeswehr Military History Museum, Dresden",51.079241,13.760633,confirmed: OpenStreetMap feature within 300 m
+hamburg-nikolai,"St Nikolai Memorial, Hamburg",53.5475,9.99056,confirmed: OpenStreetMap feature within 300 m
+peenemunde,"Peenemünde Historical-Technical Museum",54.137778,13.768889,confirmed: OpenStreetMap feature within 300 m
+cecilienhof,"Cecilienhof: the Potsdam Conference",52.41917,13.07083,confirmed: OpenStreetMap feature within 300 m
+ravensbrueck,"Ravensbrück Memorial",53.18958,13.17078,moved to the OpenStreetMap position (see gps-moves.csv)
+hurtgen,"Museum Hürtgenwald 1944, Vossenack",50.686707,6.3701744,confirmed: OpenStreetMap feature within 300 m
+remagen,"Remagen bridge and Peace Museum",50.57917,7.24417,confirmed: OpenStreetMap feature within 300 m
+nuremberg-rally,"Nazi Party Rally Grounds & Documentation Centre",49.43389,11.11278,confirmed: OpenStreetMap feature within 300 m
+courtroom-600,"Memorium Nuremberg Trials (Courtroom 600)",49.4549,11.0465,confirmed: OpenStreetMap feature within 300 m
+munich-ns,"NS-Documentation Centre, Munich",48.14528,11.5675,confirmed: OpenStreetMap feature within 300 m
+dachau,"Dachau Concentration Camp Memorial Site",48.270278,11.468056,confirmed: OpenStreetMap feature within 300 m
+obersalzberg,"Obersalzberg Documentation Centre",47.63167,13.04028,confirmed: OpenStreetMap feature within 300 m
+eagles-nest,"Kehlsteinhaus (Eagle's Nest)",47.61111,13.04167,confirmed: OpenStreetMap feature within 300 m
+cassino-abbey,"Abbey of Monte Cassino",41.49,13.81389,confirmed: OpenStreetMap feature within 300 m
+polish-cem,"Polish War Cemetery, Monte Cassino",41.49384,13.80587,confirmed: OpenStreetMap feature within 300 m
+cassino-cwgc,"Cassino War Cemetery and Memorial (CWGC)",41.4776,13.8271,confirmed: OpenStreetMap feature within 300 m
+caira,"German War Cemetery, Cassino (Caira)",41.5313,13.822992,single source only: not found by name in OpenStreetMap search
+anzio-museum,"Anzio Beachhead Museum (Museo dello Sbarco)",41.450021,12.630587,confirmed: OpenStreetMap feature within 300 m
+nettuno,"Sicily-Rome American Cemetery, Nettuno",41.46528,12.65833,confirmed: OpenStreetMap feature within 300 m
+ardeatine,"Fosse Ardeatine Mausoleum, Rome",41.858423,12.508837,confirmed: OpenStreetMap feature within 300 m
+via-tasso,"Museum of the Liberation of Rome (Via Tasso)",41.889565,12.506031,confirmed: OpenStreetMap feature within 300 m
+lascaris,"Lascaris War Rooms, Valletta",35.8944972,14.51105,confirmed: OpenStreetMap feature within 300 m
+fort-st-elmo,"National War Museum, Fort St Elmo, Valletta",35.901159,14.518901,confirmed: OpenStreetMap feature within 300 m
+malta-at-war,"Malta at War Museum, Birgu",35.885417,14.522667,confirmed: OpenStreetMap feature within 300 m
+maleme,"Maleme German War Cemetery and Hill 107, Crete",35.522903,23.831186,area site: matches the OpenStreetMap feature/area
+souda-bay,"Souda Bay War Cemetery, Crete",35.500162,24.060457,confirmed: OpenStreetMap feature within 300 m
+galatas,"Galatas, Crete: the battle for the village",35.491923,23.966326,area site: matches the OpenStreetMap feature/area
+rotterdam,"Rotterdam 1940: 'The Destroyed City' monument",51.9176,4.4831,confirmed: OpenStreetMap feature within 300 m
+grebbeberg,"Grebbeberg battlefield and military cemetery",51.95583,5.60028,confirmed: OpenStreetMap feature within 300 m
+anne-frank,"Anne Frank House, Amsterdam",52.37525,4.88432,confirmed: OpenStreetMap feature within 300 m
+frost-bridge,"John Frost Bridge, Arnhem",51.97472,5.91194,confirmed: OpenStreetMap feature within 300 m
+hartenstein,"Airborne Museum Hartenstein, Oosterbeek",51.987748,5.832667,confirmed: OpenStreetMap feature within 300 m
+oosterbeek-cem,"Arnhem Oosterbeek War Cemetery",51.99306,5.84833,confirmed: OpenStreetMap feature within 300 m
+ter-horst,"Old Church and Kate ter Horst house, Oosterbeek",51.978183,5.83803,single source only: not found by name in OpenStreetMap search
+ginkel,"Ginkel Heath drop zone, Ede",52.036944,5.734048,confirmed: OpenStreetMap feature within 300 m
+waal-crossing,"Waal crossing memorial (De Oversteek), Nijmegen",51.859977,5.842522,confirmed: OpenStreetMap feature within 300 m
+groesbeek,"Freedom Museum (Vrijheidsmuseum), Groesbeek",51.78565,5.937005,confirmed: OpenStreetMap feature within 300 m
+groesbeek-cem,"Groesbeek Canadian War Cemetery and Memorial",51.798346,5.931866,confirmed: OpenStreetMap feature within 300 m
+overloon,"Overloon War Museum",51.57056,5.95694,confirmed: OpenStreetMap feature within 300 m
+margraten,"Netherlands American Cemetery, Margraten",50.81762,5.8079,confirmed: OpenStreetMap feature within 300 m
+westerbork,"Camp Westerbork Memorial Centre",52.92108,6.5697,moved to the OpenStreetMap position (see gps-moves.csv)
+pegasus,"Pegasus Bridge and Memorial Pegasus",49.24222,-0.27444,confirmed: OpenStreetMap feature within 300 m
+merville,"Merville Battery",49.270059,-0.19769,confirmed: OpenStreetMap feature within 300 m
+sword,"Sword Beach and the Grand Bunker, Ouistreham",49.287525,-0.252454,single source only: not found by name in OpenStreetMap search
+juno,"Juno Beach Centre, Courseulles-sur-Mer",49.33639,-0.46167,confirmed: OpenStreetMap feature within 300 m
+arromanches,"Arromanches: Mulberry harbour and D-Day Museum",49.340189,-0.620245,confirmed: OpenStreetMap feature within 300 m
+longues,"Longues-sur-Mer battery",49.343076,-0.694502,single source only: not found by name in OpenStreetMap search
+bayeux-museum,"Museum of the Battle of Normandy, Bayeux",49.27344,-0.711559,confirmed: OpenStreetMap feature within 300 m
+bayeux-cem,"Bayeux War Cemetery and Memorial",49.273986,-0.714149,confirmed: OpenStreetMap feature within 300 m
+omaha,"Omaha Beach: Les Braves, Saint-Laurent-sur-Mer",49.370931,-0.879765,confirmed: OpenStreetMap feature within 300 m
+us-cemetery,"Normandy American Cemetery, Colleville-sur-Mer",49.359585,-0.854756,confirmed: OpenStreetMap feature within 300 m
+overlord-museum,"Overlord Museum, Colleville-sur-Mer",49.347847,-0.856375,confirmed: OpenStreetMap feature within 300 m
+pointe-du-hoc,"Pointe du Hoc",49.397382,-0.989361,confirmed: OpenStreetMap feature within 300 m
+la-cambe,"La Cambe German war cemetery",49.34194,-1.02639,single source only: not found by name in OpenStreetMap search
+ste-mere,"Sainte-Mère-Église and the Airborne Museum",49.408249,-1.314964,area site: matches the OpenStreetMap feature/area
+utah,"Utah Beach Museum, Sainte-Marie-du-Mont",49.415325,-1.174668,confirmed: OpenStreetMap feature within 300 m
+caen-memorial,"Caen Memorial (Mémorial de Caen)",49.197438,-0.384135,confirmed: OpenStreetMap feature within 300 m
+hill-112,"Hill 112, Esquay-Notre-Dame",49.123737,-0.460581,confirmed: OpenStreetMap feature within 300 m
+montormel,"Montormel Memorial, Falaise Pocket",48.837331,0.142182,confirmed: OpenStreetMap feature within 300 m
+falaise,"Memorial of Civilians in Wartime, Falaise",48.894206,-0.202343,confirmed: OpenStreetMap feature within 300 m
+narvik,"Narvik War Museum (Narviksenteret)",68.437776,17.425375,OpenStreetMap (Nominatim) position of the museum; no second source
+vemork,"Vemork: Norwegian Industrial Workers Museum",59.87111,8.49139,single source only: not found by name in OpenStreetMap search
+resistance-museum,"Norway's Resistance Museum, Akershus Fortress",59.9079,10.7358,confirmed: OpenStreetMap feature within 300 m
+compiegne,"Glade of the Armistice, Compiègne",49.42722,2.90639,confirmed: OpenStreetMap feature within 300 m
+sedan,"Sedan: the Meuse crossing, May 1940",49.7025,4.9425,area site: matches the OpenStreetMap feature/area
+maginot,"Fort de Schoenenbourg (Maginot Line)",48.96667,7.91194,confirmed: OpenStreetMap feature within 300 m
+paris-lib,"Musée de la Libération de Paris – Leclerc – Jean Moulin",48.83411,2.3318,confirmed: OpenStreetMap feature within 300 m
+mont-valerien,"Mont-Valérien memorial, Suresnes",48.8716,2.21383,confirmed: OpenStreetMap feature within 300 m
+memorial-shoah,"Mémorial de la Shoah, Paris",48.854846,2.356196,confirmed: OpenStreetMap feature within 300 m
+reims,"Reims Surrender Museum (Musée de la Reddition)",49.2629807,4.0269291,confirmed: OpenStreetMap feature within 300 m
+struthof,"Natzweiler-Struthof",48.45667,7.25389,confirmed: OpenStreetMap feature within 300 m
+westerplatte,"Westerplatte, Gdańsk",54.4075,18.67139,area site: matches the OpenStreetMap feature/area
+post-office,"Polish Post Office, Gdańsk",54.35511,18.656852,single source only: not found by name in OpenStreetMap search
+museum-ww2,"Museum of the Second World War, Gdańsk",54.356055,18.660557,confirmed: OpenStreetMap feature within 300 m
+stutthof,"Stutthof Museum, Sztutowo",54.32986,19.15772,moved to the OpenStreetMap position (see gps-moves.csv)
+wolfs-lair,"Wolf's Lair, Gierłoż near Kętrzyn",54.08047,21.49835,moved to the OpenStreetMap position (see gps-moves.csv)
+warsaw-rising,"Warsaw Rising Museum",52.23282,20.981049,confirmed: OpenStreetMap feature within 300 m
+ghetto-heroes,"Ghetto Heroes Monument and POLIN Museum, Warsaw",52.24972,20.99389,confirmed: OpenStreetMap feature within 300 m
+umschlagplatz,"Umschlagplatz memorial, Warsaw",52.25226,20.989082,confirmed: OpenStreetMap feature within 300 m
+treblinka,"Treblinka Museum and memorial",52.63111,22.05306,area site: matches the OpenStreetMap feature/area
+majdanek,"State Museum at Majdanek, Lublin",51.22532,22.60626,moved to the OpenStreetMap position (see gps-moves.csv)
+sobibor,"Sobibór Museum and memorial",51.44722,23.59361,confirmed: OpenStreetMap feature within 300 m
+belzec,"Bełżec Museum and memorial",50.37167,23.4575,single source only: not found by name in OpenStreetMap search
+auschwitz-1,"Auschwitz I (main camp), Oświęcim",50.0264,19.20396,moved to the OpenStreetMap position (see gps-moves.csv)
+birkenau,"Auschwitz II-Birkenau",50.034386,19.180894,confirmed: OpenStreetMap feature within 300 m
+schindler,"Oskar Schindler's Enamel Factory, Kraków",50.0474,19.96175,confirmed: OpenStreetMap feature within 300 m
+brest,"Brest: the U-boat base and the Naval Museum",48.3817996,-4.4928387,confirmed: OpenStreetMap feature within 300 m
+lorient,"Keroman submarine base, Lorient",47.727421,-3.36613,area site: matches the OpenStreetMap feature/area
+st-nazaire,"Saint-Nazaire: U-boat base and Normandie dock",47.275,-2.2025,confirmed: OpenStreetMap feature within 300 m
+oradour,"Oradour-sur-Glane: ruined village and Centre de la mémoire",45.9295705,1.040388,single source only: not found by name in OpenStreetMap search

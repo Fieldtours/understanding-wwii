@@ -1,0 +1,611 @@
+{
+ "region": "east",
+ "story": "The Eastern Front was where most of the German army fought and died. Operation Barbarossa opened before dawn on 22 June 1941 at places such as Brest Fortress on the new Soviet border. By September German and Finnish forces had cut Leningrad off; the siege lasted 872 days and starvation killed hundreds of thousands of civilians. Moscow held in the winter of 1941. In the summer of 1942 the Germans drove for the Volga and the Caucasus, and from September to January the 6th Army fought street by street for Stalingrad until it was encircled and destroyed. In July 1943 the German offensive at Kursk, including the clash at Prokhorovka, failed, and the strategic initiative passed for good to the Red Army. Behind the lines, occupied Belarus suffered anti-partisan terror in which whole villages such as Khatyn were burned with their people. These sites explain why the war was won and lost in the east. All of them are in Russia or Belarus, where the UK government currently advises against all travel.",
+ "stops": [
+  {
+   "id": "brest-fortress",
+   "name": "Brest Fortress, Belarus (June 1941)",
+   "short": "Brest Fortress",
+   "town": "Brest",
+   "country": "Belarus",
+   "lat": 52.082411,
+   "lon": 23.656852,
+   "coord_src": "https://www.tracesofwar.com/sights/12536/Monumentencomplex-Heldenfort-Brest.htm",
+   "conf": "HIGH",
+   "cat": "Fortification",
+   "kind": "battle",
+   "pri": 1,
+   "when": "22 Jun – Jul 1941",
+   "sort": "1941-06-22",
+   "min": 180,
+   "text": "At 04:15 Moscow time on 22 June 1941 German artillery, including 60 cm mortars, opened Operation Barbarossa against this 19th-century fortress on the Bug. The attackers were the Austrian 45th Infantry Division under Fritz Schlieper, about 17,000 men. Inside were around 9,000 Soviet troops from the 6th and 42nd Rifle Divisions and NKVD border guards, plus families. The Germans expected one day; it took about a week. Captain Ivan Zubachyov and Commissar Yefim Fomin led the citadel's resistance; Fomin was shot after capture. The East Fort surrendered on 29 June after Luftwaffe bombing. Major Pyotr Gavrilov, wounded, was taken on 23 July. About 6,800 Soviet soldiers were captured.",
+   "look": "Enter through the star-shaped main gate cut into the earth rampart, then walk to the huge stone head of the 'Courage' monument and the 100 m bayonet obelisk. Look for the battered Kholm and Terespol gates, the ruined barracks, the 'Thirst' sculpture and the defence museum in the old barracks ring.",
+   "plan": "FCDO advises against all travel to Belarus. The grounds are open; the Museum of the Defence opens 9:00–18:00, closed Mondays, with tickets on site. Some side exhibitions close on Tuesdays and the information centre is shut until 15 April 2027. Check the website before you go.",
+   "url": "https://www.brest-fortress.by/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Soviet accounts from the 1950s, popularised by Sergei Smirnov, said the fortress held out for a month and that nobody surrendered. Modern research finds organised resistance ended around 29 June, with only scattered holdouts after that.",
+   "links": [
+    [
+     "Brest Fortress (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Brest_Fortress"
+    ],
+    [
+     "Defense of Brest Fortress (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Defense_of_Brest_Fortress"
+    ],
+    [
+     "Brest Hero-Fortress memorial complex (official)",
+     "https://www.brest-fortress.by/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Defense_of_Brest_Fortress",
+    "https://en.wikipedia.org/wiki/Brest_Fortress",
+    "https://www.tracesofwar.com/sights/12536/Monumentencomplex-Heldenfort-Brest.htm",
+    "https://www.brest-fortress.by/"
+   ],
+   "aar": {
+    "when": "22 JUN 1941",
+    "ev": "German guns open Operation Barbarossa against the fortress on the Bug before dawn.",
+    "st": "At 04:15 on 22 June 1941 the Austrian 45th Infantry Division attacked Brest Fortress, expecting to take it in a day. Soviet troops, border guards and their families held parts of it for about a week, and the East Fort fell on 29 June. Today you enter through the star-shaped gate in the rampart and walk past ruined barracks to the giant 'Courage' head and the bayonet obelisk.",
+    "q": {
+     "t": "Which German formation attacked Brest Fortress on 22 June 1941?",
+     "o": [
+      "The Austrian 45th Infantry Division",
+      "The 1st SS Panzer Division",
+      "The 6th Army's 71st Division"
+     ],
+     "a": 0,
+     "x": "The 45th Infantry Division under Fritz Schlieper, about 17,000 men with no tanks of their own, made the attack and needed about a week, not a day."
+    },
+    "rem": "Brest was the first fight of Barbarossa, and its legend of endless resistance was built after the war."
+   },
+   "notes": "TRAVEL ADVICE: the UK FCDO advises against all travel to Belarus (gov.uk advice updated 10 Sep 2026, still current 17 Oct 2026): risk of arbitrary arrest, dual nationals treated as Belarusian, very limited consular help, travel insurance may be invalid. Coordinates are TracesOfWar's point for the central memorial; Wikipedia gives 52.082961, 23.654251 for the fortress as a whole. 'Courage' and 'Thirst' are the usual English names of the two main sculptures; Wikipedia names 'Thirst' and the 'Main Monument'."
+  },
+  {
+   "id": "poklonnaya",
+   "name": "Victory Museum, Poklonnaya Hill, Moscow",
+   "short": "Victory Museum",
+   "town": "Moscow",
+   "country": "Russia",
+   "lat": 55.73056,
+   "lon": 37.50389,
+   "coord_src": "https://en.wikipedia.org/wiki/Museum_of_the_Great_Patriotic_War,_Moscow",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 2,
+   "when": "1941–1945 (museum opened 9 May 1995)",
+   "sort": "1941-12-05",
+   "min": 180,
+   "text": "Poklonnaya Hill, once a vantage point on the western road into Moscow, is where Napoleon waited in vain in 1812 for the keys to the Kremlin. In 1983 work began on a national museum of the 'Great Patriotic War', and the Central Museum of the Great Patriotic War, now called the Victory Museum, opened here on 9 May 1995 for the 50th anniversary of victory. It is Russia's main museum of the Soviet war of 1941–45, covering the battle for Moscow, Leningrad, Stalingrad, Kursk and the drive to Berlin. In front stands an obelisk 141.8 m high, 10 cm for each day of the war, and the surrounding Victory Park holds an outdoor display of weapons and vehicles.",
+   "look": "Approach across the Square of Victors to the tall obelisk with Nike, then enter the curved museum. Look for the Hall of Commanders with its 'Sword and Shield of Victory', the Hall of Remembrance, large dioramas of key battles and, outside, rows of tanks, guns and aircraft in the park.",
+   "plan": "FCDO advises against all travel to Russia. Museum open Tuesday–Sunday (some exhibitions until 21:00), closed Mondays; tickets from about 600 roubles, sold online and on site. Park free. Check the website before you go.",
+   "url": "https://victorymuseum.ru/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Museum of the Great Patriotic War, Moscow (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Museum_of_the_Great_Patriotic_War,_Moscow"
+    ],
+    [
+     "Poklonnaya Hill (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Poklonnaya_Hill"
+    ],
+    [
+     "Victory Museum (official)",
+     "https://victorymuseum.ru/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Museum_of_the_Great_Patriotic_War,_Moscow",
+    "https://en.wikipedia.org/wiki/Poklonnaya_Hill",
+    "https://victorymuseum.ru/"
+   ],
+   "aar": {
+    "when": "9 MAY 1995",
+    "ev": "Russia's national museum of the Soviet war opens for the fiftieth anniversary of victory.",
+    "st": "Poklonnaya Hill, where Napoleon waited for the keys to the Kremlin in 1812, became the site of Russia's main museum of the war of 1941–45. The museum opened on 9 May 1995, fronted by an obelisk 141.8 m high. Today you cross the Square of Victors to the obelisk, visit halls and battle dioramas inside, and walk among tanks and guns in the park.",
+    "q": {
+     "t": "What does the 141.8 m height of the Poklonnaya obelisk represent?",
+     "o": [
+      "The height of the Kremlin's tallest tower",
+      "The number of Soviet divisions in 1945",
+      "10 cm for each day of the war"
+     ],
+     "a": 2,
+     "x": "The Soviet-German war lasted 1,418 days, from 22 June 1941 to 9 May 1945, so the obelisk rises 10 cm for each day."
+    },
+    "rem": "Russia's official memory of the war is presented here; compare it with what you see at the battlefields themselves."
+   },
+   "notes": "TRAVEL ADVICE: the UK FCDO advises against all travel to Russia (gov.uk advice updated 18 Sep 2026, still current 17 Oct 2026): drone attacks and short-notice airspace closures, increased risk of British nationals being detained, dual nationals treated as Russian, extremely limited consular help, travel insurance may be invalid. The official site shows hours for the 'Path to Victory' exhibition only; general hours and prices were not fully listed. Museum interprets the war from the Soviet/Russian state perspective."
+  },
+  {
+   "id": "piskaryovskoye",
+   "name": "Piskaryovskoye Cemetery, St Petersburg",
+   "short": "Piskaryovskoye",
+   "town": "St Petersburg",
+   "country": "Russia",
+   "lat": 59.996534,
+   "lon": 30.422602,
+   "coord_src": "https://www.tracesofwar.com/sights/9518/Erebegraafplaats-Piskarevskoye.htm",
+   "conf": "DOC",
+   "cat": "Cemetery",
+   "kind": "historic",
+   "pri": 1,
+   "when": "Sep 1941 – Jan 1944 (memorial opened 9 May 1960)",
+   "sort": "1942-02-01",
+   "min": 60,
+   "text": "During the siege of Leningrad, from September 1941 to 27 January 1944, the city's dead were brought here by lorry and sledge and buried in trenches. The cemetery holds about 420,000 civilians, most of whom died of starvation and cold, and about 50,000 soldiers of the Leningrad Front, in 186 mass graves. Each grave is marked only with the year of burial. The memorial, designed by Alexander Vasilyev and Yevgeny Levinson, opened on 9 May 1960. Its centrepiece is the bronze figure of the Motherland by Vera Isayeva and Robert Taurit. On the granite wall behind her is a poem by Olga Berggolts, the poet whose radio broadcasts kept the besieged city company.",
+   "look": "Begin at the eternal flame between two small pavilions with the exhibition, then walk down the 480 m central avenue between the low grassy mounds of the mass graves, each with a granite slab giving only a year and a hammer and sickle or a star. The Motherland statue and Berggolts's wall close the view.",
+   "plan": "FCDO advises against all travel to Russia. Grounds open daily 9:00–18:00 in autumn and winter, to 21:00 in spring and summer; exhibition pavilion 9:00–18:00 daily. Admission and guided tours free. Check the website before you go.",
+   "url": "https://pmemorial.ru/",
+   "private": false,
+   "solemn": true,
+   "disputed": "Burial figures vary: Wikipedia gives about 420,000 civilians and 50,000 soldiers, the Memorial Museums portal 470,000 residents, and a plaque on site cites 641,803 starvation deaths for the whole city. There is no complete register of those buried.",
+   "links": [
+    [
+     "Piskaryovskoye Memorial Cemetery (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Piskaryovskoye_Memorial_Cemetery"
+    ],
+    [
+     "Piskaryovskoye Memorial Cemetery (official)",
+     "https://pmemorial.ru/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Piskaryovskoye_Memorial_Cemetery",
+    "https://www.memorialmuseums.org/eng/staettens/view/798/Piskariovskoye-Cemetery-Memorial-and-Museum",
+    "https://www.tracesofwar.com/sights/9518/Erebegraafplaats-Piskarevskoye.htm",
+    "https://pmemorial.ru/"
+   ],
+   "aar": {
+    "when": "FEB 1942",
+    "ev": "Lorries and sledges bring the dead of the starving city to mass trenches here.",
+    "st": "During the 872-day siege of Leningrad the dead were buried here in 186 mass graves, about 420,000 civilians and 50,000 soldiers. The memorial designed by Vasilyev and Levinson opened on 9 May 1960, with the bronze Motherland and a poem by Olga Berggolts. Today you walk from the eternal flame down a long avenue between grassy grave mounds, each marked only with a year.",
+    "q": null,
+    "rem": "Most of the people buried here were civilians killed by hunger and cold, not by bullets or bombs."
+   },
+   "notes": "TRAVEL ADVICE: the UK FCDO advises against all travel to Russia (updated 18 Sep 2026): detention risk, drone attacks, extremely limited consular help, insurance may be invalid. Official address Prospekt Nepokorennykh 72. Wikipedia's own coordinates (59.9969, 30.4214) have only four decimals; TracesOfWar used. Wikipedia transliterates the poet's name Berggolts; also seen as Bergholz."
+  },
+  {
+   "id": "siege-museum",
+   "name": "Museum of the Defence and Siege of Leningrad",
+   "short": "Siege Museum",
+   "town": "St Petersburg",
+   "country": "Russia",
+   "lat": 59.9445,
+   "lon": 30.3409,
+   "coord_src": "https://dark-tourism.com/index.php/686-leningrad-siege-museum",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "historic",
+   "pri": 2,
+   "when": "Sep 1941 – Jan 1944 (museum from 1944)",
+   "sort": "1941-09-08",
+   "min": 90,
+   "text": "This museum began while the siege was still on: an exhibition, 'Heroic Defence of Leningrad', opened in the Solyanoy Gorodok halls on 30 April 1944, and it became the Leningrad Defence Museum on 27 January 1946, the second anniversary of the siege being lifted. In 1949 it was closed during the 'Leningrad Affair', Stalin's purge of the city's wartime leadership; its managers were persecuted, it was liquidated in 1952, and weapons were melted down. It reopened in the same building on 8 September 1989. It covers the 872 days of encirclement, the Road of Life across Lake Ladoga and daily life on bread rations that fell to 125 g for dependants.",
+   "look": "The main exhibition is in one large hall on the upper floor: weapons, uniforms, posters and models, a big map of the Road of Life, a recreated siege-time room with a small iron stove, and a display of the 125 g bread ration. Labels are mostly in Russian; an audio guide is offered.",
+   "plan": "FCDO advises against all travel to Russia. Open 10:00–18:00, closed Tuesdays and the last Wednesday of the month (ticket office closes 17:30). Modest admission charge; audio guide extra. Check the website before you go.",
+   "url": "https://www.blokadamus.ru/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Sources disagree on the dates of its first life: the St Petersburg Encyclopaedia gives closure in August 1949 and liquidation in 1952, while some guides give closure in 1952 or 1953.",
+   "links": [
+    [
+     "Siege of Leningrad (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Siege_of_Leningrad"
+    ],
+    [
+     "State Memorial Museum of the Defence and Siege of Leningrad (official)",
+     "https://www.blokadamus.ru/"
+    ],
+    [
+     "Museum entry, St Petersburg Encyclopaedia",
+     "https://encspb.ru/object/2804034308?lc=en"
+    ]
+   ],
+   "sources": [
+    "https://encspb.ru/object/2804034308?lc=en",
+    "https://ru.wikipedia.org/wiki/Государственный_мемориальный_музей_обороны_и_блокады_Ленинграда",
+    "https://www.blokadamus.ru/",
+    "https://dark-tourism.com/index.php/686-leningrad-siege-museum",
+    "https://petersburg24.ru/eng/place/muzej-oborony-i-blokady-leningrada"
+   ],
+   "aar": {
+    "when": "27 JAN 1946",
+    "ev": "Leningrad opens a museum of its own siege, two years after the blockade ended.",
+    "st": "An exhibition on the city's defence opened here in April 1944 and became a museum on 27 January 1946. Caught up in Stalin's 'Leningrad Affair', it was closed in 1949 and liquidated in 1952, and only reopened in 1989. Today you see one large hall of weapons, posters and a Road of Life map, a recreated siege room and the 125 g bread ration.",
+    "q": {
+     "t": "Why was the original siege museum closed after the war?",
+     "o": [
+      "Its building was needed for a new metro station",
+      "It was caught up in the 'Leningrad Affair' purge",
+      "It was damaged by a wartime unexploded bomb"
+     ],
+     "a": 1,
+     "x": "In 1949 Stalin's 'Leningrad Affair' purged the city's wartime leaders. The museum was closed, its managers persecuted and it was liquidated in 1952, reopening only in 1989."
+    },
+    "rem": "Even remembering the siege was political: its museum was shut for almost forty years."
+   },
+   "notes": "TRAVEL ADVICE: the UK FCDO advises against all travel to Russia (updated 18 Sep 2026). Address Solyanoy pereulok 9 (metro Chernyshevskaya). COORDINATES: no source with 5 decimals found (no coords on Wikipedia, official site or TracesOfWar); 59.9445, 30.3409 is the map pin on dark-tourism.com and rusmania gives 59.9432, 30.3397 - verify before publishing. Closed day: official site says Tuesdays plus last Wednesday 'sanitary day'; older guides say last Thursday. A 2014–18 plan for a new building near Smolny was dropped in 2019 in favour of expanding at Solyanoy. Name shortened from 'State Memorial Museum of the Defence and Siege of Leningrad' to fit 45 chars."
+  },
+  {
+   "id": "mamayev",
+   "name": "Mamayev Kurgan and 'The Motherland Calls'",
+   "short": "Mamayev Kurgan",
+   "town": "Volgograd",
+   "country": "Russia",
+   "lat": 48.7425,
+   "lon": 44.536944,
+   "coord_src": "https://en.wikipedia.org/wiki/The_Motherland_Calls",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "battle",
+   "pri": 1,
+   "when": "Sep 1942 – Jan 1943",
+   "sort": "1942-09-14",
+   "min": 120,
+   "text": "Marked on military maps as Height 102.0, this hill overlooks central Stalingrad and the Volga crossings, and whoever held it could see and shell the river. From mid-September 1942 it changed hands repeatedly as the German 6th Army tried to reach the Volga and Chuikov's 62nd Army clung on. Fighting on the slopes went on until 26 January 1943, when Soviet forces advancing from the west broke through to the defenders. The memorial ensemble was built from 1959 and 'The Motherland Calls', 85 m to the tip of her sword, was unveiled on 15 October 1967. Yevgeny Vuchetich sculpted it; Nikolai Nikitin engineered it. About 34,505 defenders are buried on the hill, and Marshal Chuikov chose to be buried here.",
+   "look": "From the avenue at the foot, climb past the Square of Those Who Fought to the Death and the ruined-wall reliefs, to the circular Hall of Military Glory with its eternal flame and changing guard. Above, the vast sword-raising Motherland stands among the mass graves; Chuikov's grave is near her base.",
+   "plan": "FCDO advises against all travel to Russia. The memorial is open and free for all visitors; museum-reserve guided excursions run daily 9:00–15:30. Expect long flights of steps. Check the website before you go.",
+   "url": "https://stalingrad-battle.ru/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Mamayev Kurgan (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Mamayev_Kurgan"
+    ],
+    [
+     "The Motherland Calls (Wikipedia)",
+     "https://en.wikipedia.org/wiki/The_Motherland_Calls"
+    ],
+    [
+     "Stalingrad Battle museum-reserve (official)",
+     "https://stalingrad-battle.ru/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mamayev_Kurgan",
+    "https://en.wikipedia.org/wiki/The_Motherland_Calls",
+    "https://www.tracesofwar.com/sights/10624/Mamayev-Hill---Monumental-Relief.htm",
+    "https://stalingrad-battle.ru/"
+   ],
+   "aar": {
+    "when": "14 SEP 1942",
+    "ev": "German and Soviet troops begin months of fighting for the hill above the Volga.",
+    "st": "Height 102.0 dominated central Stalingrad and the Volga crossings, and it changed hands repeatedly from mid-September 1942 until Soviet forces broke through to its defenders on 26 January 1943. About 34,505 defenders are buried here, with Marshal Chuikov. Today you climb from the avenue past reliefs and the Hall of Military Glory to the 85 m Motherland among the graves.",
+    "q": null,
+    "rem": "Whoever held Height 102.0 could see and shell the Volga crossings that kept Stalingrad alive."
+   },
+   "notes": "TRAVEL ADVICE: the UK FCDO advises against all travel to Russia (updated 18 Sep 2026). Coordinates are for the statue; Wikipedia gives DMS 48°44′33″N 44°32′13″E, converted here. TracesOfWar puts the relief wall at 48.741571, 44.539024. The museum-reserve site lists restoration of the statue as a project but gives no dates; the exterior restoration of 2019–20 was criticised. The often-quoted '200 steps' could not be confirmed and is left out. Solemn: mass graves on the hill, so no quiz."
+  },
+  {
+   "id": "panorama",
+   "name": "Panorama Museum & Gerhardt's Mill, Volgograd",
+   "short": "Panorama & Mill",
+   "town": "Volgograd",
+   "country": "Russia",
+   "lat": 48.715036,
+   "lon": 44.532731,
+   "coord_src": "https://www.tracesofwar.com/sights/10548/Panoramic-Museum-Battle-of-Stalingrad.htm",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 1,
+   "when": "Sep 1942 – Jan 1943",
+   "sort": "1942-09-15",
+   "min": 120,
+   "text": "The Panorama Museum on the Volga embankment is the main museum of the Battle of Stalingrad, with eight halls, four dioramas, a circular panorama painting and about 4,000 exhibits, among them the rifle of the sniper Vasily Zaitsev. Beside it stands the shell of Gerhardt's (or Grudinin's) mill. Bombed and set on fire on 14 September 1942, it was taken that night by men of General Rodimtsev's 13th Guards Rifle Division, newly ferried across the Volga. By 20 September the 3rd Battalion, 42nd Guards Rifle Regiment, held it as a strongpoint, and it stayed semi-encircled for 58 days. It was deliberately left unrestored after the war.",
+   "look": "Start with the scarred, roofless mill, its brick walls pitted by bullets and shells, then go into the museum for the dioramas, Zaitsev's rifle and the panorama on the top floor. Pavlov's House is across the square, which shows how close the lines were.",
+   "plan": "FCDO advises against all travel to Russia. Museum open Tuesday–Friday and Sunday 10:00–18:00, Saturday to 20:00, closed Mondays; ticket office closes 30 minutes earlier. Tickets sold online and on site. Mill seen from outside. Check the website before you go.",
+   "url": "https://stalingrad-battle.ru/",
+   "private": false,
+   "solemn": false,
+   "disputed": "The mill is named after its pre-revolutionary owner Gerhardt and after Grudinin, a Soviet-era name; sources use both. Russian Wikipedia gives the defenders as the 42nd Rifle Regiment, TracesOfWar as the 42nd Guards Rifle Regiment.",
+   "links": [
+    [
+     "Gerhardt's Mill (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Gerhardt%27s_Mill"
+    ],
+    [
+     "Stalingrad Battle museum-reserve (official)",
+     "https://stalingrad-battle.ru/"
+    ]
+   ],
+   "sources": [
+    "https://www.tracesofwar.com/sights/10548/Panoramic-Museum-Battle-of-Stalingrad.htm",
+    "https://www.tracesofwar.com/sights/10528/Grudinins-mill.htm",
+    "https://en.wikipedia.org/wiki/Gerhardt%27s_Mill",
+    "https://ru.wikipedia.org/wiki/Мельница_Гергардта",
+    "https://stalingrad-battle.ru/"
+   ],
+   "aar": {
+    "when": "15 SEP 1942",
+    "ev": "Rodimtsev's guardsmen cross the Volga and seize the burning mill as a strongpoint.",
+    "st": "The mill was bombed and set on fire on 14 September 1942, and that night men of the 13th Guards Rifle Division, just across the Volga, took it. Held as a strongpoint, it stayed semi-encircled for 58 days and was left unrestored after the war. Today you see the roofless, shell-pitted mill beside the Panorama Museum with its dioramas, panorama painting and Zaitsev's rifle.",
+    "q": {
+     "t": "Why does Gerhardt's Mill still stand as a ruin?",
+     "o": [
+      "It was deliberately left unrestored as a memorial",
+      "Its owners never returned to claim it",
+      "Rebuilding was blocked by a court case"
+     ],
+     "a": 0,
+     "x": "It was one of a handful of Stalingrad buildings kept in their wartime state on purpose, as a memorial to the street fighting near the Volga."
+    },
+    "rem": "Stalingrad was won and lost a few hundred metres from the Volga, in buildings like this mill."
+   },
+   "notes": "TRAVEL ADVICE: the UK FCDO advises against all travel to Russia (updated 18 Sep 2026). Coordinates are for the museum (ulitsa Marshala Chuykova 47); the mill is at 48.715588, 44.532828 (TracesOfWar). A section of the mill's brickwork collapsed in strong wind in May 2021. Prices not shown on the official page. Museum's own older site: panorama.volgadmin.ru."
+  },
+  {
+   "id": "pavlov",
+   "name": "Pavlov's House, Volgograd",
+   "short": "Pavlov's House",
+   "town": "Volgograd",
+   "country": "Russia",
+   "lat": 48.715969,
+   "lon": 44.531654,
+   "coord_src": "https://ru.wikipedia.org/wiki/Дом_Павлова",
+   "conf": "HIGH",
+   "cat": "Town",
+   "kind": "battle",
+   "pri": 2,
+   "when": "Sep – 25 Nov 1942",
+   "sort": "1942-09-27",
+   "min": 30,
+   "text": "This four-storey 1930s block on what was 9 January Square was seized in late September 1942 by a group under Sergeant Yakov Pavlov of the 42nd Guards Rifle Regiment, 13th Guards Rifle Division. Reinforced to about 31 men under Lieutenant Ivan Afanasyev, they mined the approaches, set up machine guns and fired an anti-tank rifle from the roof, holding the house until the Soviet counter-offensive on 25 November. Three of the garrison were killed. The house became the best-known symbol of Stalingrad's street fighting, and General Chuikov later joked that the Germans lost more men attacking it than they did taking Paris.",
+   "look": "The rebuilt house is still lived in. On the end wall facing Sovetskaya Street is the memorial wall of 1985, built of bricks gathered after the battle, with a soldier relief and the garrison's names. Gerhardt's Mill and the Panorama Museum stand across the square.",
+   "plan": "FCDO advises against all travel to Russia. A residential building seen from the street, so always accessible and free. Do not enter the flats or stairwells. Combine with the Panorama Museum next door.",
+   "url": "https://stalingrad-battle.ru/",
+   "private": true,
+   "solemn": false,
+   "disputed": "Who commanded is debated: the house is named after Sergeant Pavlov, but some historians credit Lieutenant Afanasyev. The start date (23 or 27 September) and the length of the defence (58 or 60 days) vary, and German records do not support claims of very heavy assaults on the house.",
+   "links": [
+    [
+     "Pavlov's House (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Pavlov%27s_House"
+    ],
+    [
+     "Pavlov's House (TracesOfWar)",
+     "https://www.tracesofwar.com/sights/10529/Pavlovs-House.htm"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pavlov%27s_House",
+    "https://ru.wikipedia.org/wiki/Дом_Павлова"
+   ],
+   "aar": {
+    "when": "25 NOV 1942",
+    "ev": "Pavlov's garrison still holds the apartment block as the Soviet counter-offensive begins.",
+    "st": "In late September 1942 Sergeant Yakov Pavlov's group seized this apartment block, and about 31 men under Lieutenant Afanasyev held it until 25 November. They mined the approaches and fired an anti-tank rifle from the roof. Today the rebuilt house is still lived in, and a memorial wall of battle bricks bearing the garrison's names faces Sovetskaya Street.",
+    "q": {
+     "t": "Besides Sergeant Pavlov, who is credited by some historians with commanding the house's defence?",
+     "o": [
+      "General Alexander Rodimtsev",
+      "Marshal Vasily Chuikov",
+      "Lieutenant Ivan Afanasyev"
+     ],
+     "a": 2,
+     "x": "Pavlov seized the house, but Lieutenant Ivan Afanasyev arrived with reinforcements and some historians see him as the real commander of the garrison."
+    },
+    "rem": "Pavlov's House shows how a single building could become a fortress, and a legend, in Stalingrad's street fighting."
+   },
+   "notes": "TRAVEL ADVICE: the UK FCDO advises against all travel to Russia (updated 18 Sep 2026). Current address Sovetskaya ulitsa 39 (pre-war Penzenskaya 61). 'private': true because it is a residential building viewed from outside. Memorial wall unveiled 4 May 1985 (architect V. Maslyaev, sculptor V. Fetisov)."
+  },
+  {
+   "id": "rossoshka",
+   "name": "Rossoshka war cemeteries",
+   "short": "Rossoshka",
+   "town": "Rossoshka (Gorodishche district, near Volgograd)",
+   "country": "Russia",
+   "lat": 48.825447,
+   "lon": 44.165319,
+   "coord_src": "https://kriegsgraeberstaetten.volksbund.de/en/military-cemetery/rossoschka",
+   "conf": "DOC",
+   "cat": "Cemetery",
+   "kind": "battle",
+   "pri": 3,
+   "when": "Nov 1942 – Feb 1943 (cemeteries 1997 and 1999)",
+   "sort": "1943-01-31",
+   "min": 60,
+   "text": "Rossoshka lies in the steppe about 37 km north-west of central Volgograd, in the middle of the pocket where the German 6th Army was encircled from November 1942 until its surrender in early February 1943. The villages of Bolshaya and Malaya Rossoshka were destroyed in the fighting. Two cemeteries face each other across the road. The Soviet cemetery opened on 23 August 1997 and holds about 18,520 Red Army dead, mostly unknown. The German cemetery, built by the Volksbund and dedicated in 1999, holds over 61,000 German soldiers, and granite cubes dedicated in 2006 carry the names of nearly 120,000 missing. A Chapel of Peace opened in 2016.",
+   "look": "On the German side, a circular enclosure about 150 m across with a central cross, and beyond it rows of tall granite cubes covered in names. Across the road, the Soviet cemetery with Vysotsky's lines on the entrance walls and the 'Mother in Sorrow' holding a bell without a clapper.",
+   "plan": "FCDO advises against all travel to Russia. Open-air cemeteries, free. No public transport: by car or taxi, past Volgograd airport then about 17 km on. Toilets on site. Check the Volksbund page before you go.",
+   "url": "https://kriegsgraeberstaetten.volksbund.de/en/military-cemetery/rossoschka",
+   "private": false,
+   "solemn": true,
+   "disputed": "Figures for the German cemetery differ: the Volksbund lists 61,791 buried (71,427 total recorded), Wikipedia about 65,000 after later reburials, and Volgograd State University's guide 'more than 50,000'.",
+   "links": [
+    [
+     "Rossoschka German War Cemetery (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Rossoschka_German_War_Cemetery"
+    ],
+    [
+     "Rossoschka (Volksbund, official)",
+     "https://kriegsgraeberstaetten.volksbund.de/en/military-cemetery/rossoschka"
+    ]
+   ],
+   "sources": [
+    "https://kriegsgraeberstaetten.volksbund.de/en/military-cemetery/rossoschka",
+    "https://en.wikipedia.org/wiki/Rossoschka_German_War_Cemetery",
+    "https://volgaland.volsu.ru/en/object/86",
+    "https://www.pravmir.com/chapel-peace-marking-reconciliation-russian-german-people-opened-soldier-cemetery-stalingrad/"
+   ],
+   "aar": {
+    "when": "JAN 1943",
+    "ev": "In the frozen steppe pocket, the encircled German 6th Army slowly collapses.",
+    "st": "Rossoshka lies in the middle of the pocket where the German 6th Army was trapped from November 1942. Since 1997 and 1999 two cemeteries have faced each other here, one for about 18,520 Red Army dead and one for more than 61,000 Germans. Today you see a circular German enclosure, granite cubes of names, and across the road the Soviet 'Mother in Sorrow'.",
+    "q": null,
+    "rem": "Two cemeteries facing each other across one road, in the middle of the Stalingrad pocket."
+   },
+   "notes": "TRAVEL ADVICE: the UK FCDO advises against all travel to Russia (updated 18 Sep 2026). Coordinates are for the German cemetery, converted from the Volksbund's DMS 48°49'31.61\"N, 44°9'55.15\"E; Wikipedia gives 48.82417, 44.16472. Volgograd State University puts the site '60 km from Volgograd' (by road); Volksbund and Wikipedia say about 37 km. Volsu says the German site was established in 1992 and dedicated 1999."
+  },
+  {
+   "id": "prokhorovka",
+   "name": "Prokhorovka battlefield, Belgorod region",
+   "short": "Prokhorovka",
+   "town": "Prokhorovka, Belgorod region",
+   "country": "Russia",
+   "lat": 51.017354,
+   "lon": 36.672313,
+   "coord_src": "https://www.tracesofwar.com/sights/12404/Victory-Memorial-Prokhorovka.htm",
+   "conf": "AREA",
+   "cat": "Battlefield",
+   "kind": "battle",
+   "pri": 1,
+   "when": "12 Jul 1943",
+   "sort": "1943-07-12",
+   "min": 180,
+   "text": "On 12 July 1943, during the German Kursk offensive (Operation Citadel), Pavel Rotmistrov's 5th Guards Tank Army counter-attacked Paul Hausser's II SS Panzer Corps on the fields south-west of Prokhorovka, about 87 km south-east of Kursk. Some 500 Soviet tanks attacked in two waves against 294 German tanks and assault guns. The Germans stopped the attack, but the Red Army stopped the German advance; Hitler ended Citadel on 13 July, partly because the Allies had landed in Sicily. Soviet losses were heavy: Valery Zamulin counts 340 tanks and self-propelled guns, against about 60–80 German armoured vehicles damaged or destroyed. A memorial bell tower was built in 1995 and the 'Third Military Field of Russia' museum in 2010.",
+   "look": "The 52 m white bell tower stands on the open field with its bells ringing every 20 minutes. Look for the 'Tank Battle' sculpture of colliding tanks in front of the museum, the Church of Sts Peter and Paul, a tank museum, preserved Soviet armour, and the long rolling fields where the armour met.",
+   "plan": "FCDO advises against all travel to Russia, and the Belgorod region borders Ukraine. Museum open Tuesday–Sunday 10:00–17:00 (ticket office to 16:30), closed Mondays; memorial grounds open at all times. Check the website before you go.",
+   "url": "https://www.prohorovskoe-pole.ru/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Soviet histories called Prokhorovka 'the greatest tank battle in history' and a decisive victory. Modern research (Zamulin, Frieser, Glantz) shows far fewer tanks than claimed and much heavier Soviet than German losses; the battle stopped the German advance but was a tactical Soviet defeat.",
+   "links": [
+    [
+     "Battle of Prokhorovka (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Battle_of_Prokhorovka"
+    ],
+    [
+     "Prokhorovskoe Pole museum-reserve (official)",
+     "https://www.prohorovskoe-pole.ru/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Prokhorovka",
+    "https://www.tracesofwar.com/sights/12404/Victory-Memorial-Prokhorovka.htm",
+    "https://memorialmuseums.org/eng/denkmaeler/view/1505/Memorial-to-the-Battle-of-Kursk",
+    "https://rusmania.com/central/belgorod-region/prokhorovka/sights/around-the-prokhorovka-field-museum-reserve/prokhorovka-field-museum-reserve"
+   ],
+   "aar": {
+    "when": "12 JUL 1943",
+    "ev": "Rotmistrov's tank army charges the SS panzer corps across the fields near Prokhorovka.",
+    "st": "On 12 July 1943 the 5th Guards Tank Army attacked the II SS Panzer Corps here in two waves of about 500 tanks. The Germans stopped them with far lighter losses, but their own advance was halted and Hitler called off Operation Citadel the next day. Today a 52 m white bell tower rises over the open fields, with a museum, a church and preserved Soviet armour.",
+    "q": {
+     "t": "Which German formation did the 5th Guards Tank Army attack at Prokhorovka?",
+     "o": [
+      "The Grossdeutschland Division alone",
+      "Hausser's II SS Panzer Corps",
+      "Guderian's 2nd Panzer Group"
+     ],
+     "a": 1,
+     "x": "Rotmistrov's tanks struck Paul Hausser's II SS Panzer Corps, part of Hoth's 4th Panzer Army, which had 294 tanks and assault guns."
+    },
+    "rem": "Prokhorovka halted the Germans but was costly for the Red Army; its fame owes much to Soviet legend."
+   },
+   "notes": "TRAVEL ADVICE: the UK FCDO advises against all travel to Russia (updated 18 Sep 2026). The Belgorod region borders Ukraine and has been hit by cross-border drone and artillery fire since 2022; the official site mentions no restrictions but check locally. Bell tower height: TracesOfWar 52 m; other sources quote 59 m - not resolved. Museum-reserve address ul. Parkovaya 47; site redirects to a Cyrillic domain. Name: the Russian 'Третье ратное поле России' is also translated 'Third Battlefield of Russia'. Coordinates point to the bell tower; the tank fighting covered several kilometres around it."
+  },
+  {
+   "id": "kursk-arc",
+   "name": "Kursk Arc memorial complex, Kursk",
+   "short": "Kursk Memorial",
+   "town": "Kursk",
+   "country": "Russia",
+   "lat": 51.787353,
+   "lon": 36.170674,
+   "coord_src": "https://tracesofwar.com/sights/23287/Triomfboog-Koersk.htm",
+   "conf": "DOC",
+   "cat": "Memorial",
+   "kind": "battle",
+   "pri": 3,
+   "when": "5 Jul – 23 Aug 1943 (memorial 1998–2000)",
+   "sort": "1943-07-05",
+   "min": 45,
+   "text": "The Battle of Kursk, from 5 July to 23 August 1943, began as Germany's last great offensive in the east, Operation Citadel, aimed at cutting off the Soviet salient around Kursk from north and south. Deep Soviet defences halted it within a week, and Soviet counter-offensives went on to take Orel and Kharkov. This memorial complex on Prospekt Pobedy opened in 1998 for the battle's 55th anniversary. It includes a mass grave with an eternal flame, a bronze statue of Marshal Georgy Zhukov unveiled on 5 July 1998, the Church of St George, a 24 m triumphal arch of 2000 crowned by St George slaying the dragon, and an alley of wartime weapons.",
+   "look": "A 600 m avenue lined by the triumphal arch with its soldier statues, the gilded-domed church of St George, the Zhukov statue, the mass grave and eternal flame, and an open-air line of equipment including a T-34, an ISU-152 and a Katyusha rocket launcher.",
+   "plan": "FCDO advises against all travel to Russia, and the Kursk region borders Ukraine. The memorial is open 24 hours and free. Check local conditions before you go.",
+   "url": "https://rusmania.com/central/kursk-region/kursk/sights/north-of-the-city/victory-memorial-complex",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Battle of Kursk (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Battle_of_Kursk"
+    ],
+    [
+     "Kursk Arc memorial complex (Rusmania)",
+     "https://rusmania.com/central/kursk-region/kursk/sights/north-of-the-city/victory-memorial-complex"
+    ]
+   ],
+   "sources": [
+    "https://www.putevka.com/kurskaya-oblast/kursk/sight/memorialnyy-kompleks-kurskaya-duga",
+    "https://tracesofwar.com/sights/23287/Triomfboog-Koersk.htm",
+    "https://tracesofwar.com/sights/23284/Open-Air-Exhibit-Kursk.htm"
+   ],
+   "aar": {
+    "when": "5 JUL 1943",
+    "ev": "Germany launches Operation Citadel against the Soviet salient around Kursk.",
+    "st": "Operation Citadel, launched on 5 July 1943, was meant to pinch off the Soviet salient around Kursk, but deep Soviet defences halted it within a week. Soviet counter-offensives then took Orel and Kharkov. Today a 600 m avenue leads past a triumphal arch, the church of St George, a statue of Zhukov, an eternal flame and a line of T-34s, guns and a Katyusha.",
+    "q": {
+     "t": "Whose bronze statue was unveiled at the Kursk memorial on 5 July 1998?",
+     "o": [
+      "Konstantin Rokossovsky",
+      "Nikolai Vatutin",
+      "Georgy Zhukov"
+     ],
+     "a": 2,
+     "x": "A bronze statue of Marshal Georgy Zhukov, who coordinated the Soviet fronts at Kursk, was unveiled on 5 July 1998, the 55th anniversary of the start of the battle."
+    },
+    "rem": "After Kursk the Germans never again launched a major offensive on the Eastern Front."
+   },
+   "notes": "TRAVEL ADVICE: the UK FCDO advises against all travel to Russia (updated 18 Sep 2026). The Kursk region borders Ukraine and saw a Ukrainian cross-border incursion from August 2024; check conditions locally. No dedicated official website found; Rusmania used as best page. Coordinates are for the triumphal arch at the entrance. Source discrepancy: one guide gives the complex opening in 1998 and the arch in 2000; others date the whole complex to 2000."
+  },
+  {
+   "id": "khatyn",
+   "name": "Khatyn Memorial, Belarus",
+   "short": "Khatyn",
+   "town": "Khatyn (Lahoysk district, Minsk region)",
+   "country": "Belarus",
+   "lat": 54.334444,
+   "lon": 27.943611,
+   "coord_src": "https://tracesofwar.com/sights/9687/National-Memorial-Khatyn.htm",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 3,
+   "when": "22 Mar 1943 (memorial 1969)",
+   "sort": "1943-03-22",
+   "min": 90,
+   "text": "On 22 March 1943, after a partisan ambush nearby, Schutzmannschaft Battalion 118, made up largely of Ukrainian and other Soviet collaborators, and the SS Dirlewanger unit surrounded the village of Khatyn, about 50 km north of Minsk. They herded the villagers into a barn, set it alight and shot those who broke out, then burned the village. About 149 people were killed, around 75 of them children. The blacksmith Yuzif Kaminsky was the only adult survivor. In 1969 the site became the Byelorussian SSR's national war memorial, designed by Yuri Gradov, Valentin Zankovich and Leonid Levin, and it stands for the hundreds of Belarusian villages destroyed in anti-partisan operations.",
+   "look": "Concrete outlines of the 26 houses, each with a chimney-shaped bell tower ringing in turn, the bronze 'Unbowed Man' of Kaminsky carrying his dead son, the stylised barn roof over the mass grave, the 'Cemetery of Villages' with 185 symbolic graves, and the wall naming camps and extermination sites in Belarus.",
+   "plan": "FCDO advises against all travel to Belarus. Memorial grounds open at all times; the Khatyn museum opens Tuesday–Sunday 10:00–19:00, closed Mondays. About an hour by car from Minsk; no regular public transport. Check the website before you go.",
+   "url": "https://khatyn.by/en",
+   "private": false,
+   "solemn": true,
+   "disputed": "Khatyn is often confused with Katyn, where the NKVD shot Polish officers in 1940; historian Norman Davies argues the Soviets chose Khatyn for a national memorial partly to exploit that confusion. Child victims are given as 70 or 75 depending on the count.",
+   "links": [
+    [
+     "Khatyn massacre (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Khatyn_massacre"
+    ],
+    [
+     "Khatyn Memorial Complex (official)",
+     "https://khatyn.by/en"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Khatyn_massacre",
+    "https://tracesofwar.com/sights/9687/National-Memorial-Khatyn.htm",
+    "https://www.memorialmuseums.org/eng/denkmaeler/view/350/State-Memorial-Khatyn",
+    "https://khatyn.by/en"
+   ],
+   "aar": {
+    "when": "22 MAR 1943",
+    "ev": "German-led auxiliaries lock Khatyn's villagers in a barn and set it on fire.",
+    "st": "On 22 March 1943 Schutzmannschaft Battalion 118 and the Dirlewanger unit burned Khatyn and its people after a partisan ambush. Only one adult, the blacksmith Yuzif Kaminsky, survived. In 1969 it became the national memorial to Belarus's destroyed villages. Today you walk among concrete outlines of the 26 houses with chimney bells, past the statue of Kaminsky holding his son, to the Cemetery of Villages.",
+    "q": null,
+    "rem": "Khatyn stands for hundreds of Belarusian villages burned with their people during anti-partisan operations."
+   },
+   "notes": "ADDED STOP (not in stoplist): Belarus's national war memorial and the key site for the German occupation and anti-partisan war in the east. TRAVEL ADVICE: the UK FCDO advises against all travel to Belarus (updated 10 Sep 2026, still current 17 Oct 2026). Wikipedia gives 54.33500, 27.94500; TracesOfWar used (6 decimals). Architects' spelling varies (Zankovich/Sankovich). Admission prices not shown on the official site."
+  }
+ ]
+}

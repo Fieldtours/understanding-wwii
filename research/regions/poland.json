@@ -1,0 +1,800 @@
+{
+ "region": "poland",
+ "story": "The war in Europe began in Poland. At dawn on 1 September 1939 German forces attacked Westerplatte and the Polish Post Office in the Free City of Danzig, and on 17 September the Soviet Union invaded from the east. Poland was defeated within five weeks but never formally surrendered: a government in exile fought on, and inside the country the Home Army grew into one of Europe's largest underground forces. Poland then became the centre of Nazi Germany's racial war. Most of the six million Jews murdered in the Holocaust died on occupied Polish soil, at Auschwitz-Birkenau, Treblinka, Bełżec, Sobibór, Majdanek and in ghettos and shooting pits, alongside millions of non-Jewish Polish civilians. Warsaw rose twice: the Jewish ghetto in April 1943 and the Home Army in August 1944, and both risings were crushed and the city systematically destroyed. Hitler ran the war in the East from the Wolf's Lair in East Prussia, where the July 1944 bomb plot failed. The Red Army's advance in 1944–45 liberated the camps but replaced German occupation with Soviet control. Visiting here is mostly about memory: the camp sites are cemeteries and should be treated as such.",
+ "stops": [
+  {
+   "id": "westerplatte",
+   "name": "Westerplatte, Gdańsk",
+   "short": "Westerplatte",
+   "town": "Gdańsk",
+   "country": "Poland",
+   "lat": 54.4075,
+   "lon": 18.67139,
+   "coord_src": "https://en.wikipedia.org/wiki/Battle_of_Westerplatte",
+   "conf": "HIGH",
+   "cat": "Battlefield",
+   "kind": "battle",
+   "pri": 1,
+   "when": "1–7 Sep 1939",
+   "sort": "1939-09-01",
+   "min": 90,
+   "text": "At about 04:45 on 1 September 1939 the old German battleship Schleswig-Holstein, moored in Danzig harbour, opened fire on the Polish Military Transit Depot on the Westerplatte peninsula. Major Henryk Sucharski and his deputy, Captain Franciszek Dąbrowski, held the depot with a garrison of roughly 200 men in guardhouses and a concrete barracks. The first assault by marines from the ship failed, and the Poles held out for a week against naval gunfire, artillery and air raids. A white flag went up at 09:45 on 7 September. Fifteen defenders were killed. Westerplatte's long defence became the founding symbol of Polish resistance.",
+   "look": "A wooded peninsula at the harbour mouth. Walk past the ruined barracks and surviving guardhouses to the tall Monument of the Coast Defenders (1966) on its mound. The old depot power station is now a Visitor Centre with an exhibition on recent archaeological finds.",
+   "plan": "Grounds are open. The Visitor Centre opened in 2025; it was opening 09:00–16:00 in October. The site is being developed into an open-air museum by the Museum of the Second World War, so expect works. Check the website before you go.",
+   "url": "https://muzeum1939.pl/en",
+   "private": false,
+   "solemn": false,
+   "disputed": "The garrison was long given as 182 men; recent research suggests 210–240. Historians also debate Sucharski's conduct: some accounts say he broke down and urged early surrender, leaving Dąbrowski effectively in command.",
+   "links": [
+    [
+     "Battle of Westerplatte (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Battle_of_Westerplatte"
+    ],
+    [
+     "Westerplatte (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Westerplatte"
+    ],
+    [
+     "Museum of the Second World War (official)",
+     "https://muzeum1939.pl/en"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Westerplatte",
+    "https://en.wikipedia.org/wiki/Westerplatte",
+    "https://muzeum1939.pl/en"
+   ],
+   "aar": {
+    "when": "1 SEP 1939",
+    "ev": "A German battleship opens fire on the Polish depot, and the garrison holds out for a week.",
+    "st": "At about 04:45 on 1 September 1939 the battleship Schleswig-Holstein opened fire on the Polish Military Transit Depot at Westerplatte. Roughly 200 men under Major Sucharski and Captain Dąbrowski beat off the first assault and held out against shells and air raids until 7 September. Today you walk past ruined barracks and guardhouses to the Monument of the Coast Defenders, with a Visitor Centre in the old power station.",
+    "q": {
+     "t": "Which German warship fired on Westerplatte at the start of the war?",
+     "o": [
+      "Admiral Graf Spee",
+      "Schleswig-Holstein",
+      "Bismarck"
+     ],
+     "a": 1,
+     "x": "The old battleship Schleswig-Holstein was moored in Danzig harbour on a courtesy visit and opened fire at about 04:45 on 1 September 1939."
+    },
+    "rem": "A garrison of about 200 men held Westerplatte for seven days, and the defence became a symbol of Polish resistance."
+   },
+   "notes": "Coordinates are Wikipedia's point for the battle on the peninsula, not a specific entrance. The site is under development as an open-air museum (Museum of the Second World War, Westerplatte branch); opening times for the Visitor Centre were shown as 09:00–16:00 in an October 2026 snapshot. Ticket prices for Westerplatte exhibitions could not be read from the official site."
+  },
+  {
+   "id": "post-office",
+   "name": "Polish Post Office, Gdańsk",
+   "short": "Polish Post Office",
+   "town": "Gdańsk",
+   "country": "Poland",
+   "lat": 54.35511,
+   "lon": 18.656852,
+   "coord_src": "https://tracesofwar.com/sights/5533/Post-Office-Museum-Gdansk.htm",
+   "conf": "HIGH",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 3,
+   "when": "1 Sep 1939",
+   "sort": "1939-09-01",
+   "min": 45,
+   "text": "The Polish Post Office in the Free City of Danzig was Polish state property and its staff were armed in secret. On 1 September 1939 the 56 people inside, most of them postal workers, held off Danzig police, SS and SA for about 15 hours. The Germans blew a hole in the wall with 600 kg of explosives and then poured petrol into the basement and set it alight. The director, Dr Jan Michoń, was shot as he came out with a white flag, and the rest surrendered. A court-martial condemned the survivors as illegal combatants, and they were shot at Zaspa on 5 October 1939.",
+   "look": "The red-brick post office still works as a post office, and the museum branch inside tells the story of the defence with the defenders' personal belongings. Look for bullet and grenade scars on the walls, and the steel monument to the defenders in the square outside.",
+   "plan": "Museum branch of Muzeum Gdańska, open seasonally April–September, daily 10:00–18:00; about 15 zł, free on Mondays. Closed in winter. The monument outside can be seen at any time. Check the website before you go.",
+   "url": "https://muzeumgdansk.pl/wizyta-w-muzeum-gdanska/oddzialy/",
+   "private": false,
+   "solemn": false,
+   "disputed": "In 1998 a court in Lübeck annulled the 1939 death sentences, partly because the military penal law used had not yet come into force in Danzig when the defenders were tried.",
+   "links": [
+    [
+     "Defence of the Polish Post Office in Danzig (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Defence_of_the_Polish_Post_Office_in_Danzig"
+    ],
+    [
+     "Muzeum Gdańska branches (official)",
+     "https://muzeumgdansk.pl/wizyta-w-muzeum-gdanska/oddzialy/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Defence_of_the_Polish_Post_Office_in_Danzig",
+    "https://tracesofwar.com/sights/5533/Post-Office-Museum-Gdansk.htm",
+    "https://muzeumgdansk.pl/wizyta-w-muzeum-gdanska/oddzialy/"
+   ],
+   "aar": {
+    "when": "1 SEP 1939",
+    "ev": "Armed postal workers hold their post office against Danzig police and SS for fifteen hours.",
+    "st": "On 1 September 1939 the 56 people inside the Polish Post Office in Danzig, mostly postal workers, held off police, SS and SA for about 15 hours. The Germans breached the wall with explosives and set the basement on fire, and the survivors were later condemned and shot. Today the building still works as a post office, with bullet scars, a small museum inside and a monument in the square.",
+    "q": {
+     "t": "How did the Germans finally break the defence of the post office?",
+     "o": [
+      "They cut off its water and waited",
+      "Artillery from Westerplatte destroyed it",
+      "They breached the wall and set the basement on fire"
+     ],
+     "a": 2,
+     "x": "A 600 kg explosive charge breached the wall, then petrol was poured into the basement and lit. The director was shot under a white flag and the rest surrendered."
+    },
+    "rem": "The defenders were postal workers, not soldiers, and were executed as illegal combatants; a German court annulled their sentences in 1998."
+   },
+   "notes": "Museum branch is seasonal (April–September) per Muzeum Gdańska's branches page, so it is likely closed for visits from October to March. Wikipedia gives two different dates for the sentences/executions; the execution date of 5 October 1939 is used here. The Museum of the Second World War is about 200 m away, so the two combine easily."
+  },
+  {
+   "id": "museum-ww2",
+   "name": "Museum of the Second World War, Gdańsk",
+   "short": "WW2 Museum Gdańsk",
+   "town": "Gdańsk",
+   "country": "Poland",
+   "lat": 54.356055,
+   "lon": 18.660557,
+   "coord_src": "https://tracesofwar.com/sights/94440/Gdansk-Museum-of-the-Second-World-War.htm",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 1,
+   "when": "1939–1945 (opened 23 Mar 2017)",
+   "sort": "1939-09-01",
+   "min": 180,
+   "text": "Opened in March 2017 beside the Motława river, this is one of the largest museums of the war anywhere. The building, by the Gdynia studio Kwadrat, sinks most of its exhibition underground beneath a leaning tower. The permanent exhibition covers the whole war with a strong focus on civilians, occupation and the experience of Poland and Eastern Europe, from the road to war through Westerplatte, occupation terror and the Holocaust to the war's aftermath. It also runs the Westerplatte site. The museum was created by a team led by historian Paweł Machcewicz, and its exhibition became a political battleground after 2016.",
+   "look": "Look for the tilted red tower near the Polish Post Office. Inside, the main exhibition is underground and very large: reconstructed streets, vehicles including a Sherman and a T-34, and thousands of objects. Allow at least three hours and pace yourself.",
+   "plan": "Closed Mondays; generally open 10:00–18:00. Entry is by timed ticket; buy online in advance at bilety.muzeum1939.pl, as visitors without a booking have been turned away. Audio guide extra. Check the website before you go.",
+   "url": "https://muzeum1939.pl/en",
+   "private": false,
+   "solemn": false,
+   "disputed": "After 2016 the government merged the museum with the Westerplatte museum and removed its founding director; new management changed parts of the exhibition. In 2020 the original authors won a copyright case over changes made without consulting them.",
+   "links": [
+    [
+     "Museum of the Second World War (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Museum_of_the_Second_World_War"
+    ],
+    [
+     "Museum of the Second World War (official)",
+     "https://muzeum1939.pl/en"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Museum_of_the_Second_World_War",
+    "https://tracesofwar.com/sights/94440/Gdansk-Museum-of-the-Second-World-War.htm",
+    "https://www.inyourpocket.com/gdansk/wwii-museum_66473v",
+    "https://muzeum1939.pl/en"
+   ],
+   "aar": {
+    "when": "23 MAR 2017",
+    "ev": "Poland's great war museum opens beside the river, its exhibition buried deep underground.",
+    "st": "The Museum of the Second World War opened in March 2017, with most of its huge exhibition set underground beneath a leaning tower. It tells the whole war with a focus on civilians, occupation and Eastern Europe, and it also runs the Westerplatte site. Today you descend into reconstructed streets, vehicles and thousands of objects, and need at least three hours to do it justice.",
+    "q": {
+     "t": "Where is most of the museum's main exhibition?",
+     "o": [
+      "Underground, below the building",
+      "On the upper floors of the tower",
+      "In the open air on the riverbank"
+     ],
+     "a": 0,
+     "x": "The architects placed the exhibition halls below ground; the leaning tower above houses other functions and marks the museum on the skyline."
+    },
+    "rem": "Book a timed ticket in advance and allow at least three hours; the post office is only a short walk away."
+   },
+   "notes": "Opening pattern (closed Mondays, 10:00–18:00) taken from In Your Pocket because the museum's own hours page could not be loaded; In Your Pocket also says Tuesday closing is 16:00. Ticket prices not confirmed. Exhibits named in 'look' (Sherman, T-34) are from general knowledge, not verified in October 2026; editor may wish to cut."
+  },
+  {
+   "id": "stutthof",
+   "name": "Stutthof Museum, Sztutowo",
+   "short": "Stutthof",
+   "town": "Sztutowo",
+   "country": "Poland",
+   "lat": 54.32986,
+   "lon": 19.15772,
+   "coord_src": "https://en.wikipedia.org/wiki/Stutthof_concentration_camp ; corrected after GPS check: OSM: Stutthof Museum, Muzealna 6",
+   "conf": "HIGH",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 3,
+   "when": "2 Sep 1939 – 9 May 1945",
+   "sort": "1939-09-02",
+   "min": 120,
+   "text": "Stutthof opened on 2 September 1939, the first German concentration camp set up outside Germany's borders in the war. Its first prisoners were Poles from Danzig and Pomerania, especially the educated and community leaders. About 110,000 people from many countries passed through it; around 63,000–65,000 died, including some 28,000 Jews, many of them women brought from the Baltic ghettos and from Auschwitz in 1944. From 1944 the camp also had a gas chamber. The evacuation began on 25 January 1945, and thousands died on the death march. Soviet troops reached the camp only on 9 May 1945. The memorial museum opened in 1962.",
+   "look": "Wooden barracks, the commandant's villa, the gas chamber and crematorium, and the 'Death Gate' through which prisoners entered. A large memorial stands by the crematorium. A short documentary film runs hourly in the cinema.",
+   "plan": "Open daily: 8:00–15:00 from October, 8:00–18:00 from May; last entry 30 minutes before closing. Films hourly. Check admission and guiding on the website before you go.",
+   "url": "https://stutthof.org/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Stutthof concentration camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Stutthof_concentration_camp"
+    ],
+    [
+     "Stutthof Museum (official)",
+     "https://stutthof.org/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Stutthof_concentration_camp",
+    "https://stutthof.org/en/",
+    "https://stutthof.org/en/opening-hours/"
+   ],
+   "aar": {
+    "when": "2 SEP 1939",
+    "ev": "Germany opens its first wartime concentration camp outside its borders, in the forest near Danzig.",
+    "st": "Stutthof opened on 2 September 1939 for Polish prisoners from Danzig and Pomerania. About 110,000 people passed through it, including many Jewish women from the Baltic ghettos in 1944, and thousands died on the death march of January 1945. Today you see the Death Gate, wooden barracks, the gas chamber and crematorium, and a large memorial.",
+    "q": null,
+    "rem": "Stutthof opened the day after the war began, and was one of the last camps to be reached, on 9 May 1945."
+   },
+   "notes": "Hours from stutthof.org (October 2026). Admission price could not be confirmed. 'Look' details (gas chamber, commandant's villa, barracks) are standard features of the site but were not individually re-checked on the official site. Sztutowo is about 40 km east of Gdańsk."
+  },
+  {
+   "id": "wolfs-lair",
+   "name": "Wolf's Lair, Gierłoż near Kętrzyn",
+   "short": "Wolf's Lair",
+   "town": "Gierłoż (Kętrzyn)",
+   "country": "Poland",
+   "lat": 54.08047,
+   "lon": 21.49835,
+   "coord_src": "https://en.wikipedia.org/wiki/Wolf%27s_Lair ; corrected after GPS check: OSM: Wolf's Lair visitor site",
+   "conf": "MEDIUM",
+   "cat": "Headquarters",
+   "kind": "historic",
+   "pri": 1,
+   "when": "Jun 1941 – Jan 1945; bomb plot 20 Jul 1944",
+   "sort": "1944-07-20",
+   "min": 120,
+   "text": "Organisation Todt built this forest headquarters near Rastenburg in East Prussia, and Hitler moved in on 24 June 1941, two days after the invasion of the Soviet Union began. He spent more than 800 days here, more than anywhere else during the war. On 20 July 1944 Colonel Claus von Stauffenberg left a briefcase bomb at a midday situation conference. Because the meeting was held in a lightly built hut rather than a concrete bunker, the blast was weakened and Hitler survived with minor injuries. He left for the last time on 20 November 1944, and German engineers blew up the bunkers on 24–25 January 1945.",
+   "look": "Massive slabs of shattered concrete, some walls more than 2 m thick, lie tilted in the forest. Look for the plaque marking the site of the July 1944 conference hut, Hitler's bunker (No. 13) and Göring's bunker, the best preserved.",
+   "plan": "Open daily from 08:00; closes 16:00 October–February and as late as 20:00 May–August. Paid entry (about 30 PLN in season, 2026); local guides and audio guides available. A new official site offers online booking. Check the website before you go.",
+   "url": "https://wilczyszaniec.olsztyn.lasy.gov.pl/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Wolf's Lair (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Wolf%27s_Lair"
+    ],
+    [
+     "Wilczy Szaniec (official, State Forests)",
+     "https://wilczyszaniec.olsztyn.lasy.gov.pl/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Wolf%27s_Lair",
+    "https://wilczyszaniec.olsztyn.lasy.gov.pl/",
+    "https://wolfsschanze.pl/en/",
+    "https://www.inyourpocket.com/gdansk/wolfs-lair_139214v"
+   ],
+   "aar": {
+    "when": "20 JUL 1944",
+    "ev": "Stauffenberg's briefcase bomb explodes beside Hitler, who survives with minor injuries.",
+    "st": "Hitler spent more than 800 days at this forest headquarters in East Prussia. On 20 July 1944 Colonel von Stauffenberg left a briefcase bomb at a situation conference, but the meeting was in a light hut, the blast was weakened, and Hitler survived. Today huge slabs of blown-up concrete lie tilted among the trees, with a plaque at the site of the conference hut.",
+    "q": {
+     "t": "Why did Hitler survive Stauffenberg's bomb?",
+     "o": [
+      "The bomb failed to explode",
+      "The meeting was in a light hut, which weakened the blast",
+      "He had left the room before the bomb was placed"
+     ],
+     "a": 1,
+     "x": "The conference was held in a lightly built hut instead of a concrete bunker, so the blast vented outwards and Hitler escaped with minor injuries."
+    },
+    "rem": "Hitler spent more time here than anywhere else in the war; the bunkers were blown up by the Germans themselves in January 1945."
+   },
+   "notes": "Wikipedia lists 54.0804, 21.4941 in decimal but 54°04′49″N 21°29′39″E in DMS; the DMS conversion is used for more precision. The complex covers a large area, hence MEDIUM. The site is run by State Forests (Nadleśnictwo Srokowo); its State Forests page mentions a new official site, wilczy-szaniec.pl, with online booking, which could not be opened. Ticket price is from the independent wolfsschanze.pl. Ruins are unstable; keep to paths and do not climb where signs forbid it."
+  },
+  {
+   "id": "warsaw-rising",
+   "name": "Warsaw Rising Museum",
+   "short": "Warsaw Rising Museum",
+   "town": "Warsaw",
+   "country": "Poland",
+   "lat": 52.23282,
+   "lon": 20.981049,
+   "coord_src": "https://tracesofwar.com/sights/1208/Warsaw-Uprising-Museum.htm",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 1,
+   "when": "1 Aug – 2 Oct 1944",
+   "sort": "1944-08-01",
+   "min": 180,
+   "text": "At 17:00 on 1 August 1944, 'W-hour', the Home Army rose against the German garrison of Warsaw as the Red Army approached the Vistula. The insurgents took much of the city but never linked their districts. From 5 August German forces massacred civilians in Wola, where this museum now stands, and in Ochota. Allied airdrops from Italy were small and often fell to the Germans, while the Soviets stayed on the far bank. After 63 days the Home Army surrendered on 2 October. Between 150,000 and 200,000 civilians died; the survivors were expelled and the Germans then demolished the city. The museum opened on 31 July 2004.",
+   "look": "Housed in a former tram power station in Wola. Look for the full-size B-24 Liberator in the hangar hall, the replica sewer you can crawl through, insurgent armbands and weapons, and the 3D film 'City of Ruins'. The Memorial Wall in the park lists thousands of the fallen.",
+   "plan": "Closed Tuesdays. Mon and Wed–Fri 08:00–18:00, Sat–Sun 10:00–18:00. Tickets 35 PLN (reduced 30 PLN), best bought online at bilety.1944.pl. Busy at weekends. Check the website before you go.",
+   "url": "https://www.1944.pl/en",
+   "private": false,
+   "solemn": false,
+   "disputed": "Historians disagree on why the Red Army halted on the Vistula: most Polish and Western writers argue Stalin let the Germans destroy the Home Army; others, such as David Glantz, argue the Soviets were genuinely stopped by German defences.",
+   "links": [
+    [
+     "Warsaw Uprising (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Warsaw_Uprising"
+    ],
+    [
+     "Warsaw Uprising Museum (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Warsaw_Uprising_Museum"
+    ],
+    [
+     "Warsaw Rising Museum (official)",
+     "https://www.1944.pl/en"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Warsaw_Uprising",
+    "https://en.wikipedia.org/wiki/Warsaw_Uprising_Museum",
+    "https://tracesofwar.com/sights/1208/Warsaw-Uprising-Museum.htm",
+    "https://www.1944.pl/en"
+   ],
+   "aar": {
+    "when": "1 AUG 1944",
+    "ev": "At 17:00 the Home Army rises across Warsaw as Soviet troops near the Vistula.",
+    "st": "On 1 August 1944 the Home Army rose in Warsaw and fought for 63 days before surrendering on 2 October. German troops massacred civilians in Wola, where the museum stands, and afterwards demolished the city. Today the museum fills a former tram power station, with a full-size B-24 Liberator, a sewer you can crawl through and a Memorial Wall of the fallen.",
+    "q": {
+     "t": "At what time did the Warsaw Uprising officially begin on 1 August 1944?",
+     "o": [
+      "At dawn",
+      "At midnight",
+      "At 17:00"
+     ],
+     "a": 2,
+     "x": "The Home Army set 'W-hour' for 17:00 on 1 August, though in some places shooting started earlier."
+    },
+    "rem": "Warsaw's 63-day rising was the largest single action by any European resistance movement, and the city was razed afterwards."
+   },
+   "notes": "Hours and prices from 1944.pl (October 2026). Coordinates are TracesOfWar's point for the museum at Grzybowska 79. 'City of Ruins' film and Memorial Wall are from general knowledge, not re-checked this month."
+  },
+  {
+   "id": "ghetto-heroes",
+   "name": "Ghetto Heroes Monument and POLIN Museum, Warsaw",
+   "short": "Ghetto Heroes/POLIN",
+   "town": "Warsaw",
+   "country": "Poland",
+   "lat": 52.24972,
+   "lon": 20.99389,
+   "coord_src": "https://en.wikipedia.org/wiki/Monument_to_the_Ghetto_Heroes",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 2,
+   "when": "19 Apr – 16 May 1943",
+   "sort": "1943-04-19",
+   "min": 150,
+   "text": "On 19 April 1943, when German forces entered the ghetto to complete its liquidation, Jewish fighters of the left-wing ŻOB under Mordechai Anielewicz and the right-wing ŻZW met them with pistols, grenades and petrol bombs. SS General Jürgen Stroop's troops burned the ghetto block by block. The ŻOB command bunker at Miła 18 fell on 8 May, and on 16 May Stroop blew up the Great Synagogue to mark the end. The monument by Nathan Rapoport, unveiled in 1948, stands where some of the first clashes took place. In 1970 West German Chancellor Willy Brandt knelt before it. The POLIN Museum of the History of Polish Jews faces it.",
+   "look": "Rapoport's bronze relief of fighters set in dark stone, with a procession of victims on the back. The labradorite is said to have been ordered by Albert Speer for Nazi monuments. Across the square, POLIN's glass building traces a thousand years of Polish Jewish life, including the ghetto.",
+   "plan": "Monument: open-air, always accessible, free. POLIN: closed Tuesdays; open 10:00–18:00, Saturday to 20:00; core exhibition free on Thursdays; last entry two hours before closing. Tickets at bilety.polin.pl. Check the website before you go.",
+   "url": "https://www.polin.pl/en/visit",
+   "private": false,
+   "solemn": true,
+   "disputed": "The ŻZW's role was long played down in Soviet-era and some Israeli accounts that presented the ŻOB as the sole force. Stroop reported 16 Germans killed; historians such as Israel Gutman think the real figure was higher.",
+   "links": [
+    [
+     "Warsaw Ghetto Uprising (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising"
+    ],
+    [
+     "Monument to the Ghetto Heroes (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Monument_to_the_Ghetto_Heroes"
+    ],
+    [
+     "POLIN Museum (official)",
+     "https://www.polin.pl/en/visit"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising",
+    "https://en.wikipedia.org/wiki/Monument_to_the_Ghetto_Heroes",
+    "https://en.wikipedia.org/wiki/POLIN_Museum_of_the_History_of_Polish_Jews",
+    "https://www.polin.pl/en/visit"
+   ],
+   "aar": {
+    "when": "19 APR 1943",
+    "ev": "Jewish fighters open fire as German troops enter the ghetto to complete its liquidation.",
+    "st": "On 19 April 1943 fighters of the ŻOB and ŻZW resisted the final liquidation of the Warsaw Ghetto, and Stroop's troops burned it block by block until 16 May. Rapoport's monument, unveiled in 1948, stands where some of the first clashes took place. Today the bronze fighters face the glass POLIN Museum, which tells a thousand years of Polish Jewish history.",
+    "q": null,
+    "rem": "The ghetto fighters held out for almost four weeks; Willy Brandt knelt at this monument in 1970."
+   },
+   "notes": "Two stops in one: the Ghetto Heroes monument and POLIN (POLIN Wikipedia coordinates 52.24944, 20.99306, about 50 m away). Combine with Umschlagplatz (about 10 minutes' walk north) and Miła 18. POLIN ticket prices were not listed on the visit page."
+  },
+  {
+   "id": "umschlagplatz",
+   "name": "Umschlagplatz memorial, Warsaw",
+   "short": "Umschlagplatz",
+   "town": "Warsaw",
+   "country": "Poland",
+   "lat": 52.25226,
+   "lon": 20.989082,
+   "coord_src": "https://tracesofwar.com/sights/5512/Memorial-Umschlagplatz-Warsaw.htm",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 3,
+   "when": "22 Jul – 21 Sep 1942",
+   "sort": "1942-07-22",
+   "min": 20,
+   "text": "The Umschlagplatz, a loading yard on Stawki Street beside the railway, was the place from which the Jews of the Warsaw Ghetto were sent to Treblinka. During the Grossaktion Warschau, from 22 July to 21 September 1942, some 254,000–265,000 people were marched here, held in the yard and nearby buildings, and loaded into freight wagons; about 300,000 were deported in all. Among them on 6 August 1942 were Janusz Korczak and the children of his orphanage. The memorial, by Hanna Szmalenberg and Władysław Klamerus, was unveiled on 18 April 1988, on the eve of the uprising's 45th anniversary.",
+   "look": "A white marble enclosure about 4 m high, shaped like an open goods wagon. Inside, 400 Polish and Jewish first names are carved, from Aba to Żanna, each standing for a thousand victims. A single tree is visible through the opening.",
+   "plan": "Open-air memorial on Stawki Street, accessible at any time and free. About 10 minutes' walk from the Ghetto Heroes Monument and POLIN.",
+   "url": "https://tracesofwar.com/sights/5512/Memorial-Umschlagplatz-Warsaw.htm",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Umschlagplatz (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Umschlagplatz"
+    ],
+    [
+     "Umschlagplatz Monument (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Umschlagplatz_Monument"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Umschlagplatz",
+    "https://en.wikipedia.org/wiki/Umschlagplatz_Monument",
+    "https://tracesofwar.com/sights/5512/Memorial-Umschlagplatz-Warsaw.htm"
+   ],
+   "aar": {
+    "when": "22 JUL 1942",
+    "ev": "The mass deportation of Warsaw's Jews to Treblinka begins from this railway yard.",
+    "st": "From 22 July to 21 September 1942 the Germans marched the Jews of the Warsaw Ghetto to this loading yard on Stawki Street and packed them into freight wagons bound for Treblinka. Janusz Korczak and his orphans were taken from here on 6 August. Today a white marble enclosure shaped like a goods wagon bears 400 first names, each standing for a thousand victims.",
+    "q": null,
+    "rem": "From this yard the Jews of Warsaw were sent to Treblinka; 400 names on the wall each stand for a thousand people."
+   },
+   "notes": "No official website for the memorial itself. The Korczak deportation date (6 August 1942) and the 'single tree' are from general knowledge, not re-checked on a source this month. The memorial's form and 400 names are from Wikipedia."
+  },
+  {
+   "id": "treblinka",
+   "name": "Treblinka Museum and memorial",
+   "short": "Treblinka",
+   "town": "Wólka Okrąglik (Kosów Lacki)",
+   "country": "Poland",
+   "lat": 52.63111,
+   "lon": 22.05306,
+   "coord_src": "https://en.wikipedia.org/wiki/Treblinka_extermination_camp",
+   "conf": "HIGH",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 1,
+   "when": "23 Jul 1942 – Oct 1943",
+   "sort": "1942-07-23",
+   "min": 120,
+   "text": "Treblinka II was a death camp of Operation Reinhard, the German plan to murder the Jews of the General Government. It opened on 23 July 1942, the day after the Warsaw deportations began, and trains brought Jews mainly from Warsaw and central Poland, as well as from abroad. Most were gassed within hours of arrival. On 2 August 1943 prisoners revolted and set fire to the camp; about 200 escaped and roughly 70 survived the war. The Germans dismantled the camp in autumn 1943 and planted a farm over it. Two kilometres away, the Treblinka I penal labour camp held over 20,000 prisoners, about half of whom died.",
+   "look": "Concrete sleepers mark the line of the railway spur. In the clearing where the gas chambers stood, a stone memorial rises from a field of thousands of jagged granite stones, many bearing the names of towns and villages. Paths lead to the Treblinka I gravel pit and the execution site.",
+   "plan": "Grounds of Treblinka II, Treblinka I and the execution site open 9:00–18:30 (April–October); 10 PLN, free Mondays. The museum building is being rebuilt and its exhibition is closed until further notice (2026). Closed Easter, 24–26 Dec and 1 Jan. Check the website before you go.",
+   "url": "https://muzeumtreblinka.eu/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "Estimates of the number murdered at Treblinka II vary from about 800,000 to 925,000, because the Germans destroyed the records; Wikipedia also gives inconsistent figures for Treblinka I.",
+   "links": [
+    [
+     "Treblinka extermination camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Treblinka_extermination_camp"
+    ],
+    [
+     "Muzeum Treblinka (official)",
+     "https://muzeumtreblinka.eu/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Treblinka_extermination_camp",
+    "https://muzeumtreblinka.eu/en/",
+    "https://muzeumtreblinka.eu/en/visit/"
+   ],
+   "aar": {
+    "when": "23 JUL 1942",
+    "ev": "The first deportation train from Warsaw reaches the new death camp in the forest.",
+    "st": "Treblinka II opened on 23 July 1942 as part of Operation Reinhard, and trains brought Jews mainly from Warsaw and central Poland. On 2 August 1943 prisoners revolted and about 200 escaped. The Germans then dismantled the camp and planted a farm over it. Today concrete sleepers mark the rail spur, and a stone memorial stands among thousands of granite stones bearing the names of lost communities.",
+    "q": null,
+    "rem": "Almost nothing of the camp survives because the Germans destroyed it; the field of stones stands for the communities that ended here."
+   },
+   "notes": "Museum building under reconstruction in 2026; exhibition closed until further notice; temporary office at Polna 1, Kosów Lacki. Winter (Nov–Mar) grounds hours are normally 8:00–16:00. Remote site, about 100 km north-east of Warsaw: a car is needed. The figure of about 17,000 memorial stones is commonly quoted but was not confirmed on the sources opened, so 'thousands' is used."
+  },
+  {
+   "id": "majdanek",
+   "name": "State Museum at Majdanek, Lublin",
+   "short": "Majdanek",
+   "town": "Lublin",
+   "country": "Poland",
+   "lat": 51.22532,
+   "lon": 22.60626,
+   "coord_src": "https://en.wikipedia.org/wiki/Majdanek_concentration_camp ; corrected after GPS check: OSM: Majdanek State Museum, Droga Męczenników Majdanka 67",
+   "conf": "HIGH",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 1,
+   "when": "Oct 1941 – Jul 1944; 'Harvest Festival' 3 Nov 1943",
+   "sort": "1943-11-03",
+   "min": 150,
+   "text": "Majdanek, on the edge of Lublin, was set up by the SS in autumn 1941 as a prisoner-of-war and then concentration camp, and also served as a killing site for Jews in Operation Reinhard. On 3 November 1943, in Operation Harvest Festival (Aktion Erntefest), SS and police units shot about 18,400 Jews here in a single day, in trenches beside the crematorium, to the sound of loud music. The Red Army reached the camp in late July 1944, and because it was captured nearly intact it was the first major camp seen by Allied forces and reporters. The museum was founded that autumn.",
+   "look": "Wooden barracks, watchtowers and fences still stand in open ground within sight of Lublin's housing estates. See the gas chambers and the crematorium. Wiktor Tołkin's 1969 monument stands at the entrance, and the domed mausoleum at the far end holds a mound of victims' ashes.",
+   "plan": "Grounds free to visit; Polish-language guided tours at weekends, 25 PLN (reduced 20). From 7 April 2026 the side entrances from Cmentarna and Tetmajera streets are closed: use the main entrance on Droga Męczenników Majdanka. Check opening hours on the website before you go.",
+   "url": "https://www.majdanek.eu/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "The death toll has been revised sharply: from 360,000 (1948) and 235,000 (1992) to the museum's 2005 estimate of about 78,000, including 59,000 Jews, based partly on the Höfle Telegram.",
+   "links": [
+    [
+     "Majdanek concentration camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Majdanek_concentration_camp"
+    ],
+    [
+     "State Museum at Majdanek (official)",
+     "https://www.majdanek.eu/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Majdanek_concentration_camp",
+    "https://www.majdanek.eu/en/"
+   ],
+   "aar": {
+    "when": "3 NOV 1943",
+    "ev": "In Operation Harvest Festival, SS units shoot about 18,400 Jews here in one day.",
+    "st": "Majdanek was set up on the edge of Lublin in 1941 and was both a concentration camp and a killing site for Jews. On 3 November 1943, in Operation Harvest Festival, SS and police shot about 18,400 Jews in trenches by the crematorium. Today barracks, watchtowers and gas chambers stand in open ground, with Tołkin's monument at the gate and the mausoleum of ashes beyond.",
+    "q": null,
+    "rem": "Captured almost intact in July 1944, Majdanek was the first major camp the world saw, within sight of a city."
+   },
+   "notes": "General opening hours could not be read from majdanek.eu (page error). Free admission to the grounds is widely reported but was not shown on the page opened; the guided tour fee was. Wikipedia gives liberation as 22 July (infobox) and 24 July 1944 (text); 'late July' is used. Majdanek also administers Bełżec and Sobibór."
+  },
+  {
+   "id": "sobibor",
+   "name": "Sobibór Museum and memorial",
+   "short": "Sobibór",
+   "town": "Sobibór (Włodawa)",
+   "country": "Poland",
+   "lat": 51.44722,
+   "lon": 23.59361,
+   "coord_src": "https://en.wikipedia.org/wiki/Sobibor_extermination_camp",
+   "conf": "HIGH",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 3,
+   "when": "May 1942 – Oct 1943; revolt 14 Oct 1943",
+   "sort": "1943-10-14",
+   "min": 90,
+   "text": "Sobibór was the second Operation Reinhard death camp, built in forest beside the Chełm–Włodawa railway close to the Bug river. From May 1942 transports brought Jews from the Lublin district and from the Netherlands, Slovakia, Germany and elsewhere; most were gassed within hours. On 14 October 1943 prisoners led by Leon Feldhendler's escape committee and the Soviet-Jewish officer Alexander Pechersky killed several SS men with axes and knives and broke out. About 300 escaped, and roughly 60 survived the war. The Germans closed the camp soon after and planted trees over it.",
+   "look": "A modern museum building and memorial landscape in the pine forest. Follow the route of the path the victims were driven along to the gas chambers, whose foundations archaeologists uncovered, and the large area over the mass graves. The old railway station stands nearby.",
+   "plan": "Free admission. Closed Mondays, and on 1 and 6 January, Easter, Corpus Christi, 11 November and 24–31 December. Mostly outdoors; no cloakroom or lockers; free parking. Check opening hours on the website before you go.",
+   "url": "https://www.sobibor-memorial.eu/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "Estimates of the number murdered range from about 170,000 to 250,000.",
+   "links": [
+    [
+     "Sobibor extermination camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Sobibor_extermination_camp"
+    ],
+    [
+     "Sobibór Museum (official)",
+     "https://www.sobibor-memorial.eu/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Sobibor_extermination_camp",
+    "https://www.sobibor-memorial.eu/en/",
+    "https://www.sobibor-memorial.eu/en/practical-information"
+   ],
+   "aar": {
+    "when": "14 OCT 1943",
+    "ev": "Prisoners kill SS guards and break out of the death camp into the forest.",
+    "st": "Sobibór was a death camp of Operation Reinhard, receiving Jews from the Lublin district, the Netherlands and elsewhere from May 1942. On 14 October 1943 prisoners led by Feldhendler and Pechersky killed SS men and broke out; about 300 escaped and some 60 survived the war. Today a museum and memorial landscape in the forest mark the path to the gas chambers and the mass graves.",
+    "q": null,
+    "rem": "The Sobibór revolt was one of the few successful mass escapes from a death camp."
+   },
+   "notes": "Opening hours were not shown on the official pages opened. The current museum building and the archaeological uncovering of the gas-chamber foundations (2014) are from general knowledge and were not confirmed on the sources opened this month. Transport origins listed are from general knowledge. Remote, near the Belarus border, about 80 km east of Lublin: car needed."
+  },
+  {
+   "id": "belzec",
+   "name": "Bełżec Museum and memorial",
+   "short": "Bełżec",
+   "town": "Bełżec",
+   "country": "Poland",
+   "lat": 50.37167,
+   "lon": 23.4575,
+   "coord_src": "https://en.wikipedia.org/wiki/Belzec_extermination_camp",
+   "conf": "HIGH",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 3,
+   "when": "17 Mar 1942 – Jun 1943",
+   "sort": "1942-03-17",
+   "min": 90,
+   "text": "Bełżec was the first of the three Operation Reinhard death camps, opening on 17 March 1942 beside the Lublin–Lwów railway. Transports brought Jews from the Lublin district, Galicia and Kraków. Within ten months the camp killed some 430,000 to 500,000 people, and the last transport arrived on 11 December 1942. The SS then dug up and burned the bodies and dismantled the camp by mid-1943. Only a handful of prisoners survived; of them only Rudolf Reder, who escaped in late 1942, left a full testimony. The memorial was opened in 2004 as a branch of the Majdanek museum.",
+   "look": "The whole camp area is covered with dark industrial slag, marking the mass graves. A path cuts down through it in a narrowing ravine to a wall inscribed with victims' first names. The names of the towns from which transports came line the perimeter. A museum building stands at the entrance.",
+   "plan": "Branch of the State Museum at Majdanek. Guided tours can be booked through rezerwacje@belzec.eu. Check opening hours and admission on the website before you go.",
+   "url": "https://www.belzec.eu/en",
+   "private": false,
+   "solemn": true,
+   "disputed": "Estimates vary: Wikipedia's text gives 430,000–500,000, its infobox 434,508–600,000, and historians from about 480,000 to 550,000. The figure of 434,508 comes from the Höfle Telegram up to the end of 1942.",
+   "links": [
+    [
+     "Belzec extermination camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Belzec_extermination_camp"
+    ],
+    [
+     "Bełżec Museum (official)",
+     "https://www.belzec.eu/en"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Belzec_extermination_camp",
+    "https://www.belzec.eu/en"
+   ],
+   "aar": {
+    "when": "17 MAR 1942",
+    "ev": "The first Operation Reinhard death camp begins gassing Jews from Lublin and Galicia.",
+    "st": "Bełżec opened on 17 March 1942 as the first Operation Reinhard death camp, and within ten months it killed hundreds of thousands of Jews from the Lublin district, Galicia and Kraków. The SS then burned the bodies and dismantled the camp. Today the whole site is covered with dark slag over the graves, and a path cuts down through it to a wall of victims' names.",
+    "q": null,
+    "rem": "Bełżec had almost no survivors; Rudolf Reder's testimony is one of very few accounts from inside."
+   },
+   "notes": "Opening hours and admission could not be read from belzec.eu (practical page did not load). The memorial design details (slag field, ravine path, names of towns) are from general knowledge and were not confirmed on a source opened this month. Bełżec is about 120 km south-east of Lublin, near the Ukrainian border."
+  },
+  {
+   "id": "auschwitz-1",
+   "name": "Auschwitz I (main camp), Oświęcim",
+   "short": "Auschwitz I",
+   "town": "Oświęcim",
+   "country": "Poland",
+   "lat": 50.0264,
+   "lon": 19.20396,
+   "coord_src": "https://en.wikipedia.org/wiki/Auschwitz-Birkenau_State_Museum ; corrected after GPS check: OSM: Auschwitz I museum entrance",
+   "conf": "HIGH",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 1,
+   "when": "Jun 1940 – 27 Jan 1945",
+   "sort": "1940-06-14",
+   "min": 120,
+   "text": "The Germans turned a former Polish army barracks at Oświęcim, renamed Auschwitz, into a concentration camp in 1940. The first mass transport, 728 Polish political prisoners from Tarnów, arrived on 14 June 1940, and Poles were the main prisoners in the early years. In August and September 1941 the SS first tested Zyklon B on Soviet prisoners of war and sick inmates in the cellars of Block 11 and in the old crematorium. Auschwitz I remained the administrative centre of a complex that grew to include Birkenau and Monowitz. The Red Army's 1st Ukrainian Front liberated the camps on 27 January 1945.",
+   "look": "Brick blocks behind the 'Arbeit macht frei' gate. The national exhibitions in the blocks hold piles of victims' shoes, suitcases and hair. See Block 11, the 'death block', the execution wall in its yard, and the gas chamber and crematorium beside the SS hospital.",
+   "plan": "Grounds free, but a named entry card is required, booked only online at visit.auschwitz.org; none are sold on site. At most times entry is only with a paid guide (about 3.5 hours, Auschwitz I then Birkenau). Closed 1 Jan, 25 Dec, Easter Sunday. Check the website before you go.",
+   "url": "https://www.auschwitz.org/en/visiting/",
+   "private": false,
+   "solemn": true,
+   "disputed": "The gas chamber and crematorium at Auschwitz I were partly reconstructed by the museum after the war, a fact the museum states openly; Holocaust deniers misuse it.",
+   "links": [
+    [
+     "Auschwitz concentration camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp"
+    ],
+    [
+     "Auschwitz-Birkenau State Museum (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Auschwitz-Birkenau_State_Museum"
+    ],
+    [
+     "Visiting the Memorial (official)",
+     "https://www.auschwitz.org/en/visiting/"
+    ],
+    [
+     "Booking (official)",
+     "https://visit.auschwitz.org/?lang=en"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp",
+    "https://en.wikipedia.org/wiki/Auschwitz-Birkenau_State_Museum",
+    "https://www.auschwitz.org/en/visiting/",
+    "https://www.auschwitz.org/en/visiting/guided-tours-for-individual-visitors/",
+    "https://www.auschwitz.org/en/museum/news/visit-auschwitz-org-entry-cards-to-the-memorial-available-only-online-from-1-march,1819.html",
+    "https://www.auschwitz.org/en/museum/news/changes-of-some-entry-regulations-at-the-memorial-from-may-2025,1758.html"
+   ],
+   "aar": {
+    "when": "14 JUN 1940",
+    "ev": "The first mass transport of 728 Polish political prisoners arrives at the new camp.",
+    "st": "Auschwitz I was set up in a former Polish army barracks in 1940, and the first mass transport of Polish political prisoners arrived from Tarnów on 14 June. In 1941 the SS first tested Zyklon B here on Soviet prisoners of war. Today you pass through the 'Arbeit macht frei' gate into brick blocks holding victims' belongings, Block 11 and its execution wall, and the gas chamber.",
+    "q": null,
+    "rem": "Auschwitz began as a camp for Polish prisoners before it became the centre of the largest German killing complex."
+   },
+   "notes": "BOOKING RULES (auschwitz.org, checked Oct 2026): (1) Admission to the grounds is free, but every visitor needs a personalised entry card; the number is limited. (2) Since 1 March 2026 entry cards are available ONLY online at visit.auschwitz.org, the only official system; none are sold at the main entrance, and the museum does not work with outside resellers. (3) Book up to about three months ahead; free guide-less passes have been bookable 90 to 7 days before the visit since May 2025. (4) For most of the day a guide-educator is compulsory: guide-free entry is allowed only late in the day (e.g. from 17:00 April–September, from 14:00 in January and November). Guided tours (paid; prices on visit.auschwitz.org) last about 3.5 hours, start at Auschwitz I and continue to Birkenau; offered in Polish, English, French, German, Italian, Spanish and Russian, more in summer; online sales close 15 minutes before a tour. (5) Arrive at least 30 minutes early for security. Bags no larger than 35 x 25 x 15 cm. Dress appropriately. (6) Last entry varies by month (14:00 in December to 19:00 in June–August); visitors may stay 90 minutes after last entry. (7) Closed 1 January, 25 December and Easter Sunday. Some areas (parts of Birkenau, part of Block 5, the Russian exhibition in Block 14) are temporarily closed. A free shuttle bus runs between Auschwitz I and Birkenau (per Wikivoyage). Coordinates are Wikipedia's Google Earth point for the museum entrance (labelled as such in the Auschwitz-Birkenau State Museum article). Oświęcim is about 60 km west of Kraków."
+  },
+  {
+   "id": "birkenau",
+   "name": "Auschwitz II-Birkenau",
+   "short": "Birkenau",
+   "town": "Brzezinka (Oświęcim)",
+   "country": "Poland",
+   "lat": 50.034386,
+   "lon": 19.180894,
+   "coord_src": "https://www.komoot.com/highlight/3806657",
+   "conf": "HIGH",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 1,
+   "when": "Oct 1941 – 27 Jan 1945",
+   "sort": "1944-05-15",
+   "min": 120,
+   "text": "Construction of Birkenau began in October 1941 at Brzezinka, about 3 km from the main camp. It became the main killing centre of the Holocaust: by June 1943 crematoria II–V were working, with gas chambers in II and III. Most of the roughly 1.1 million people murdered at Auschwitz, about 90 per cent of them Jews, died here. In May 1944 a rail spur and ramp were completed inside the camp for the deportation of Hungary's Jews, who arrived from May to early July. On 7 October 1944 the Sonderkommando rose in revolt and destroyed Crematorium IV. The SS blew up the remaining crematoria before evacuating the camp in January 1945.",
+   "look": "Enter through the brick gatehouse, the 'Gate of Death', and see how vast the camp is. Follow the rails to the unloading ramp, then to the ruins of crematoria II and III and the International Monument. Wooden and brick barracks survive; elsewhere only chimneys remain.",
+   "plan": "Same entry card as Auschwitz I, booked online only at visit.auschwitz.org; guided tours continue here from Auschwitz I. A free shuttle bus links the two sites. Mostly outdoors and exposed: dress for the weather. Check the website before you go.",
+   "url": "https://www.auschwitz.org/en/visiting/",
+   "private": false,
+   "solemn": true,
+   "disputed": "During the communist period plaques at Birkenau gave four million victims; research led by the museum's historian Franciszek Piper established about 1.1 million, and the plaques were replaced in the 1990s.",
+   "links": [
+    [
+     "Auschwitz concentration camp (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp"
+    ],
+    [
+     "Visiting the Memorial (official)",
+     "https://www.auschwitz.org/en/visiting/"
+    ],
+    [
+     "Booking (official)",
+     "https://visit.auschwitz.org/?lang=en"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp",
+    "https://en.wikipedia.org/wiki/Auschwitz-Birkenau_State_Museum",
+    "https://www.komoot.com/highlight/3806657",
+    "https://www.auschwitz.org/en/visiting/",
+    "https://en.wikivoyage.org/wiki/O%C5%9Bwi%C4%99cim"
+   ],
+   "aar": {
+    "when": "MAY 1944",
+    "ev": "Trains from Hungary unload at the new ramp inside the camp, beside the gas chambers.",
+    "st": "Birkenau was begun in October 1941 and became the main killing centre of the Holocaust, with four crematoria working by June 1943. In May 1944 a ramp was completed inside the camp for the transports of Hungarian Jews, and on 7 October 1944 the Sonderkommando revolted. Today you enter through the brick gatehouse and follow the rails to the ramp, the ruined crematoria and the International Monument.",
+    "q": null,
+    "rem": "Most of the victims of Auschwitz died at Birkenau; the ruins of the crematoria were left by the SS as they tried to hide the crime."
+   },
+   "notes": "Coordinates are the 'Gate of Death' gatehouse from Komoot (not one of the brief's preferred sources; Wikipedia's World Heritage point 50.03889, 19.17500 lies inside the camp). Editor may wish to check against Wikidata. Same booking rules as Auschwitz I (see that stop's notes): entry card online only via visit.auschwitz.org since 1 March 2026. The 'sort' date (15 May 1944) marks the start of the Hungarian transports; Wikipedia gives only 'May 1944'. The Piper/four-million point is from general knowledge; the Wikipedia page opened gives 1.1 million but does not discuss the old figure."
+  },
+  {
+   "id": "schindler",
+   "name": "Oskar Schindler's Enamel Factory, Kraków",
+   "short": "Schindler's Factory",
+   "town": "Kraków",
+   "country": "Poland",
+   "lat": 50.0474,
+   "lon": 19.96175,
+   "coord_src": "https://en.wikipedia.org/wiki/Oskar_Schindler%27s_Enamel_Factory",
+   "conf": "HIGH",
+   "cat": "Museum",
+   "kind": "historic",
+   "pri": 2,
+   "when": "Nov 1939 – Oct 1944",
+   "sort": "1939-11-01",
+   "min": 120,
+   "text": "In November 1939 the German businessman Oskar Schindler took over the bankrupt Rekord enamelware works at Lipowa 4 in Kraków's Zabłocie district and renamed it Deutsche Emailwarenfabrik (DEF). He first hired Jews from the ghetto because they were cheap, but came to protect them. When the ghetto was destroyed he persuaded Amon Göth, commandant of Płaszów, to let him run a sub-camp at the factory; by 1944 about 1,100 Jews worked here. In autumn 1944 he moved his workers to Brünnlitz in Moravia. About 1,200 people on his lists survived. The factory is now a branch of the Museum of Kraków.",
+   "look": "The original gate and administration building, with Schindler's office and a wall of photographs of the people he saved. The main exhibition, 'Kraków under Nazi Occupation 1939–1945', covers the whole city's war: the invasion, the ghetto, Płaszów and resistance, using reconstructed streets and rooms.",
+   "plan": "Tue–Sun 9:00–20:00, Mon 10:00–15:00 (free but limited and not bookable); closed the first Tuesday of each month. 60 PLN. Timed tickets online up to 90 days ahead; they often sell out, so book early and bring ID. Check the website before you go.",
+   "url": "https://muzeumkrakowa.pl/en/branches/oskar-schindlers-enamel-factory",
+   "private": false,
+   "solemn": false,
+   "disputed": "Schindler's motives remain debated: he was a profiteer and Abwehr agent who first hired Jews as cheap labour. Several versions of 'Schindler's list' exist because it was retyped as conditions changed.",
+   "links": [
+    [
+     "Oskar Schindler's Enamel Factory (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Oskar_Schindler%27s_Enamel_Factory"
+    ],
+    [
+     "Oskar Schindler (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Oskar_Schindler"
+    ],
+    [
+     "Museum of Kraków (official)",
+     "https://muzeumkrakowa.pl/en/branches/oskar-schindlers-enamel-factory"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Oskar_Schindler%27s_Enamel_Factory",
+    "https://en.wikipedia.org/wiki/Oskar_Schindler",
+    "https://muzeumkrakowa.pl/en/branches/oskar-schindlers-enamel-factory"
+   ],
+   "aar": {
+    "when": "NOV 1939",
+    "ev": "Oskar Schindler takes over a bankrupt enamel works and soon begins hiring Jews from Kraków.",
+    "st": "In November 1939 Oskar Schindler took over the Rekord enamel works and renamed it DEF. He first hired Jews because they were cheap, then protected them, running a sub-camp here and moving about 1,200 people to Brünnlitz in 1944. Today the original gate and offices house the Museum of Kraków's exhibition on the whole city under occupation, with Schindler's office at its heart.",
+    "q": {
+     "t": "Why did Schindler first employ Jewish workers at his factory?",
+     "o": [
+      "They were cheaper than Polish workers",
+      "The SS ordered him to",
+      "They were trained enamel specialists"
+     ],
+     "a": 0,
+     "x": "At first Schindler hired Jews from the ghetto because they cost less. Over time he came to protect them, and about 1,200 people on his lists survived."
+    },
+    "rem": "The museum here is about all of Kraków under occupation, not only Schindler; book a timed ticket early."
+   },
+   "notes": "Wikipedia gives the decimal 50.04740, 19.96175 and a slightly different DMS (50°02′51″N 19°57′42″E); the decimal is used. Wikipedia dates the exhibition to 2007; it is generally reported as opening in June 2010, which the editor may wish to check. Tickets for free Mondays cannot be booked online. Combine with the Eagle Pharmacy in the former ghetto (same ticket within 7 days). The Płaszów camp site, about 2 km south, is a possible extra stop not researched here."
+  }
+ ]
+}

@@ -1,0 +1,400 @@
+{
+ "region": "paris-east",
+ "story": "Eastern France is where the war in the west was lost in 1940 and formally ended in 1945. The French put their faith in the Maginot Line in Alsace and Lorraine, but in May 1940 Guderian's panzers came through the Ardennes and crossed the Meuse at Sedan, splitting the Allied armies within days. On 22 June 1940 Hitler made France sign an armistice in the same railway carriage, in the same forest glade at Compiègne, where Germany had signed in 1918. The forts of the Maginot Line, still unbeaten, surrendered under its terms. Four years of occupation followed: resistance fighters and hostages were shot at Mont-Valérien, around 76,000 Jews were deported from France, and in the Vosges the SS ran Natzweiler-Struthof, the only concentration camp on French soil. Paris rose against the Germans in August 1944 and was liberated by Leclerc's French armour on 25 August. On 7 May 1945, in a schoolhouse in Reims that served as Eisenhower's headquarters, General Jodl signed Germany's unconditional surrender.",
+ "stops": [
+  {
+   "id": "compiegne",
+   "name": "Glade of the Armistice, Compiègne",
+   "short": "Armistice Glade",
+   "town": "Compiègne (Rethondes)",
+   "country": "France",
+   "lat": 49.42722,
+   "lon": 2.90639,
+   "coord_src": "https://en.wikipedia.org/wiki/Glade_of_the_Armistice",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 2,
+   "when": "22 Jun 1940",
+   "sort": "1940-06-22",
+   "min": 90,
+   "text": "On 11 November 1918 Germany signed the armistice ending the First World War in Marshal Foch's railway carriage, CIWL No. 2419D, in this glade in the Forest of Compiègne. In June 1940 Hitler chose the same place and the same carriage for France's surrender, arriving with Göring, Keitel and Ribbentrop; the armistice was signed on 22 June. The Germans took the carriage to Berlin as a trophy and destroyed the Alsace-Lorraine monument, leaving Foch's statue standing. In 1945 SS guards burned the carriage at Crawinkel in Thuringia as American troops approached.",
+   "look": "A long clearing with the rail tracks marking where the two trains stood, the statue of Foch and the Alsace-Lorraine monument of a German eagle pierced by a sword. The museum holds an identical carriage of the same series, renumbered 2419D in 1950, furnished as in 1918.",
+   "plan": "The glade is open; the museum (Mémorial de l'Armistice) charges admission. Hours and prices for 2026 could not be confirmed; check the website before you go.",
+   "url": "https://www.armistice-1918.fr/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Glade of the Armistice (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Glade_of_the_Armistice"
+    ],
+    [
+     "Mémorial de l'Armistice (official)",
+     "https://www.armistice-1918.fr/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Glade_of_the_Armistice"
+   ],
+   "aar": {
+    "when": "22 JUN 1940",
+    "ev": "France signs an armistice in the very railway carriage where Germany surrendered in 1918.",
+    "st": "Hitler chose this glade and Foch's carriage for the French armistice of June 1940, reversing the humiliation of 1918. The carriage went to Berlin as a trophy and was burned by the SS in 1945. Today the clearing holds Foch's statue, the Alsace-Lorraine monument and a museum with an identical carriage furnished as in 1918.",
+    "q": {
+     "t": "What happened to the original armistice carriage?",
+     "o": [
+      "It was returned to France in 1945",
+      "It was burned by SS guards in Thuringia in 1945",
+      "It is in a Berlin museum"
+     ],
+     "a": 1,
+     "x": "Taken to Berlin in 1940, it was moved to Crawinkel in Thuringia and burned by SS guards as American forces arrived in 1945."
+    },
+    "rem": "Hitler staged France's defeat in the same carriage where Germany had signed in 1918."
+   },
+   "notes": "Official museum site could not be fetched (rate limit), so 'plan' is unverified. The signatories of 22 June 1940 (Keitel and General Huntziger) are well established but were not in the page I opened, so they are left out. The Alsace-Lorraine monument was rebuilt after the war."
+  },
+  {
+   "id": "sedan",
+   "name": "Sedan: the Meuse crossing, May 1940",
+   "short": "Sedan crossing",
+   "town": "Sedan",
+   "country": "France",
+   "lat": 49.7025,
+   "lon": 4.9425,
+   "coord_src": "https://en.wikipedia.org/wiki/Battle_of_Sedan_(1940)",
+   "conf": "AREA",
+   "cat": "Battlefield",
+   "kind": "battle",
+   "pri": 3,
+   "when": "12–15 May 1940",
+   "sort": "1940-05-13",
+   "min": 90,
+   "text": "Guderian's XIX Panzer Corps reached the Meuse at Sedan on 12 May 1940 after crossing the Ardennes. On 13 May, after hours of Luftwaffe bombing that cut French communications, the 1st Panzer Division crossed near Gaulier and Floing with the Großdeutschland regiment, the 10th Panzer near Wadelincourt and the 2nd Panzer at Donchery. At Wadelincourt Feldwebel Walter Rubarth's small engineer team knocked out seven bunkers. That evening the French 55th Infantry Division collapsed in the 'panic of Bulson'. On 14 May Allied bombers attacked the Meuse bridges and suffered heavy losses, and the panzers broke out towards the Channel.",
+   "look": "The river Meuse below the town, with the heights of La Marfée rising to the south where the French bunkers stood. Walk or drive the riverbank at Gaulier, Floing and Wadelincourt to see how narrow the river is and how the high ground overlooks it.",
+   "plan": "Open battlefield, free. There is no dedicated 1940 visitor centre confirmed for this stop; bunker remains on the heights may be on private land, so view them from public roads.",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Sedan_(1940)",
+   "private": false,
+   "solemn": false,
+   "disputed": "Figures for Guderian's armour differ (771 or 788 tanks), and accounts disagree on whether Sedan town itself was taken without resistance on 12 May.",
+   "links": [
+    [
+     "Battle of Sedan (1940) (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Battle_of_Sedan_(1940)"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Sedan_(1940)"
+   ],
+   "aar": {
+    "when": "13 MAY 1940",
+    "ev": "German infantry and engineers cross the Meuse at Sedan under a day-long air bombardment.",
+    "st": "After bombing that cut French communications, three panzer divisions forced the Meuse at Sedan on 13 May 1940. At Wadelincourt Feldwebel Walter Rubarth's team knocked out seven bunkers, and that evening the French 55th Infantry Division broke in the panic of Bulson. Today the narrow river and the overlooking Marfée heights show how small the obstacle was once the defence cracked.",
+    "q": {
+     "t": "What happened to the French 55th Infantry Division on the evening of 13 May?",
+     "o": [
+      "It counter-attacked and retook Sedan",
+      "It collapsed in the 'panic of Bulson'",
+      "It was evacuated to Dunkirk"
+     ],
+     "a": 1,
+     "x": "False reports of German tanks set off the 'panic of Bulson', and the division fell apart behind the river line."
+    },
+    "rem": "The Battle of France was decided at a narrow river crossing in three days."
+   },
+   "notes": "Coordinates are the Wikipedia battle point (AREA). I could not verify a specific visitable bunker or memorial at Sedan before fetching was rate-limited; editor may want to add one (e.g. a preserved casemate on the Marfée heights) with its own coordinates."
+  },
+  {
+   "id": "maginot",
+   "name": "Fort de Schoenenbourg (Maginot Line)",
+   "short": "Schoenenbourg",
+   "town": "Hunspach / Schœnenbourg",
+   "country": "France",
+   "lat": 48.96667,
+   "lon": 7.91194,
+   "coord_src": "https://en.wikipedia.org/wiki/Ouvrage_Schoenenbourg",
+   "conf": "MEDIUM",
+   "cat": "Fortification",
+   "kind": "battle",
+   "pri": 2,
+   "when": "19 Jun–1 Jul 1940",
+   "sort": "1940-06-21",
+   "min": 120,
+   "text": "Schoenenbourg is a gros ouvrage of the Maginot Line, with six combat blocks and two entrances linked by deep tunnels, manned in 1939 by 491 men and 17 officers under Commandant Reynier. In June 1940, with the line outflanked, it held out alone: Stukas attacked on 19, 20 and 21 June, and from 21 June 420 mm siege mortars shelled it for three days. Its walls cracked but it kept firing; over the campaign it fired more than 17,000 shells and took over 3,000 shells and 160 bombs. Undefeated, it surrendered on 1 July 1940 under the armistice.",
+   "look": "A walk of several kilometres through tunnels 30 metres underground, past barracks, kitchens, the power station and magazines, to the combat blocks and a retractable gun turret. Above ground, the craters of 1940 are still visible.",
+   "plan": "Self-guided visits start at Block 7, the ammunition entrance. Hours and prices for 2026 could not be confirmed. Underground temperature is low, so bring a warm layer; check the website before you go.",
+   "url": "https://www.lignemaginot.com/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Ouvrage Schoenenbourg (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Ouvrage_Schoenenbourg"
+    ],
+    [
+     "Fort de Schoenenbourg (official)",
+     "https://www.lignemaginot.com/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ouvrage_Schoenenbourg"
+   ],
+   "aar": {
+    "when": "21 JUN 1940",
+    "ev": "German 420 mm siege mortars pound a Maginot fort that keeps on firing.",
+    "st": "With the Maginot Line outflanked, Schoenenbourg fought on alone in June 1940, taking Stuka attacks and three days of fire from 420 mm mortars. Its walls cracked but it was never taken, and it surrendered only under the armistice on 1 July. Today visitors walk its deep tunnels from the ammunition entrance to the combat blocks, and bomb craters still pit the ground above.",
+    "q": {
+     "t": "How did Schoenenbourg's garrison come to surrender?",
+     "o": [
+      "Under the terms of the armistice, undefeated",
+      "After German infantry stormed the blocks",
+      "After running out of water"
+     ],
+     "a": 0,
+     "x": "Despite heavy bombing and shelling, the fort was never taken; it surrendered on 1 July 1940 under the armistice terms."
+    },
+    "rem": "The Maginot forts did what they were built for, but the Germans went round them."
+   },
+   "notes": "Coordinates from Wikipedia DMS (seconds precision) for the ouvrage, not necessarily the Block 7 visitor entrance, hence MEDIUM. Run by the Association des Amis de la Ligne Maginot d'Alsace (tours since 1987). The official site's text could not be read. The tunnel-length and depth figures in 'look' are from general knowledge; editor please confirm."
+  },
+  {
+   "id": "paris-lib",
+   "name": "Musée de la Libération de Paris – Leclerc – Jean Moulin",
+   "short": "Liberation Museum",
+   "town": "Paris (14th)",
+   "country": "France",
+   "lat": 48.83411,
+   "lon": 2.3318,
+   "coord_src": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Lib%C3%A9ration_de_Paris_-_mus%C3%A9e_du_G%C3%A9n%C3%A9ral_Leclerc_-_mus%C3%A9e_Jean-Moulin",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "historic",
+   "pri": 2,
+   "when": "19–25 Aug 1944",
+   "sort": "1944-08-25",
+   "min": 90,
+   "text": "The museum opened on 25 August 2019, the 75th anniversary of the Liberation, in the 18th-century Ledoux pavilions on Place Denfert-Rochereau. It brings together collections on General Philippe Leclerc, whose French 2nd Armoured Division entered Paris on 24–25 August 1944, and on Jean Moulin, de Gaulle's envoy who unified the Resistance and died after his arrest in 1943. Beneath the building is the underground command post of Colonel Henri Rol-Tanguy, commander of the Paris-region FFI, from which the uprising of 19–25 August 1944 was directed.",
+   "look": "Exhibition rooms on occupation, resistance and liberation, with Leclerc and Moulin material, then a descent of about a hundred steps to Rol-Tanguy's command post, a concrete civil-defence shelter with its original telephones and fittings.",
+   "plan": "Not verified in October 2026 (official site unreachable). The permanent collection has been free and the museum closed on Mondays; the command-post visit is by timed slot. Check the website before you go.",
+   "url": "https://www.museeliberation-leclerc-moulin.paris.fr/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Musée de la Libération de Paris (official)",
+     "https://www.museeliberation-leclerc-moulin.paris.fr/"
+    ]
+   ],
+   "sources": [],
+   "aar": {
+    "when": "25 AUG 1944",
+    "ev": "Leclerc's French armour enters Paris as the Resistance uprising directed from beneath this square succeeds.",
+    "st": "From 19 August 1944 the Paris Resistance rose against the German garrison, directed by Colonel Rol-Tanguy from an underground shelter beneath Place Denfert-Rochereau. Leclerc's French 2nd Armoured Division entered the city on 24–25 August and the German garrison surrendered. Today the museum tells the story of occupation and liberation and leads down to Rol-Tanguy's command post.",
+    "q": {
+     "t": "Who directed the Paris uprising from the shelter under this museum?",
+     "o": [
+      "General Leclerc",
+      "Jean Moulin",
+      "Colonel Henri Rol-Tanguy"
+     ],
+     "a": 2,
+     "x": "Rol-Tanguy, FFI commander for the Paris region, ran the August 1944 uprising from the underground command post here."
+    },
+    "rem": "Paris was liberated partly from underneath: the uprising's headquarters was a bomb shelter here."
+   },
+   "notes": "UNVERIFIED: no source page could be opened for this stop (Wikipedia EN/FR and the official site all failed or were rate-limited). Coordinates left null rather than estimated; all facts are from general knowledge and need checking. Address: 4 avenue du Colonel Henri Rol-Tanguy, 75014 Paris (from memory)."
+  },
+  {
+   "id": "mont-valerien",
+   "name": "Mont-Valérien memorial, Suresnes",
+   "short": "Mont-Valérien",
+   "town": "Suresnes",
+   "country": "France",
+   "lat": 48.8716,
+   "lon": 2.21383,
+   "coord_src": "https://fr.wikipedia.org/wiki/M%C3%A9morial_de_la_France_combattante",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 3,
+   "when": "1941–1944",
+   "sort": "1944-02-21",
+   "min": 90,
+   "text": "Between 1941 and 1944 the German army shot 1,008 men at Fort Mont-Valérien, a 19th-century fort above the Seine west of Paris; most were resistance fighters and hostages. Prisoners waited in a disused chapel and were taken to a clearing about 100 metres away to be shot. Among them were the naval officer Honoré d'Estienne d'Orves on 29 August 1941, the communist deputy Gabriel Péri on 15 December 1941, and Missak Manouchian and members of his FTP-MOI group, the 'Affiche Rouge', on 21 February 1944. De Gaulle consecrated the site as a memorial on 18 June 1945.",
+   "look": "The Memorial of Fighting France, a long wall with a large Cross of Lorraine, stands below the fort. A path leads up to the chapel, with graffiti left by the condemned, and to the execution clearing, where a monument records the names of those shot.",
+   "plan": "Not verified in October 2026 (official site unreachable). The memorial is managed by the Ministry of the Armed Forces; visits to the chapel and clearing have been free, partly by guided tour. Check the website before you go.",
+   "url": "https://www.mont-valerien.fr/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Fort Mont-Valérien (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Fort_Mont-Val%C3%A9rien"
+    ],
+    [
+     "Mont-Valérien (official)",
+     "https://www.mont-valerien.fr/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Fort_Mont-Val%C3%A9rien"
+   ],
+   "aar": {
+    "when": "21 FEB 1944",
+    "ev": "Missak Manouchian and members of his resistance group are shot in the clearing below the fort.",
+    "st": "The German army shot 1,008 men here between 1941 and 1944, most of them resistance fighters and hostages, after holding them in the fort's old chapel. Manouchian's FTP-MOI group was executed on 21 February 1944. Today the Memorial of Fighting France, with its Cross of Lorraine, stands below the path to the chapel and the clearing.",
+    "q": null,
+    "rem": "Mont-Valérien was the main German execution site in France."
+   },
+   "notes": "Coordinates left null: Wikipedia page had none and the official site was rate-limited; do not estimate. The fort itself is an active military site; the memorial area is visitable. 1960 inauguration of the Memorial of Fighting France and the 2003 bell monument with names are from general knowledge, not verified, so the text keeps them general."
+  },
+  {
+   "id": "memorial-shoah",
+   "name": "Mémorial de la Shoah, Paris",
+   "short": "Mémorial de la Shoah",
+   "town": "Paris (4th, Le Marais)",
+   "country": "France",
+   "lat": 48.854846,
+   "lon": 2.356196,
+   "coord_src": "https://en.wikipedia.org/wiki/M%C3%A9morial_de_la_Shoah",
+   "conf": "DOC",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 2,
+   "when": "1942–1944",
+   "sort": "1942-07-16",
+   "min": 120,
+   "text": "Around 76,000 Jews were deported from France between 1942 and 1944, the great majority to Auschwitz, with the help of the Vichy authorities and French police; few returned. The Mémorial de la Shoah in the Marais, formerly the Memorial of the Unknown Jewish Martyr, reopened in its present form on 27 January 2005, inaugurated by President Jacques Chirac. It combines a museum, archive and memorial. The crypt holds ashes from the death camps and the Warsaw Ghetto, buried in 1957 in soil from Israel.",
+   "look": "In the forecourt, the Wall of Names lists about 76,000 deported Jews by year of deportation. Outside, the Wall of the Righteous honours those recognised by Yad Vashem for saving Jews in France. Inside are the crypt, the permanent exhibition and a room of photographs of deported children.",
+   "plan": "Not verified in October 2026 (official site unreachable). Entry has been free, with a security check at the door; closed on Saturdays and some Jewish holidays. Check the website before you go.",
+   "url": "https://www.memorialdelashoah.org/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Mémorial de la Shoah (Wikipedia)",
+     "https://en.wikipedia.org/wiki/M%C3%A9morial_de_la_Shoah"
+    ],
+    [
+     "Mémorial de la Shoah (official)",
+     "https://www.memorialdelashoah.org/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/M%C3%A9morial_de_la_Shoah"
+   ],
+   "aar": {
+    "when": "16 JUL 1942",
+    "ev": "Mass arrests of Jews in Paris begin the main wave of deportations from France.",
+    "st": "Around 76,000 Jews were deported from France between 1942 and 1944, most to Auschwitz; few came back. The memorial in the Marais, reopened in 2005, combines a museum, archive and crypt holding ashes from the camps. Today the Wall of Names lists the deported by year, and the Wall of the Righteous honours those who hid and saved Jews.",
+    "q": null,
+    "rem": "Every name on the wall is a person deported from France."
+   },
+   "notes": "Address 17 rue Geoffroy-l'Asnier, 75004 (Wikipedia). 'plan' and the children's photo room from general knowledge; official site rate-limited. Vel d'Hiv date (16 July 1942) used for 'sort'/aar is well established but not on the page I opened. The memorial also runs the Drancy memorial (former transit camp) north of Paris, worth a separate stop if verified later."
+  },
+  {
+   "id": "reims",
+   "name": "Reims Surrender Museum (Musée de la Reddition)",
+   "short": "Surrender Museum",
+   "town": "Reims",
+   "country": "France",
+   "lat": 49.2629807,
+   "lon": 4.0269291,
+   "coord_src": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Reddition",
+   "conf": "HIGH",
+   "cat": "Headquarters",
+   "kind": "historic",
+   "pri": 1,
+   "when": "7 May 1945",
+   "sort": "1945-05-07",
+   "min": 60,
+   "text": "In 1945 a technical school in Reims, today the Lycée Franklin-Roosevelt, was Eisenhower's forward headquarters (SHAEF). At 02:41 on 7 May 1945, in the map room, General Alfred Jodl signed the unconditional surrender of all German forces, with Admiral von Friedeburg and Major Wilhelm Oxenius. General Walter Bedell Smith signed for the Allies, Soviet General Ivan Susloparov signed on his own initiative without Moscow's approval, and French General François Sevez signed as a witness. Stalin insisted on a second signing in Berlin, so the official date of capitulation remained 8 May. The museum opened in 1985.",
+   "look": "The war room is preserved as it was on 7 May 1945, its walls still covered with the operations maps, with the table where the surrender was signed. Other rooms show a film in four languages, uniforms, medals and newspapers of the day.",
+   "plan": "Not verified in October 2026 (city museum site unreachable). Address: 12 rue Franklin Roosevelt, Reims. Check the website before you go.",
+   "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Reddition",
+   "private": false,
+   "solemn": false,
+   "disputed": "Russia and the West still date the end differently: the Reims signing of 7 May took effect on 8 May, but the Soviet Union treated the Berlin ratification late on 8 May (9 May Moscow time) as the real surrender.",
+   "links": [
+    [
+     "Musée de la Reddition (Wikipedia FR)",
+     "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Reddition"
+    ]
+   ],
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Mus%C3%A9e_de_la_Reddition"
+   ],
+   "aar": {
+    "when": "7 MAY 1945",
+    "ev": "General Jodl signs Germany's unconditional surrender in Eisenhower's map room at Reims.",
+    "st": "At 02:41 on 7 May 1945 Jodl signed the surrender of all German forces at SHAEF headquarters in a Reims school. Bedell Smith signed for the Allies, Susloparov for the Soviets without Moscow's approval, and Sevez as a French witness; Stalin insisted on a second signing in Berlin. Today the war room is preserved with its original wall maps and the signing table.",
+    "q": {
+     "t": "Why was the surrender signed a second time in Berlin?",
+     "o": [
+      "Jodl's signature was ruled invalid",
+      "Stalin insisted, as his envoy had signed without Moscow's approval",
+      "Eisenhower wanted a ceremony in Germany"
+     ],
+     "a": 1,
+     "x": "Soviet General Susloparov signed at Reims on his own initiative; Stalin demanded a fuller signing in Berlin, and 8 May stayed the official date."
+    },
+    "rem": "The war in Europe ended on paper in a Reims schoolroom at 02:41 on 7 May 1945."
+   },
+   "notes": "Coordinates left null: French Wikipedia's coordinate field is blank and other sources were rate-limited; do not estimate. Official page is on the Reims museums site (musees-reims.fr), not opened. Detail 'Stalin insisted' and the Soviet date dispute are well established but only partly in the page opened ('official date remained 8 May')."
+  },
+  {
+   "id": "struthof",
+   "name": "Natzweiler-Struthof",
+   "short": "Natzweiler-Struthof",
+   "town": "Natzwiller",
+   "country": "France",
+   "lat": 48.45667,
+   "lon": 7.25389,
+   "coord_src": "https://de.wikipedia.org/wiki/KZ_Natzweiler-Struthof",
+   "conf": "MEDIUM",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 1,
+   "when": "May 1941–Nov 1944",
+   "sort": "1944-11-23",
+   "min": 180,
+   "text": "The SS opened Natzweiler-Struthof on 1 May 1941 at 800 metres in the Vosges, beside a quarry, in Alsace annexed by Germany. About 52,000 prisoners of 32 nationalities passed through it and its subcamps, many of them Nacht und Nebel prisoners from resistance movements. In 1943, 86 Jewish people selected at Auschwitz were gassed here for August Hirt's skeleton collection at Strasbourg university. On 6 July 1944 four British SOE agents, Andrée Borrel, Vera Leigh, Diana Rowden and Sonya Olschanezky, were executed. The camp was evacuated in early September 1944 and found by the French First Army on 23 November.",
+   "look": "Terraces of the camp descend the hillside inside barbed wire, with the gallows, the crematorium and cell block, and a museum barrack. Above stand the national necropolis and the tall memorial to the deported. The European Centre of Deported Resistance Members is at the entrance; the gas chamber lies about 2 km down the road.",
+   "plan": "The official site currently warns that access to the camp may be partly closed after weather damage, while the European Centre and museum barrack stay open. Hours and prices for 2026 were not available; check the website before you go.",
+   "url": "https://www.struthof.fr/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "English Wikipedia gives about 22,000 deaths in the camp and subcamps; French Wikipedia gives about 17,000 plus about 5,000 on the evacuation marches, and notes many executions were never recorded.",
+   "links": [
+    [
+     "Natzweiler-Struthof (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Natzweiler-Struthof"
+    ],
+    [
+     "Struthof / CERD (official)",
+     "https://www.struthof.fr/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Natzweiler-Struthof",
+    "https://fr.wikipedia.org/wiki/Camp_de_concentration_de_Natzweiler-Struthof",
+    "https://de.wikipedia.org/wiki/KZ_Natzweiler-Struthof",
+    "https://www.struthof.fr/en/"
+   ],
+   "aar": {
+    "when": "23 NOV 1944",
+    "ev": "French troops reach the empty Natzweiler-Struthof camp high in the Vosges.",
+    "st": "The SS opened Natzweiler-Struthof in 1941 for prisoners from across occupied Europe, many of them resistance fighters held under Nacht und Nebel. Four SOE women were executed here in July 1944, and the camp was emptied in September before French troops found it in November. Today the camp terraces, crematorium and museum barrack lie below the memorial to the deported.",
+    "q": null,
+    "rem": "Struthof was the only concentration camp the Nazis built on French soil."
+   },
+   "notes": "Coordinates from German Wikipedia (DMS to the second, 48°27′24″N 7°15′14″E), camp area; not necessarily the visitor-centre entrance, hence MEDIUM. Weather notice was on struthof.fr when read in October 2026. Wikipedia notes the museum was burned by neo-Nazis in 1976 and reopened in 1980. 'Only camp on French soil' is the standard description (Alsace was annexed at the time)."
+  }
+ ]
+}

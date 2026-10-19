@@ -1,0 +1,788 @@
+{
+ "region": "britain",
+ "story": "Britain was the one major European enemy of Germany that was never occupied, and that made it the base from which Western Europe was eventually liberated. In May and June 1940 the Navy, directed from tunnels under Dover Castle, brought more than 330,000 troops home from Dunkirk. That summer RAF Fighter Command, using the radar-and-telephone network built by Sir Hugh Dowding, denied the Luftwaffe the air superiority an invasion needed. The Blitz that followed hit London, Coventry, Liverpool and many other cities from September 1940 to May 1941. Meanwhile Churchill ran the war from underground rooms in Whitehall, codebreakers at Bletchley Park read German Enigma traffic, and a joint Navy and RAF headquarters in Liverpool fought the U-boats to keep the Atlantic supply line open. From 1942 Britain filled with American airmen and soldiers, and on 6 June 1944 the invasion fleet sailed for Normandy from the south coast around Portsmouth. The sites here show the command centres, airfields and scars of a country under siege that became a launch pad.",
+ "stops": [
+  {
+   "id": "bob-bunker",
+   "name": "Battle of Britain Bunker, Uxbridge",
+   "short": "Uxbridge Bunker",
+   "town": "Uxbridge (London Borough of Hillingdon)",
+   "country": "United Kingdom",
+   "lat": 51.54125,
+   "lon": -0.46528,
+   "coord_src": "https://en.wikipedia.org/wiki/Battle_of_Britain_Bunker",
+   "conf": "HIGH",
+   "cat": "Headquarters",
+   "kind": "battle",
+   "pri": 1,
+   "when": "Jul–Oct 1940",
+   "sort": "1940-09-15",
+   "min": 90,
+   "text": "This bunker, about 60 feet underground at RAF Uxbridge, housed the Operations Room of No. 11 Group, Fighter Command, which defended London and the south-east and saw more fighting than any other group in 1940. Air Vice-Marshal Keith Park commanded from here, sending squadrons up against raids plotted on the large table map. On 15 September 1940, with Churchill watching from the gallery, every 11 Group squadron was committed at once. Churchill first spoke the words 'never was so much owed by so many to so few' as he left Uxbridge on 16 August, four days before he used them in the House of Commons. The bunker was part of the Dowding system, the first integrated air defence network.",
+   "look": "Down 76 steps you reach the Operations Room, laid out as it was on 15 September 1940: the plotting table with raid markers, the tote board showing squadron states, and the glazed controllers' gallery above. A modern visitor centre at ground level holds the museum.",
+   "plan": "Open daily 10:00–16:30. The bunker itself is seen only on a guided tour of about an hour; booking ahead is advised. Tour plus visitor centre about £14 adult, under-16s free. 76 steps, no lift. Check the website before you go.",
+   "url": "https://battleofbritainbunker.co.uk/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Churchill's 'so few' line is often placed on 15 September; the bunker's own history says he first said it leaving Uxbridge on 16 August 1940, before the Commons speech of 20 August.",
+   "links": [
+    [
+     "Battle of Britain Bunker (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Battle_of_Britain_Bunker"
+    ],
+    [
+     "Battle of Britain Bunker (official)",
+     "https://battleofbritainbunker.co.uk/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Britain_Bunker",
+    "https://battleofbritainbunker.co.uk/"
+   ],
+   "aar": {
+    "when": "15 SEP 1940",
+    "ev": "Every 11 Group squadron is committed at once while Churchill watches from the gallery.",
+    "st": "From this bunker 60 feet below RAF Uxbridge, Keith Park's No. 11 Group defended London and the south-east in 1940. On 15 September every squadron was in the air at once, with Churchill looking on. Today you go down 76 steps to the Operations Room, with its plotting table, raid markers and the tote board of squadron states set as on that day.",
+    "q": {
+     "t": "Where did Churchill first say 'never was so much owed by so many to so few'?",
+     "o": [
+      "In the House of Commons on 15 September",
+      "Leaving Uxbridge on 16 August 1940",
+      "In a BBC broadcast from Downing Street"
+     ],
+     "a": 1,
+     "x": "He said it to General Ismay as they left Uxbridge on 16 August 1940, then used it in the House of Commons on 20 August."
+    },
+    "rem": "The Battle of Britain was run by telephone and table map: radar warning, filtered plots and fast decisions in rooms like this one."
+   },
+   "notes": "Managed by Hillingdon Council. Underground area unsuitable for wheelchairs; visitor centre is accessible. Filming not permitted in the bunker."
+  },
+  {
+   "id": "bentley-priory",
+   "name": "Bentley Priory Museum, Stanmore",
+   "short": "Bentley Priory",
+   "town": "Stanmore (London Borough of Harrow)",
+   "country": "United Kingdom",
+   "lat": 51.62669,
+   "lon": -0.334175,
+   "coord_src": "https://en.wikipedia.org/wiki/Bentley_Priory",
+   "conf": "HIGH",
+   "cat": "Headquarters",
+   "kind": "battle",
+   "pri": 2,
+   "when": "Jul 1936 – 1945 (Battle of Britain Jul–Oct 1940)",
+   "sort": "1940-07-10",
+   "min": 90,
+   "text": "This country house was the headquarters of RAF Fighter Command throughout the Second World War. From here Air Chief Marshal Sir Hugh Dowding commanded the fighter force in the Battle of Britain and ran the defence system he had built: radar stations and Observer Corps reports fed into a filter room here, then out to group and sector operations rooms, which sent fighters to meet the raids. Dowding was removed from command in November 1940 but was made Baron Dowding of Bentley Priory in 1943. The RAF stayed until 2008. The museum opened in 2013 and tells the story of 'The One' (Dowding), 'The Few' (the aircrew) and 'The Many' who supported them.",
+   "look": "The Italianate mansion's ground-floor rooms hold the museum, including Dowding's restored office looking over the gardens. Galleries on the aircrew and ground staff, a Battle of Britain timeline and a heritage trail in the grounds complete the visit.",
+   "plan": "Open Wednesdays, Fridays, Saturdays and bank holiday Mondays; 10:00–16:00 from October to February. Closed mid-December to mid-January. Adult about £9.50; no booking needed. Phone lines unreliable, use the website.",
+   "url": "https://bentleypriorymuseum.org.uk/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Bentley Priory (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Bentley_Priory"
+    ],
+    [
+     "Bentley Priory Museum (official)",
+     "https://bentleypriorymuseum.org.uk/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bentley_Priory",
+    "https://bentleypriorymuseum.org.uk/visit-us/opening-hours-admission"
+   ],
+   "aar": {
+    "when": "JUL–OCT 1940",
+    "ev": "Dowding directs RAF Fighter Command against the Luftwaffe from this country house.",
+    "st": "Bentley Priory was Fighter Command's headquarters for the whole war. Here Sir Hugh Dowding ran the system that turned radar and Observer Corps reports into orders for the fighter groups, and he was later made Baron Dowding of Bentley Priory. Today the mansion's rooms hold the museum, with Dowding's restored office and galleries on the aircrew and the people who supported them.",
+    "q": {
+     "t": "What title did Dowding take in 1943?",
+     "o": [
+      "Baron Dowding of Bentley Priory",
+      "Earl of Uxbridge",
+      "Viscount Dowding of Dover"
+     ],
+     "a": 0,
+     "x": "He was made Baron Dowding of Bentley Priory in 1943, tying his name to the headquarters from which he fought the battle."
+    },
+    "rem": "Dowding's real achievement was the system: radar, plotting and communications that put scarce fighters in the right place."
+   },
+   "notes": "The house is surrounded by private housing; follow signs to Mansion House Drive. Limited opening days, so plan around them."
+  },
+  {
+   "id": "duxford",
+   "name": "IWM Duxford",
+   "short": "IWM Duxford",
+   "town": "Duxford, Cambridgeshire",
+   "country": "United Kingdom",
+   "lat": 52.09306,
+   "lon": 0.12944,
+   "coord_src": "https://en.wikipedia.org/wiki/Imperial_War_Museum_Duxford",
+   "conf": "HIGH",
+   "cat": "Airfield",
+   "kind": "battle",
+   "pri": 1,
+   "when": "Aug 1938 – 1945 (Battle of Britain Jul–Oct 1940)",
+   "sort": "1940-09-15",
+   "min": 240,
+   "text": "Duxford became a fighter station in 1925, and in August 1938 its No. 19 Squadron was the first RAF unit to fly the Spitfire. In the Battle of Britain it was a sector station of No. 12 Group, guarding East Anglia and the Midlands and sending squadrons south to help 11 Group over London. From March 1943 the US Eighth Air Force's 78th Fighter Group flew from here, first with P-47 Thunderbolts and from December 1944 with P-51 Mustangs, escorting bombers and attacking ground targets until the war ended. The last RAF flight left in 1961, and the Imperial War Museum took over the site, which keeps many original wartime buildings.",
+   "look": "Original hangars, the control tower and the restored Operations Block, pilots' briefing room and crew rooms show a working 1940 fighter station. Spitfire N3200 is on display, and Norman Foster's American Air Museum holds a B-17 and other US aircraft.",
+   "plan": "Open daily; from 25 October the site closes at 16:00. Adult from about £26.80, booking online advised. Flying days and air shows are extra events. Check the website before you go.",
+   "url": "https://www.iwm.org.uk/visits/iwm-duxford",
+   "private": false,
+   "solemn": false,
+   "disputed": "The 'Big Wing' of three to five 12 Group squadrons, assembled at Duxford in September 1940, remains debated: supporters credited it with large claims, while critics, Park among them, said it formed up too slowly and its claims were inflated.",
+   "links": [
+    [
+     "IWM Duxford (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Imperial_War_Museum_Duxford"
+    ],
+    [
+     "IWM Duxford (official)",
+     "https://www.iwm.org.uk/visits/iwm-duxford"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Imperial_War_Museum_Duxford",
+    "https://www.iwm.org.uk/visits/iwm-duxford"
+   ],
+   "aar": {
+    "when": "AUG 1938",
+    "ev": "No. 19 Squadron at Duxford becomes the first RAF unit to fly the Spitfire.",
+    "st": "Duxford's No. 19 Squadron received the RAF's first Spitfires in August 1938, and in 1940 the station fought the Battle of Britain as part of No. 12 Group. From 1943 the American 78th Fighter Group flew Thunderbolts and then Mustangs from here. Today original hangars, the control tower and the restored Operations Block stand beside the American Air Museum with its B-17.",
+    "q": {
+     "t": "Which American unit flew from Duxford from 1943?",
+     "o": [
+      "The 101st Airborne Division",
+      "The 8th Bomber Command headquarters",
+      "The 78th Fighter Group"
+     ],
+     "a": 2,
+     "x": "The US 78th Fighter Group arrived in March 1943 with P-47 Thunderbolts and switched to P-51 Mustangs in December 1944."
+    },
+    "rem": "Duxford is the best-preserved wartime fighter station in Britain: both RAF 1940 and USAAF 1943–45 on one airfield."
+   },
+   "notes": "Large site; allow most of a day. Free shuttle bus links the hangars. Air show days are busy and priced separately."
+  },
+  {
+   "id": "capel",
+   "name": "Battle of Britain Memorial, Capel-le-Ferne",
+   "short": "BoB Memorial",
+   "town": "Capel-le-Ferne, near Folkestone",
+   "country": "United Kingdom",
+   "lat": 51.09888,
+   "lon": 1.205181,
+   "coord_src": "https://www.tracesofwar.com/sights/917/Battle-of-Britain-Memorial.htm",
+   "conf": "DOC",
+   "cat": "Memorial",
+   "kind": "battle",
+   "pri": 2,
+   "when": "Jul–Oct 1940 (memorial unveiled 9 Jul 1993)",
+   "sort": "1940-07-10",
+   "min": 60,
+   "text": "On the cliffs between Folkestone and Dover, under the air battles of 1940, stands the national memorial to the aircrew of the Battle of Britain. It was unveiled by Queen Elizabeth the Queen Mother on 9 July 1993. Its centre is Harry Gray's carved figure of a seated pilot looking out to sea; his flying jacket hides rank and nationality, so he stands for every Allied airman of 'The Few'. The Christopher Foxley-Norris Memorial Wall lists almost 3,000 aircrew who flew in the battle. The visitor centre, The Wing, shaped like a Spitfire's wing, was opened by Queen Elizabeth II on 26 March 2015.",
+   "look": "From the air the memorial is a three-bladed propeller cut into the clifftop. Look for the seated pilot, the long wall of names, Churchill's words on the Beaverbrook Wall, and replica Hurricane and Spitfire. The Wing has the 'Scramble Experience' and a clifftop café.",
+   "plan": "Grounds open on foot every day. Café, shop and Scramble Experience 10:00–17:00 to 31 October, 10:00–16:00 in winter, closed Mondays November–February. Scramble Experience about £6 adult. Car park £2–£6, card only.",
+   "url": "https://www.battleofbritainmemorial.org/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Battle of Britain Memorial, Capel-le-Ferne (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial,_Capel-le-Ferne"
+    ],
+    [
+     "Battle of Britain Memorial Trust (official)",
+     "https://www.battleofbritainmemorial.org/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_Britain_Memorial,_Capel-le-Ferne",
+    "https://www.tracesofwar.com/sights/917/Battle-of-Britain-Memorial.htm",
+    "https://www.battleofbritainmemorial.org/"
+   ],
+   "aar": {
+    "when": "9 JUL 1993",
+    "ev": "The Queen Mother unveils the national memorial to the aircrew of the Battle of Britain.",
+    "st": "These cliffs lay beneath the air battles of 1940, and since 1993 they have held the national memorial to 'The Few'. Harry Gray's seated pilot looks out to sea, and a wall names almost 3,000 aircrew who flew in the battle. Today you walk the propeller-shaped memorial, read the names, and see replica fighters beside The Wing visitor centre.",
+    "q": null,
+    "rem": "The pilot's jacket hides rank and nationality on purpose: he stands for every airman, whatever his country."
+   },
+   "notes": "On the B2011 clifftop road; combine with Dover Castle (about 15 minutes). The grounds can be visited free on foot; the ticket covers the Scramble Experience."
+  },
+  {
+   "id": "biggin-hill",
+   "name": "Biggin Hill Memorial Museum",
+   "short": "Biggin Hill",
+   "town": "Biggin Hill (London Borough of Bromley)",
+   "country": "United Kingdom",
+   "lat": 51.327036,
+   "lon": 0.023428,
+   "coord_src": "https://britishlistedbuildings.co.uk/101391588-memorial-chapel-biggin-hill-ward",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 3,
+   "when": "Aug 1940 – Jan 1941",
+   "sort": "1940-08-30",
+   "min": 90,
+   "text": "Biggin Hill was the best known of the 11 Group sector stations guarding the southern approaches to London, and in 1940 the Luftwaffe tried hard to knock it out. Between August 1940 and January 1941 it was attacked twelve times; the worst raid, at the end of August, hit the WAAF quarters and killed 39 people on the ground. After the war a public appeal backed by Churchill paid for St George's RAF Chapel of Remembrance, built on the site of a hangar destroyed in 1940; Lord Dowding laid the foundation stone in July 1951. The museum beside the chapel opened in 2019 and tells the station's story through the people who served there.",
+   "look": "The brick chapel's twelve stained-glass windows by Hugh Easton each show a young airman with a squadron badge, and a tablet records airmen lost flying from Biggin Hill. Gate-guardian Spitfire and Hurricane replicas stand outside; the museum is next door.",
+   "plan": "Tuesday–Sunday, 10:00–16:00 from November to March (17:00 in summer), closed Mondays. Adult about £8.50, pay at the door. Allow about 90 minutes. Check the website before you go.",
+   "url": "https://bigginhillmuseum.com/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "RAF Biggin Hill (Wikipedia)",
+     "https://en.wikipedia.org/wiki/RAF_Biggin_Hill"
+    ],
+    [
+     "Biggin Hill Memorial Museum (official)",
+     "https://bigginhillmuseum.com/"
+    ],
+    [
+     "Memorial Chapel listing (Historic England data)",
+     "https://britishlistedbuildings.co.uk/101391588-memorial-chapel-biggin-hill-ward"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/RAF_Biggin_Hill",
+    "https://britishlistedbuildings.co.uk/101391588-memorial-chapel-biggin-hill-ward",
+    "https://bigginhillmuseum.com/visit"
+   ],
+   "aar": {
+    "when": "AUG 1940",
+    "ev": "German bombers repeatedly strike Biggin Hill, the key fighter station south of London.",
+    "st": "Biggin Hill guarded the southern approaches to London and was bombed twelve times between August 1940 and January 1941. After the war a public appeal backed by Churchill built a chapel on the site of a hangar destroyed in 1940. Today Hugh Easton's stained-glass windows of young airmen fill the chapel, and the memorial museum stands beside it.",
+    "q": {
+     "t": "What stood on the site of Biggin Hill's memorial chapel in 1940?",
+     "o": [
+      "The officers' mess",
+      "A hangar destroyed in the bombing",
+      "The station operations room"
+     ],
+     "a": 1,
+     "x": "St George's Chapel was built in 1951 on the site of a hangar destroyed in 1940; Lord Dowding laid its foundation stone."
+    },
+    "rem": "Fighter airfields were front-line targets in 1940: ground staff, including WAAFs, came under bombing at Biggin Hill."
+   },
+   "notes": "Coordinates are those of St George's Chapel (listed building record); the museum adjoins it on Main Road (A233), TN16 3EJ. Biggin Hill is still a working airport."
+  },
+  {
+   "id": "manston",
+   "name": "RAF Manston Spitfire & Hurricane Memorial Museum",
+   "short": "Manston Museum",
+   "town": "Manston, near Ramsgate, Kent",
+   "country": "United Kingdom",
+   "lat": 51.3502456,
+   "lon": 1.3498244,
+   "coord_src": "https://www.picniq.co.uk/manston/spitfire-and-hurricane-memorial-museum/",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 3,
+   "when": "Aug 1940; May 1943",
+   "sort": "1940-08-12",
+   "min": 60,
+   "text": "Manston, on the tip of Kent, was the RAF fighter airfield closest to France and so one of the first targets in the Luftwaffe's August 1940 offensive against Fighter Command. At the height of the battle it was bombed almost daily and left littered with unexploded bombs, and many staff moved out to the nearby woods. Later it became a refuge for damaged bombers, fitted with the FIDO fog-clearance system, and in May 1943 No. 617 Squadron's Lancasters flew from here to drop inert test versions of Barnes Wallis's bouncing bomb off Reculver. The small free museum on the old airfield houses Spitfire XVI TB752 and Hurricane IIc LF751.",
+   "look": "Two aircraft fill the purpose-built hall: Spitfire TB752, which flew in combat in 1945, and Hurricane LF751. Around them are displays on Manston's war and wartime Ramsgate. The café overlooks the former airfield. The separate RAF Manston History Museum is close by.",
+   "plan": "Admission free; donations welcome. Opening hours vary by season (recently 10:00–17:00 in summer); check the website before you go. Flight simulator costs extra.",
+   "url": "https://www.spitfiremuseum.org.uk/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "RAF Manston (Wikipedia)",
+     "https://en.wikipedia.org/wiki/RAF_Manston"
+    ],
+    [
+     "Spitfire & Hurricane Memorial Museum (official)",
+     "https://www.spitfiremuseum.org.uk/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/RAF_Manston",
+    "https://www.spitfiremuseum.org.uk/",
+    "https://www.manstonhistory.org.uk/?p=102"
+   ],
+   "aar": {
+    "when": "AUG 1940",
+    "ev": "The Luftwaffe bombs Manston, the RAF fighter field nearest France, almost daily.",
+    "st": "As the closest fighter airfield to France, Manston took heavy bombing in August 1940 and was left strewn with unexploded bombs. In May 1943 Lancasters of 617 Squadron flew from here to test the bouncing bomb off Reculver. Today a small free museum on the old airfield displays Spitfire TB752 and Hurricane LF751, with a café looking over the runway.",
+    "q": {
+     "t": "What weapon was tested from Manston in May 1943?",
+     "o": [
+      "The V-1 flying bomb",
+      "The Grand Slam bomb",
+      "Barnes Wallis's bouncing bomb"
+     ],
+     "a": 2,
+     "x": "617 Squadron Lancasters loaded inert bouncing bombs at Manston and dropped them off Reculver in May 1943, days before the Dams Raid."
+    },
+    "rem": "Forward airfields like Manston took the first blows of the Luftwaffe's campaign against Fighter Command."
+   },
+   "notes": "Coordinates come from a directory site's map pin (picniq.co.uk), as no official or Wikipedia coordinate for the museum building was found; the RAF Manston Wikipedia airfield reference point is 51°20′53″N 1°21′00″E. Official opening-times page could not be loaded; editor should confirm hours."
+  },
+  {
+   "id": "dover-tunnels",
+   "name": "Dover Castle Secret Wartime Tunnels",
+   "short": "Dover Tunnels",
+   "town": "Dover, Kent",
+   "country": "United Kingdom",
+   "lat": 51.1297,
+   "lon": 1.3214,
+   "coord_src": "https://en.wikipedia.org/wiki/Dover_Castle",
+   "conf": "MEDIUM",
+   "cat": "Headquarters",
+   "kind": "battle",
+   "pri": 1,
+   "when": "26 May – 4 Jun 1940",
+   "sort": "1940-05-26",
+   "min": 180,
+   "text": "Tunnels cut into the chalk below Dover Castle during the Napoleonic Wars were turned in 1939 into an air-raid shelter, then a naval command centre and an underground hospital. From here Vice-Admiral Bertram Ramsay planned and directed Operation Dynamo, the evacuation of the British Expeditionary Force and French troops from Dunkirk between 26 May and 4 June 1940. Working with a scratch fleet of warships, ferries and small civilian boats, his staff brought about 338,000 men back to England, far more than the 45,000 first hoped for. The operation is said to take its name from the room that had housed an electrical generator. The tunnels later served through the war as a headquarters guarding the Channel.",
+   "look": "Guided routes take you through the tunnel complex: the Operation Dynamo galleries with projections telling the evacuation story, the operations rooms, and the reconstructed underground hospital. The medieval castle and Great Tower stand above, with views across the Channel to France on clear days.",
+   "plan": "Castle open daily 10:00–17:00 (last entry 16:00); winter hours may be shorter. Book online to save money. The Operation Dynamo section of the tunnels is currently closed for maintenance; the Underground Hospital is open. Check the website before you go.",
+   "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Totals vary by source: 338,226 is the usual figure for Dynamo, but counts that include earlier evacuations give higher numbers. Sources also differ on whether Ramsay was Vice-Admiral (his rank in 1940) or Admiral (later).",
+   "links": [
+    [
+     "Dover Castle (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Dover_Castle"
+    ],
+    [
+     "Dover Castle (English Heritage)",
+     "https://www.english-heritage.org.uk/visit/places/dover-castle/"
+    ],
+    [
+     "Operation Dynamo (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Dunkirk_evacuation"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dover_Castle",
+    "https://www.europeremembers.com/pois/345/dover-castle",
+    "https://www.english-heritage.org.uk/visit/places/dover-castle/"
+   ],
+   "aar": {
+    "when": "26 MAY 1940",
+    "ev": "Ramsay orders Operation Dynamo from the chalk tunnels beneath Dover Castle.",
+    "st": "In tunnels first dug during the Napoleonic Wars, Vice-Admiral Bertram Ramsay directed the evacuation from Dunkirk between 26 May and 4 June 1940. His staff used warships, ferries and small civilian boats to bring about 338,000 men home. Today you follow the tunnels past operations rooms and a reconstructed underground hospital, with the medieval castle and Channel views above.",
+    "q": {
+     "t": "Where did Operation Dynamo get its name?",
+     "o": [
+      "A room in the tunnels that had held a generator",
+      "The codename of Ramsay's flagship",
+      "A Royal Navy football team"
+     ],
+     "a": 0,
+     "x": "The usual explanation is that the planning took place in the tunnel room that had housed an electrical generator, or dynamo."
+    },
+    "rem": "Dunkirk was saved by planning as much as by little ships: the evacuation was run from offices in these tunnels."
+   },
+   "notes": "Wikipedia coordinate for Dover Castle has only 4 decimals and marks the castle, not the tunnel entrance. As of October 2026 English Heritage says the Operation Dynamo section is closed for essential maintenance with no reopening date: tell readers before they travel. Renamed slightly from the stoplist."
+  },
+  {
+   "id": "war-rooms",
+   "name": "Churchill War Rooms, London",
+   "short": "Churchill War Rooms",
+   "town": "Westminster, London",
+   "country": "United Kingdom",
+   "lat": 51.502083,
+   "lon": -0.129028,
+   "coord_src": "https://en.wikipedia.org/wiki/Churchill_War_Rooms",
+   "conf": "HIGH",
+   "cat": "Headquarters",
+   "kind": "historic",
+   "pri": 1,
+   "when": "27 Aug 1939 – 16 Aug 1945",
+   "sort": "1940-09-11",
+   "min": 120,
+   "text": "The Cabinet War Rooms, in a basement beneath government offices off Whitehall, became operational on 27 August 1939, days before Germany invaded Poland. The War Cabinet met here 115 times, the last time on 28 March 1945, and Churchill made four wartime broadcasts from the site, the first on 11 September 1940. The Map Room, staffed day and night, tracked the war on every front. From 1943 a secure SIGSALY telephone link let Churchill speak to President Roosevelt from a room disguised as a private lavatory. The lights were switched off the day after Japan surrendered, and the rooms were preserved. They opened to the public in 1984.",
+   "look": "Low corridors lead past the Cabinet Room, the Map Room with its original maps, coloured pins and telephones, the Transatlantic Telephone Room and Churchill's bedroom. The Churchill Museum, opened in 2005, covers his whole life.",
+   "plan": "Open daily 09:30–18:00 (last entry 17:00), closed 24–26 December. Adult about £34; booking online is strongly advised as it often sells out. Check the website before you go.",
+   "url": "https://www.iwm.org.uk/visits/churchill-war-rooms",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Churchill War Rooms (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Churchill_War_Rooms"
+    ],
+    [
+     "Churchill War Rooms (IWM)",
+     "https://www.iwm.org.uk/visits/churchill-war-rooms"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Churchill_War_Rooms",
+    "https://www.iwm.org.uk/visits/churchill-war-rooms"
+   ],
+   "aar": {
+    "when": "11 SEP 1940",
+    "ev": "Churchill makes the first of his four wartime broadcasts from the bunker under Whitehall.",
+    "st": "The War Rooms became operational on 27 August 1939, and the War Cabinet met here 115 times. From 1943 Churchill could talk securely to Roosevelt from a tiny room disguised as a lavatory. Today you walk the low corridors past the Cabinet Room, the Map Room with its original pins and maps, and Churchill's bedroom.",
+    "q": {
+     "t": "How was the Transatlantic Telephone Room disguised?",
+     "o": [
+      "As a broom cupboard",
+      "As Churchill's private lavatory",
+      "As a cipher store"
+     ],
+     "a": 1,
+     "x": "The room holding the secure line to Roosevelt was disguised as a private lavatory; the link itself was the SIGSALY system, in use from 1943."
+    },
+    "rem": "The Map Room was left as it was in August 1945: the pins on the wall are where the war ended."
+   },
+   "notes": "Busy and often sold out in summer; first entry slot is quietest. Entrance on Clive Steps, King Charles Street."
+  },
+  {
+   "id": "iwm-london",
+   "name": "Imperial War Museum London",
+   "short": "IWM London",
+   "town": "Lambeth, London",
+   "country": "United Kingdom",
+   "lat": 51.495831,
+   "lon": -0.108662,
+   "coord_src": "https://en.wikipedia.org/wiki/Imperial_War_Museum",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "historic",
+   "pri": 2,
+   "when": "1939–1945",
+   "sort": "1940-09-07",
+   "min": 180,
+   "text": "Britain's national museum of modern war has occupied the former Bethlem Royal Hospital on Lambeth Road since 1936. It is the best single place in Britain to see the Second World War as a whole: the Blitz, the war at sea and in the air, the home front and the campaigns from 1939 to 1945. In October 2021 it opened new Second World War and Holocaust galleries, which follow the war in Europe and the persecution and murder of Europe's Jews side by side. Outside stand two 15-inch naval guns, one from HMS Ramillies and the other mounted on HMS Resolution and HMS Roberts, which fired in support of D-Day.",
+   "look": "Head for the Second World War Galleries and the Holocaust Galleries on the upper floors; the central atrium holds aircraft, rockets and vehicles, including a V-2 and a Spitfire. The two huge 15-inch guns frame the entrance.",
+   "plan": "Open daily 10:00–18:00, closed 24–26 December. Free; no booking needed for general entry. Some special exhibitions are ticketed. Check the website before you go.",
+   "url": "https://www.iwm.org.uk/visits/iwm-london",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Imperial War Museum (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Imperial_War_Museum"
+    ],
+    [
+     "IWM London (official)",
+     "https://www.iwm.org.uk/visits/iwm-london"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Imperial_War_Museum",
+    "https://www.iwm.org.uk/visits/iwm-london"
+   ],
+   "aar": {
+    "when": "1939–1945",
+    "ev": "Britain's national war museum tells the whole Second World War under one roof.",
+    "st": "IWM London has been in the old Bethlem Royal Hospital since 1936. Its Second World War and Holocaust galleries, opened in 2021, follow the war in Europe and the murder of Europe's Jews side by side. Today two 15-inch naval guns guard the entrance, and inside the atrium holds aircraft and rockets, including a V-2.",
+    "q": {
+     "t": "What building does IWM London occupy?",
+     "o": [
+      "The former Bethlem Royal Hospital",
+      "A Victorian railway terminus",
+      "The old War Office"
+     ],
+     "a": 0,
+     "x": "Since 1936 the museum has been in the former Bethlem Royal Hospital on Lambeth Road, south of the Thames."
+    },
+    "rem": "Start or finish a London trip here: the 2021 galleries give the big picture the individual sites cannot."
+   },
+   "notes": "The Holocaust Galleries contain distressing material; IWM gives age guidance on its website."
+  },
+  {
+   "id": "st-pauls",
+   "name": "St Paul's Cathedral and the Blitz, London",
+   "short": "St Paul's",
+   "town": "City of London",
+   "country": "United Kingdom",
+   "lat": 51.513889,
+   "lon": -0.098333,
+   "coord_src": "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral",
+   "conf": "HIGH",
+   "cat": "Memorial",
+   "kind": "historic",
+   "pri": 3,
+   "when": "Sep 1940 – Apr 1941",
+   "sort": "1940-12-29",
+   "min": 120,
+   "text": "St Paul's became the symbol of London's survival in the Blitz. On 12 September 1940 a delayed-action bomb buried itself near the cathedral; a Royal Engineers team under Temporary Lieutenant Robert Davies dug it out and removed it, and Davies and Sapper George Wylie received the George Cross. A bomb destroyed the high altar on 10 October 1940, and another holed the north transept on 17 April 1941. On the night of 29 December 1940, the 'Second Great Fire of London', Churchill reportedly ordered that the cathedral be saved, and Herbert Mason's photograph of the dome rising through the smoke became one of the war's best-known images.",
+   "look": "Behind the high altar is the American Memorial Chapel, dedicated in 1958, with a Roll of Honour of over 28,000 Americans who died while based in or travelling to Britain. From the Stone Gallery you see the City rebuilt where the bombed streets stood.",
+   "plan": "Sightseeing Monday–Saturday, usually 08:30–16:30 (last entry 16:00). Adult about £27, booking online advised. Services are free. Times change for services and events; check the calendar before you go.",
+   "url": "https://www.stpauls.co.uk/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Churchill's order to save St Paul's at all costs is widely repeated but rests on later accounts ('reportedly'); no written order is known.",
+   "links": [
+    [
+     "St Paul's Cathedral (Wikipedia)",
+     "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral"
+    ],
+    [
+     "St Paul's Cathedral (official)",
+     "https://www.stpauls.co.uk/"
+    ],
+    [
+     "St Paul's Survives (Wikipedia)",
+     "https://en.wikipedia.org/wiki/St_Paul%27s_Survives"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral",
+    "https://www.stpauls.co.uk/planning-your-visit"
+   ],
+   "aar": {
+    "when": "29 DEC 1940",
+    "ev": "The dome of St Paul's rises unscathed above the fires of the City of London.",
+    "st": "Through the Blitz St Paul's was hit several times: a delayed-action bomb was dug out in September 1940, the high altar was destroyed in October, and the north transept holed in April 1941. Herbert Mason's photograph of 29 December 1940 made the dome a symbol of survival. Today the American Memorial Chapel stands behind the high altar, and the galleries look out over the rebuilt City.",
+    "q": {
+     "t": "What did Robert Davies's bomb disposal team do at St Paul's in September 1940?",
+     "o": [
+      "Put out a fire in the dome",
+      "Dug out and removed a delayed-action bomb",
+      "Rescued the cathedral's treasures"
+     ],
+     "a": 1,
+     "x": "They removed a time-delayed bomb near the cathedral; Davies and Sapper George Wylie were each awarded the George Cross."
+    },
+    "rem": "Much of the City around St Paul's was burnt out on 29 December 1940; the cathedral survived because fire-watchers fought for it."
+   },
+   "notes": "Coordinate converted from Wikipedia's DMS (51°30′50″N 0°05′54″W). Sunday is for worship only (Dome Galleries open on some Sundays in season)."
+  },
+  {
+   "id": "coventry",
+   "name": "Coventry Cathedral ruins",
+   "short": "Coventry ruins",
+   "town": "Coventry",
+   "country": "United Kingdom",
+   "lat": 52.40856,
+   "lon": -1.5071,
+   "coord_src": "https://en.wikipedia.org/wiki/Coventry_Cathedral",
+   "conf": "HIGH",
+   "cat": "Ruins",
+   "kind": "historic",
+   "pri": 3,
+   "when": "14–15 Nov 1940",
+   "sort": "1940-11-14",
+   "min": 90,
+   "text": "On the night of 14–15 November 1940 the Luftwaffe attacked Coventry, a centre of aircraft and engineering factories, in one of the heaviest raids of the Blitz. The medieval cathedral of St Michael burned; only the tower, spire, outer walls and one tomb survived. Provost Richard Howard had 'Father Forgive' inscribed behind the ruined altar, stonemason Jock Forbes bound two charred roof beams into a cross, and a cross was made from three medieval nails. Rather than rebuild, the city kept the ruins and Basil Spence built a new cathedral beside them, consecrated on 25 May 1962. The cathedral became a worldwide centre for reconciliation, linked with Dresden among others.",
+   "look": "Walk through the roofless shell to the altar with the Charred Cross (a 1964 replica; the original is inside) and the 'Father Forgive' words. Look for Josefina de Vasconcellos's 'Reconciliation' statue, then climb the 87-metre spire tower if open, and enter the new cathedral through its glass screen.",
+   "plan": "Cathedral and ruins usually open Monday–Saturday 10:00–16:00, Sunday 12:00–15:30, subject to services. Entry is free with donations welcome; the tower climb is charged. Check the website before you go.",
+   "url": "https://www.coventrycathedral.org.uk/",
+   "private": false,
+   "solemn": true,
+   "disputed": "A long-running claim says Churchill knew of the raid from Ultra decrypts and let Coventry burn to protect the secret; historians who have studied the records reject it, as the target was not identified in time.",
+   "links": [
+    [
+     "Coventry Cathedral (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Coventry_Cathedral"
+    ],
+    [
+     "Coventry Blitz (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Coventry_Blitz"
+    ],
+    [
+     "Coventry Cathedral (official)",
+     "https://www.coventrycathedral.org.uk/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Coventry_Cathedral",
+    "https://www.coventrycathedral.org.uk/"
+   ],
+   "aar": {
+    "when": "14 NOV 1940",
+    "ev": "German bombers set Coventry ablaze, and the medieval cathedral burns to a shell.",
+    "st": "In the raid of 14–15 November 1940 St Michael's burned, leaving only its tower, spire and outer walls. Provost Richard Howard had 'Father Forgive' inscribed behind the altar, and the ruins were kept beside Basil Spence's new cathedral of 1962. Today you walk through the roofless shell to the Charred Cross and the 'Reconciliation' statue before entering the new building.",
+    "q": null,
+    "rem": "Coventry chose reconciliation over revenge: 'Father Forgive' does not say 'Father forgive them'."
+   },
+   "notes": "Coordinate converted from the Wikipedia OS grid reference SP 33627 79065 (old cathedral) using a standard OSGB36-WGS84 transform; Wikipedia's own decimal is 52.4083, -1.5072. Name shortened from stoplist."
+  },
+  {
+   "id": "bletchley",
+   "name": "Bletchley Park",
+   "short": "Bletchley Park",
+   "town": "Bletchley, Milton Keynes",
+   "country": "United Kingdom",
+   "lat": 51.99806,
+   "lon": -0.74111,
+   "coord_src": "https://en.wikipedia.org/wiki/Bletchley_Park",
+   "conf": "HIGH",
+   "cat": "Codebreaking",
+   "kind": "historic",
+   "pri": 1,
+   "when": "15 Aug 1939 – 1945",
+   "sort": "1941-05-09",
+   "min": 240,
+   "text": "The Government Code and Cypher School moved to this Victorian mansion on 15 August 1939. Here codebreakers including Alan Turing and Gordon Welchman built on Polish work against the German Enigma machine; their electromechanical bombes found daily settings, Hut 6 broke Army and Air Force Enigma and Hut 8 Naval Enigma. The intelligence, codenamed Ultra, was graded above Most Secret. Later the Colossus computers attacked the German high command's Lorenz cipher. By January 1945 nearly 9,000 people worked for Bletchley and its outstations, about three-quarters of them women. Nobody spoke of it publicly until the 1970s.",
+   "look": "Restored huts, including Huts 6 and 8, and Block B with a working rebuilt bombe and Enigma machines. Visit the mansion, the lake and the wooden huts. The National Museum of Computing in Block H, with a rebuilt Colossus, has a separate ticket.",
+   "plan": "Open daily 09:30–17:00 to 31 Oct, then 09:30–16:00 in winter; closed 24–26 December. Adult about £28.75, valid as an annual pass; 10% off when booked online in advance. Allow at least four hours.",
+   "url": "https://bletchleypark.org.uk/",
+   "private": false,
+   "solemn": false,
+   "disputed": "The claim that Bletchley shortened the war by two years comes from official historian Sir Harry Hinsley; others think the effect cannot be measured so precisely.",
+   "links": [
+    [
+     "Bletchley Park (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Bletchley_Park"
+    ],
+    [
+     "Bletchley Park (official)",
+     "https://bletchleypark.org.uk/"
+    ],
+    [
+     "The National Museum of Computing",
+     "https://www.tnmoc.org/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bletchley_Park",
+    "https://www.destinationmiltonkeynes.co.uk/things-to-do/details/bletchley-park/"
+   ],
+   "aar": {
+    "when": "15 AUG 1939",
+    "ev": "Britain's codebreakers move to a country house to attack German Enigma traffic.",
+    "st": "From August 1939 Bletchley Park attacked German ciphers, with Turing's bombes finding Enigma settings and the Colossus computers breaking the Lorenz cipher. By 1945 nearly 9,000 people worked for it, about three-quarters of them women. Today restored huts, the mansion and a rebuilt working bombe show how the work was done, with Colossus next door in the computing museum.",
+    "q": {
+     "t": "Roughly what share of Bletchley's staff in 1945 were women?",
+     "o": [
+      "About a quarter",
+      "About half",
+      "About three-quarters"
+     ],
+     "a": 2,
+     "x": "Of nearly 9,000 staff in January 1945, about three-quarters were women, working as operators, analysts, translators and codebreakers."
+    },
+    "rem": "Ultra gave the Allies a window into German plans, but only if it could be used without revealing the source."
+   },
+   "notes": "Opening and price details taken from the Destination Milton Keynes listing because the official visit page would not load; editor should confirm on bletchleypark.org.uk. Bletchley station is a five-minute walk."
+  },
+  {
+   "id": "western-approaches",
+   "name": "Western Approaches HQ, Liverpool",
+   "short": "Western Approaches",
+   "town": "Liverpool",
+   "country": "United Kingdom",
+   "lat": 53.407549,
+   "lon": -2.992809,
+   "coord_src": "https://tracesofwar.com/sights/4504/Western-Approaches---Liverpool-War-Museum.htm",
+   "conf": "HIGH",
+   "cat": "Headquarters",
+   "kind": "historic",
+   "pri": 2,
+   "when": "Feb 1941 – 1945",
+   "sort": "1941-02-07",
+   "min": 90,
+   "text": "Western Approaches Command, responsible for protecting convoys in the Atlantic, moved from Plymouth to a reinforced basement under Derby House in Liverpool on 7 February 1941. RAF Coastal Command's No. 15 Group moved in alongside, so ships and aircraft were directed from one room. Admiral Sir Percy Noble commanded from February 1941, followed by Admiral Sir Max Horton from November 1942, who led the escort groups through the decisive convoy battles of spring 1943. In the same building the Western Approaches Tactical Unit under Captain Gilbert Roberts, staffed largely by Wrens, wargamed U-boat tactics on the floor and devised countermeasures for escort captains.",
+   "look": "The main operations room with its two-storey wall map of the Atlantic and convoy plots, the commander's office overlooking it, the teleprinter and cipher rooms, and the reconstructed tactical unit with its floor gaming board.",
+   "plan": "Open daily 10:00–18:00, last entry 17:00. Adult about £16.50; tickets online or on the day, no time slots. Cashless. Check the website before you go.",
+   "url": "https://liverpoolwarmuseum.co.uk/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Western Approaches Museum (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Western_Approaches_Museum"
+    ],
+    [
+     "Western Approaches Command (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Western_Approaches_Command"
+    ],
+    [
+     "Western Approaches (official)",
+     "https://liverpoolwarmuseum.co.uk/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Western_Approaches_Command",
+    "https://en.wikipedia.org/wiki/Western_Approaches_Museum",
+    "https://tracesofwar.com/sights/4504/Western-Approaches---Liverpool-War-Museum.htm",
+    "https://liverpoolwarmuseum.co.uk/?p=645"
+   ],
+   "aar": {
+    "when": "7 FEB 1941",
+    "ev": "The command fighting the U-boats moves into a bombproof bunker under Derby House.",
+    "st": "From February 1941 Western Approaches Command and the RAF's No. 15 Group ran the Battle of the Atlantic together from this basement. Admiral Max Horton took over in November 1942, and Gilbert Roberts's tactical unit, staffed largely by Wrens, wargamed U-boat tactics on the floor. Today you see the operations room with its huge Atlantic wall map, Horton's office and the tactical unit.",
+    "q": {
+     "t": "Who commanded Western Approaches from November 1942?",
+     "o": [
+      "Admiral Sir Bertram Ramsay",
+      "Admiral Sir Max Horton",
+      "Admiral Sir Andrew Cunningham"
+     ],
+     "a": 1,
+     "x": "Max Horton, a former submariner, replaced Percy Noble in November 1942 and led the escort forces through the convoy battles of 1943."
+    },
+    "rem": "Britain's survival depended on the Atlantic convoys; this room is where that battle was managed."
+   },
+   "notes": "Entrance on Rumford Street, Liverpool L2. Operated by Big Heritage, which also looks after U-boat U-534 (planned new display). Official site URL is liverpoolwarmuseum.co.uk (westernapproaches.org.uk blocked fetching)."
+  },
+  {
+   "id": "dday-story",
+   "name": "The D-Day Story, Portsmouth",
+   "short": "D-Day Story",
+   "town": "Southsea, Portsmouth",
+   "country": "United Kingdom",
+   "lat": 50.7798,
+   "lon": -1.089333,
+   "coord_src": "https://en.wikipedia.org/wiki/The_D-Day_Story",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 2,
+   "when": "Jun 1944",
+   "sort": "1944-06-05",
+   "min": 120,
+   "text": "Portsmouth and the Solent were the heart of the D-Day build-up: troops, ships and landing craft packed the south coast in spring 1944, and Eisenhower's forward headquarters was at Southwick House just north of the city. This museum on Southsea seafront opened in 1984 as the D-Day Museum and reopened in 2018 as The D-Day Story. Its centrepiece is the Overlord Embroidery, commissioned by Lord Dulverton: 34 panels, 83 metres long, made by twenty members of the Royal School of Needlework over seven years. Outside is LCT 7074, the last surviving landing craft tank of its kind from D-Day.",
+   "look": "Galleries follow D-Day from planning to the Normandy battle through personal stories, with a reconstructed Southwick House operations room. The Overlord Embroidery runs round its own gallery. Board LCT 7074 to see the open tank deck.",
+   "plan": "Open daily 10:00–17:00 (17:30 April–September); last entry 16:00, 15:30 for LCT 7074. Closed 24–26 December. Paid entry, ticket includes LCT 7074; buy online or on the day.",
+   "url": "https://theddaystory.com/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "The D-Day Story (Wikipedia)",
+     "https://en.wikipedia.org/wiki/The_D-Day_Story"
+    ],
+    [
+     "The D-Day Story (official)",
+     "https://theddaystory.com/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/The_D-Day_Story",
+    "https://theddaystory.com/"
+   ],
+   "aar": {
+    "when": "5 JUN 1944",
+    "ev": "The invasion fleet sails from Portsmouth and the Solent for Normandy.",
+    "st": "In spring 1944 the Portsmouth area filled with troops, ships and landing craft, and Eisenhower's forward headquarters sat at Southwick House nearby. This seafront museum tells the D-Day story through the people involved and the 83-metre Overlord Embroidery. Today you can also go aboard LCT 7074, the last landing craft tank of its kind, beside the museum.",
+    "q": {
+     "t": "What is LCT 7074?",
+     "o": [
+      "A D-Day landing craft tank",
+      "A Royal Navy destroyer",
+      "A Mulberry harbour section"
+     ],
+     "a": 0,
+     "x": "LCT 7074 is the last surviving D-Day landing craft tank of its kind; since 2020 it has been displayed beside the museum."
+    },
+    "rem": "D-Day began in the harbours of southern England: the invasion was launched from places like this."
+   },
+   "notes": "Ticket prices not shown on the main page; see theddaystory.com/plan-your-visit/tickets."
+  }
+ ]
+}

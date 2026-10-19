@@ -1,0 +1,1135 @@
+{
+ "intro": "The war in Europe was shaped by a handful of political leaders, a few dozen commanders and millions of ordinary people. These cards cover some of those whose names you will meet at the sites: the men who ran the war, the generals on all three sides, people who resisted, rescued or bore witness, and a few soldiers and airmen whose stories are told where they fought. Inclusion is not approval. Where the record is disputed or a reputation has been polished since 1945, the card says so.",
+ "command": [
+  {
+   "b": "The Western Allies.",
+   "p": "Churchill and Roosevelt set strategy through the Combined Chiefs of Staff from early 1942. Eisenhower commanded the Allied landings in North Africa and the Mediterranean, then from January 1944 the invasion of north-west Europe as Supreme Commander. Under him, Montgomery led the land battle in Normandy and then 21st Army Group (British and Canadian) in the north, while Bradley's 12th Army Group, with Patton's Third Army, held the centre. The RAF's Fighter and Bomber Commands answered to the Air Ministry, not to the army."
+  },
+  {
+   "b": "The Soviet Union.",
+   "p": "Stalin was head of government, defence commissar and supreme commander. He ran the war through the Stavka (supreme headquarters) and the General Staff, which sent senior figures such as Zhukov to coordinate groups of fronts. A Soviet front was roughly an army group: Rokossovsky, Konev and their colleagues each led several armies, such as Chuikov's 62nd (later 8th Guards) Army at Stalingrad and Berlin. Political commissars and the NKVD watched every level."
+  },
+  {
+   "b": "Germany.",
+   "p": "Hitler was head of state and supreme commander, and from December 1941 commander of the army as well. The OKW ran most theatres, the OKH the Eastern Front, and orders reached army groups led by field marshals such as Rundstedt, Manstein and Model. The Luftwaffe, under Göring, and the SS, under Himmler, were separate empires. Hitler sacked commanders often, increasingly interfered in tactical decisions and forbade retreats."
+  }
+ ],
+ "groups": [
+  {
+   "id": "men-lead",
+   "name": "Leaders"
+  },
+  {
+   "id": "men-allied",
+   "name": "Allied commanders"
+  },
+  {
+   "id": "men-soviet",
+   "name": "Soviet commanders"
+  },
+  {
+   "id": "men-axis",
+   "name": "German commanders"
+  },
+  {
+   "id": "men-res",
+   "name": "Resistance, rescuers and witnesses"
+  },
+  {
+   "id": "men-sol",
+   "name": "Soldiers and airmen"
+  }
+ ],
+ "people": [
+  {
+   "id": "man-churchill",
+   "group": "men-lead",
+   "name": "Winston Churchill",
+   "nick": "Winnie",
+   "role": "British Prime Minister and Minister of Defence, May 1940 – July 1945",
+   "born": "30 Nov 1874, Blenheim Palace, Oxfordshire",
+   "died": "24 Jan 1965, London",
+   "places": [
+    "war-rooms",
+    "dover-tunnels",
+    "bob-bunker",
+    "st-pauls",
+    "bentley-priory"
+   ],
+   "story": [
+    "A soldier, journalist and politician whose career seemed finished in the 1930s, when he warned against German rearmament and appeasement, Churchill returned as First Lord of the Admiralty in September 1939. He became Prime Minister on 10 May 1940, the day Germany attacked in the west. Within weeks France was collapsing and the army was being lifted from Dunkirk. In late May he argued down colleagues who wanted to explore peace terms through Mussolini, and his speeches to Parliament and on the radio that summer set the tone of a country that would fight on alone.",
+    "He ran the war from Downing Street and the underground Cabinet War Rooms, travelling constantly to meet Roosevelt and Stalin, from the Atlantic Charter in August 1941 to Tehran, Yalta and Potsdam. He favoured operations in the Mediterranean and argued for delay before a cross-Channel invasion, a source of friction with American planners. By 1944 Britain was the junior partner to the United States and the Soviet Union. He was voted out in the general election of July 1945, the result announced while the Potsdam conference was under way."
+   ],
+   "caveat": "His record is argued over: the Norway and Greece campaigns, his share in the policy of area bombing, which he began to distance himself from in a memo of 28 March 1945, and his government's handling of the 1943 Bengal famine, in which some three million people died.",
+   "decorations": [
+    "Queen's Sudan Medal — served at Omdurman with the 21st Lancers, 1898",
+    "Companion of Honour, 1922",
+    "Order of Merit, 1946",
+    "Knight of the Garter, 1953",
+    "Nobel Prize in Literature, 1953 (not a decoration, but often listed with them)"
+   ],
+   "after": "Leader of the Opposition, then Prime Minister again 1951–55. He wrote a six-volume history of the war that shaped how it was remembered for decades. He died in 1965 and was given a state funeral; he is buried at Bladon, near Blenheim.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Winston_Churchill",
+    "https://winstonchurchill.org/the-life-of-churchill/",
+    "https://www.iwm.org.uk/visits/churchill-war-rooms"
+   ]
+  },
+  {
+   "id": "man-roosevelt",
+   "group": "men-lead",
+   "name": "Franklin D. Roosevelt",
+   "nick": "FDR",
+   "role": "President of the United States, 1933–1945",
+   "born": "30 Jan 1882, Hyde Park, New York",
+   "died": "12 Apr 1945, Warm Springs, Georgia",
+   "places": [
+    "us-cemetery",
+    "nettuno",
+    "lux-cemetery"
+   ],
+   "story": [
+    "Paralysed from the waist down by illness in 1921, Roosevelt led the United States out of the Depression and, after 1939, steadily towards the Allied side while the country stayed formally neutral. The destroyers-for-bases deal of 1940 and the Lend-Lease Act of March 1941 sent ships, aircraft and supplies to Britain, and later to the Soviet Union. After Pearl Harbor and Germany's declaration of war on the United States on 11 December 1941, he held to the decision that Germany should be defeated first.",
+    "At Casablanca in January 1943 he announced that the Allies would accept only unconditional surrender. He met Churchill many times and Stalin twice, at Tehran in November 1943 and at Yalta in February 1945, where the post-war shape of Poland and eastern Europe was largely conceded to Soviet power. Already gravely ill at Yalta, he died of a cerebral haemorrhage less than four weeks before the German surrender. Harry Truman succeeded him. He had chosen Eisenhower to command the invasion of France, which he pressed for against British doubts."
+   ],
+   "caveat": "Historians still debate his response to the Holocaust: tight immigration limits for Jewish refugees in the 1930s, the late creation of the War Refugee Board in January 1944, and the decision not to bomb Auschwitz or the railways to it. In the Pacific war he ordered the internment of some 120,000 Japanese Americans.",
+   "decorations": [],
+   "after": "He died in office in April 1945 and is buried at Hyde Park. The United Nations, which he had championed, held its founding conference in San Francisco two weeks after his death.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+    "https://millercenter.org/president/fdroosevelt",
+    "https://www.fdrlibrary.org/"
+   ]
+  },
+  {
+   "id": "man-stalin",
+   "group": "men-lead",
+   "name": "Joseph Stalin",
+   "nick": "",
+   "role": "Soviet leader; People's Commissar for Defence and Supreme Commander from 1941",
+   "born": "18 Dec 1878, Gori, Georgia",
+   "died": "5 Mar 1953, Kuntsevo near Moscow",
+   "places": [
+    "poklonnaya",
+    "mamayev",
+    "brest-fortress",
+    "karlshorst",
+    "warsaw-rising"
+   ],
+   "story": [
+    "Born Ioseb Jughashvili, Stalin had made himself absolute ruler of the Soviet Union by the 1930s, through forced collectivisation, famine and the purges that killed or imprisoned much of the Red Army's officer corps. In August 1939 his Pact with Hitler divided eastern Europe: the Soviet Union invaded Poland on 17 September 1939, and in spring 1940 the NKVD shot about 22,000 Polish officers and others at Katyn and elsewhere. He dismissed repeated warnings of a German attack, and the invasion of 22 June 1941 caught the Red Army badly unprepared.",
+    "He stayed in Moscow when the Germans approached in October 1941. Orders such as No. 227 of July 1942, 'Not one step back', were enforced by blocking detachments and penal units. From 1942 he learned to listen more to commanders such as Zhukov and Vasilevsky, while keeping the final word. At Tehran, Yalta and Potsdam he secured a Soviet sphere in eastern Europe that his armies already held. The Soviet Union lost around 27 million people in the war, soldiers and civilians."
+   ],
+   "caveat": "Soviet victory and Soviet repression are both part of his war: mass deportations of whole peoples such as the Chechens and Crimean Tatars, the fate of returning prisoners of war, and the halt of the Red Army while the Warsaw Uprising was crushed in 1944, a point still argued.",
+   "decorations": [
+    "Hero of Socialist Labour, 1939",
+    "Order of Victory (twice), 1944 and 1945",
+    "Hero of the Soviet Union, June 1945 (accounts say he never wore the star)"
+   ],
+   "after": "Took the rank of Generalissimo in June 1945 and led the Soviet Union into the Cold War. He died in 1953; in 1956 Khrushchev denounced his crimes, and Stalingrad was renamed Volgograd in 1961.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Joseph_Stalin",
+    "https://www.britannica.com/biography/Joseph-Stalin",
+    "https://en.wikipedia.org/wiki/Order_No._227"
+   ]
+  },
+  {
+   "id": "man-hitler",
+   "group": "men-lead",
+   "name": "Adolf Hitler",
+   "nick": "",
+   "role": "Leader of Nazi Germany (Führer), Chancellor from 1933, supreme commander of the armed forces",
+   "born": "20 Apr 1889, Braunau am Inn, Austria",
+   "died": "30 Apr 1945, Berlin (suicide)",
+   "places": [
+    "munich-ns",
+    "nuremberg-rally",
+    "obersalzberg",
+    "eagles-nest",
+    "compiegne",
+    "wolfs-lair",
+    "fuhrerbunker",
+    "reichstag"
+   ],
+   "story": [
+    "An Austrian who served in a Bavarian regiment in the First World War, Hitler led the Nazi Party from Munich, failed in a coup in 1923 and came to power legally as Chancellor on 30 January 1933. Within months he had abolished democracy. Rearmament, the occupation of the Rhineland, the annexation of Austria and the seizure of Czechoslovakia followed; the invasion of Poland on 1 September 1939 started the war. In June 1940 he had the French sign their armistice at Compiègne in the same railway carriage used in 1918.",
+    "His aims were racial as well as territorial: living space in the east, the enslavement of Slavs and the destruction of Europe's Jews, which became systematic murder from 1941. He ordered the invasion of the Soviet Union in June 1941 and declared war on the United States that December. As the war turned he forbade retreats, sacked his generals and ran operations from headquarters such as the Wolf's Lair, where he survived Stauffenberg's bomb on 20 July 1944. He shot himself in the bunker under the Reich Chancellery on 30 April 1945."
+   ],
+   "caveat": "Almost every claim about him has been examined; the decisive points are not in doubt. Myths that his Iron Cross was undeserved, or that he survived the war, are not supported by the evidence.",
+   "decorations": [
+    "Iron Cross, 2nd Class — December 1914",
+    "Iron Cross, 1st Class — August 1918, on the recommendation of a Jewish officer, Hugo Gutmann",
+    "Wound Badge in Black — 1918"
+   ],
+   "after": "His body and Eva Braun's were burned in the Chancellery garden. Soviet investigators took the remains; they were finally destroyed in 1970. The bunker site is now a car park with an information board.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Adolf_Hitler",
+    "https://www.ushmm.org/learn/timelines/timeline-of-events/1933-1938/adolf-hitler-becomes-chancellor",
+    "https://www.britannica.com/biography/Adolf-Hitler"
+   ]
+  },
+  {
+   "id": "man-degaulle",
+   "group": "men-lead",
+   "name": "Charles de Gaulle",
+   "nick": "",
+   "role": "Leader of the Free French, then head of the Provisional Government of France, 1944–46",
+   "born": "22 Nov 1890, Lille",
+   "died": "9 Nov 1970, Colombey-les-Deux-Églises",
+   "places": [
+    "paris-lib",
+    "mont-valerien",
+    "compiegne",
+    "memorial-shoah"
+   ],
+   "story": [
+    "Wounded three times in the First World War and captured at Douaumont, near Verdun, on 2 March 1916, de Gaulle spent the inter-war years arguing for armoured divisions. In May 1940 he led the 4th Armoured Division in counter-attacks at Montcornet and Abbeville, and on 5 June became a junior minister for war. When the government moved towards an armistice he flew to London on 17 June and broadcast his appeal on the BBC the next evening, calling on the French to continue the fight. A Vichy court condemned him to death in his absence.",
+    "Starting almost alone, he built the Free French forces and won over colonies in Africa, while quarrelling with Churchill and Roosevelt, who distrusted him. His envoy Jean Moulin united the main resistance movements inside France in 1943. On 25 August 1944 he entered liberated Paris, and the next day walked down the Champs-Élysées. He led the provisional government that restored the Republic, gave French women the vote and purged collaborators. The French 2nd Armoured Division under General Leclerc, which he had insisted be allowed to lead, was the first Allied force into the capital."
+   ],
+   "caveat": "His Paris speech of 25 August 1944 spoke of a France that had liberated itself, playing down Allied and colonial troops. His view that Vichy was not France left the state's role in deporting Jews unacknowledged until President Chirac's speech of 1995.",
+   "decorations": [
+    "Croix de guerre 1914–1918 — Verdun",
+    "Légion d'honneur — First World War service",
+    "Founder and Grand Master of the Order of the Liberation, created by him in 1940"
+   ],
+   "after": "Resigned in January 1946, returned to power in 1958 and founded the Fifth Republic, ending the Algerian War. President 1959–69. He opened the national memorial at Mont-Valérien in 1960. He died at home in 1970.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Charles_de_Gaulle",
+    "https://www.charles-de-gaulle.org/",
+    "https://www.ordredelaliberation.fr/fr/le-general-de-gaulle"
+   ]
+  },
+  {
+   "id": "man-himmler",
+   "group": "men-lead",
+   "name": "Heinrich Himmler and Reinhard Heydrich",
+   "nick": "",
+   "role": "Head of the SS and German police (Himmler); head of the Reich Security Main Office (Heydrich)",
+   "born": "Himmler 7 Oct 1900, Munich · Heydrich 7 Mar 1904, Halle an der Saale",
+   "died": "Himmler 23 May 1945, Lüneburg (suicide) · Heydrich 4 Jun 1942, Prague (assassinated)",
+   "places": [
+    "dachau",
+    "topography",
+    "wannsee",
+    "sachsenhausen",
+    "auschwitz-1",
+    "birkenau",
+    "treblinka",
+    "anthropoid",
+    "heydrich-site",
+    "lidice"
+   ],
+   "story": [
+    "Himmler became Reichsführer-SS in 1929 and built Hitler's bodyguard into a state within the state. As Munich police chief he opened Dachau in March 1933, the model for the concentration camp system; by 1936 he controlled all German police. Heydrich, a naval officer dismissed in 1931, ran the SS security service (SD) and from 1939 the Reich Security Main Office, whose headquarters stood on the site of today's Topography of Terror. His Einsatzgruppen shot hundreds of thousands of Jews and others behind the Eastern Front from June 1941.",
+    "On 20 January 1942 Heydrich chaired the Wannsee Conference, which coordinated the deportation and murder of Europe's Jews across government departments. Himmler's SS ran the death camps of Operation Reinhard (Bełżec, Sobibór, Treblinka) and Auschwitz-Birkenau. Heydrich, also acting governor of Bohemia and Moravia, died of wounds after the Prague attack of 27 May 1942; reprisals included the destruction of Lidice. Himmler stayed in post to the end, tried to negotiate with the Western Allies in April 1945, and was captured in disguise in May."
+   ],
+   "caveat": "",
+   "decorations": [],
+   "after": "Himmler bit on a cyanide capsule in British custody at Lüneburg on 23 May 1945 and was buried in an unmarked grave. Heydrich received a state funeral in Berlin; his grave in the Invalidenfriedhof is unmarked.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Heinrich_Himmler",
+    "https://en.wikipedia.org/wiki/Reinhard_Heydrich",
+    "https://www.ghwk.de/en/",
+    "https://encyclopedia.ushmm.org/content/en/article/heinrich-himmler"
+   ]
+  },
+  {
+   "id": "man-eisenhower",
+   "group": "men-allied",
+   "name": "Dwight D. Eisenhower",
+   "nick": "Ike",
+   "role": "Supreme Commander, Allied Expeditionary Force, 1944–45",
+   "born": "14 Oct 1890, Denison, Texas",
+   "died": "28 Mar 1969, Washington DC",
+   "places": [
+    "dday-story",
+    "us-cemetery",
+    "reims",
+    "bastogne-museum",
+    "buchenwald"
+   ],
+   "story": [
+    "A staff officer who had never seen combat, Eisenhower was chosen by General Marshall for his skill at planning and at getting allies to work together. He commanded the landings in French North Africa in November 1942, then Sicily and the invasion of mainland Italy. In January 1944 he took over the invasion of north-west Europe. At Southwick House near Portsmouth, on the evening of 4 June and early on 5 June, he weighed a narrow break in the weather and gave the order for D-Day; he had already drafted a note taking the blame if the landings failed.",
+    "From September 1944 he commanded the land battle himself, advancing on a broad front rather than the single thrust that Montgomery wanted. When the Germans struck in the Ardennes in December he committed his reserves at once to hold Bastogne and the shoulders of the bulge. In April 1945 he toured the newly liberated camp at Ohrdruf, part of the Buchenwald system, and called in journalists and politicians to see it. His chief of staff signed the German surrender at his headquarters in Reims on 7 May."
+   ],
+   "caveat": "Whether the broad-front strategy lengthened the war, and his decision to leave Berlin to the Red Army, are still argued. Claims that his policy on 'disarmed enemy forces' caused hundreds of thousands of German prisoners' deaths have been rejected by historians.",
+   "decorations": [
+    "Army Distinguished Service Medal — commanding the Tank Corps training centre at Camp Colt, Gettysburg, 1918"
+   ],
+   "after": "Army Chief of Staff, first Supreme Allied Commander Europe for NATO (1951–52), then 34th President of the United States, 1953–61. Buried at Abilene, Kansas.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+    "https://www.eisenhowerlibrary.gov/eisenhowers/biographies",
+    "https://www.army.mil/article/203806"
+   ]
+  },
+  {
+   "id": "man-montgomery",
+   "group": "men-allied",
+   "name": "Bernard Montgomery",
+   "nick": "Monty",
+   "role": "Commander of Allied land forces in Normandy, then 21st Army Group, 1944–45",
+   "born": "17 Nov 1887, Kennington, London",
+   "died": "24 Mar 1976, Alton, Hampshire",
+   "places": [
+    "dday-story",
+    "caen-memorial",
+    "hill-112",
+    "pegasus",
+    "hartenstein",
+    "groesbeek"
+   ],
+   "story": [
+    "After victory at El Alamein in November 1942 and the campaigns in Tunisia, Sicily and southern Italy, Montgomery returned to England at the start of 1944 to command the land forces for D-Day under Eisenhower. He widened the plan from three divisions to five landing beaches. In Normandy his British and Canadian armies fought a costly battle around Caen, holding most of the German armour while the Americans broke out in the west at the end of July. The German armies in Normandy were destroyed in the Falaise pocket in August.",
+    "From September he commanded 21st Army Group. He planned Operation Market Garden, the attempt to seize a corridor of bridges to Arnhem, which failed in September 1944. In the Ardennes he took over the American armies north of the bulge, then angered American commanders with a press conference on 7 January 1945 that seemed to claim the credit. His troops crossed the Rhine in March and on 4 May he received the surrender of German forces in north-west Germany, the Netherlands and Denmark on Lüneburg Heath."
+   ],
+   "caveat": "His later claim that Normandy went exactly to plan is not accepted: Caen, a D-Day objective, fell only in July. He was also criticised for not clearing the approaches to Antwerp before Market Garden, which delayed the use of the port until late November.",
+   "decorations": [
+    "Distinguished Service Order — Méteren, near the Belgian border, 13 October 1914, where he was shot through the lung"
+   ],
+   "after": "Chief of the Imperial General Staff 1946–48 and deputy commander of NATO forces in Europe until 1958. Created Viscount Montgomery of Alamein. His memoirs (1958) upset many former colleagues.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Bernard_Montgomery",
+    "https://www.iwm.org.uk/history/who-was-field-marshal-montgomery",
+    "https://www.nam.ac.uk/explore/field-marshal-montgomery"
+   ]
+  },
+  {
+   "id": "man-bradley",
+   "group": "men-allied",
+   "name": "Omar N. Bradley",
+   "nick": "the GI's General",
+   "role": "Commander, US First Army in Normandy, then 12th Army Group, 1944–45",
+   "born": "12 Feb 1893, Clark, Missouri",
+   "died": "8 Apr 1981, New York City",
+   "places": [
+    "omaha",
+    "utah",
+    "us-cemetery",
+    "montormel",
+    "hurtgen",
+    "remagen"
+   ],
+   "story": [
+    "A quiet Missourian from the West Point class of 1915, Bradley spent the First World War guarding copper mines in Montana. He rose in Tunisia and Sicily under Patton, whom he then overtook. On D-Day his First Army landed at Utah and Omaha; at Omaha he considered diverting later waves elsewhere before the troops fought their way off the beach. His Operation Cobra, opened by heavy bombing west of Saint-Lô on 25 July 1944, broke the German line, and from 1 August he commanded 12th Army Group, which grew to more than 1.3 million men.",
+    "His armies swept across France, then slowed at the German border, where he committed First Army to months of fighting in the Hürtgen Forest. The German offensive in the Ardennes in December fell on his thinly held sector, and Eisenhower gave his northern armies to Montgomery for a month. In March 1945 he quickly reinforced the bridgehead won at Remagen, and in April his armies encircled the Ruhr, taking more than 300,000 prisoners. Calmer and more careful than Patton, he was made known by the war correspondent Ernie Pyle as the soldier's general."
+   ],
+   "caveat": "His order of 13 August 1944 halting Patton's troops at Argentan, leaving the Falaise gap open for several more days, let many Germans escape. Why he gave it, and how many got away, are still debated.",
+   "decorations": [
+    "Army Distinguished Service Medal — several awards for his Second World War commands"
+   ],
+   "after": "Head of the Veterans Administration, Army Chief of Staff, then the first Chairman of the Joint Chiefs of Staff, 1949–53. Made General of the Army in 1950; he was the last surviving five-star officer.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Omar_Bradley",
+    "https://history.army.mil/html/books/070/70-49/index.html",
+    "https://www.britannica.com/biography/Omar-N-Bradley"
+   ]
+  },
+  {
+   "id": "man-patton",
+   "group": "men-allied",
+   "name": "George S. Patton Jr.",
+   "nick": "Old Blood and Guts",
+   "role": "Commander, US Third Army, 1944–45",
+   "born": "11 Nov 1885, San Gabriel, California",
+   "died": "21 Dec 1945, Heidelberg, Germany",
+   "places": [
+    "bastogne-museum",
+    "mardasson",
+    "barracks",
+    "diekirch",
+    "lux-cemetery"
+   ],
+   "story": [
+    "Sidelined after Sicily, where he had struck two soldiers suffering from battle fatigue, Patton spent early 1944 in England as the figurehead of a fictitious army group meant to convince the Germans that the main landing would come at Calais. His Third Army became operational in Normandy on 1 August 1944 and raced through Brittany and across France to the Moselle. There it ran short of fuel and spent the autumn in a slow, bloody fight for Metz and Lorraine.",
+    "When the Germans attacked in the Ardennes on 16 December, he told Eisenhower at Verdun on the 19th that he could attack northwards within days. He turned much of his army ninety degrees in winter weather, and on 26 December the 4th Armored Division broke through to the encircled garrison of Bastogne. In March 1945 his troops crossed the Rhine at Oppenheim and then drove into Bavaria and Czechoslovakia. Profane and theatrical in public, he was a careful student of war who drove his staff and supply services as hard as his tanks."
+   ],
+   "caveat": "Besides the slapping incidents of August 1943, he made antisemitic remarks about Jewish survivors in camps for displaced persons in 1945, and was removed as military governor of Bavaria for keeping former Nazis in office. The failed raid on the Hammelburg prison camp in March 1945, which his son-in-law was in, is also held against him.",
+   "decorations": [
+    "Distinguished Service Cross — wounded leading tanks in the Meuse-Argonne, 26 September 1918"
+   ],
+   "after": "Injured in a car accident near Mannheim on 9 December 1945, he died twelve days later. He is buried among his soldiers at the Luxembourg American Cemetery at Hamm.",
+   "src": [
+    "https://en.wikipedia.org/wiki/George_S._Patton",
+    "https://www.abmc.gov/news-events/news/general-george-s-patton-jr",
+    "https://www.britannica.com/biography/George-Smith-Patton"
+   ]
+  },
+  {
+   "id": "man-dowding",
+   "group": "men-allied",
+   "name": "Hugh Dowding",
+   "nick": "Stuffy",
+   "role": "Air Officer Commanding-in-Chief, RAF Fighter Command, 1936–40",
+   "born": "24 Apr 1882, Moffat, Dumfriesshire",
+   "died": "15 Feb 1970, Tunbridge Wells, Kent",
+   "places": [
+    "bentley-priory",
+    "bob-bunker",
+    "biggin-hill",
+    "capel"
+   ],
+   "story": [
+    "Dowding took over Fighter Command in July 1936. From Bentley Priory, he joined radar stations, the Royal Observer Corps, operations rooms and radio-controlled fighters into a single reporting and control network, later called the Dowding system. As head of research before that he had backed both radar and the eight-gun monoplane fighters that became the Hurricane and Spitfire. In May 1940, with France collapsing, he wrote to the Air Ministry warning that sending more fighter squadrons across the Channel would leave Britain defenceless.",
+    "In the Battle of Britain, from July to October 1940, his system let a smaller force meet the Luftwaffe where and when it mattered, with Keith Park's 11 Group bearing the brunt from its bunker at Uxbridge. He husbanded aircraft and pilots and resisted calls to fight in great formations. His reserved manner made him enemies in the Air Ministry. Criticised over night defence during the Blitz and over the 'Big Wing' dispute between Park and Leigh-Mallory, he was replaced in November 1940."
+   ],
+   "caveat": "Many historians judge his removal shabby, and it was made with little thanks. Others note that night air defence was failing in the autumn of 1940 and that he had been due to retire before the battle began.",
+   "decorations": [
+    "Companion of the Order of St Michael and St George, 1919",
+    "Knight Grand Cross of the Royal Victorian Order, 1937",
+    "Knight Grand Cross of the Order of the Bath, 1940"
+   ],
+   "after": "Made Baron Dowding in 1943. In retirement he wrote on spiritualism and campaigned against cruelty to animals. His ashes lie beneath the Battle of Britain window in Westminster Abbey.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Hugh_Dowding",
+    "https://www.rafmuseum.org.uk/research/online-exhibitions/history-of-the-battle-of-britain/",
+    "https://www.bentleypriorymuseum.org.uk/"
+   ]
+  },
+  {
+   "id": "man-harris",
+   "group": "men-allied",
+   "name": "Arthur Harris",
+   "nick": "Bomber, or Butch",
+   "role": "Air Officer Commanding-in-Chief, RAF Bomber Command, 1942–45",
+   "born": "13 Apr 1892, Cheltenham",
+   "died": "5 Apr 1984, Goring-on-Thames",
+   "places": [
+    "hamburg-nikolai",
+    "dresden-frauenkirche",
+    "peenemunde"
+   ],
+   "story": [
+    "Harris took over Bomber Command in February 1942, days after a new directive made the morale of German civilians, and so the bombing of whole urban areas, its main aim. He set out to prove that bombing could win the war. The first thousand-bomber raid, on Cologne on the night of 30/31 May 1942, was a gamble to save his command. With new four-engined bombers, navigation aids and the Pathfinder Force, his crews burned much of Hamburg in July and August 1943, killing around 37,000 people, many in the firestorm of 27/28 July.",
+    "His winter campaign against Berlin in 1943–44 failed at heavy cost. Diverted to support D-Day in 1944, his bombers were accurate and effective against railways and coastal defences. He argued against attacks on oil targets as 'panaceas', then returned to the cities; on 13–14 February 1945 his bombers began the raid on Dresden. Bomber Command lost 55,573 aircrew killed during the war, about 44 per cent of those who served in it. In public he never wavered in his belief that bombing cities had shortened the war."
+   ],
+   "caveat": "Area bombing remains disputed on moral and military grounds. Allied bombing as a whole killed some 350,000–400,000 German civilians, tied down guns, fighters and workers, and damaged production, but area attacks did not break morale as promised. His crews' sacrifice was long left without a campaign medal; a clasp was issued in 2013.",
+   "decorations": [
+    "Air Force Cross, November 1918 — Royal Flying Corps service",
+    "Knight Grand Cross of the Order of the Bath, 1945",
+    "Baronet, 1953"
+   ],
+   "after": "Disappointed at his treatment, he left for South Africa and ran a shipping company. He returned in 1953 and accepted a baronetcy. A statue to him outside St Clement Danes in London, unveiled in 1992, drew protests.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Sir_Arthur_Harris,_1st_Baronet",
+    "https://www.rafmuseum.org.uk/research/history-of-aviation-timeline/interwar/bomber-command/",
+    "https://www.iwm.org.uk/history/the-bombing-of-hamburg"
+   ]
+  },
+  {
+   "id": "man-freyberg",
+   "group": "men-allied",
+   "name": "Bernard Freyberg",
+   "nick": "Tiny",
+   "role": "Commander, 2nd New Zealand Division; Allied commander on Crete, 1941",
+   "born": "21 Mar 1889, Richmond, Surrey",
+   "died": "4 Jul 1963, Windsor",
+   "places": [
+    "maleme",
+    "galatas",
+    "souda-bay",
+    "cassino-abbey",
+    "cassino-cwgc"
+   ],
+   "story": [
+    "Raised in New Zealand, Freyberg was among the most decorated British Empire soldiers of the First World War: at Gallipoli he swam ashore alone at night to light decoy flares, and on the Somme he won the Victoria Cross. In 1939 he took command of New Zealand's expeditionary force. After the retreat from Greece he was given command on Crete on 30 April 1941. German paratroops and gliders landed on 20 May; overnight the New Zealand battalion on Hill 107 above Maleme airfield withdrew, and the Germans flew in reinforcements.",
+    "Despite fierce fighting at Galatas and elsewhere, the island was lost and about 18,000 men were evacuated by sea from Sfakia and Heraklion by 1 June; more than 12,000 were left behind as prisoners. Freyberg went on to lead the New Zealanders through North Africa and Italy. At Cassino in February 1944, commanding a corps, he asked for the bombing of the abbey of Monte Cassino, which was destroyed on 15 February; the attacks that followed failed. His division had fought at El Alamein and in Tunisia before landing in Italy in late 1943."
+   ],
+   "caveat": "How far he misread his Ultra intelligence before Crete, focusing on a seaborne landing at the expense of the airfields, is still debated. After the war the abbey's monks said German troops had not been inside the building before it was bombed.",
+   "decorations": [
+    "Distinguished Service Order — the decoy swim at Gallipoli, April 1915",
+    "Victoria Cross — Beaucourt-sur-Ancre, 13 November 1916",
+    "Three bars to the DSO — two for 1918, the second for seizing the bridge at Lessines minutes before the Armistice, and one for Italy, 1945"
+   ],
+   "after": "Governor-General of New Zealand 1946–52; created Baron Freyberg in 1951. He became Lieutenant-Governor of Windsor Castle, where he died when an old war wound ruptured.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Bernard_Freyberg,_1st_Baron_Freyberg",
+    "https://teara.govt.nz/en/biographies/4f25/freyberg-bernard-cyril",
+    "https://nzhistory.govt.nz/war/the-battle-for-crete"
+   ]
+  },
+  {
+   "id": "man-anders",
+   "group": "men-allied",
+   "name": "Władysław Anders",
+   "nick": "",
+   "role": "Commander, Polish Army in the USSR, then 2nd Polish Corps in Italy",
+   "born": "11 Aug 1892, Krośniewice-Błonie, near Kutno",
+   "died": "12 May 1970, London",
+   "places": [
+    "polish-cem",
+    "cassino-abbey"
+   ],
+   "story": [
+    "A cavalry officer, Anders led the Nowogródzka Cavalry Brigade in September 1939. Twice wounded, he was captured by the Red Army after the Soviet invasion and held in the NKVD's Lubyanka prison in Moscow. After Germany attacked the Soviet Union, Stalin released him in August 1941 to form a Polish army from deported soldiers and civilians. In 1942 he led that army and its dependants, together well over 100,000 people, out across the Caspian to Iran. Among them were thousands of children and families released from Soviet labour camps and exile.",
+    "Re-formed in the Middle East as the 2nd Polish Corps, his troops joined the British Eighth Army in Italy. In May 1944, after three earlier Allied attempts had failed, they attacked the heights above Cassino, and on 18 May a Polish patrol raised its flag over the ruins of the abbey. The corps went on to take Ancona in July and fought at Bologna in April 1945. Yalta, which gave eastern Poland to the Soviet Union, left most of his men without homes to return to."
+   ],
+   "caveat": "Several thousand Jewish soldiers left his army in Palestine in 1942–44, Menachem Begin among them. Anders let most go without pursuit; claims of antisemitism in the ranks were real but are argued over in scale.",
+   "decorations": [
+    "Virtuti Militari, Silver Cross — Polish–Soviet War, 1920",
+    "Cross of Valour (four times)",
+    "Order of the White Eagle — posthumous, 1995"
+   ],
+   "after": "Stripped of Polish citizenship by the communist government in 1946, he stayed in London as a leading figure of the exile community. He is buried, at his wish, in the Polish War Cemetery at Monte Cassino.",
+   "src": [
+    "https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Anders",
+    "https://www.polishwarcemeterymontecassino.org/",
+    "https://www.britannica.com/biography/Wladyslaw-Anders"
+   ]
+  },
+  {
+   "id": "man-zhukov",
+   "group": "men-soviet",
+   "name": "Georgy Zhukov",
+   "nick": "",
+   "role": "Deputy Supreme Commander; commander of the 1st Belorussian Front at Berlin",
+   "born": "1 Dec 1896, Strelkovka, Kaluga province",
+   "died": "18 Jun 1974, Moscow",
+   "places": [
+    "siege-museum",
+    "mamayev",
+    "kursk-arc",
+    "seelow",
+    "reichstag",
+    "karlshorst",
+    "poklonnaya"
+   ],
+   "story": [
+    "A peasant's son and former tsarist cavalry NCO, Zhukov survived the purges and made his name defeating the Japanese at Khalkhin Gol in August 1939. Chief of the General Staff when Germany invaded, he was removed after telling Stalin that Kiev should be abandoned. In September 1941 he took over the defence of Leningrad, and in October was sent to save Moscow, where his Western Front held and then counter-attacked in December. From August 1942 he was Stalin's deputy, sent wherever the crisis was greatest.",
+    "With Vasilevsky he planned Operation Uranus, which encircled the German Sixth Army at Stalingrad in November 1942. He coordinated fronts at Kursk in 1943 and in the great summer offensive of 1944. In 1945 his 1st Belorussian Front drove from the Vistula to the Oder, then attacked towards Berlin on 16 April; the frontal assault on the Seelow Heights cost tens of thousands of lives. On the night of 8–9 May he accepted the German surrender at Karlshorst, and in June he took the salute at the Victory Parade in Moscow."
+   ],
+   "caveat": "His reputation as the general who never lost is contested. Operation Mars at Rzhev in late 1942 failed at enormous cost, and many argue he spent soldiers' lives freely, at Seelow above all. Rokossovsky and others disputed his account of who planned what.",
+   "decorations": [
+    "Hero of the Soviet Union (four times) — 1939, 1944, 1945 and 1956",
+    "Order of Victory (twice) — 1944 and 1945"
+   ],
+   "after": "Stalin, wary of his fame, sent him to command the Odessa and then the Urals military districts. Defence Minister under Khrushchev 1955–57, then forced into retirement. His memoirs appeared, censored, in 1969.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Georgy_Zhukov",
+    "https://www.britannica.com/biography/Georgy-Konstantinovich-Zhukov",
+    "https://en.wikipedia.org/wiki/Battle_of_the_Seelow_Heights"
+   ]
+  },
+  {
+   "id": "man-rokossovsky",
+   "group": "men-soviet",
+   "name": "Konstantin Rokossovsky",
+   "nick": "",
+   "role": "Commander of the Don, Central and 1st and 2nd Belorussian Fronts",
+   "born": "21 Dec 1896, Warsaw (place disputed)",
+   "died": "3 Aug 1968, Moscow",
+   "places": [
+    "panorama",
+    "rossoshka",
+    "kursk-arc",
+    "warsaw-rising"
+   ],
+   "story": [
+    "The son of a Polish railway worker, Rokossovsky rose as a cavalry commander in the Red Army until his arrest by the NKVD in August 1937. He was beaten in prison, refused to sign a false confession and was released in March 1940. He commanded a corps and then an army in the battles of 1941 before Moscow. In September 1942 he took over the Don Front north of Stalingrad. After the encirclement his forces carried out Operation Ring in January 1943, and on 31 January Paulus surrendered to officers of his front.",
+    "At Kursk in July 1943 his Central Front held Model's attack on the northern face of the salient with a defence in depth. In Operation Bagration in June 1944 he argued successfully for two breakthroughs instead of one, and his 1st Belorussian Front helped destroy Army Group Centre; he was made a marshal. By August 1944 his troops reached the Vistula opposite Warsaw. In 1945 he led the 2nd Belorussian Front through East Prussia and Pomerania. Calm and courteous, he was one of the few Soviet commanders said to have argued with Stalin and kept his post."
+   ],
+   "caveat": "Why his armies did not help the Warsaw Uprising of August–October 1944 is still argued: he cited exhausted troops and German counter-attacks, while the Polish Home Army was loyal to the London government that Stalin wished to sweep aside. Both factors are documented.",
+   "decorations": [
+    "Hero of the Soviet Union (twice) — 1944 and 1945",
+    "Order of Victory — 1945"
+   ],
+   "after": "He commanded the Moscow Victory Parade in 1945. From 1949 to 1956 he was Poland's Minister of National Defence and a Marshal of Poland, an unpopular figure there; he returned to the Soviet Union after the 1956 thaw.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Konstantin_Rokossovsky",
+    "https://www.britannica.com/biography/Konstantin-Konstantinovich-Rokossovsky"
+   ]
+  },
+  {
+   "id": "man-chuikov",
+   "group": "men-soviet",
+   "name": "Vasily Chuikov",
+   "nick": "",
+   "role": "Commander, 62nd Army at Stalingrad (later 8th Guards Army)",
+   "born": "12 Feb 1900, Serebryanye Prudy, Tula province",
+   "died": "18 Mar 1982, Moscow",
+   "places": [
+    "mamayev",
+    "pavlov",
+    "panorama",
+    "majdanek",
+    "seelow",
+    "fuhrerbunker"
+   ],
+   "story": [
+    "A regimental commander at nineteen in the Civil War, Chuikov had led an army in the Winter War against Finland and served as military attaché in China. On 11–12 September 1942 he took command of the 62nd Army, by then pressed against the Volga in Stalingrad. His orders were to hold the city at any cost. He fed in reinforcements across the river at night and fought a close-quarter battle in ruins, factories and houses, keeping his men so near the Germans that their aircraft and artillery could not be used without hitting their own troops.",
+    "The army, renamed the 8th Guards Army, fought its way west through Ukraine and Poland, liberating Lublin and the Majdanek camp in July 1944 and taking the fortress of Poznań in February 1945. It attacked across the Oder at the Seelow Heights in April and fought into central Berlin. On 1 May 1945 General Krebs came to his headquarters to seek terms after Hitler's death; Chuikov demanded unconditional surrender, and on 2 May the Berlin garrison surrendered to him. Krebs had shot himself in the meantime."
+   ],
+   "caveat": "His defence of Stalingrad included summary executions of officers and soldiers to enforce discipline, as his own memoirs and Soviet records show.",
+   "decorations": [
+    "Hero of the Soviet Union (twice) — 1944 and 1945"
+   ],
+   "after": "Commanded Soviet forces in Germany 1949–53, became a marshal in 1955, then led the Soviet ground forces and civil defence. At his request he was buried on Mamayev Kurgan in Volgograd, among the defenders of Stalingrad.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Vasily_Chuikov",
+    "https://www.britannica.com/biography/Vasily-Ivanovich-Chuikov"
+   ]
+  },
+  {
+   "id": "man-konev",
+   "group": "men-soviet",
+   "name": "Ivan Konev",
+   "nick": "",
+   "role": "Commander of the Steppe and 1st and 2nd Ukrainian Fronts",
+   "born": "28 Dec 1897, Lodeyno, Vologda province",
+   "died": "21 May 1973, Moscow",
+   "places": [
+    "kursk-arc",
+    "auschwitz-1",
+    "birkenau",
+    "torgau"
+   ],
+   "story": [
+    "A former commissar who became a front commander, Konev led the Western Front in October 1941 when the Germans encircled several Soviet armies at Vyazma; Zhukov is said to have saved him from Stalin's anger. He recovered his standing, commanded the Steppe Front in the Kursk counter-offensive of August 1943 and destroyed German forces in the Korsun pocket in February 1944, earning his marshal's star. From May 1944 he led the 1st Ukrainian Front. He was an able, demanding and often harsh commander.",
+    "In the Vistula–Oder offensive of January 1945 his armies took Kraków almost undamaged on 18 January, and on 27 January soldiers of his 60th Army reached Auschwitz, where about 7,000 prisoners had been left behind. In April Stalin set him to race Zhukov for Berlin; his tank armies reached the south of the city, but Zhukov was given the Reichstag. On 25 April his troops met the Americans at Torgau on the Elbe, and on 9 May they entered Prague."
+   ],
+   "caveat": "His statue in Prague, put up in 1980, was removed in 2020; Czechs remembered him also for planning the Warsaw Pact crushing of Hungary in 1956 and for his role in Berlin in 1961.",
+   "decorations": [
+    "Hero of the Soviet Union (twice) — 1944 and 1945",
+    "Order of Victory — 1945"
+   ],
+   "after": "Commander of Warsaw Pact forces in the later 1950s, he directed the suppression of the Hungarian Revolution in 1956 and commanded Soviet forces in Germany in 1961–62, when the Berlin Wall was built. His ashes are in the Kremlin Wall.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Ivan_Konev",
+    "https://www.auschwitz.org/en/history/liberation/",
+    "https://www.britannica.com/biography/Ivan-Stepanovich-Konev"
+   ]
+  },
+  {
+   "id": "man-rundstedt",
+   "group": "men-axis",
+   "name": "Gerd von Rundstedt",
+   "nick": "",
+   "role": "Commander of Army Groups South and A; Commander-in-Chief West, 1942–45",
+   "born": "12 Dec 1875, Aschersleben",
+   "died": "24 Feb 1953, Hanover",
+   "places": [
+    "sedan",
+    "dk-museum",
+    "batterie-todt",
+    "caen-memorial",
+    "bastogne-museum"
+   ],
+   "story": [
+    "The senior serving German officer, Rundstedt had retired in 1938 and was recalled to lead Army Group South in Poland. In May 1940 his Army Group A made the main thrust through the Ardennes and across the Meuse at Sedan to the Channel. On 24 May he agreed to a pause by his armour short of Dunkirk, which Hitler confirmed; the halt helped the British evacuate their army. He led Army Group South into Ukraine in 1941 and was dismissed in December after allowing a retreat from Rostov.",
+    "Recalled as Commander-in-Chief West in March 1942, he was responsible for the defence of France and doubted the value of the Atlantic Wall. He disagreed with Rommel on how to fight an invasion. After D-Day he urged Hitler to make peace and was dismissed in early July 1944, then recalled in September. The Ardennes offensive was often called the 'Rundstedt offensive', though Hitler planned it and Model ran it. He was finally dismissed in March 1945. For most of his time in the west his headquarters were at Saint-Germain-en-Laye, outside Paris."
+   ],
+   "caveat": "He presented himself as an apolitical soldier. Yet in 1941 he passed on Reichenau's order urging 'severe but just' measures against Jews with his approval, and in 1944 he chaired the army Court of Honour that expelled 20 July conspirators so they could be tried and hanged.",
+   "decorations": [
+    "Iron Cross, 1st Class — First World War",
+    "Knight's Cross with Oak Leaves and Swords — Swords awarded February 1945"
+   ],
+   "after": "Held by the British, he was charged with war crimes but released on health grounds in 1949 without trial. He died in Hanover in 1953.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Gerd_von_Rundstedt",
+    "https://www.britannica.com/biography/Gerd-von-Rundstedt"
+   ]
+  },
+  {
+   "id": "man-rommel",
+   "group": "men-axis",
+   "name": "Erwin Rommel",
+   "nick": "the Desert Fox",
+   "role": "Commander, Afrika Korps and Army Group B in Normandy",
+   "born": "15 Nov 1891, Heidenheim, Württemberg",
+   "died": "14 Oct 1944, Herrlingen (forced suicide)",
+   "places": [
+    "batterie-todt",
+    "longues",
+    "caen-memorial",
+    "bayeux-museum"
+   ],
+   "story": [
+    "Rommel won the Pour le Mérite in Italy in 1917 and gained Hitler's attention with a book on infantry tactics. In May 1940 his 7th Panzer Division crossed the Meuse near Dinant and drove so fast and far that it was called the 'ghost division'. From February 1941 he led German forces in North Africa, where his successes made him famous on both sides, until defeat at El Alamein in late 1942. In November 1943 he was given the task of inspecting the coastal defences in the west, then command of Army Group B.",
+    "Convinced the invasion had to be stopped on the beaches, he filled them with millions of mines and obstacles and wanted the panzer divisions close to the coast, against Rundstedt's views. On 6 June he was at home in Germany for his wife's birthday. On 17 July his car was strafed by Allied fighters near Sainte-Foy-de-Montgommery, and he was badly injured. Named by conspirators after the 20 July plot, he was given the choice of a trial or poison on 14 October and took the poison."
+   ],
+   "caveat": "The image of the chivalrous, apolitical Desert Fox owes much to post-war memoirs and British admiration. He was close to Hitler and Goebbels' propaganda for years, and how much he knew of or supported the 20 July plot is disputed.",
+   "decorations": [
+    "Pour le Mérite — capture of Monte Matajur, Italy, October 1917",
+    "Knight's Cross with Oak Leaves, Swords and Diamonds — Diamonds March 1943, North Africa"
+   ],
+   "after": "The regime announced he had died of his wounds and gave him a state funeral. His son Manfred became a long-serving mayor of Stuttgart.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Erwin_Rommel",
+    "https://www.britannica.com/biography/Erwin-Rommel"
+   ]
+  },
+  {
+   "id": "man-guderian",
+   "group": "men-axis",
+   "name": "Heinz Guderian",
+   "nick": "Fast Heinz",
+   "role": "Panzer corps and group commander 1939–41; Chief of the Army General Staff 1944–45",
+   "born": "17 Jun 1888, Kulm (Chełmno), West Prussia",
+   "died": "14 May 1954, Schwangau, Bavaria",
+   "places": [
+    "sedan",
+    "brest-fortress",
+    "dk-museum"
+   ],
+   "story": [
+    "A signals officer who became an advocate of tank warfare in the 1930s, Guderian led a panzer corps through Poland in 1939; at Brest-Litovsk, on 22 September, he and the Soviet brigade commander Semyon Krivoshein watched German and Soviet troops parade as the town was handed to the Red Army. In May 1940 his XIX Corps crossed the Meuse at Sedan on 13 May and raced to the Channel coast, reaching the sea near Abbeville on 20 May. His ideas stressed radios in every tank and commanders who led from the front.",
+    "In 1941 his 2nd Panzer Group helped close the Minsk and Smolensk pockets, then turned south to trap Soviet armies around Kiev, before the late drive on Moscow stalled in the winter. Hitler relieved him in December after he withdrew without permission. Recalled as Inspector of Armoured Troops in 1943, he became Chief of the Army General Staff the day after the 20 July plot and held the post until dismissed in March 1945. He argued for an elastic defence in the east and quarrelled openly with Hitler in early 1945."
+   ],
+   "caveat": "His memoir 'Panzer Leader' (1952) made him the father of the panzer force and left out a great deal. He sat on the Court of Honour that expelled 20 July conspirators, and accepted from Hitler a large estate in occupied Poland, at Deipenhof, whose Polish owners had been expelled.",
+   "decorations": [
+    "Knight's Cross of the Iron Cross — Poland, October 1939",
+    "Oak Leaves — July 1941, Soviet Union"
+   ],
+   "after": "Held by the Americans until 1948 and never charged. He wrote his memoirs and advised on the new West German army before his death in 1954.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Heinz_Guderian",
+    "https://en.wikipedia.org/wiki/German%E2%80%93Soviet_military_parade_in_Brest-Litovsk"
+   ]
+  },
+  {
+   "id": "man-manstein",
+   "group": "men-axis",
+   "name": "Erich von Manstein",
+   "nick": "",
+   "role": "Author of the 1940 Ardennes plan; commander of Eleventh Army and Army Group Don/South",
+   "born": "24 Nov 1887, Berlin",
+   "died": "10 Jun 1973, Irschenhausen, Bavaria",
+   "places": [
+    "sedan",
+    "panorama",
+    "prokhorovka",
+    "kursk-arc"
+   ],
+   "story": [
+    "Born Erich von Lewinski and adopted by an aunt's family, Manstein proposed as a staff officer the plan to send the main armoured thrust through the Ardennes to the Channel, adopted in February 1940. In 1941–42 his Eleventh Army conquered the Crimea; he was made a field marshal on 1 July 1942 as Sevastopol fell. In November 1942 he took over Army Group Don and tried to break through to the trapped Sixth Army at Stalingrad. The relief attack, Winter Storm, stopped roughly 50 km short in December, and Paulus did not break out to meet it.",
+    "In February and March 1943 his counter-offensive retook Kharkov and stabilised the southern front, one of the last major German successes in the east. At Kursk in July his Army Group South led the southern pincer, and its SS panzer corps fought the Soviet tank armies around Prokhorovka. Retreating through Ukraine and quarrelling with Hitler over withdrawals, he was dismissed in March 1944. Many German officers rated him their ablest operational commander. He was approached by the conspirators against Hitler but refused to join them."
+   ],
+   "caveat": "On 20 November 1941 he issued an order telling his troops that the 'Jewish-Bolshevik system' must be exterminated; his army supported the killing units of Einsatzgruppe D in the Crimea. A British court convicted him in 1949 of war crimes, including failing to protect civilians.",
+   "decorations": [
+    "Knight's Cross of the Iron Cross — France, 1940",
+    "Oak Leaves — Kharkov, March 1943",
+    "Swords — March 1944"
+   ],
+   "after": "Sentenced to 18 years, reduced to 12, he was released in 1953. His memoir 'Lost Victories' (1955) blamed Hitler for defeat. He advised the West German government on rebuilding its army.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Erich_von_Manstein",
+    "https://en.wikipedia.org/wiki/Operation_Winter_Storm"
+   ]
+  },
+  {
+   "id": "man-model",
+   "group": "men-axis",
+   "name": "Walter Model",
+   "nick": "Hitler's fireman",
+   "role": "Commander of Ninth Army, then several army groups; at Arnhem, Hürtgen and the Ardennes",
+   "born": "24 Jan 1891, Genthin, Prussian Saxony",
+   "died": "21 Apr 1945, near Duisburg (suicide)",
+   "places": [
+    "kursk-arc",
+    "hartenstein",
+    "hurtgen",
+    "la-gleize",
+    "stvith"
+   ],
+   "story": [
+    "A blunt, energetic officer favoured by Hitler, Model held the Rzhev salient with Ninth Army through 1942, then led its attack on the northern face of the Kursk salient in July 1943, which gained less than 12 km. Hitler sent him from crisis to crisis: to the Baltic, Ukraine, Belorussia after the collapse of Army Group Centre in summer 1944, and in August to France as the Normandy front broke. He was known for his energy, his rudeness to subordinates and his readiness to carry out Hitler's no-retreat orders, while often finding ways around them.",
+    "On 17 September 1944 his Army Group B headquarters was in the Tafelberg hotel at Oosterbeek when British paratroopers landed nearby. He reacted quickly, sending II SS Panzer Corps against the British at Arnhem. That autumn his armies held the Americans in the Hürtgen Forest and he commanded the Ardennes offensive of December. Trapped in the Ruhr in April 1945, he ignored Hitler's orders to destroy industry, dissolved his army group, and shot himself in a wood on 21 April."
+   ],
+   "caveat": "In Russia his troops carried out deportations, reprisals and scorched-earth destruction; the Soviets intended to try him for war crimes, which helped decide his suicide.",
+   "decorations": [
+    "Knight's Cross of the Iron Cross — 1941, Soviet Union",
+    "Oak Leaves — 1942, Rzhev",
+    "Swords — 1943",
+    "Diamonds — August 1944, for stabilising the Eastern Front"
+   ],
+   "after": "First buried where he died, his remains were moved in 1955 to the German war cemetery at Vossenack in the Hürtgen Forest, among soldiers who fought there.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Walter_Model",
+    "https://www.britannica.com/biography/Walther-Model"
+   ]
+  },
+  {
+   "id": "man-paulus",
+   "group": "men-axis",
+   "name": "Friedrich Paulus",
+   "nick": "",
+   "role": "Commander, German Sixth Army at Stalingrad, 1942–43",
+   "born": "23 Sep 1890, Guxhagen, Hesse",
+   "died": "1 Feb 1957, Dresden",
+   "places": [
+    "panorama",
+    "mamayev",
+    "pavlov",
+    "rossoshka",
+    "courtroom-600",
+    "dresden-mhm"
+   ],
+   "story": [
+    "A staff officer rather than a field commander, Paulus helped draft the plans for the invasion of the Soviet Union as deputy chief of the General Staff. In January 1942 he took over Sixth Army after Reichenau's death. That summer his army drove to the Volga and entered Stalingrad in September, but could not clear the last Soviet footholds by the river. On 19–23 November Soviet armies broke through the weak Romanian forces on his flanks and encircled some 250,000–300,000 German and allied troops.",
+    "Hitler ordered him to stand fast, trusting the Luftwaffe to supply the pocket by air, which it could not do. Paulus did not break out when Manstein's relief attack came closest in December. Hitler promoted him to field marshal on 30 January 1943, expecting him to kill himself rather than surrender. On 31 January he surrendered in the basement of the Univermag department store; the northern pocket gave up on 2 February. Of some 91,000 prisoners taken, only about 5,000 returned home."
+   ],
+   "caveat": "Whether he should have broken out against orders in December 1942 is still argued; most historians think his army by then lacked the fuel and strength to do so.",
+   "decorations": [
+    "Knight's Cross of the Iron Cross — August 1942",
+    "Oak Leaves — January 1943"
+   ],
+   "after": "In captivity he joined the Soviet-backed League of German Officers and appeared as a witness for the Soviet prosecution at Nuremberg in February 1946. Released in 1953, he lived in Dresden, East Germany, until his death.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Friedrich_Paulus",
+    "https://en.wikipedia.org/wiki/Battle_of_Stalingrad"
+   ]
+  },
+  {
+   "id": "man-kesselring",
+   "group": "men-axis",
+   "name": "Albert Kesselring",
+   "nick": "Smiling Albert",
+   "role": "Luftwaffe air fleet commander, then Commander-in-Chief South (Italy), 1943–45",
+   "born": "30 Nov 1885, Marktsteft, Bavaria",
+   "died": "16 Jul 1960, Bad Nauheim",
+   "places": [
+    "rotterdam",
+    "lascaris",
+    "malta-at-war",
+    "cassino-abbey",
+    "anzio-museum",
+    "caira",
+    "ardeatine",
+    "via-tasso"
+   ],
+   "story": [
+    "An artillery officer transferred to the new Luftwaffe, Kesselring led air fleets over Poland, the Netherlands and France. His bombers destroyed the centre of Rotterdam on 14 May 1940, while surrender talks were under way, killing some 800 people. He commanded Luftflotte 2 in the Battle of Britain and the Blitz. From late 1941, as Commander-in-Chief South, he directed the air offensive against Malta, which came close to starving the island in 1942, and supported Rommel in North Africa. Unlike most Luftwaffe commanders he had been an army staff officer, which served him well in joint operations.",
+    "After Italy's armistice in September 1943 he argued, against Rommel, that Italy could be held south of Rome. His defence lines, above all the Gustav Line at Cassino, held the Allies for months; his counter-attacks nearly crushed the Anzio beachhead. He then fell back fighting to the Gothic Line in the north. In March 1945 he was sent to command in the west, too late to change anything. Allied commanders acknowledged his skill at delaying a much stronger enemy in difficult country."
+   ],
+   "caveat": "His anti-partisan orders of 1944 promised to cover commanders who used excessive force, and were followed by massacres of civilians. In 1947 a British court in Venice sentenced him to death for the Ardeatine Caves killings of 335 men in Rome in March 1944 and for inciting reprisals.",
+   "decorations": [
+    "Knight's Cross — Poland, 1939",
+    "Knight's Cross with Oak Leaves, Swords and Diamonds — Diamonds July 1944, Italy"
+   ],
+   "after": "His sentence was commuted to life and he was released in 1952. When he said Italians should build him a monument, the jurist Piero Calamandrei answered with a poem, now carved in stone at Cuneo. He died in 1960.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Albert_Kesselring",
+    "https://www.britannica.com/biography/Albert-Kesselring",
+    "https://en.wikipedia.org/wiki/Ardeatine_massacre"
+   ]
+  },
+  {
+   "id": "man-stauffenberg",
+   "group": "men-res",
+   "name": "Claus von Stauffenberg",
+   "nick": "",
+   "role": "Army staff officer who planted the bomb of 20 July 1944",
+   "born": "15 Nov 1907, Jettingen, Bavaria",
+   "died": "21 Jul 1944, Berlin (shot)",
+   "places": [
+    "wolfs-lair",
+    "bendlerblock"
+   ],
+   "story": [
+    "From an old Swabian Catholic noble family, Stauffenberg joined the 17th Cavalry Regiment at Bamberg in 1926 and served as a staff officer in Poland, France and Russia. On 7 April 1943 his car was strafed in Tunisia; he lost his left eye, his right hand and two fingers of the left. By then he had joined the military conspiracy against Hitler. As chief of staff to the commander of the Replacement Army from July 1944, he had access to Hitler's briefings and to the Valkyrie plan, meant for internal emergencies, which the plotters intended to use to seize power.",
+    "On 20 July 1944 at the Wolf's Lair he carried a briefcase with explosives into a conference in a wooden hut. Interrupted, he armed only one of two charges. The bomb went off at about 12:40 after he had left, killing four men, but Hitler, shielded by the heavy table, was only lightly hurt. Stauffenberg flew back to Berlin believing Hitler dead, but the coup faltered. That night he was shot in the courtyard of the Bendlerblock with three fellow officers."
+   ],
+   "caveat": "He was not a democrat. He welcomed some of Hitler's early policies, and his letters from Poland in 1939 show contempt for Poles. Historians differ on how far his motives were moral, including the crimes against Jews, and how far military and patriotic.",
+   "decorations": [
+    "Iron Cross, 1st Class — France, 1940",
+    "Wound Badge in Gold — April 1943",
+    "German Cross in Gold — May 1943"
+   ],
+   "after": "Around 200 people linked to the plot were executed, including his brother Berthold. His wife was imprisoned and their children were given new names. The Bendlerblock courtyard is now the German Resistance Memorial.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Claus_von_Stauffenberg",
+    "https://www.gdw-berlin.de/en/recess/biographies/index_of_persons/biographie/view-bio/claus-schenk-graf-von-stauffenberg/"
+   ]
+  },
+  {
+   "id": "man-pilecki",
+   "group": "men-res",
+   "name": "Witold Pilecki",
+   "nick": "",
+   "role": "Polish underground officer who was imprisoned in Auschwitz to organise resistance",
+   "born": "13 May 1901, Olonets, Karelia (Russian Empire)",
+   "died": "25 May 1948, Warsaw (executed)",
+   "places": [
+    "auschwitz-1",
+    "birkenau",
+    "warsaw-rising"
+   ],
+   "story": [
+    "A cavalry officer and veteran of the Polish–Soviet War, Pilecki co-founded the Secret Polish Army underground in Warsaw in 1939. In September 1940, under the name Tomasz Serafiński, he let himself be caught in a street round-up so that he would be sent to Auschwitz, which was then mainly a camp for Polish prisoners. He arrived on 22 September as prisoner 4859. Inside he built a resistance network, organised food and help for prisoners and smuggled reports to Warsaw from October 1940 onwards, including, later, news of the mass murder of Jews.",
+    "When an uprising inside the camp proved impossible and his own arrest seemed close, he escaped on the night of 26–27 April 1943 with two others. He wrote detailed accounts of the camp, including 'Witold's Report'. He urged the Home Army to attack the camp from outside, but its commanders judged that impossible. During the Warsaw Uprising of 1944 he fought in the city centre, ending as a company commander, and was held as a prisoner of war until 1945. He returned to Poland from Italy to gather intelligence for the 2nd Polish Corps."
+   ],
+   "caveat": "How voluntary his entry into Auschwitz was is discussed: he was invited, not ordered, and some think he took it as a test. Claims that he was the first to report the Holocaust go beyond the evidence; his reports dealt mainly with Polish prisoners until 1942.",
+   "decorations": [
+    "Cross of Valour (twice)",
+    "Silver Cross of Merit — 1938",
+    "Order of Polonia Restituta — posthumous, 1995",
+    "Order of the White Eagle — posthumous, 2006"
+   ],
+   "after": "Arrested by the communist security police in May 1947 and tortured, he was sentenced at a show trial and shot at Mokotów prison. His grave has never been found. He was rehabilitated in 1990 and made a colonel posthumously in 2013.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Witold_Pilecki",
+    "https://www.auschwitz.org/en/history/resistance/",
+    "https://instytutpileckiego.pl/en"
+   ]
+  },
+  {
+   "id": "man-karski",
+   "group": "men-res",
+   "name": "Jan Karski",
+   "nick": "",
+   "role": "Courier of the Polish underground who carried eyewitness news of the Holocaust to the West",
+   "born": "24 Jun 1914, Łódź",
+   "died": "13 Jul 2000, Washington DC",
+   "places": [
+    "ghetto-heroes",
+    "umschlagplatz",
+    "belzec"
+   ],
+   "story": [
+    "Born Jan Kozielewski, Karski was a young diplomat and reserve officer in 1939. Captured by the Red Army, he hid his rank, was handed over to the Germans in a prisoner exchange, which spared him the Katyn massacres, and escaped from a train. As a courier for the underground he was caught by the Gestapo in Slovakia in 1940, tortured and smuggled out of a hospital. In 1942 he prepared for a mission to London by entering the Warsaw ghetto twice with Jewish leaders, and, disguised as a guard, a transit camp at Izbica Lubelska.",
+    "Reaching London in November 1942, he briefed Polish and British leaders, including the Foreign Secretary, Anthony Eden. On 28 July 1943 he described what he had seen to President Roosevelt in the White House. He also met journalists, writers and Jewish leaders. Many listened politely; few acted, and some did not believe him. He met the Supreme Court justice Felix Frankfurter, who told him he could not believe what he heard; Karski stressed later that Frankfurter did not call him a liar. His book 'Story of a Secret State' was published in 1944."
+   ],
+   "caveat": "In his 1944 book he called the camp he visited Bełżec, but historians have shown that it was the transit camp at Izbica, from which Jews were sent to Bełżec; his 1943 reports had named Izbica correctly.",
+   "decorations": [
+    "Righteous Among the Nations — Yad Vashem, 1982",
+    "Order of the White Eagle — 1995",
+    "Presidential Medal of Freedom — posthumous, 2012"
+   ],
+   "after": "He settled in the United States and taught at Georgetown University for some forty years. He stayed silent about his mission until Claude Lanzmann filmed him for 'Shoah' (1985). Israel made him an honorary citizen in 1994.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Jan_Karski",
+    "https://www.yadvashem.org/righteous/stories/karski.html",
+    "https://www.ushmm.org/collections/bibliography/jan-karski"
+   ]
+  },
+  {
+   "id": "man-annefrank",
+   "group": "men-res",
+   "name": "Anne Frank",
+   "nick": "",
+   "role": "Jewish girl who hid in Amsterdam for two years; author of the diary",
+   "born": "12 Jun 1929, Frankfurt am Main",
+   "died": "Feb or Mar 1945, Bergen-Belsen",
+   "places": [
+    "anne-frank",
+    "birkenau",
+    "bergen-belsen"
+   ],
+   "story": [
+    "Anne's family left Frankfurt for Amsterdam in 1933–34, after the Nazis came to power. Germany occupied the Netherlands in May 1940 and anti-Jewish laws followed. When Anne's sister Margot was called up for 'labour service' in July 1942, the family went into hiding on 6 July in the annexe behind Otto Frank's business premises on the Prinsengracht, joined by four other Jews. Helpers among Otto's staff brought food and news. Anne kept a diary, and from 1944 began revising it for publication after the war.",
+    "On 4 August 1944 the German security police and Dutch officers raided the annexe. The eight were sent via Westerbork to Auschwitz on the last transport from the Netherlands, on 3 September. Anne's mother Edith died at Birkenau. Anne and Margot were moved to Bergen-Belsen at the end of October or early November, where both died of typhus in the overcrowded camp, a few weeks before British troops arrived on 15 April 1945. Margot died shortly before her; a friend who spoke to Anne through the fence said she believed both her parents were dead."
+   ],
+   "caveat": "Who, if anyone, betrayed the hiding place is unknown. A 2022 'cold case' book named the notary Arnold van den Bergh; historians found the evidence far too thin and the Dutch publisher withdrew it. Research by the Anne Frank House in 2015 suggests she died in February rather than March 1945.",
+   "decorations": [],
+   "after": "Her father Otto, the only one of the eight to survive, received the diary from the helper Miep Gies and published it in 1947. It has been translated into some 70 languages. The Anne Frank House opened in 1960.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Anne_Frank",
+    "https://www.annefrank.org/en/anne-frank/the-timeline/",
+    "https://www.annefrank.org/en/about-us/news-and-press/news/2015/3/31/new-research-sheds-new-light-anne-frank-last-months/"
+   ]
+  },
+  {
+   "id": "man-sendler",
+   "group": "men-res",
+   "name": "Irena Sendler",
+   "nick": "",
+   "role": "Warsaw social worker who helped save Jewish children; head of Żegota's children's section",
+   "born": "15 Feb 1910, Warsaw",
+   "died": "12 May 2008, Warsaw",
+   "places": [
+    "ghetto-heroes",
+    "umschlagplatz"
+   ],
+   "story": [
+    "A social worker for the Warsaw city welfare department, Sendler used her pass to enter the ghetto, sealed in November 1940, on the pretext of checking for infectious disease. With colleagues she brought in food and medicine and, when deportations to Treblinka began in July 1942, helped smuggle children out through the courthouse, the sewers and ambulances, or hidden in carts. They were placed with Polish families, convents and orphanages under false names. In 1943 she became head of the children's section of Żegota, the underground Council to Aid Jews.",
+    "The Gestapo arrested her on 18 October 1943. Held in Pawiak prison and beaten, she gave nothing away. She was sentenced to death, but Żegota bribed a guard and she was freed on the way to execution. She spent the rest of the war in hiding, still working for the network and, in 1944, as a nurse in the Warsaw Uprising. Many of the children had lost their parents in the deportations; after the war attempts to reunite them with surviving relatives often failed, and some were never told of their origins."
+   ],
+   "caveat": "She is often credited with saving 2,500 children, a figure she later gave herself. The true number is unknown; she always named many others in the network, and the lists of children she said she buried in jars have never been found.",
+   "decorations": [
+    "Gold Cross of Merit — 1946, for saving Jews",
+    "Righteous Among the Nations — Yad Vashem, 1965",
+    "Order of the White Eagle — 2003"
+   ],
+   "after": "She worked in social welfare in communist Poland, little known until a group of Kansas schoolchildren wrote a play about her in 1999. She died in Warsaw in 2008, aged 98.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Irena_Sendler",
+    "https://www.yadvashem.org/righteous/stories/sendler.html",
+    "https://www.polin.pl/en/irena-sendler"
+   ]
+  },
+  {
+   "id": "man-anthropoid",
+   "group": "men-res",
+   "name": "Jan Kubiš and Jozef Gabčík",
+   "nick": "",
+   "role": "Czechoslovak soldiers parachuted from Britain to kill Reinhard Heydrich (Operation Anthropoid)",
+   "born": "Kubiš 24 Jun 1913, Dolní Vilémovice, Moravia · Gabčík 8 Apr 1912, Poluvsie, Slovakia",
+   "died": "18 Jun 1942, Church of Sts Cyril and Methodius, Prague",
+   "places": [
+    "heydrich-site",
+    "anthropoid",
+    "lidice"
+   ],
+   "story": [
+    "A Czech and a Slovak, both NCOs of the Czechoslovak army, escaped after the German occupation of 1939, fought in France in 1940 and were trained in Britain by SOE. They were dropped near Prague on the night of 28–29 December 1941. On 27 May 1942 they waited at a sharp bend in Prague-Libeň where Heydrich's open car would slow down. Gabčík's Sten gun jammed; Kubiš threw a modified anti-tank grenade, which burst against the rear wheel. Both escaped. Heydrich died of his wounds on 4 June.",
+    "The Germans declared martial law and killed hundreds. On 10 June they destroyed the village of Lidice, falsely linked to the attack: 173 men were shot, the women sent to Ravensbrück and most of the children later gassed at Chełmno. The parachutists hid in the crypt of the Orthodox church in Resslova Street until another parachutist, Karel Čurda, gave information to the Gestapo. On 18 June about 750 SS troops surrounded the church. Kubiš was mortally wounded fighting from the gallery; Gabčík and three others, trapped in the crypt as the Germans tried to flood it, shot themselves when their ammunition ran out."
+   ],
+   "caveat": "The attack was planned by the exile government in London partly to show that the Czech lands were resisting; the home resistance warned of terrible reprisals and asked for it to be called off. Whether it was worth the cost is still debated in the Czech Republic and Slovakia.",
+   "decorations": [
+    "Czechoslovak War Cross 1939 — both",
+    "French Croix de guerre — both, for France 1940",
+    "Order of the White Lion 'For Victory' — posthumous, 1968 (Kubiš)"
+   ],
+   "after": "Čurda was hanged for treason in 1947. The crypt, with bullet marks still visible around its air vent, is now the National Memorial to the Heroes of the Heydrich Terror.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Jan_Kubi%C5%A1",
+    "https://en.wikipedia.org/wiki/Jozef_Gab%C4%8D%C3%ADk",
+    "https://en.wikipedia.org/wiki/Operation_Anthropoid",
+    "https://www.vhu.cz/en/"
+   ]
+  },
+  {
+   "id": "man-turing",
+   "group": "men-res",
+   "name": "Alan Turing",
+   "nick": "",
+   "role": "Mathematician and codebreaker at Bletchley Park; head of Hut 8 (naval Enigma)",
+   "born": "23 Jun 1912, Maida Vale, London",
+   "died": "7 Jun 1954, Wilmslow, Cheshire",
+   "places": [
+    "bletchley",
+    "western-approaches"
+   ],
+   "story": [
+    "A Cambridge mathematician whose 1936 paper had defined a universal computing machine, Turing reported to Bletchley Park on 4 September 1939. Building on the work of Polish cryptologists who had broken Enigma before the war, he designed the 'bombe', an electro-mechanical machine that tested possible Enigma settings at speed; Gordon Welchman's improvement made it far more effective. Hundreds were built and run, mostly by women of the Women's Royal Naval Service. The intelligence from Bletchley, known as Ultra, was shared only with a small circle of commanders.",
+    "He led Hut 8, which attacked the German navy's Enigma, harder to break than the army and air force versions. His statistical method 'Banburismus' and captured material, such as that taken from U-110 in May 1941, let Hut 8 read U-boat signals for much of 1941, helping convoys avoid wolf packs. A new four-rotor machine blacked out the U-boat traffic for most of 1942. In late 1942 he went to the United States to advise on American bombes, and later worked on a portable speech-encryption device."
+   ],
+   "caveat": "Films and popular books often present him as the man who broke Enigma alone. The work was collective, depended on the Poles, and the Colossus computer was built by Tommy Flowers for a different cipher. The verdict of suicide on his death is accepted by most, but questioned by some.",
+   "decorations": [
+    "OBE — 1946, for wartime service (kept secret at the time)"
+   ],
+   "after": "He worked on early computers at Manchester. Convicted of 'gross indecency' in 1952 for a relationship with a man, he accepted hormone treatment in place of prison. He died of cyanide poisoning in 1954. Pardoned in 2013; he appears on the £50 note.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Alan_Turing",
+    "https://bletchleypark.org.uk/our-story/alan-turing/",
+    "https://www.turing.org.uk/"
+   ]
+  },
+  {
+   "id": "man-noor",
+   "group": "men-res",
+   "name": "Noor Inayat Khan",
+   "nick": "Madeleine",
+   "role": "SOE wireless operator in Paris, 1943",
+   "born": "1 Jan 1914, Moscow",
+   "died": "13 Sep 1944, Dachau (executed)",
+   "places": [
+    "dachau"
+   ],
+   "story": [
+    "The daughter of an Indian Sufi teacher and an American mother, Noor grew up in Suresnes outside Paris and wrote children's stories. The family escaped to England in 1940; she joined the Women's Auxiliary Air Force and trained as a wireless operator, then was recruited by the Special Operations Executive. Some instructors doubted she was suited to the work. She was flown to France on the night of 16–17 June 1943, the first woman radio operator sent into occupied France, to work for the Prosper network around Paris.",
+    "Within days the Germans began arresting the network. She refused to come home and for months was one of the few operators still sending from Paris, moving often. In October 1943 she was betrayed and arrested. She tried to escape from the SD headquarters on the Avenue Foch, refused to give information and was sent to Germany as a 'Night and Fog' prisoner. Held in chains at Pforzheim, she was moved to Dachau in September 1944 with three other SOE women; all four were shot there."
+   ],
+   "caveat": "Who betrayed her is not certain; Renée Garry, the sister of a colleague, was tried and acquitted in 1946. The Germans used her notebook of messages to deceive London. The details of her last hours rest on a second-hand account.",
+   "decorations": [
+    "George Cross — posthumous, 1949",
+    "Croix de guerre with gold star — posthumous",
+    "Mentioned in Despatches — 1946"
+   ],
+   "after": "A bust was unveiled in Gordon Square, London, in 2012 and a blue plaque at her wartime home in 2020. A memorial plaque at Dachau names her with the three women shot with her.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Noor_Inayat_Khan",
+    "https://www.iwm.org.uk/history/noor-inayat-khan-the-indian-princess-who-spied-for-britain",
+    "https://www.english-heritage.org.uk/visit/blue-plaques/noor-inayat-khan/"
+   ]
+  },
+  {
+   "id": "man-bader",
+   "group": "men-sol",
+   "name": "Douglas Bader",
+   "nick": "",
+   "role": "RAF fighter pilot and wing leader; commander of 242 Squadron in the Battle of Britain",
+   "born": "21 Feb 1910, St John's Wood, London",
+   "died": "5 Sep 1982, Chiswick, London",
+   "places": [
+    "duxford",
+    "colditz"
+   ],
+   "story": [
+    "Bader lost both legs in December 1931 when he crashed a Bristol Bulldog while performing low aerobatics at Woodley near Reading. Invalided out, he talked his way back into the RAF when war came and, flying on artificial legs, took command of No. 242 Squadron, a Hurricane unit of mostly Canadian pilots, in June 1940. Flying from Coltishall and Duxford in 12 Group, he led the Duxford 'Big Wing' of up to five squadrons in September 1940. His confidence and aggressive style made him a popular leader.",
+    "In 1941 he led the Tangmere wing on offensive sweeps over northern France. On 9 August 1941 he came down near Saint-Omer, believing he had collided with a Messerschmitt; one of his artificial legs stayed in the cockpit, and the RAF was allowed to drop a replacement. He escaped from hospital and from camps several times and was sent to Colditz in August 1942, where he stayed until American troops liberated the castle in April 1945. His captors regarded him as a difficult prisoner."
+   ],
+   "caveat": "His championing of the Big Wing helped bring down Park and Dowding, and the wing's claims were exaggerated. Some researchers think he was shot down by a fellow RAF pilot by mistake; this is not proven.",
+   "decorations": [
+    "Distinguished Service Order — 1940, Battle of Britain",
+    "Distinguished Flying Cross — awarded December 1940",
+    "Bar to the DSO and Bar to the DFC — 1941, Tangmere wing",
+    "Knight Bachelor — 1976, for services to disabled people"
+   ],
+   "after": "Paul Brickhill's 'Reach for the Sky' (1954) and the 1956 film made him a national figure. He worked for Shell and campaigned for disabled people. He died of a heart attack in 1982.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Douglas_Bader",
+    "https://www.rafmuseum.org.uk/research/collections/douglas-bader/",
+    "https://www.iwm.org.uk/history/douglas-bader"
+   ]
+  },
+  {
+   "id": "man-frost",
+   "group": "men-sol",
+   "name": "John Frost",
+   "nick": "Johnny",
+   "role": "Commander, 2nd Parachute Battalion, at the Bruneval raid and Arnhem bridge",
+   "born": "31 Dec 1912, Poona, India",
+   "died": "21 May 1993, West Sussex",
+   "places": [
+    "frost-bridge",
+    "hartenstein",
+    "oosterbeek-cem"
+   ],
+   "story": [
+    "A Cameronians officer who volunteered for the new airborne forces, Frost led the company that dropped on Bruneval on the French coast on 27–28 February 1942, seized parts of a German Würzburg radar and a technician, and escaped by sea. He then commanded the 2nd Parachute Battalion in North Africa, Sicily and Italy. In Tunisia at the end of 1942 his battalion was dropped near Depienne, left stranded and had to fight its way back across country, losing more than 250 men. A keen huntsman, he carried a hunting horn, which he used to rally his men.",
+    "On 17 September 1944, the first day of Market Garden, his battalion landed west of Arnhem, marched about 13 km into the town and took the north end of the road bridge over the Rhine. Around 740 men of several units held the houses around the ramp for some three and a half days against tanks and artillery, waiting for XXX Corps, which was expected within about two days but never reached them. Frost was wounded on 20 September; the last defenders were overrun early on the 21st."
+   ],
+   "caveat": "Arnhem was a defeat, and the bridge stand is often romanticised. It did, however, block the bridge to German traffic towards Nijmegen for several days.",
+   "decorations": [
+    "Military Cross — Bruneval raid, 1942",
+    "Distinguished Service Order — Tunisia, 1943",
+    "Bar to the DSO — Arnhem, 1945"
+   ],
+   "after": "Freed from captivity in 1945, he stayed in the army, retiring as a major-general in 1968 to farm in West Sussex. The rebuilt bridge at Arnhem was named the John Frost Bridge in the late 1970s.",
+   "src": [
+    "https://en.wikipedia.org/wiki/John_Frost_(British_Army_officer)",
+    "https://paradata.org.uk/people/john-d-frost",
+    "https://www.tracesofwar.com/persons/29985"
+   ]
+  },
+  {
+   "id": "man-pavlov",
+   "group": "men-sol",
+   "name": "Yakov Pavlov",
+   "nick": "",
+   "role": "Sergeant, 42nd Guards Rifle Regiment, defender of 'Pavlov's House' at Stalingrad",
+   "born": "17 Oct 1917, Krestovaya, Novgorod province",
+   "died": "28 Sep 1981, Novgorod",
+   "places": [
+    "pavlov",
+    "mamayev",
+    "panorama"
+   ],
+   "story": [
+    "On the night of 27 September 1942 Sergeant Pavlov led a small group of the 13th Guards Rifle Division to retake a four-storey block of flats on what is now Lenin Square, near the Volga. Reinforced by a machine-gun platoon under Lieutenant Ivan Afanasyev and by anti-tank riflemen and mortar crews, a garrison of some 25 men of many Soviet nationalities held the building through October and November, with civilians sheltering in the cellar. Mines, wire and a trench back to the Soviet lines turned it into a strongpoint.",
+    "The house overlooked the square and broke up German movement across it. The defenders were relieved when the Soviet counter-offensive began in late November. Pavlov's name, painted on the walls and used by army newspapers, made him one of the best-known soldiers of the battle. He fought on and ended the war in Germany. After the battle the house was among the first buildings in the city to be restored, and it became a place of pilgrimage for veterans and schoolchildren. He was named a Hero of the Soviet Union in June 1945, after the war in Europe had ended."
+   ],
+   "caveat": "Afanasyev, not Pavlov, was the senior officer in the house for most of the defence, and Chuikov's later claim that the Germans lost more men attacking it than in taking Paris is propaganda. German records do not show heavy assaults there; some veterans resented the fame given to one man.",
+   "decorations": [
+    "Hero of the Soviet Union — June 1945"
+   ],
+   "after": "He returned to Novgorod, joined the Communist Party and was elected three times to the Supreme Soviet of the Russian republic (RSFSR). The house was rebuilt and is still lived in; a memorial wall faces the Volga.",
+   "src": [
+    "https://en.wikipedia.org/wiki/Yakov_Pavlov",
+    "https://en.wikipedia.org/wiki/Pavlov%27s_House",
+    "https://www.stalingradtours.com/en/sights/articul/pavlov_s_house"
+   ]
+  }
+ ]
+}

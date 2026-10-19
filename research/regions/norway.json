@@ -1,0 +1,165 @@
+{
+ "region": "norway",
+ "story": "Germany invaded Norway on 9 April 1940 to secure the iron-ore route from Sweden through the ice-free port of Narvik and to gain naval and air bases on the Atlantic. German destroyers carried General Eduard Dietl's mountain troops into Ofotfjord, sinking the Norwegian coastal defence ships Eidsvold and Norge. The Royal Navy struck back in two battles at Narvik on 10 and 13 April, destroying the German destroyer force there, and Norwegian, French, Polish and British troops retook the town on 28 May. It was the first Allied land victory of the war, but the collapse in France forced the Allies to leave in early June, and Norway capitulated on 10 June. Five years of occupation followed under Reichskommissar Terboven and Vidkun Quisling's collaborationist government. Norwegians built a resistance movement linked to London, and in February 1943 Norwegian commandos trained by SOE sabotaged the heavy-water plant at Vemork, damaging German nuclear research. German forces in Norway, around 350,000 strong by 1945, were tied down until the surrender in May 1945.",
+ "stops": [
+  {
+   "id": "narvik",
+   "name": "Narvik War Museum (Narviksenteret)",
+   "short": "Narvik War Museum",
+   "town": "Narvik",
+   "country": "Norway",
+   "lat": 68.437776,
+   "lon": 17.425375,
+   "coord_src": "https://www.openstreetmap.org (Narvik War Museum, Kongens gate 39)",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 1,
+   "when": "9 Apr – 8 Jun 1940",
+   "sort": "1940-04-09",
+   "min": 90,
+   "text": "Narvik mattered for its ice-free port, which shipped Swedish iron ore by rail. On 9 April 1940 German destroyers landed General Eduard Dietl's mountain troops; the Norwegian coastal defence ships Eidsvold and Norge were sunk and the town surrendered. On 10 April Commodore Bernard Warburton-Lee's destroyers attacked the harbour, sinking two German destroyers; he was killed and awarded a posthumous VC. On 13 April a force led by HMS Warspite destroyed the remaining German destroyers. After weeks of mountain fighting, Norwegian, French and Polish troops retook Narvik on 28 May, but the Allies withdrew in early June and Dietl reoccupied the town on 8 June.",
+   "look": "A modern museum in the centre of Narvik, sharing a building with the public library since 2016. Exhibitions cover the 1940 campaign and the occupation years to 1945. Look for Warburton-Lee's Victoria Cross and a German Enigma machine.",
+   "plan": "Opening hours and prices could not be verified on the official site; check the website before you go. The harbour, where the naval battles were fought, is a short walk away.",
+   "url": "https://www.narviksenteret.no/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Battles of Narvik (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Battles_of_Narvik"
+    ],
+    [
+     "Narviksenteret (official)",
+     "https://www.narviksenteret.no/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battles_of_Narvik",
+    "https://en.wikipedia.org/wiki/Narvik",
+    "https://www.narviksenteret.no/",
+    "https://www.narviksenteret.no/formidling/"
+   ],
+   "aar": {
+    "when": "28 MAY 1940",
+    "ev": "Norwegian, French and Polish troops retake Narvik in the first Allied land victory.",
+    "st": "German destroyers landed Dietl's mountain troops at Narvik on 9 April 1940. British destroyers struck back on 10 and 13 April, sinking the whole German destroyer force, and Allied troops retook the town on 28 May, only to leave in June. Today a modern museum in the town centre shows the campaign, including Warburton-Lee's Victoria Cross and an Enigma machine.",
+    "q": {
+     "t": "Why did Germany want the port of Narvik?",
+     "o": [
+      "It was Norway's main naval base",
+      "It shipped Swedish iron ore and stayed ice-free",
+      "It was the seat of the Norwegian government"
+     ],
+     "a": 1,
+     "x": "Narvik was the ice-free port for iron ore carried by rail from Sweden, which Germany's war industry relied on."
+    },
+    "rem": "Narvik was won by the Allies on 28 May 1940 and given up days later because of the collapse in France."
+   },
+   "notes": "Coordinates not verified: no opened source gave them (Wikipedia pages not found, Nominatim blocked, rate limits). Hours and prices not verified. Older site warmuseum.no returned a server error."
+  },
+  {
+   "id": "vemork",
+   "name": "Vemork: Norwegian Industrial Workers Museum",
+   "short": "Vemork",
+   "town": "Rjukan (Tinn)",
+   "country": "Norway",
+   "lat": 59.87111,
+   "lon": 8.49139,
+   "coord_src": "https://en.wikipedia.org/wiki/Vemork",
+   "conf": "HIGH",
+   "cat": "Ruins",
+   "kind": "historic",
+   "pri": 1,
+   "when": "Nov 1942 – Feb 1943",
+   "sort": "1943-02-28",
+   "min": 120,
+   "text": "Vemork, outside Rjukan in Telemark, was a hydro-electric power station whose electrolysis plant produced heavy water, which German scientists wanted for nuclear research. On 19 November 1942 Operation Freshman sent two Halifax bombers towing gliders with British sappers; the gliders and one bomber crashed, and the survivors were captured and executed by the Germans. In February 1943 SOE-trained Norwegians of Operation Gunnerside parachuted in to join the Grouse team already waiting on the Hardangervidda. They entered the plant and set charges that destroyed the heavy-water section and about 500 kg of heavy water, and all escaped. Since 1988 the power station has been the Norwegian Industrial Workers Museum.",
+   "look": "The massive 1911 power station on a ledge above the Vestfjorddalen gorge, reached by a suspension bridge. Inside, exhibitions on the sabotage and heavy water, and on early industrial workers. The saboteurs' route up the gorge can be walked in summer.",
+   "plan": "Opening hours and prices could not be verified on the official site; hours are reduced outside summer, so check the website before you go. Rjukan is about 2.5 hours by road from Oslo.",
+   "url": "https://www.industriarbeidermuseet.no/",
+   "private": false,
+   "solemn": false,
+   "disputed": "The date of the Gunnerside attack is given as the night of 27/28 February 1943 in many accounts but as 28 February/1 March 1943 on Wikipedia's Vemork page.",
+   "links": [
+    [
+     "Vemork (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Vemork"
+    ],
+    [
+     "Norwegian Industrial Workers Museum (official)",
+     "https://www.industriarbeidermuseet.no/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Vemork"
+   ],
+   "aar": {
+    "when": "28 FEB 1943",
+    "ev": "Norwegian commandos slip into Vemork and blow up the heavy-water plant without a shot.",
+    "st": "Vemork's electrolysis plant made heavy water that German scientists needed for nuclear research. After the British glider raid of November 1942 ended in disaster, Norwegian commandos of Operation Gunnerside entered the plant in February 1943 and destroyed the heavy-water section, and all escaped. Today the great power station above the gorge, reached by a suspension bridge, houses the museum's sabotage exhibition.",
+    "q": {
+     "t": "What did the Vemork plant produce that German scientists wanted?",
+     "o": [
+      "Synthetic fuel",
+      "Heavy water",
+      "Aluminium for aircraft"
+     ],
+     "a": 1,
+     "x": "Vemork's electrolysis plant made heavy water, which German scientists wanted for nuclear research. Norwegian commandos destroyed the heavy-water section in February 1943."
+    },
+    "rem": "Vemork showed what a handful of well-trained local commandos could achieve where a larger force had failed."
+   },
+   "notes": "Opening hours/prices not verified (official site rate-limited). Coordinates are Wikipedia's DMS 59°52′16″N 8°29′29″E converted (only 5 decimals). Freshman/Gunnerside details from Wikipedia's Vemork page only."
+  },
+  {
+   "id": "resistance-museum",
+   "name": "Norway's Resistance Museum, Akershus Fortress",
+   "short": "Resistance Museum",
+   "town": "Oslo",
+   "country": "Norway",
+   "lat": 59.9079,
+   "lon": 10.7358,
+   "coord_src": "https://en.wikipedia.org/wiki/Norway%27s_Resistance_Museum",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "historic",
+   "pri": 2,
+   "when": "Apr 1940 – May 1945",
+   "sort": "1940-04-09",
+   "min": 90,
+   "text": "Norway's Resistance Museum (Norges Hjemmefrontmuseum) stands inside Akershus Fortress in Oslo, which the Germans used during the occupation. It tells the story from the invasion of 9 April 1940 to the liberation in May 1945: the fighting of 1940, the government in exile in London, Quisling's collaborationist regime, civil resistance by teachers, clergy and sportsmen, the underground press, the Milorg military resistance and sabotage operations such as Vemork. It also covers the deportation of Norway's Jews in 1942. Resistance members were executed by the Germans at the fortress, and a memorial stands near the museum.",
+   "look": "A chronological walk through the occupation using dioramas, documents, weapons, radios and underground newspapers. Outside, the fortress walls and the memorial to executed Norwegian patriots. The fortress grounds give views over Oslo harbour.",
+   "plan": "Inside Akershus Fortress, a short walk from Oslo city centre; the fortress grounds are free. Since 2025 the museum is part of the Norwegian Armed Forces museums (Forsvarets museer): check their website for opening hours and prices before you go.",
+   "url": "",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Norway's Resistance Museum (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Norway%27s_Resistance_Museum"
+    ]
+   ],
+   "sources": [],
+   "aar": {
+    "when": "9 APR 1940",
+    "ev": "Germany invades Norway, beginning five years of occupation and resistance.",
+    "st": "Germany invaded Norway on 9 April 1940 and occupied it until May 1945. Norwegians resisted through civil disobedience, an underground press, the Milorg military organisation and sabotage, while the Quisling regime collaborated. Today the museum inside Akershus Fortress leads you through the occupation with dioramas, documents, radios and weapons.",
+    "q": {
+     "t": "Who led Norway's collaborationist government during the occupation?",
+     "o": [
+      "Vidkun Quisling",
+      "Josef Terboven",
+      "Eduard Dietl"
+     ],
+     "a": 0,
+     "x": "Vidkun Quisling headed the collaborationist government; Josef Terboven was the German Reichskommissar who held real power."
+    },
+    "rem": "Quisling's name became a word for traitor in many languages."
+   },
+   "notes": "No source opened for this stop (Wikipedia rate-limited): coordinates, hours, prices and details written from general knowledge and must be verified by the editor. Official URL is a best guess."
+  }
+ ]
+}

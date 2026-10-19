@@ -1,0 +1,378 @@
+{
+ "region": "germany-west",
+ "story": "Western and southern Germany holds both ends of the story. Munich was where Hitler's party was born and where it kept its headquarters; Nuremberg staged the vast party rallies of 1933–38 and gave its name to the 1935 race laws; on the Obersalzberg above Berchtesgaden Hitler built a second seat of government where the attack on Poland was planned. Dachau, opened in March 1933, was the first regular concentration camp and the model for the system that followed. The war came back to Germany in autumn 1944. In the Hürtgen Forest, south-east of Aachen, American divisions fought a costly battle from September to December for little ground. In March 1945 the capture of the Ludendorff Bridge at Remagen put US troops across the Rhine before the Germans could organise a defence of the river, and within weeks Allied armies were deep in Bavaria. The story ends where it began: in Nuremberg, where the International Military Tribunal tried the surviving leaders of the regime in Courtroom 600 from November 1945.",
+ "stops": [
+  {
+   "id": "hurtgen",
+   "name": "Museum Hürtgenwald 1944, Vossenack",
+   "short": "Hürtgen Museum",
+   "town": "Vossenack (Hürtgenwald)",
+   "country": "Germany",
+   "lat": 50.686707,
+   "lon": 6.3701744,
+   "coord_src": "https://www.tracesofwar.com/sights/711/Museum-H%FCrtgenwald-1944-und-im-Frieden.htm",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 3,
+   "when": "19 Sep – 16 Dec 1944",
+   "sort": "1944-11-02",
+   "min": 90,
+   "text": "The Battle of the Hürtgen Forest began on 19 September 1944 as the US First Army pushed into the dense, hilly woods south-east of Aachen, partly to protect its flank and later to reach the Rur dams. The 9th Infantry Division was followed by the 28th, whose 112th Infantry Regiment took Vossenack and then Schmidt on 2–3 November. A German tank counter-attack threw them out of Schmidt on 4 November, and the narrow Kall Trail supply route through the ravine below Vossenack became a death trap. The 4th, 8th and 1st Infantry Divisions followed. The fighting cost the Americans tens of thousands of casualties for a few miles of forest. The museum, run by the local history society, grew from Konrad Schall's collection, first shown at Kleinhau in 1983, and moved to Vossenack in 2001.",
+   "look": "A village museum with themed rooms on the Siegfried Line, the Wehrmacht and the US Army in the forest, maps, uniforms, weapons and relics dug from the woods, plus the post-war years. Use it as the base for walking the Kall Trail into the valley below.",
+   "plan": "Open Sundays 10:00–17:00 from March to November, with extra openings at Easter and special events; weekday group visits by arrangement. The Simonskall medical bunker opens on some first Sundays. Small admission fee. Check the website before you go.",
+   "url": "https://www.museum-huertgenwald.de/",
+   "private": false,
+   "solemn": false,
+   "disputed": "American losses are given anywhere from about 33,000 to 55,000 depending on whether non-combat casualties (trench foot, exposure, combat fatigue) are counted. Historians such as Charles MacDonald judged the battle misconceived; others defend the need to clear the forest and reach the Rur dams.",
+   "links": [
+    ["Battle of Hürtgen Forest (Wikipedia)", "https://en.wikipedia.org/wiki/Battle_of_H%C3%BCrtgen_Forest"],
+    ["1944 Hürtgen Forest Museum (Wikipedia)", "https://en.wikipedia.org/wiki/1944_H%C3%BCrtgen_Forest_Museum"],
+    ["Museum Hürtgenwald 1944 (official)", "https://www.museum-huertgenwald.de/"]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Battle_of_H%C3%BCrtgen_Forest",
+    "https://en.wikipedia.org/wiki/1944_H%C3%BCrtgen_Forest_Museum",
+    "https://www.museum-huertgenwald.de/",
+    "https://rureifel-tourismus.de/en/a-museum-huertgenwald-1944",
+    "https://www.tracesofwar.com/sights/711/Museum-H%FCrtgenwald-1944-und-im-Frieden.htm"
+   ],
+   "aar": {
+    "when": "2 NOV 1944",
+    "ev": "The 28th Infantry Division attacks through Vossenack towards Schmidt along the narrow Kall Trail.",
+    "st": "In November 1944 the 112th Infantry Regiment of the US 28th Division took Vossenack and then Schmidt, supplied only along the narrow Kall Trail through the ravine. A German tank counter-attack drove them out of Schmidt on 4 November, and the trail became a death trap. Today the village museum shows maps, uniforms and relics dug from the forest, and makes a good starting point for walking the Kall Trail.",
+    "q": {
+     "t": "What was the 28th Division's only supply route to Schmidt in November 1944?",
+     "o": ["A railway line along the Rur valley", "The narrow Kall Trail through a forest ravine", "A paved road from Aachen"],
+     "a": 1,
+     "x": "The Kall Trail was a narrow track along a deep ravine below Vossenack. Ill-suited to tanks and supply vehicles and infiltrated by Germans, it could not sustain the troops in Schmidt."
+    },
+    "rem": "The Hürtgen Forest turned American advantages in armour, air power and artillery into almost nothing, and the infantry paid for it."
+   },
+   "notes": "Opening is limited (essentially Sundays, March–November). The German war cemetery at Vossenack and the Kall Trail walk are nearby. Coordinates from TracesOfWar (address Pfarrer-Dickmann-Straße 21–23)."
+  },
+  {
+   "id": "remagen",
+   "name": "Remagen bridge and Peace Museum",
+   "short": "Remagen Bridge",
+   "town": "Remagen",
+   "country": "Germany",
+   "lat": 50.57917,
+   "lon": 7.24417,
+   "coord_src": "https://de.wikipedia.org/wiki/Ludendorff-Br%C3%BCcke",
+   "conf": "HIGH",
+   "cat": "Bridge",
+   "kind": "battle",
+   "pri": 1,
+   "when": "7–17 Mar 1945",
+   "sort": "1945-03-07",
+   "min": 90,
+   "text": "On 7 March 1945 an advance party of the US 9th Armored Division under 2nd Lt Karl Timmermann reached the Ludendorff railway bridge at Remagen at about 13:00 and found it still standing. The German defenders set off their demolition charges, but the bridge lifted and settled back, damaged but passable. American infantry rushed across under fire, engineers cut the remaining wires, and within days several divisions were on the east bank: the first Allied crossing of the Rhine. Hitler's 'flying court martial' sentenced five German officers to death and four were shot. Weakened by the blast, shelling and air attack, the bridge collapsed into the Rhine on 17 March 1945, killing American engineers working on it. It was never rebuilt.",
+   "look": "The two black stone towers on the Remagen bank hold the Peace Museum, opened in 1980, with the story of the bridge, photographs and the theme of war and peace. On the far bank the Erpel towers stand in front of a railway tunnel. Only the stumps of the piers ever remained.",
+   "plan": "Open from early March to 1 November: weekends only in early March, then daily (Monday afternoons only) roughly 10:00–17:00, until 18:00 May–August. Adults €6. Guided group tours bookable. Closed November to early March.",
+   "url": "https://www.bruecke-remagen.de/",
+   "private": false,
+   "solemn": false,
+   "disputed": "The number of US engineers killed in the collapse on 17 March is given as 28 in some accounts and 32 in others, and the injured as 63 or 93. Why the German charges failed (weak industrial explosive, a cut cable or a dud) is still argued.",
+   "links": [
+    ["Ludendorff Bridge (Wikipedia)", "https://en.wikipedia.org/wiki/Ludendorff_Bridge"],
+    ["Friedensmuseum Brücke von Remagen (official)", "https://www.bruecke-remagen.de/"]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Ludendorff_Bridge",
+    "https://de.wikipedia.org/wiki/Ludendorff-Br%C3%BCcke",
+    "https://www.bruecke-remagen.de/index.php/besuch"
+   ],
+   "aar": {
+    "when": "7 MAR 1945",
+    "ev": "US armoured infantry find the Rhine bridge standing and rush across as the demolition fails.",
+    "st": "On 7 March 1945 an advance party of the US 9th Armored Division under Lt Karl Timmermann found the Ludendorff Bridge intact. The German charges damaged but did not drop it, and American troops seized the first Allied foothold across the Rhine. The weakened bridge fell into the river ten days later. Today the two towers on the Remagen bank house the Peace Museum, facing the Erpel towers across the water.",
+    "q": {
+     "t": "What happened to the Ludendorff Bridge after the Americans captured it?",
+     "o": ["It was blown up by retreating US troops", "It stayed in use until 1976", "It collapsed into the Rhine ten days later"],
+     "a": 2,
+     "x": "Weakened by the failed demolition, shelling and air attack, the bridge collapsed on 17 March 1945 while US engineers were repairing it. It was never rebuilt."
+    },
+    "rem": "Remagen gave the Allies a bridgehead over the Rhine two weeks before the planned set-piece crossings further north."
+   },
+   "notes": "Coordinates are the bridge site from the Wikipedia infobox (museum in the west towers, An der Alten Rheinbrücke 11). External guides are not permitted inside the museum."
+  },
+  {
+   "id": "nuremberg-rally",
+   "name": "Nazi Party Rally Grounds & Documentation Centre",
+   "short": "Rally Grounds",
+   "town": "Nuremberg",
+   "country": "Germany",
+   "lat": 49.43389,
+   "lon": 11.11278,
+   "coord_src": "https://en.wikipedia.org/wiki/Documentation_Center_Nazi_Party_Rally_Grounds",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "historic",
+   "pri": 1,
+   "when": "1933–1938",
+   "sort": "1935-09-15",
+   "min": 180,
+   "text": "Six Nazi Party rallies were held at Nuremberg between 1933 and 1938, mass rituals of marching columns, floodlights and speeches designed to show a nation united behind Hitler. Albert Speer designed most of the grounds, including the Zeppelin Field grandstand; the Congress Hall was designed by Ludwig and Franz Ruff. At the 1935 rally the Reichstag, summoned to Nuremberg, passed the Nuremberg Laws that stripped German Jews of citizenship. The Congress Hall was never finished: work stopped in 1943 at about 39 m of a planned 68.5 m, and its interior was never roofed. In April 1945 the US Army blew the giant swastika off the Zeppelin grandstand. The Documentation Centre opened in the north wing of the Congress Hall in 2001.",
+   "look": "Inside the Congress Hall the new permanent exhibition explains the rallies, their staging and their victims. Then walk the grounds: the unfinished horseshoe of the Congress Hall, the Great Road, the lake and the crumbling Zeppelin grandstand where Hitler spoke.",
+   "plan": "Mon–Fri 9:00–18:00, Sat–Sun 10:00–18:00; adults €7.50. The new permanent exhibition has run on trial since 22 May 2026, with an official opening on 4 November 2026 (closed 3–4 Nov). Grounds partly closed during the DTM race and Rock im Park. Check the website before you go.",
+   "url": "https://museums.nuernberg.de/documentation-center",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    ["Nazi party rally grounds (Wikipedia)", "https://en.wikipedia.org/wiki/Nazi_party_rally_grounds"],
+    ["Documentation Center (official)", "https://museums.nuernberg.de/documentation-center"],
+    ["Nuremberg tourism: Documentation Center", "https://tourismus.nuernberg.de/en/topics/culture-of-remembrance/the-former-nazi-party-rally-grounds/documentation-center-nazi-party-rally-grounds/"]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nazi_party_rally_grounds",
+    "https://en.wikipedia.org/wiki/Documentation_Center_Nazi_Party_Rally_Grounds",
+    "https://de.wikipedia.org/wiki/Dokumentationszentrum_Reichsparteitagsgel%C3%A4nde",
+    "https://de.wikipedia.org/wiki/Kongresshalle_(N%C3%BCrnberg)",
+    "https://museums.nuernberg.de/documentation-center/current-information/closure-documentation-center",
+    "https://tourismus.nuernberg.de/en/topics/culture-of-remembrance/the-former-nazi-party-rally-grounds/documentation-center-nazi-party-rally-grounds/"
+   ],
+   "aar": {
+    "when": "15 SEP 1935",
+    "ev": "At the party rally the Reichstag passes the Nuremberg Laws, stripping German Jews of citizenship.",
+    "st": "Six Nazi Party rallies filled these grounds between 1933 and 1938, and at the 1935 rally the Nuremberg Laws took citizenship from German Jews. Construction of the Congress Hall stopped in 1943 with the building unfinished and unroofed. Today the Documentation Centre in its north wing tells the story, and you can walk on to the crumbling Zeppelin grandstand where Hitler spoke.",
+    "q": {
+     "t": "Why does the Congress Hall at Nuremberg have no roof?",
+     "o": ["It was never finished when work stopped in 1943", "Allied bombing destroyed the roof", "The city removed it after the war"],
+     "a": 0,
+     "x": "Construction halted in 1943 at about 39 m of a planned 68.5 m height. The main hall was never roofed and is still an open courtyard of bare brick."
+    },
+    "rem": "The rally grounds were built as theatre: architecture meant to make individuals feel small and the movement feel eternal."
+   },
+   "notes": "Documentation Centre address Bayernstraße 110. The interim exhibition closed on 3 May 2026; the new permanent exhibition 'Nuremberg and the Nazi Party Rallies' replaces it. Combine with Courtroom 600 (same municipal museums ticket offer)."
+  },
+  {
+   "id": "courtroom-600",
+   "name": "Memorium Nuremberg Trials (Courtroom 600)",
+   "short": "Courtroom 600",
+   "town": "Nuremberg",
+   "country": "Germany",
+   "lat": 49.4549,
+   "lon": 11.0465,
+   "coord_src": "https://en.wikipedia.org/wiki/Palace_of_Justice,_Nuremberg",
+   "conf": "HIGH",
+   "cat": "Headquarters",
+   "kind": "historic",
+   "pri": 1,
+   "when": "20 Nov 1945 – 1 Oct 1946",
+   "sort": "1945-11-20",
+   "min": 90,
+   "text": "Nuremberg was chosen for the trial of the major war criminals because its Palace of Justice had survived the bombing largely intact and had a prison attached, and because the city stood for the party rallies. Before the International Military Tribunal of the four Allied powers, 24 leaders were indicted; 22 were tried, Martin Bormann in absentia. The trial opened in Courtroom 600 on 20 November 1945 and the verdicts came on 1 October 1946: 12 death sentences, seven prison terms and three acquittals. Ten men were hanged on 16 October; Göring killed himself the night before. Twelve further US trials of doctors, judges, industrialists and SS officers followed in the same room until 1949.",
+   "look": "The courtroom itself, still with its panelling and doors, on the top floor of the Palace of Justice, plus an exhibition on the defendants, the trial and its legacy for international law. A media installation recreates the 1945–46 room layout.",
+   "plan": "Mon and Wed–Fri 9:00–18:00, Sat–Sun 10:00–18:00, closed Tuesdays. Adults €7.50. Courtroom 600 is occasionally closed for events, so check the website before you go.",
+   "url": "https://museums.nuernberg.de/memorium-nuremberg-trials",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    ["Nuremberg trials (Wikipedia)", "https://en.wikipedia.org/wiki/Nuremberg_trials"],
+    ["Palace of Justice, Nuremberg (Wikipedia)", "https://en.wikipedia.org/wiki/Palace_of_Justice,_Nuremberg"],
+    ["Memorium Nuremberg Trials (official)", "https://museums.nuernberg.de/memorium-nuremberg-trials"]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Nuremberg_trials",
+    "https://en.wikipedia.org/wiki/Palace_of_Justice,_Nuremberg",
+    "https://de.wikipedia.org/wiki/Memorium_N%C3%BCrnberger_Prozesse",
+    "https://tourismus.nuernberg.de/en/media/culture-of-remembrance/memorium-nuremberg-trials/"
+   ],
+   "aar": {
+    "when": "20 NOV 1945",
+    "ev": "The International Military Tribunal opens the trial of the surviving Nazi leaders in Courtroom 600.",
+    "st": "The four Allied powers tried 22 Nazi leaders here from November 1945, the first international trial for crimes against humanity. The verdicts of 1 October 1946 brought 12 death sentences, seven prison terms and three acquittals, and twelve more US trials followed in the same room. Today you stand in the courtroom itself on the top floor of the Palace of Justice, with an exhibition on the trials and their legacy.",
+    "q": {
+     "t": "Why did the Allies hold the main war crimes trial in Nuremberg?",
+     "o": ["It was the capital of the American zone", "Its Palace of Justice was largely intact and had a prison", "Hitler had been born there"],
+     "a": 1,
+     "x": "The Palace of Justice survived the bombing largely intact and had a prison attached for the defendants. The city's role as the rally city added symbolic weight."
+    },
+    "rem": "Courtroom 600 is where 'crimes against humanity' were first tried before an international court."
+   },
+   "notes": "Entrance at Bärenschanzstraße 72 (Palace of Justice, Fürther Straße 110). The courtroom stopped hosting trials in 2020 and is now part of the exhibition. Coordinates are those of the Palace of Justice (4 decimals in source)."
+  },
+  {
+   "id": "munich-ns",
+   "name": "NS-Documentation Centre, Munich",
+   "short": "NS-Doku Munich",
+   "town": "Munich",
+   "country": "Germany",
+   "lat": 48.14528,
+   "lon": 11.5675,
+   "coord_src": "https://de.wikipedia.org/wiki/NS-Dokumentationszentrum_M%C3%BCnchen",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "historic",
+   "pri": 3,
+   "when": "1919–1945",
+   "sort": "1923-11-09",
+   "min": 120,
+   "text": "Munich was where the Nazi Party was founded and where Hitler first made his name; his failed Beer Hall Putsch of 9 November 1923 ended in gunfire at the Feldherrnhalle. After 1933 the regime styled Munich the 'Capital of the Movement'. The party's national headquarters, the Brown House, stood on Brienner Straße beside Königsplatz, flanked by the party's own buildings and 'temples of honour'. The NS-Documentation Centre, opened on 30 April 2015, stands on the site of the Brown House. Its white cube looks out over the surviving party buildings and explains why the movement grew in this city, who supported it, and what it did to its victims.",
+   "look": "Four floors of exhibition, read from the top down, with windows framing the surviving Nazi buildings on Königsplatz. Afterwards walk round the square to the Führerbau (now a music school) and the stumps of the Ehrentempel foundations.",
+   "plan": "Tuesday to Sunday 10:00–19:00, also open on public holidays that fall on a Monday. Admission free. No booking needed for individuals. Check the website for temporary exhibitions.",
+   "url": "https://www.nsdoku.de/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    ["Munich Documentation Centre for the History of National Socialism (Wikipedia)", "https://en.wikipedia.org/wiki/Munich_Documentation_Centre_for_the_History_of_National_Socialism"],
+    ["NS-Dokumentationszentrum München (official)", "https://www.nsdoku.de/en/"]
+   ],
+   "sources": [
+    "https://de.wikipedia.org/wiki/NS-Dokumentationszentrum_M%C3%BCnchen",
+    "https://www.nsdoku.de/en/"
+   ],
+   "aar": {
+    "when": "9 NOV 1923",
+    "ev": "Hitler's Beer Hall Putsch collapses in gunfire in central Munich.",
+    "st": "Munich was the birthplace of the Nazi Party, the scene of Hitler's failed putsch in November 1923, and later the regime's 'Capital of the Movement'. The party's headquarters, the Brown House, stood on this site beside Königsplatz. Today a white-cube documentation centre, opened in 2015, looks out over the surviving party buildings around the square.",
+    "q": {
+     "t": "What stood on the site of the NS-Documentation Centre before the war?",
+     "o": ["The Nazi Party headquarters, the Brown House", "The beer hall of the 1923 putsch", "Munich's Gestapo prison"],
+     "a": 0,
+     "x": "The centre was built on the site of the Brown House, the national headquarters of the Nazi Party on Brienner Straße next to Königsplatz."
+    },
+    "rem": "The regime did not arrive from outside: it grew in ordinary city streets like these, with local support."
+   },
+   "notes": "Address Max-Mannheimer-Platz 1. Pairs well with a Dachau visit (20 minutes by S-Bahn)."
+  },
+  {
+   "id": "dachau",
+   "name": "Dachau Concentration Camp Memorial Site",
+   "short": "Dachau",
+   "town": "Dachau",
+   "country": "Germany",
+   "lat": 48.270278,
+   "lon": 11.468056,
+   "coord_src": "https://de.wikipedia.org/wiki/KZ-Gedenkst%C3%A4tte_Dachau",
+   "conf": "HIGH",
+   "cat": "Camp memorial",
+   "kind": "camp",
+   "pri": 1,
+   "when": "22 Mar 1933 – 29 Apr 1945",
+   "sort": "1933-03-22",
+   "min": 180,
+   "text": "Dachau opened on 22 March 1933, weeks after Hitler came to power, as the first regular concentration camp. Its second commandant, Theodor Eicke, drew up the rules, layout and guard training that became the model for the whole camp system, and he went on to run it as inspector of concentration camps. Political opponents came first, then Jews, Roma, clergy, homosexuals and, during the war, prisoners from more than 30 countries; around 200,000 passed through it and its subcamps. Tens of thousands died of starvation, disease, abuse and execution, many in the typhus epidemic of the final months. Units of the US 45th and 42nd Infantry Divisions liberated the main camp on 29 April 1945.",
+   "look": "The roll-call square, the maintenance building with the main exhibition, two reconstructed barracks and the foundations of the rest, the bunker (camp prison), the 'Arbeit macht frei' gate, and the crematorium area with the gas chamber, plus religious memorials at the far end.",
+   "plan": "Open daily 9:00–17:00 (crematorium area until 16:30), closed 24 December. Admission free. English guided tours daily at 11:00 and 13:00; audio guides available; groups should book. Allow at least three hours.",
+   "url": "https://www.kz-gedenkstaette-dachau.de/en/",
+   "private": false,
+   "solemn": true,
+   "disputed": "Death figures differ: the memorial cites about 41,500, while documented deaths in the archive number about 32,000 and many more are undocumented. The number of SS guards killed by liberating US soldiers and prisoners on 29 April 1945 is also disputed, with estimates from about 21 to 50.",
+   "links": [
+    ["Dachau concentration camp (Wikipedia)", "https://en.wikipedia.org/wiki/Dachau_concentration_camp"],
+    ["Dachau Concentration Camp Memorial Site (official)", "https://www.kz-gedenkstaette-dachau.de/en/"]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Dachau_concentration_camp",
+    "https://de.wikipedia.org/wiki/KZ-Gedenkst%C3%A4tte_Dachau",
+    "https://www.kz-gedenkstaette-dachau.de/en/"
+   ],
+   "aar": {
+    "when": "22 MAR 1933",
+    "ev": "The SS opens Dachau, the first regular concentration camp, outside Munich.",
+    "st": "Dachau opened in March 1933 and, under Theodor Eicke, became the model and training school for the whole SS camp system. Around 200,000 people from more than 30 countries passed through it before US troops liberated it on 29 April 1945. Today you walk from the gate across the roll-call square to the exhibition, the reconstructed barracks, the camp prison and the crematorium area.",
+    "q": null,
+    "rem": "Dachau was the template: its rules, layout and trained guards were exported to every camp that followed."
+   },
+   "notes": "Visitor centre entrance at Pater-Roth-Straße 2a; coordinates from the German Wikipedia article on the memorial site. Parking is charged."
+  },
+  {
+   "id": "obersalzberg",
+   "name": "Obersalzberg Documentation Centre",
+   "short": "Obersalzberg",
+   "town": "Berchtesgaden",
+   "country": "Germany",
+   "lat": 47.63167,
+   "lon": 13.04028,
+   "coord_src": "https://de.wikipedia.org/wiki/Dokumentation_Obersalzberg",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "historic",
+   "pri": 1,
+   "when": "1928–1945",
+   "sort": "1945-04-25",
+   "min": 120,
+   "text": "Hitler rented a chalet on the Obersalzberg above Berchtesgaden in 1928, bought it in 1933 and rebuilt it as the Berghof. Martin Bormann turned the mountainside into a fenced 'Führer zone' with houses for Göring and Bormann, SS barracks and a network of bunkers. It became a second seat of government: Hitler spent much of August 1939 here preparing the attack on Poland, and his last stay ended on 14 July 1944. On 25 April 1945 RAF bombers wrecked most of the buildings, and the SS set fire to the Berghof before US and French troops arrived. Bavaria demolished the ruins in 1952. The Institute of Contemporary History opened the documentation centre in 1999; a new building and exhibition opened in 2023.",
+   "look": "The exhibition 'Idyll and Atrocity' links the mountain retreat to the crimes planned from it, then leads down into part of the original bunker system. The Berghof site itself is a short walk away in the woods, with only traces left.",
+   "plan": "Open daily 9:00–17:00, last entry 16:00. Adults €4.50, under 18 free. Closed 1 Nov, 24, 25 and 31 Dec, 1 Jan, and for maintenance 16–24 Nov 2026 and 1–8 Mar 2027. Free multimedia guide. Check the website before you go.",
+   "url": "https://www.obersalzberg.de/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    ["Obersalzberg (Wikipedia)", "https://en.wikipedia.org/wiki/Obersalzberg"],
+    ["Dokumentation Obersalzberg (official)", "https://www.obersalzberg.de/en/"]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Obersalzberg",
+    "https://de.wikipedia.org/wiki/Dokumentation_Obersalzberg",
+    "https://www.obersalzberg.de/en/besuch/"
+   ],
+   "aar": {
+    "when": "25 APR 1945",
+    "ev": "RAF bombers wreck Hitler's Berghof and the Nazi leaders' mountain compound.",
+    "st": "Hitler bought his chalet here in 1933 and rebuilt it as the Berghof, the heart of a fenced Führer zone with bunkers and barracks. He spent much of August 1939 here planning the invasion of Poland. Bombing on 25 April 1945 wrecked the compound and the ruins were cleared in 1952. Today the documentation centre's exhibition leads you down into part of the original bunker system.",
+    "q": {
+     "t": "What happened to the ruins of Hitler's Berghof after the war?",
+     "o": ["They became a US Army museum", "They were restored as a hotel", "Bavaria demolished them in 1952"],
+     "a": 2,
+     "x": "The Bavarian government demolished the remaining buildings in 1952 so the site could not become a shrine. Only traces remain in the woods."
+    },
+    "rem": "The holiday-postcard scenery was part of the propaganda: decisions for war and genocide were taken here."
+   },
+   "notes": "Address Salzbergstraße 41. The Kehlsteinhaus buses leave from beside the centre. Coordinates from German Wikipedia."
+  },
+  {
+   "id": "eagles-nest",
+   "name": "Kehlsteinhaus (Eagle's Nest)",
+   "short": "Eagle's Nest",
+   "town": "Berchtesgaden",
+   "country": "Germany",
+   "lat": 47.61111,
+   "lon": 13.04167,
+   "coord_src": "https://en.wikipedia.org/wiki/Kehlsteinhaus",
+   "conf": "HIGH",
+   "cat": "Headquarters",
+   "kind": "historic",
+   "pri": 2,
+   "when": "1937–1945",
+   "sort": "1945-05-04",
+   "min": 180,
+   "text": "Martin Bormann had the Kehlsteinhaus built in 1937–38 just below the Kehlstein summit at about 1,838 m, with a road cut through five tunnels and a 124 m lift shaft inside the mountain. Designed by Roderich Fick, it cost some 30 million Reichsmarks and was presented to Hitler for his 50th birthday in 1939. Hitler, who disliked heights, visited only about 14 times; it was used for receptions and by Eva Braun. The French ambassador André François-Poncet called it the 'eagle's nest' after a visit in October 1938. In early May 1945 French troops of the 2e Division Blindée and US troops reached Berchtesgaden, and the building later served the Allies until 1960.",
+   "look": "Ride the bus up the narrow mountain road, walk the tunnel and take the brass-lined lift to the house, now a restaurant with a small history exhibition. On a clear day the views over the Berchtesgaden Alps and towards Salzburg explain the choice of site.",
+   "plan": "Open roughly early/mid May to early November (2026 season to 8 November), weather permitting. Access only by special bus from the Kehlstein bus station beside the Documentation Centre; the ticket includes the lift. Buy timed tickets online to avoid queues.",
+   "url": "https://www.kehlsteinhaus.de/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Who got there first in May 1945 is argued: the 101st Airborne claimed it (repeated in 'Band of Brothers'), the US 3rd Infantry Division's 7th Infantry Regiment and the French 2e Division Blindée both entered Berchtesgaden on 4 May, and French soldiers were at the Kehlsteinhaus on 4–5 May.",
+   "links": [
+    ["Kehlsteinhaus (Wikipedia)", "https://en.wikipedia.org/wiki/Kehlsteinhaus"],
+    ["Kehlsteinhaus (official)", "https://www.kehlsteinhaus.de/en/"],
+    ["Berchtesgaden tourism: Kehlsteinhaus", "https://www.berchtesgaden.de/pois/das-kehlsteinhaus-eagles-nest"]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kehlsteinhaus",
+    "https://de.wikipedia.org/wiki/Kehlsteinhaus",
+    "https://www.berchtesgaden.de/pois/das-kehlsteinhaus-eagles-nest"
+   ],
+   "aar": {
+    "when": "4 MAY 1945",
+    "ev": "French and American troops enter Berchtesgaden as the Nazi mountain retreat falls.",
+    "st": "Bormann built the Kehlsteinhaus in 1937–38 as a 50th-birthday gift for Hitler, with a road through five tunnels and a 124 m lift inside the rock. Hitler visited only about 14 times. French and American troops reached Berchtesgaden on 4 May 1945, and who reached the house first is still argued. Today a bus and the original brass lift take you up to a restaurant with a small exhibition and wide Alpine views.",
+    "q": {
+     "t": "Who coined the name 'Eagle's Nest' for the Kehlsteinhaus?",
+     "o": ["The French ambassador André François-Poncet", "Hitler himself", "American soldiers in 1945"],
+     "a": 0,
+     "x": "André François-Poncet, the French ambassador, used the phrase after his visit in October 1938, and it stuck."
+    },
+    "rem": "The famous Eagle's Nest was a party showpiece Hitler rarely used; the real decisions were made at the Berghof below."
+   },
+   "notes": "Only buses may use the Kehlstein road; walking up takes about two hours. Snow, wind or rockfall can stop the buses at short notice even in summer; ring +49 8652 2029 in doubtful weather."
+  }
+ ]
+}

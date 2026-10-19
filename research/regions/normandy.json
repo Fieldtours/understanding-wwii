@@ -1,0 +1,1037 @@
+{
+ "region": "normandy",
+ "story": "On 6 June 1944 the Allies opened the long-awaited second front in the West. Airborne troops landed by night on both flanks: British 6th Airborne east of the Orne, and the US 82nd and 101st Airborne behind Utah Beach. At dawn, American, British and Canadian divisions came ashore on five beaches, Utah, Omaha, Gold, Juno and Sword, after a huge air and naval bombardment. Omaha came close to failure; elsewhere the troops got inland, but Caen, a D-Day objective, held out until July. For ten weeks the campaign became a grinding battle through hedgerow country and around Caen, where British and Canadian attacks drew in most of the German armour. The American breakout at the end of July (Operation Cobra) unhinged the German front, and in August two German armies were largely trapped in the Falaise Pocket. Normandy cost tens of thousands of soldiers' lives and many thousands of French civilians. It decided the war in the West: by the end of August Paris was free and the Germans were in full retreat towards their own border.",
+ "stops": [
+  {
+   "id": "pegasus",
+   "name": "Pegasus Bridge and Memorial Pegasus",
+   "short": "Pegasus Bridge",
+   "town": "Bénouville / Ranville",
+   "country": "France",
+   "lat": 49.24222,
+   "lon": -0.27444,
+   "coord_src": "https://en.wikipedia.org/wiki/Pegasus_Bridge",
+   "conf": "HIGH",
+   "cat": "Bridge",
+   "kind": "battle",
+   "pri": 1,
+   "when": "6 Jun 1944",
+   "sort": "1944-06-06",
+   "min": 90,
+   "text": "Just after midnight on 6 June 1944, about sixteen minutes past twelve, three Horsa gliders carrying D Company, 2nd Oxfordshire and Buckinghamshire Light Infantry, with Royal Engineers, landed beside the bridge over the Caen Canal at Bénouville. Two more came down near the Orne river bridge. Led by Major John Howard, the men took both bridges within about ten minutes. Holding them kept the only crossings open between the beaches and the 6th Airborne Division's landing zones east of the Orne. Paratroopers of the 7th Parachute Battalion reinforced them before dawn, and Lord Lovat's commandos arrived from Sword Beach around midday. The canal bridge was named Pegasus Bridge after the airborne emblem.",
+   "look": "The 1994 replacement bridge carries the road; the original 1934 bridge stands in the grounds of Memorial Pegasus at Ranville, on the east bank, with a full-size replica Horsa glider. Markers show where the gliders landed. The Café Gondrée, beside the bridge, still trades.",
+   "plan": "The bridge and landing-zone markers are always accessible and free. Memorial Pegasus (adult about €10.50) is closed from October 2026 until May 2027 for extension and renovation; it is due to reopen in June 2027. Check the website before you go.",
+   "url": "https://www.memorial-pegasus.com/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Lieutenant Den Brotheridge, killed crossing the canal bridge, is often called the first Allied soldier killed by enemy fire on D-Day; other airborne men died at about the same time, so the claim cannot be proved. The Café Gondrée's claim to be the first house liberated in France is similarly a tradition.",
+   "links": [
+    [
+     "Pegasus Bridge (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Pegasus_Bridge"
+    ],
+    [
+     "Memorial Pegasus (official)",
+     "https://www.memorial-pegasus.com/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pegasus_Bridge",
+    "https://bayeux-bessin-tourisme.com/en/visits/museums/ranville/memorial-pegasus",
+    "https://www.caenlamer-tourisme.com/cultural-heritage/pegasus-memorial-museum/"
+   ],
+   "aar": {
+    "when": "6 JUN 1944",
+    "ev": "British gliders land beside the canal bridge and seize it in about ten minutes.",
+    "st": "Just after midnight, gliders carrying D Company of the Ox and Bucks, under Major John Howard, landed beside the Caen Canal bridge at Bénouville. They took it and the Orne bridge within minutes, keeping open the link between the beaches and 6th Airborne Division. Today the original 1934 bridge stands in the grounds of Memorial Pegasus, while markers by the new bridge show where the gliders landed.",
+    "q": {
+     "t": "Who led the glider assault on the bridges?",
+     "o": [
+      "Lieutenant Colonel Terence Otway",
+      "Major John Howard",
+      "Lord Lovat"
+     ],
+     "a": 1,
+     "x": "Major John Howard commanded D Company, 2nd Ox and Bucks. Otway led the attack on Merville Battery; Lovat's commandos arrived from Sword Beach around midday."
+    },
+    "rem": "The bridge you cross today is a 1994 replacement; the original is in the museum grounds across the canal."
+   },
+   "notes": "Coordinates are the canal bridge (event spot), from Wikipedia. Memorial Pegasus closed Oct 2026 to May 2027 per the Bayeux Bessin tourist office; the Caen la Mer tourist office lists 2027 hours from 7 June 2027. The original bridge is inside the museum grounds, so it may not be visible during the closure. The official site itself showed no closure notice when checked."
+  },
+  {
+   "id": "merville",
+   "name": "Merville Battery",
+   "short": "Merville Battery",
+   "town": "Merville-Franceville-Plage",
+   "country": "France",
+   "lat": 49.270059,
+   "lon": -0.19769,
+   "coord_src": "https://www.tracesofwar.com/sights/77",
+   "conf": "HIGH",
+   "cat": "Fortification",
+   "kind": "battle",
+   "pri": 2,
+   "when": "6 Jun 1944",
+   "sort": "1944-06-06",
+   "min": 90,
+   "text": "The Allies believed this battery of four concrete casemates could fire on Sword Beach and the fleet. The 9th Parachute Battalion, 6th Airborne Division, under Lieutenant Colonel Terence Otway, was ordered to destroy it before dawn on 6 June. The drop was badly scattered and only about 150 of some 600 men reached the rendezvous, without most of their heavy equipment. Otway attacked anyway. The paratroopers broke in after a short, costly fight and put the guns out of action. They proved to be First World War-era 100 mm Czech howitzers, not the heavier guns that had been feared.",
+   "look": "The four casemates survive in a wooded site with trenches and bunkers. Casemate No. 1 holds the museum, and another recreates the attack with sound and light. A C-47 Dakota, 'SNAFU Special', stands on the site, and a memorial to Otway is near the entrance.",
+   "plan": "Seasonal museum, normally closed in winter: open daily 10:00–18:30 until 15 November 2026, then closed until spring. Adult about €9.50. Check the website before you go.",
+   "url": "https://www.batterie-merville.com/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Sources differ on how much damage the paratroopers did to the guns and whether the battery fired again later on 6 June; the guns were also much smaller than the 150 mm weapons the casemates were built for.",
+   "links": [
+    [
+     "Merville Gun Battery (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Merville_Gun_Battery"
+    ],
+    [
+     "Merville Battery Museum (official)",
+     "https://www.batterie-merville.com/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Merville_Gun_Battery",
+    "https://fr.wikipedia.org/wiki/Batterie_de_Merville",
+    "https://www.tracesofwar.com/sights/77",
+    "https://www.caenlamer-tourisme.com/cultural-heritage/melville-battery-museum/"
+   ],
+   "aar": {
+    "when": "6 JUN 1944",
+    "ev": "Scattered British paratroopers storm the battery before dawn and disable its guns.",
+    "st": "Lieutenant Colonel Terence Otway's 9th Parachute Battalion was ordered to silence the battery before the landings. After a scattered drop, only about 150 of some 600 men reached the rendezvous, but they attacked and put the guns out of action. Today the four casemates survive among trenches, with a museum in Casemate No. 1 and a C-47 Dakota, 'SNAFU Special', on the site.",
+    "q": {
+     "t": "What did the paratroopers find inside the casemates?",
+     "o": [
+      "Heavy 150 mm naval guns",
+      "Empty emplacements",
+      "Older 100 mm Czech howitzers"
+     ],
+     "a": 2,
+     "x": "The casemates were built for heavier guns, but held First World War-era 100 mm Czech howitzers. The threat was real but smaller than feared."
+    },
+    "rem": "Only about a quarter of the battalion reached the start line, yet Otway went ahead with the attack."
+   },
+   "notes": "Coordinates are the museum (Casemate No. 1) at the battery, so HIGH. Hours and price come from the Caen la Mer tourist office listing; the official site did not show hours in the fetched text."
+  },
+  {
+   "id": "sword",
+   "name": "Sword Beach and the Grand Bunker, Ouistreham",
+   "short": "Grand Bunker",
+   "town": "Ouistreham",
+   "country": "France",
+   "lat": 49.287525,
+   "lon": -0.252454,
+   "coord_src": "https://www.tracesofwar.com/sights/76",
+   "conf": "HIGH",
+   "cat": "Bunker",
+   "kind": "battle",
+   "pri": 3,
+   "when": "6–9 Jun 1944",
+   "sort": "1944-06-09",
+   "min": 60,
+   "text": "Sword was the easternmost beach, assaulted on 6 June by the British 3rd Infantry Division and No. 1 Special Service Brigade, including Commandant Philippe Kieffer's French commandos, who fought through Ouistreham. The 17-metre concrete tower behind the seafront was the fire-control post for the coastal batteries guarding the Orne estuary. Commandos bypassed it after being driven back on D-Day. On 9 June Lieutenant Bob Orrell of the Royal Engineers and three men blew in its armoured door, which took about four hours. Two officers and about fifty men surrendered to them.",
+   "look": "The five-storey tower is restored as it was in June 1944: machine-room, dormitory, radio room and the rangefinder at the top, with views over the estuary. Sword Beach and the Kieffer commando memorial are a short walk away.",
+   "plan": "Private museum with an entry fee. Opening hours and prices were not available online when checked; phone +33 2 31 97 28 69. Check the website before you go.",
+   "url": "http://museegrandbunker.com/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Sword Beach (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Sword_Beach"
+    ],
+    [
+     "Le Grand Bunker (official)",
+     "http://museegrandbunker.com/en/"
+    ]
+   ],
+   "sources": [
+    "https://www.tracesofwar.com/sights/76",
+    "https://www.caenlamer-tourisme.com/?p=68132"
+   ],
+   "aar": {
+    "when": "9 JUN 1944",
+    "ev": "A Royal Engineers officer and three men blast open the tower and take its garrison prisoner.",
+    "st": "The concrete tower directed the guns guarding the Orne estuary behind Sword Beach. Commandos bypassed it on D-Day, and on 9 June Lieutenant Bob Orrell and three sappers spent about four hours blowing in its armoured door, after which about fifty men surrendered. Today the five-storey tower is restored to its 1944 state, from the machine-room up to the rangefinder.",
+    "q": {
+     "t": "What was the tower's job in the Atlantic Wall?",
+     "o": [
+      "Fire-control post for coastal batteries",
+      "U-boat radio station",
+      "Field hospital"
+     ],
+     "a": 0,
+     "x": "It was the fire-control post for the batteries covering the Orne estuary. Its rangefinder at the top directed their fire."
+    },
+    "rem": "The tower held out for three days after D-Day until four sappers blew in the door."
+   },
+   "notes": "The official museum site gave no hours or prices; the Caen la Mer tourist page also had none. Kieffer's French commandos are part of No. 4 Commando. Wikipedia page for the bunker could not be fetched."
+  },
+  {
+   "id": "juno",
+   "name": "Juno Beach Centre, Courseulles-sur-Mer",
+   "short": "Juno Beach Centre",
+   "town": "Courseulles-sur-Mer",
+   "country": "France",
+   "lat": 49.33639,
+   "lon": -0.46167,
+   "coord_src": "https://en.wikipedia.org/wiki/Juno_Beach_Centre",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 1,
+   "when": "6 Jun 1944",
+   "sort": "1944-06-06",
+   "min": 120,
+   "text": "Juno was Canada's beach. On 6 June 1944 about 14,000 Canadian troops of the 3rd Canadian Infantry Division and 2nd Canadian Armoured Brigade landed here between Gold and Sword. Rough seas delayed the assault, so many landing craft hit mined obstacles in the rising tide, and the first waves met strongpoints the bombardment had missed. By evening the Canadians had pushed further inland than any other Allied force that day. The Juno Beach Centre, built on the beach at Courseulles, was opened on 6 June 2003 by veterans led by Garth Webb, and tells the story of Canada's whole war.",
+   "look": "A low titanium-clad building shaped like a stylised maple leaf stands behind the dunes. Outside, guided tours enter German bunkers of the Courseulles strongpoint. A Sherman DD tank recovered from the sea stands in the town nearby.",
+   "plan": "Closed in January and on 25 December; open daily the rest of the year (Nov–Dec 10:00–17:00). Adult €9; museum plus bunker tour €13.50 (bunker tours April–October). An extension, the Concordia Project, was announced in September 2026. Check the website before you go.",
+   "url": "https://www.junobeach.org/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Juno Beach Centre (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Juno_Beach_Centre"
+    ],
+    [
+     "Juno Beach Centre (official)",
+     "https://www.junobeach.org/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Juno_Beach_Centre",
+    "https://www.junobeach.org/practical-information/",
+    "https://www.junobeach.org/"
+   ],
+   "aar": {
+    "when": "6 JUN 1944",
+    "ev": "Canadian infantry and tanks storm ashore at Courseulles and push deep inland.",
+    "st": "About 14,000 Canadians of the 3rd Canadian Infantry Division and 2nd Canadian Armoured Brigade landed on Juno on D-Day. Rough seas delayed them and many craft struck mined obstacles, but by evening they were further inland than any other Allied force. Today the maple-leaf-shaped Juno Beach Centre stands behind the dunes, with guided tours into the German bunkers outside.",
+    "q": {
+     "t": "Who led the veterans' campaign to build the centre?",
+     "o": [
+      "Garth Webb",
+      "Terence Otway",
+      "James Rudder"
+     ],
+     "a": 0,
+     "x": "Juno veteran Garth Webb led the project, and the centre opened on 6 June 2003."
+    },
+    "rem": "Juno was Canada's beach, and the centre tells the story of Canada's whole war, not just D-Day."
+   },
+   "notes": "Prices are 2026 rates from the official practical-information page. Canadian D-Day casualty figures vary by source (often given as about 1,000, of whom about 340–360 killed); not used in the text."
+  },
+  {
+   "id": "arromanches",
+   "name": "Arromanches: Mulberry harbour and D-Day Museum",
+   "short": "Arromanches",
+   "town": "Arromanches-les-Bains",
+   "country": "France",
+   "lat": 49.340189,
+   "lon": -0.620245,
+   "coord_src": "https://www.tracesofwar.com/sights/68",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 1,
+   "when": "Jun 1944 – early 1945",
+   "sort": "1944-06-08",
+   "min": 90,
+   "text": "With no large port in Allied hands, the planners towed prefabricated harbours across the Channel. At Arromanches, on the western edge of Gold Beach, the British built Mulberry B, later called Port Winston. The first Phoenix caissons were sunk on 8 June 1944 and floating roadways ('Whales') led from pier heads to the shore. A storm from 19 to 22 June wrecked the American Mulberry at Omaha, but Port Winston survived, damaged, and was used for months. Through it passed huge quantities of men, vehicles and stores. The museum on the seafront, opened in 1954, was the first D-Day museum in Normandy.",
+   "look": "Concrete Phoenix caissons still lie in an arc offshore and on the sand at low tide. The museum, directly facing them, uses working models and film to explain how the harbour was built. The clifftop viewpoint to the east gives the best overall view.",
+   "plan": "Museum closed throughout January and on 24, 25 and 31 December; otherwise open daily, hours vary by season (Nov–Feb 10:00–17:00). Adult €12.90. The beach and remains are free. Check the website before you go.",
+   "url": "https://www.musee-arromanches.fr/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Figures for what Port Winston handled vary widely, even within the same sources: 'over two million' to 'almost three million' men, four million tons of stores and half a million vehicles, and its working life is given as anything from six to ten months.",
+   "links": [
+    [
+     "Mulberry harbour (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Mulberry_harbour"
+    ],
+    [
+     "D-Day Museum Arromanches (official)",
+     "https://www.musee-arromanches.fr/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mulberry_harbour",
+    "https://www.tracesofwar.com/sights/68",
+    "https://www.musee-arromanches.fr/en/prices-and-opening-times/"
+   ],
+   "aar": {
+    "when": "8 JUN 1944",
+    "ev": "The first concrete caissons are sunk to form an artificial harbour off Arromanches.",
+    "st": "With no port in Allied hands, the British built Mulberry B, 'Port Winston', off Arromanches from 8 June. A storm from 19 to 22 June wrecked the American harbour at Omaha, but Port Winston survived and was used for months. Today concrete caissons still lie offshore in an arc, facing the museum whose models show how the harbour was built.",
+    "q": {
+     "t": "What happened to the American Mulberry harbour at Omaha?",
+     "o": [
+      "It was never built",
+      "A storm in late June wrecked it",
+      "It was bombed by the Luftwaffe"
+     ],
+     "a": 1,
+     "x": "The storm of 19–22 June destroyed the Omaha Mulberry; the British harbour at Arromanches survived, damaged, and kept working."
+    },
+    "rem": "The concrete blocks offshore are the remains of a harbour towed across the Channel in pieces."
+   },
+   "notes": "Coordinates are the museum on Place du 6 Juin. The official price page lists overlapping seasonal hour bands, so hours are summarised loosely. Official museum URL may be musee-arromanches.fr (fetched and working)."
+  },
+  {
+   "id": "longues",
+   "name": "Longues-sur-Mer battery",
+   "short": "Longues battery",
+   "town": "Longues-sur-Mer",
+   "country": "France",
+   "lat": 49.343076,
+   "lon": -0.694502,
+   "coord_src": "https://www.tracesofwar.com/sights/81",
+   "conf": "HIGH",
+   "cat": "Fortification",
+   "kind": "battle",
+   "pri": 2,
+   "when": "6–7 Jun 1944",
+   "sort": "1944-06-06",
+   "min": 45,
+   "text": "This naval battery, completed in early 1944 between Arromanches and Port-en-Bessin, had four 150 mm Škoda guns in concrete casemates and a fire-control post on the cliff edge. Its range of about 20 km covered both Gold and Omaha. On the morning of 6 June it fired on the fleet and duelled with the cruisers HMS Ajax and HMS Argonaut and the French cruisers Georges Leygues and Montcalm, which knocked out or damaged three casemates. On 7 June the garrison of about 180 men, many of them older soldiers, surrendered to C Company, 2nd Battalion, Devonshire Regiment.",
+   "look": "Three casemates still hold their guns, the only battery in Normandy to keep them. A fourth gun is wrecked. Walk forward to the two-storey fire-control post on the cliff, which overlooks the sea and featured in the film The Longest Day.",
+   "plan": "Open-air site, free and accessible at all times. Guided tours are offered by the Bayeux tourist office in season. Check the website before you go.",
+   "url": "https://bayeux-bessin-tourisme.com/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Accounts differ on which ships silenced the battery: British sources credit HMS Ajax, while others credit the French cruisers Georges Leygues and Montcalm, supported by USS Arkansas.",
+   "links": [
+    [
+     "Longues-sur-Mer battery (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Longues-sur-Mer_battery"
+    ],
+    [
+     "Bayeux Bessin tourist office",
+     "https://bayeux-bessin-tourisme.com/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Longues-sur-Mer_battery",
+    "https://www.tracesofwar.com/sights/81"
+   ],
+   "aar": {
+    "when": "6 JUN 1944",
+    "ev": "German naval guns duel with Allied cruisers off Gold and Omaha beaches.",
+    "st": "Four 150 mm guns in concrete casemates covered both Gold and Omaha. On D-Day they fired on the fleet and duelled with British and French cruisers, which knocked out or damaged three casemates; the garrison surrendered to the 2nd Devons on 7 June. Today three casemates still hold their guns, and the fire-control post stands on the cliff edge.",
+    "q": {
+     "t": "What makes Longues unusual among Normandy batteries?",
+     "o": [
+      "It never fired a shot",
+      "It was captured by paratroopers",
+      "It still has its guns in place"
+     ],
+     "a": 2,
+     "x": "Longues is the only battery in Normandy that kept its guns. Three casemates still hold them today."
+    },
+    "rem": "Stand in the fire-control post and you see exactly how the battery could reach both Gold and Omaha."
+   },
+   "notes": "Garrison given as 184 (text) or about 185 (infobox) on Wikipedia; I wrote 'about 180'. The Longest Day connection is well known but not checked against a source this session; the editor may drop it. No dedicated official site; the URL is the local tourist office."
+  },
+  {
+   "id": "bayeux-museum",
+   "name": "Museum of the Battle of Normandy, Bayeux",
+   "short": "Bayeux museum",
+   "town": "Bayeux",
+   "country": "France",
+   "lat": 49.27344,
+   "lon": -0.711559,
+   "coord_src": "https://www.tracesofwar.com/sights/62",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 2,
+   "when": "Jun–Aug 1944",
+   "sort": "1944-06-07",
+   "min": 90,
+   "text": "Bayeux was freed by the British 50th (Northumbrian) Division on 7 June 1944, almost undamaged, and was the first sizeable French town liberated. On 14 June General de Gaulle came ashore and spoke here, a step towards establishing his authority over liberated France. The museum, on the ring road named after Fabian Ware, founder of the Imperial War Graves Commission, covers the whole Battle of Normandy from June to August. It explains the campaign as a sequence, from the landings through the battles for Caen and the bocage to the Falaise Pocket.",
+   "look": "Restored armoured vehicles, including a Sherman and a Churchill Crocodile, stand on the lawn outside. Inside are weapons, uniforms, vehicles, dioramas and an aviation room, with a film shown regularly. Bayeux War Cemetery is across the road.",
+   "plan": "Open daily; 1 May–30 Sep 09:30–18:30, otherwise 10:00–12:30 and 14:00–18:00. Closes for about two weeks in January (5–18 January in 2026) and at Christmas and New Year. Adult €8.50. Check the website before you go.",
+   "url": "https://www.bayeuxmuseum.com/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Bayeux museums (official)",
+     "https://www.bayeuxmuseum.com/en/"
+    ]
+   ],
+   "sources": [
+    "https://www.tracesofwar.com/sights/62",
+    "https://www.bayeuxmuseum.com/en/memorial-museum-battle-of-normandy/practical-information-battle-of-normandy-museum/"
+   ],
+   "aar": {
+    "when": "7 JUN 1944",
+    "ev": "British troops enter Bayeux, the first sizeable French town freed, almost undamaged.",
+    "st": "The 50th (Northumbrian) Division freed Bayeux on 7 June, and on 14 June General de Gaulle spoke here. The museum covers the whole Battle of Normandy, from the landings to the Falaise Pocket. Today restored tanks stand on the lawn, and inside are weapons, uniforms, dioramas and an aviation room, with the war cemetery across the road.",
+    "q": {
+     "t": "Who made a key speech in Bayeux on 14 June 1944?",
+     "o": [
+      "Winston Churchill",
+      "General de Gaulle",
+      "General Eisenhower"
+     ],
+     "a": 1,
+     "x": "De Gaulle landed and spoke in Bayeux on 14 June, asserting his leadership of liberated France."
+    },
+    "rem": "Visit this museum early: it gives the whole campaign's shape before you see individual sites."
+   },
+   "notes": "Liberation date (7 June), 50th Division and de Gaulle's 14 June visit are from general knowledge, not a source opened this session; widely documented. Opening year (1981) not verified, so omitted."
+  },
+  {
+   "id": "bayeux-cem",
+   "name": "Bayeux War Cemetery and Memorial",
+   "short": "Bayeux Cemetery",
+   "town": "Bayeux",
+   "country": "France",
+   "lat": 49.273986,
+   "lon": -0.714149,
+   "coord_src": "https://www.tracesofwar.com/sights/83",
+   "conf": "DOC",
+   "cat": "Cemetery",
+   "kind": "battle",
+   "pri": 2,
+   "when": "1944–1952",
+   "sort": "1944-06-07",
+   "min": 45,
+   "text": "This is the largest Commonwealth Second World War cemetery in France, with 4,648 burials, mostly men killed in the Normandy campaign. More than 500 graves are of other nationalities, most of them German. It was begun in 1944, completed in 1952 and designed by Philip Hepworth for the Imperial (now Commonwealth) War Graves Commission. Across the road the Bayeux Memorial names more than 1,800 Commonwealth servicemen who died in the Battle of Normandy and have no known grave. Its Latin frieze reads, in translation: 'We, once conquered by William, have now set free the Conqueror's native land.'",
+   "look": "Rows of Portland-stone headstones in lawns, with the Cross of Sacrifice and Stone of Remembrance. Across the road, the colonnaded Bayeux Memorial carries the names of the missing, and its Latin inscription about William the Conqueror runs across the front.",
+   "plan": "CWGC cemetery and memorial: free, open at all times, no booking needed. Park on Boulevard Fabian Ware, opposite the Museum of the Battle of Normandy.",
+   "url": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2017400/bayeux-war-cemetery/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Bayeux War Cemetery (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Bayeux_War_Cemetery"
+    ],
+    [
+     "Bayeux War Cemetery (CWGC)",
+     "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/2017400/bayeux-war-cemetery/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Bayeux_War_Cemetery",
+    "https://www.tracesofwar.com/sights/83"
+   ],
+   "aar": {
+    "when": "JUN–AUG 1944",
+    "ev": "Commonwealth soldiers killed across Normandy are gathered here in France's largest such cemetery.",
+    "st": "Bayeux War Cemetery holds 4,648 burials, mostly from the Normandy campaign, including more than 500 men of other nationalities. Across the road the Bayeux Memorial names more than 1,800 Commonwealth servicemen with no known grave. Today Portland-stone headstones stand in neat lawns around the Cross of Sacrifice, and across the road the memorial's Latin frieze recalls William the Conqueror.",
+    "q": null,
+    "rem": "The memorial's Latin inscription links 1944 with 1066: the conquered have freed the Conqueror's homeland."
+   },
+   "notes": "The CWGC page (cemetery ID 2017400) could not be fetched to confirm the URL; the editor should check it. Burial numbers from Wikipedia and TracesOfWar, which agree."
+  },
+  {
+   "id": "omaha",
+   "name": "Omaha Beach: Les Braves, Saint-Laurent-sur-Mer",
+   "short": "Omaha Beach",
+   "town": "Saint-Laurent-sur-Mer",
+   "country": "France",
+   "lat": 49.370931,
+   "lon": -0.879765,
+   "coord_src": "https://www.tracesofwar.com/sights/1437",
+   "conf": "MEDIUM",
+   "cat": "Landing beach",
+   "kind": "battle",
+   "pri": 1,
+   "when": "6 Jun 1944",
+   "sort": "1944-06-06",
+   "min": 60,
+   "text": "Omaha was the bloodiest of the five beaches. On 6 June 1944 the US 1st and 29th Infantry Divisions landed below bluffs held by German strongpoints that the air bombardment had largely missed. Many amphibious tanks sank in the rough sea, landing craft drifted off their sectors, and the first waves were pinned on the sand. For several hours General Bradley considered diverting follow-up forces elsewhere. Small groups of infantry, helped by destroyers firing at close range, worked up the bluffs between the strongpoints, and by nightfall the Americans held a shallow beachhead. The stainless-steel sculpture Les Braves now stands on the sand at Saint-Laurent.",
+   "look": "Les Braves, three groups of tall steel 'wings', stands on the beach, with a granite memorial behind it. Look up at the bluffs and the draws (valleys) the Americans had to open; remains of German strongpoints survive along the slope, and the American Cemetery is on the plateau to the east.",
+   "plan": "Public beach, free and open at all times. Parking along the seafront road (D514/D517) at Saint-Laurent; busy in summer and around 6 June.",
+   "url": "https://www.normandie-tourisme.fr/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Casualty figures for Omaha vary widely between sources, commonly from about 2,000 to over 4,000 killed, wounded and missing, depending on what is counted and when.",
+   "links": [
+    [
+     "Omaha Beach (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Omaha_Beach"
+    ],
+    [
+     "Les Braves (TracesOfWar)",
+     "https://www.tracesofwar.com/sights/1437"
+    ]
+   ],
+   "sources": [
+    "https://www.tracesofwar.com/sights/1437"
+   ],
+   "aar": {
+    "when": "6 JUN 1944",
+    "ev": "American infantry are pinned below the bluffs before small groups fight their way up.",
+    "st": "The US 1st and 29th Infantry Divisions landed below bluffs held by German strongpoints the bombing had missed. Tanks sank, craft drifted off course and the first waves were pinned, until small groups backed by destroyers worked up between the strongpoints. Today the steel sculpture Les Braves stands on the sand, below bluffs where German strongpoint remains survive.",
+    "q": {
+     "t": "What helped the infantry finally break through the bluffs?",
+     "o": [
+      "Destroyers firing at close range",
+      "A second airborne drop",
+      "Heavy bombers at midday"
+     ],
+     "a": 0,
+     "x": "Small infantry groups climbed between the strongpoints while destroyers came close inshore to fire at German positions."
+    },
+    "rem": "Stand at the water's edge and look up: the bluffs explain why Omaha nearly failed."
+   },
+   "notes": "Les Braves is by Anilore Banon and was installed for the 60th anniversary in 2004 (general knowledge, not verified in a source opened this session, so not in text). conf MEDIUM: the memorial is on the beach where the landing happened, but it does not mark one exact event. Omaha Wikipedia page not opened this session; Omaha facts are standard."
+  },
+  {
+   "id": "us-cemetery",
+   "name": "Normandy American Cemetery, Colleville-sur-Mer",
+   "short": "US Cemetery",
+   "town": "Colleville-sur-Mer",
+   "country": "France",
+   "lat": 49.359585,
+   "lon": -0.854756,
+   "coord_src": "https://www.tracesofwar.com/sights/38",
+   "conf": "DOC",
+   "cat": "Cemetery",
+   "kind": "battle",
+   "pri": 1,
+   "when": "1944–1956",
+   "sort": "1944-06-08",
+   "min": 90,
+   "text": "On the plateau above Omaha Beach, the cemetery holds 9,389 American war dead, most killed in the landings and the Normandy campaign. The Walls of the Missing in the Garden of the Missing carry 1,557 names. It covers 172.5 acres and was dedicated on 19 July 1956. Among the graves are Brigadier General Theodore Roosevelt Jr., who landed with the first wave at Utah, buried beside his brother Quentin, killed in 1918, and two of the Niland brothers, whose story inspired Saving Private Ryan. The visitor centre was opened by the American Battle Monuments Commission in 2007.",
+   "look": "Rows of white marble Latin crosses and Stars of David on lawns above the beach, a small chapel at the centre, and a colonnade with the bronze statue 'Spirit of American Youth Rising from the Waves'. The visitor centre explains the landings. An orientation table overlooks Omaha Beach.",
+   "plan": "Free; open daily, normally 09:00–17:00, closed 25 December and 1 January. ABMC is bringing in compulsory free pre-registration for all visitors (expected from late 2026, reservations from 2027). Check the website before you go.",
+   "url": "https://www.abmc.gov/cemeteries-memorials/europe/normandy-american-cemetery",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "Normandy American Cemetery (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Normandy_American_Cemetery_and_Memorial"
+    ],
+    [
+     "Normandy American Cemetery (ABMC)",
+     "https://www.abmc.gov/cemeteries-memorials/europe/normandy-american-cemetery"
+    ],
+    [
+     "Visitor pre-registration (ABMC)",
+     "https://www.abmc.gov/normandy-registration/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Normandy_American_Cemetery_and_Memorial",
+    "https://www.abmc.gov/cemeteries-memorials/europe/normandy-american-cemetery",
+    "https://www.abmc.gov/normandy-registration/",
+    "https://www.tracesofwar.com/sights/38"
+   ],
+   "aar": {
+    "when": "JUN 1944",
+    "ev": "American dead from the landings and campaign are buried on the bluff above Omaha.",
+    "st": "The cemetery holds 9,389 American war dead, and the Walls of the Missing carry 1,557 names. Theodore Roosevelt Jr. lies beside his brother Quentin, and two Niland brothers are buried here. Today white marble crosses and Stars of David stand in rows on lawns above Omaha Beach, with a chapel, a memorial colonnade and a visitor centre.",
+    "q": null,
+    "rem": "Pre-registration is being introduced for all visitors, so check ABMC's site before you travel."
+   },
+   "notes": "Pre-registration: an ABMC news item said changes would start 1 April 2026, but the later registration page says requirements are expected at the end of 2026 with reservations opening summer 2027. All ABMC sites remain free. ABMC says the path from the cemetery down to the beach has been closed since 2016. Hours 09:00–17:00 are ABMC's standard pattern (confirmed for Pointe du Hoc) but not confirmed on the cemetery page itself."
+  },
+  {
+   "id": "overlord-museum",
+   "name": "Overlord Museum, Colleville-sur-Mer",
+   "short": "Overlord Museum",
+   "town": "Colleville-sur-Mer",
+   "country": "France",
+   "lat": 49.347847,
+   "lon": -0.856375,
+   "coord_src": "https://www.tracesofwar.com/sights/43204",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 3,
+   "when": "Jun–Aug 1944",
+   "sort": "1944-06-06",
+   "min": 90,
+   "text": "This private museum is built around the collection of Michel Leloup (1929–2011), who witnessed the fighting as a boy and later worked in Normandy's post-war reconstruction, gathering vehicles and equipment left on the battlefields. The collection was shown in Falaise from 1987 and moved to this purpose-built site near Omaha Beach in 2013. It covers the campaign from the landings to the liberation of Paris, with a short look at the earlier war, using large vehicle scenes that put German and Allied equipment side by side.",
+   "look": "More than 35 vehicles, tanks and guns from the armies that fought in Normandy are shown in staged scenes, including Shermans, a Panther and a Panzer IV. Personal belongings of individual soldiers add the human scale.",
+   "plan": "Open daily mid-February to early January (winter 10:00–17:30, summer to 19:00); closed 4 January to 12 February, 24–25 December and 1 January. Adult €9.90 in 2026, €10.90 in 2027.",
+   "url": "https://www.overlordmuseum.com/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Overlord Museum (official)",
+     "https://www.overlordmuseum.com/en/"
+    ]
+   ],
+   "sources": [
+    "https://www.tracesofwar.com/sights/43204",
+    "https://www.overlordmuseum.com/en/your-visit/opening-hours-and-fees/"
+   ],
+   "aar": {
+    "when": "JUN 1944",
+    "ev": "Allied and German armour that fought here is gathered in scenes of the campaign.",
+    "st": "The museum is built around the collection of Michel Leloup, who witnessed the fighting as a boy and gathered equipment left on the battlefields. Shown in Falaise from 1987, it moved here near Omaha in 2013. Today more than 35 vehicles, tanks and guns, including Shermans, a Panther and a Panzer IV, stand in staged scenes.",
+    "q": {
+     "t": "Where was this collection shown before it moved to Colleville?",
+     "o": [
+      "Caen",
+      "Cherbourg",
+      "Falaise"
+     ],
+     "a": 2,
+     "x": "Michel Leloup's collection was displayed in Falaise from 1987 and moved to Colleville in 2013."
+    },
+    "rem": "Good for seeing German and Allied armour side by side, two minutes from the American Cemetery."
+   },
+   "notes": "Opened at Colleville on 5 June 2013 (TracesOfWar)."
+  },
+  {
+   "id": "pointe-du-hoc",
+   "name": "Pointe du Hoc",
+   "short": "Pointe du Hoc",
+   "town": "Cricqueville-en-Bessin",
+   "country": "France",
+   "lat": 49.397382,
+   "lon": -0.989361,
+   "coord_src": "https://uswarmemorials.org/html/site_details.php?SiteID=553",
+   "conf": "HIGH",
+   "cat": "Fortification",
+   "kind": "battle",
+   "pri": 1,
+   "when": "6–8 Jun 1944",
+   "sort": "1944-06-06",
+   "min": 60,
+   "text": "German guns on this 35-metre headland between Utah and Omaha were thought to threaten both beaches. On 6 June 1944, 225 men of the 2nd Ranger Battalion under Lieutenant Colonel James Earl Rudder landed late, at about 07:10, and climbed the cliffs with rocket-fired grapnels and ladders under fire. At the top they found the casemates empty: the guns had been moved inland. Patrols found five of the six in an orchard and wrecked them with thermite grenades by about 09:00. The Rangers then held the headland against counter-attacks until relieved on 8 June, by when only about 90 were still fit to fight.",
+   "look": "The ground is still a moonscape of bomb craters around ruined casemates and the observation bunker at the cliff edge, topped by the granite Ranger Monument. Look over the edge at the cliffs the Rangers climbed.",
+   "plan": "Free; open daily 09:00–17:00. ABMC works run until mid-2027: the visitor centre and main car park (P1) are closed, and some paths and bunkers are fenced off. Access is by the west path only, with temporary parking signposted. Check the website before you go.",
+   "url": "https://www.abmc.gov/cemeteries-memorials/europe/pointe-du-hoc-ranger-monument",
+   "private": false,
+   "solemn": false,
+   "disputed": "A popular myth says the assault was pointless because the guns had gone. In fact the guns were nearby and could still reach the beaches, and the Rangers found and disabled them on the morning of D-Day.",
+   "links": [
+    [
+     "Pointe du Hoc (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Pointe_du_Hoc"
+    ],
+    [
+     "Pointe du Hoc Ranger Monument (ABMC)",
+     "https://www.abmc.gov/cemeteries-memorials/europe/pointe-du-hoc-ranger-monument"
+    ],
+    [
+     "Restoration project 2026–27 (ABMC)",
+     "https://www.abmc.gov/pointe-du-hoc-ranger-monument-restoration-project"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Pointe_du_Hoc",
+    "https://www.abmc.gov/pointe-du-hoc-ranger-monument-restoration-project",
+    "https://www.abmc.gov/news-events/news/american-battle-monuments-commission-launches-major-restoration-project-at-pointe-du-hoc-ranger-monument/",
+    "https://uswarmemorials.org/html/site_details.php?SiteID=553"
+   ],
+   "aar": {
+    "when": "6 JUN 1944",
+    "ev": "US Rangers scale the cliffs, find the casemates empty and hunt down the guns inland.",
+    "st": "Lieutenant Colonel James Earl Rudder's 2nd Ranger Battalion climbed the 35-metre cliffs under fire on D-Day. The casemates were empty, but patrols found five of the six guns in an orchard and wrecked them by about 09:00, then held the headland until 8 June. Today bomb craters and ruined casemates surround the observation bunker and Ranger Monument at the cliff edge.",
+    "q": {
+     "t": "What did the Rangers find when they reached the casemates?",
+     "o": [
+      "The guns had been moved inland",
+      "The guns were firing on Omaha",
+      "The garrison had surrendered"
+     ],
+     "a": 0,
+     "x": "The casemates were empty; the guns had been moved into an orchard inland, where Ranger patrols found five and disabled them with thermite grenades."
+    },
+    "rem": "Until mid-2027, access is via the west path only, with the visitor centre and main car park closed."
+   },
+   "notes": "ABMC restoration project began 17 Feb 2026; visitor centre closed from 9 March 2026; parts of the historic site (paths, bunkers) closed from mid-May 2026; P1 car park closed until early 2027; works expected to finish mid-2027. Site hours unchanged (09:00–17:00); roving guides instead of fixed tours. Coordinates are the Ranger Monument (uswarmemorials.org); Wikipedia showed no coordinates in fetched text. Casualties (77 killed, 152 wounded per Wikipedia) not used in the text."
+  },
+  {
+   "id": "la-cambe",
+   "name": "La Cambe German war cemetery",
+   "short": "La Cambe",
+   "town": "La Cambe",
+   "country": "France",
+   "lat": 49.34194,
+   "lon": -1.02639,
+   "coord_src": "https://en.wikipedia.org/wiki/La_Cambe_German_war_cemetery",
+   "conf": "DOC",
+   "cat": "Cemetery",
+   "kind": "battle",
+   "pri": 2,
+   "when": "Jun 1944 – 1961",
+   "sort": "1944-06-10",
+   "min": 45,
+   "text": "La Cambe holds 21,222 German servicemen, the largest German war cemetery in Normandy. It began on 10 June 1944 as a battlefield cemetery laid out by the US 607th Quartermaster Graves Registration Company, with American and German dead in neighbouring fields. After the war the American dead were repatriated or moved to Colleville, and Germans were gathered here from about 1,400 field graves across Normandy. The Volksbund, the German war graves commission, maintains it. Among the dead is Tiger commander Michael Wittmann, killed with his crew on 8 August 1944 and found in 1983.",
+   "look": "Flat stone grave markers, each usually for two men, lie among groups of dark basalt crosses. A grassy mound in the centre, topped by a large cross and figures, covers a mass grave of 207 unknown and 89 identified soldiers. A peace garden of maple trees and a small information centre are by the entrance.",
+   "plan": "Free; the cemetery is open at all times. Small information centre by the car park, just off the N13 near the La Cambe exit.",
+   "url": "https://www.volksbund.de/",
+   "private": false,
+   "solemn": true,
+   "disputed": "",
+   "links": [
+    [
+     "La Cambe German war cemetery (Wikipedia)",
+     "https://en.wikipedia.org/wiki/La_Cambe_German_war_cemetery"
+    ],
+    [
+     "Volksbund (official)",
+     "https://www.volksbund.de/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/La_Cambe_German_war_cemetery"
+   ],
+   "aar": {
+    "when": "10 JUN 1944",
+    "ev": "An American graves unit opens a battlefield cemetery that becomes Normandy's largest German cemetery.",
+    "st": "La Cambe began on 10 June 1944 as a battlefield cemetery for American and German dead. After the war the Americans were moved, and Germans were gathered here from about 1,400 field graves, making 21,222 burials. Today flat markers lie among dark basalt crosses, around a central mound over a mass grave, with a maple peace garden by the entrance.",
+    "q": null,
+    "rem": "Most of those buried here were young conscripts; the Volksbund presents the site as a place for reconciliation."
+   },
+   "notes": "Volksbund site page for La Cambe could not be fetched; opening and the information centre are from general knowledge, so the editor should confirm. 'Usually two men per marker' is general knowledge, not from a source opened this session. Wittmann's burial here is sometimes the focus of unwelcome attention; the text treats it factually."
+  },
+  {
+   "id": "ste-mere",
+   "name": "Sainte-Mère-Église and the Airborne Museum",
+   "short": "Ste-Mère-Église",
+   "town": "Sainte-Mère-Église",
+   "country": "France",
+   "lat": 49.408249,
+   "lon": -1.314964,
+   "coord_src": "https://en.wikipedia.org/wiki/Airborne_Museum_(Sainte-M%C3%A8re-%C3%89glise)",
+   "conf": "DOC",
+   "cat": "Town",
+   "kind": "battle",
+   "pri": 1,
+   "when": "6 Jun 1944",
+   "sort": "1944-06-06",
+   "min": 120,
+   "text": "Sainte-Mère-Église sat astride the main road to Cherbourg behind Utah Beach. In the early hours of 6 June 1944 paratroopers of the US 82nd Airborne Division dropped on and around the town; some landed in the square, lit by a burning house, and were shot as they came down. Men of the 505th Parachute Infantry Regiment took the town before dawn, making it one of the first places in France liberated on D-Day. Paratrooper John Steele was left hanging from the church tower by his parachute. The Airborne Museum, opened in 1964, tells the story of both American airborne divisions.",
+   "look": "In the square, a dummy paratrooper hangs from the church tower, and inside the church stained-glass windows show paratroopers. The Airborne Museum has a real Waco glider and a C-47 that flew in the 5–6 June drops, plus the walk-through 'Operation Neptune' building.",
+   "plan": "Airborne Museum open daily (October hours 10:00–18:00). Adult €11.50. The town and church are free. Check the website before you go.",
+   "url": "https://www.airborne-museum.org/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "John Steele's story has been embellished over the years, and the film The Longest Day placed his parachute on the wrong side of the tower; the dummy now hangs on the side that suits the square, not necessarily where he was caught.",
+   "links": [
+    [
+     "Airborne Museum (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Airborne_Museum_(Sainte-M%C3%A8re-%C3%89glise)"
+    ],
+    [
+     "Airborne Museum (official)",
+     "https://www.airborne-museum.org/en/"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Airborne_Museum_(Sainte-M%C3%A8re-%C3%89glise)",
+    "https://www.airborne-museum.org/en/"
+   ],
+   "aar": {
+    "when": "6 JUN 1944",
+    "ev": "American paratroopers drop into the town square and take the town before dawn.",
+    "st": "In the early hours of D-Day, paratroopers of the 82nd Airborne dropped on and around Sainte-Mère-Église, some into the square lit by a burning house. The 505th Parachute Infantry took the town before dawn, and John Steele hung from the church tower by his parachute. Today a dummy paratrooper hangs from the tower, and the Airborne Museum shows a Waco glider and a C-47.",
+    "q": {
+     "t": "Which regiment captured the town before dawn?",
+     "o": [
+      "505th Parachute Infantry",
+      "116th Infantry",
+      "2nd Ranger Battalion"
+     ],
+     "a": 0,
+     "x": "The 505th Parachute Infantry Regiment of the 82nd Airborne took the town in the early hours of 6 June."
+    },
+    "rem": "The town controlled the main road from Utah Beach towards Cherbourg; that is why it mattered."
+   },
+   "notes": "The C-47's name ('Argonia') could not be confirmed, so it is left out. The 505th's capture, Steele's story and the dispute about which side of the tower he hung from are general knowledge, not checked against a source this session; the editor may want to trim the 'disputed' line if not confirmed. Coordinates are the museum."
+  },
+  {
+   "id": "utah",
+   "name": "Utah Beach Museum, Sainte-Marie-du-Mont",
+   "short": "Utah Beach Museum",
+   "town": "Sainte-Marie-du-Mont (La Madeleine)",
+   "country": "France",
+   "lat": 49.415325,
+   "lon": -1.174668,
+   "coord_src": "https://www.tracesofwar.com/sights/91",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 1,
+   "when": "6 Jun 1944",
+   "sort": "1944-06-06",
+   "min": 120,
+   "text": "Utah was the westernmost beach, added to the plan so that Cherbourg could be taken quickly. On 6 June 1944 the US 4th Infantry Division landed here; currents carried the first waves well south of their planned sector, onto a stretch that turned out to be less heavily defended. Brigadier General Theodore Roosevelt Jr., with the first wave, decided to bring the follow-up forces in where they had landed. The division got ashore with far lighter losses than at Omaha and linked up with the airborne troops inland. The museum stands on the beach, on the site of a German strongpoint.",
+   "look": "Displays, models and many vehicles inside and outside, and a hangar housing a B-26 Marauder bomber. Large windows look out on the beach. Outside are monuments, a Sherman tank and the dunes the 4th Division crossed.",
+   "plan": "Open daily (Oct–Apr 10:00–18:00, May–Sep 09:30–19:00), except 16 November to 14 December. Adult €10. Check the website before you go.",
+   "url": "https://utah-beach.com/en/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Roosevelt's words on finding the troops off course are usually quoted as 'We'll start the war from right here', but the exact wording varies between accounts.",
+   "links": [
+    [
+     "Utah Beach (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Utah_Beach"
+    ],
+    [
+     "Utah Beach Museum (official)",
+     "https://utah-beach.com/en/"
+    ]
+   ],
+   "sources": [
+    "https://www.tracesofwar.com/sights/91",
+    "https://utah-beach.com/en/"
+   ],
+   "aar": {
+    "when": "6 JUN 1944",
+    "ev": "The US 4th Infantry Division lands off course and pushes inland with light losses.",
+    "st": "Currents carried the 4th Infantry Division's first waves south of their planned sector onto a less heavily defended stretch. Brigadier General Theodore Roosevelt Jr. brought the follow-up forces in where they had landed, and the division linked up with the paratroopers inland. Today the museum stands on the beach, with a B-26 Marauder in its hangar and large windows over the sand.",
+    "q": {
+     "t": "Why did the first waves land in the wrong place?",
+     "o": [
+      "German jamming of radios",
+      "Currents carried them south",
+      "Fog over the Channel"
+     ],
+     "a": 1,
+     "x": "Currents pushed the craft south of the planned sector. The new spot proved less heavily defended, and Roosevelt brought the follow-up waves in there."
+    },
+    "rem": "Utah's light losses contrast sharply with Omaha, a short drive east."
+   },
+   "notes": "Utah Wikipedia page not opened this session; Utah facts (4th ID, Roosevelt, drift south) are standard. Museum opening year (1962) and the B-26 hangar date (2011) not verified, so omitted. Museum annual closure 16 Nov–14 Dec per official site."
+  },
+  {
+   "id": "caen-memorial",
+   "name": "Caen Memorial (Mémorial de Caen)",
+   "short": "Caen Memorial",
+   "town": "Caen",
+   "country": "France",
+   "lat": 49.197438,
+   "lon": -0.384135,
+   "coord_src": "https://en.wikipedia.org/wiki/M%C3%A9morial_de_Caen",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 1,
+   "when": "Jun–Jul 1944",
+   "sort": "1944-07-09",
+   "min": 240,
+   "text": "Caen was a D-Day objective for the British, but it took until July to clear the city. Montgomery's offensives around it, including Epsom, Charnwood and Goodwood, drew in most of the German armour in Normandy. Bombing and shelling destroyed much of the city and killed many civilians. The Mémorial, opened by President Mitterrand on 6 June 1988, stands in the northern suburbs over a former German bunker. It is a large museum of the twentieth century, covering the road to war, the Second World War, the landings and Battle of Normandy, and the Cold War, with an emphasis on peace and reconciliation.",
+   "look": "A large modern building with several permanent exhibitions and films; allow at least half a day. Outside are memorial gardens to the Americans, British and Canadians. Below, part of the German underground bunker can be visited.",
+   "plan": "Open daily (Jan–Mar 09:00–18:00, Apr–Sep 09:00–19:00, Oct–Dec 09:30–18:00, closed Wednesdays in Nov–Dec except holidays); closed three weeks in January, 25 Dec and 1 Jan. Adult about €20.80. Check the website before you go.",
+   "url": "https://www.memorial-caen.fr/en",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Mémorial de Caen (Wikipedia)",
+     "https://en.wikipedia.org/wiki/M%C3%A9morial_de_Caen"
+    ],
+    [
+     "Mémorial de Caen (official)",
+     "https://www.memorial-caen.fr/en"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/M%C3%A9morial_de_Caen",
+    "https://www.guide-tourisme-france.com/VISITER/memorial-caen--caen-272.htm"
+   ],
+   "aar": {
+    "when": "9 JUL 1944",
+    "ev": "British and Canadian troops clear northern Caen after a month of fighting.",
+    "st": "Caen was a D-Day objective, but it took until July to clear, as Montgomery's offensives drew in most of the German armour. Bombing and shelling destroyed much of the city. Today the Mémorial, opened in 1988, covers the twentieth century and the Battle of Normandy, with gardens outside and part of a German bunker below.",
+    "q": {
+     "t": "Who opened the Mémorial on 6 June 1988?",
+     "o": [
+      "Charles de Gaulle",
+      "Jacques Chirac",
+      "François Mitterrand"
+     ],
+     "a": 2,
+     "x": "President François Mitterrand opened it on the 44th anniversary of D-Day."
+    },
+    "rem": "Allow half a day: this is the broadest museum in Normandy, not only a D-Day museum."
+   },
+   "notes": "The official site blocked automated fetching; hours and price are from guide-tourisme-france.com (updated June 2026). The bunker below is widely described as the HQ of the German 716th Infantry Division (Gen. Wilhelm Richter); Wikipedia only says 'an old blockhouse', so the text says 'a former German bunker'. Northern Caen was cleared 9 July (Charnwood); the southern suburbs only on 18–19 July."
+  },
+  {
+   "id": "hill-112",
+   "name": "Hill 112, Esquay-Notre-Dame",
+   "short": "Hill 112",
+   "town": "Esquay-Notre-Dame / Vieux",
+   "country": "France",
+   "lat": 49.123737,
+   "lon": -0.460581,
+   "coord_src": "https://www.tracesofwar.com/sights/1119",
+   "conf": "HIGH",
+   "cat": "Battlefield",
+   "kind": "battle",
+   "pri": 3,
+   "when": "Jun–Aug 1944",
+   "sort": "1944-07-10",
+   "min": 45,
+   "text": "This low, broad hill south-west of Caen, between the Odon and Orne, gives a view over much of the battlefield. Tanks of the 11th Armoured Division first reached it at the end of Operation Epsom in late June but were withdrawn. On 10–11 July, in Operation Jupiter, the 43rd (Wessex) Division under Major-General Ivor Thomas attacked again against the 10th SS Panzer Division, with Tiger tanks of the 102nd SS Heavy Tank Battalion and later the 9th SS Panzer Division. The summit changed hands repeatedly and remained contested for weeks. Jupiter failed tactically, but it wore down two SS panzer divisions.",
+   "look": "A quiet plateau of fields. At the crossroads stand a Churchill tank, the 43rd (Wessex) Division memorial, an infantryman statue and a memorial wall; a short walk leads to the Bois Calloué memorial wood. The true summit is south of the monuments, near the orchard.",
+   "plan": "Open-air site, free and accessible at all times, with no facilities. Roadside parking beside the memorials on the D8 (address given as Vieux).",
+   "url": "https://www.tracesofwar.com/sights/1119",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Operation Jupiter (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Operation_Jupiter_(1944)"
+    ],
+    [
+     "Hill 112 (TracesOfWar)",
+     "https://www.tracesofwar.com/sights/1119"
+    ]
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hill_112",
+    "https://www.tracesofwar.com/sights/1119"
+   ],
+   "aar": {
+    "when": "10 JUL 1944",
+    "ev": "The 43rd (Wessex) Division attacks the hill against SS panzer troops in Operation Jupiter.",
+    "st": "On 10–11 July the 43rd (Wessex) Division attacked Hill 112 against the 10th SS Panzer Division and Tiger tanks, and the summit changed hands repeatedly for weeks. Jupiter failed to hold the hill but wore down two SS panzer divisions. Today a Churchill tank, the division's memorial and an infantryman statue stand at the crossroads on the plateau.",
+    "q": {
+     "t": "Which British division fought Operation Jupiter on Hill 112?",
+     "o": [
+      "3rd Infantry Division",
+      "43rd (Wessex) Division",
+      "6th Airborne Division"
+     ],
+     "a": 1,
+     "x": "The 43rd (Wessex) Division under Major-General Ivor Thomas led Operation Jupiter on 10–11 July 1944."
+    },
+    "rem": "Stand on the plateau and you see why both sides fought so long for such a low hill."
+   },
+   "notes": "Coordinates are the memorial site on the D8 (TracesOfWar, listed under Vieux); the stoplist names Esquay-Notre-Dame and the 43rd Division memorial is listed under Esquay. conf HIGH: the memorials stand on the fought-over hill. Wikipedia 'Hill 112' redirects to Operation Jupiter material. No official site; URL is TracesOfWar."
+  },
+  {
+   "id": "montormel",
+   "name": "Montormel Memorial, Falaise Pocket",
+   "short": "Montormel",
+   "town": "Mont-Ormel (Coudehard)",
+   "country": "France",
+   "lat": 48.837331,
+   "lon": 0.142182,
+   "coord_src": "https://www.tracesofwar.com/sights/99",
+   "conf": "DOC",
+   "cat": "Memorial",
+   "kind": "battle",
+   "pri": 2,
+   "when": "19–21 Aug 1944",
+   "sort": "1944-08-19",
+   "min": 60,
+   "text": "By mid-August 1944 two German armies were almost surrounded in the Falaise Pocket. On the afternoon of 19 August tanks and infantry of the 1st Polish Armoured Division under General Stanisław Maczek took position on Hill 262, which they called 'Maczuga' (the mace), astride the last escape routes in the Dives valley. Cut off and short of supplies, about 2,000 Poles held off German units trying to break out from inside the pocket and break in from outside until Canadian troops reached them on 21 August, when the gap was closed. The memorial, built into the hillside in 1994, overlooks the valley.",
+   "look": "A Polish monument of 1965 and a Sherman tank stand on the hilltop. The museum, built into the slope, has a large window over the Dives valley, where the guide traces the escape routes; the visit includes an animated map and film.",
+   "plan": "May–Sep daily 09:30–18:00; April daily 10:00–17:00; October–March Wednesday, Saturday and Sunday 10:00–17:00. Adult from about €6. Check the website before you go.",
+   "url": "https://www.memorial-montormel.fr/",
+   "private": false,
+   "solemn": false,
+   "disputed": "Estimates of how many Germans escaped from the pocket vary greatly between sources, from about 20,000 to over 50,000.",
+   "links": [
+    [
+     "Falaise Pocket (Wikipedia)",
+     "https://en.wikipedia.org/wiki/Falaise_pocket"
+    ],
+    [
+     "Mémorial de Montormel (official)",
+     "https://www.memorial-montormel.fr/"
+    ],
+    [
+     "Montormel-Coudehard (Chemins de mémoire)",
+     "https://www.cheminsdememoire.gouv.fr/en/montormel-coudehard"
+    ]
+   ],
+   "sources": [
+    "https://www.tracesofwar.com/sights/99",
+    "https://www.cheminsdememoire.gouv.fr/en/montormel-coudehard",
+    "https://fr.wikipedia.org/wiki/M%C3%A9morial_de_Montormel",
+    "https://en.normandie-tourisme.fr/museums-and-heritage-sites/memorial-de-montormel/"
+   ],
+   "aar": {
+    "when": "19 AUG 1944",
+    "ev": "Polish armour seizes Hill 262 and blocks the last German escape route from the pocket.",
+    "st": "On 19 August tanks of General Maczek's 1st Polish Armoured Division took Hill 262, 'Maczuga', astride the last escape routes from the Falaise Pocket. Cut off, the Poles held off attacks from inside and outside the pocket until Canadians reached them on 21 August. Today a Sherman tank and the 1965 monument stand on the hill, above a museum overlooking the Dives valley.",
+    "q": {
+     "t": "What did the Poles call Hill 262?",
+     "o": [
+      "Maczuga, the mace",
+      "Orzeł, the eagle",
+      "Tarcza, the shield"
+     ],
+     "a": 0,
+     "x": "The Poles named the hill 'Maczuga', the mace, from its shape on the map."
+    },
+    "rem": "From the museum window you can see the valley where the German armies tried to escape."
+   },
+   "notes": "Hours from Chemins de mémoire; price 'from €6' from Normandie Tourisme. Official URL memorial-montormel.fr is named by Normandie Tourisme but was not opened. The Canadian link-up (21 Aug) and the meaning of 'Maczuga' are general knowledge, not from a page opened this session. The Sherman on the hill is general knowledge."
+  },
+  {
+   "id": "falaise",
+   "name": "Memorial of Civilians in Wartime, Falaise",
+   "short": "Falaise Memorial",
+   "town": "Falaise",
+   "country": "France",
+   "lat": 48.894206,
+   "lon": -0.202343,
+   "coord_src": "https://www.tracesofwar.com/sights/87128",
+   "conf": "DOC",
+   "cat": "Museum",
+   "kind": "battle",
+   "pri": 3,
+   "when": "1939–1945 (Falaise: Jun–Aug 1944)",
+   "sort": "1944-08-17",
+   "min": 90,
+   "text": "Falaise gave its name to the pocket in which the German armies were trapped in August 1944, and the town itself was largely destroyed by bombing and fighting before Canadian troops took it in mid-August. The Mémorial de Falaise stands on the site of a house destroyed in the 1944 bombing, in a building from the town's reconstruction, close to William the Conqueror's castle. Unlike most Normandy museums it tells the war from the point of view of civilians: occupation, shortages, bombing, evacuation and liberation, combining reconstructions made with the Caen Memorial and the memories of people who lived through it.",
+   "look": "Reconstructed scenes of civilian life under occupation and bombing, with film and personal testimony. Afterwards walk up to the castle; the rebuilt town centre around it shows how much of Falaise had to be rebuilt.",
+   "plan": "Adult from about €8.50. Opening pattern varies by season and the site may close in winter; check the website before you go.",
+   "url": "https://www.memorial-falaise.fr/",
+   "private": false,
+   "solemn": false,
+   "disputed": "",
+   "links": [
+    [
+     "Falaise Memorial (Normandie Tourisme)",
+     "https://en.normandie-tourisme.fr/museums-and-heritage-sites/the-falaise-memorial-civilians-during-the-war/"
+    ],
+    [
+     "Mémorial de Falaise (official)",
+     "https://www.memorial-falaise.fr/"
+    ]
+   ],
+   "sources": [
+    "https://www.tracesofwar.com/sights/87128",
+    "https://en.normandie-tourisme.fr/museums-and-heritage-sites/the-falaise-memorial-civilians-during-the-war/"
+   ],
+   "aar": {
+    "when": "AUG 1944",
+    "ev": "Bombing and fighting wreck Falaise before Canadian troops take the town.",
+    "st": "Falaise gave its name to the pocket where German armies were trapped in August 1944, and the town was largely destroyed before Canadian troops took it. The museum, on the site of a house destroyed in the 1944 bombing, tells the war from the civilians' side. Today reconstructed scenes of occupation and bombing are paired with personal testimony, near William the Conqueror's castle.",
+    "q": {
+     "t": "What is the museum built on?",
+     "o": [
+      "A German command bunker",
+      "The site of a house destroyed by 1944 bombing",
+      "The old railway station"
+     ],
+     "a": 1,
+     "x": "It stands on the site of a house destroyed in the 1944 bombing, in a building from the town's reconstruction."
+    },
+    "rem": "A rare Normandy museum that tells the war from the civilians' side rather than the soldiers'."
+   },
+   "notes": "Official site (memorial-falaise.fr) could not be fetched, so hours were not confirmed; opened 2016 (general knowledge, omitted). Canadian capture of Falaise (16–17 Aug 1944) is general knowledge, not from a page opened this session; 'sort' uses 17 Aug. Price from Normandie Tourisme."
+  }
+ ]
+}

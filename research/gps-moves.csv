@@ -1,0 +1,10 @@
+id,our_lat,our_lon,second_source,second_lat,second_lon,action
+stutthof,54.32889,19.15389,"OSM: Stutthof Museum, Muzealna 6",54.32986,19.15772,moved
+wolfs-lair,54.080278,21.494167,"OSM: Wolf's Lair visitor site",54.08047,21.49835,moved
+majdanek,51.22056,22.59944,"OSM: Majdanek State Museum, Droga Męczenników Majdanka 67",51.22532,22.60626,moved
+auschwitz-1,50.0274015,19.200523,"OSM: Auschwitz I museum entrance",50.0264,19.20396,moved
+bergen-belsen,52.75778,9.90778,"OSM: Gedenkstätte Bergen-Belsen documentation centre",52.75944,9.91168,moved
+ravensbrueck,53.189594,13.164355,"OSM: Mahn- und Gedenkstätte Ravensbrück",53.18958,13.17078,moved
+mardasson,50.0106,5.739196,"OSM: Battle of the Bulge Monument",50.00933,5.73927,moved
+barracks,50.010583,5.716137,"OSM: Bastogne Barracks museum",50.00973,5.71891,moved
+westerbork,52.917086,6.604005,"OSM: Herinneringscentrum Kamp Westerbork (the museum; the former camp is 3 km away)",52.92108,6.5697,moved

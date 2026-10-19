@@ -1,0 +1,1836 @@
+{
+ "PHASES": {
+  "1": "Blitzkrieg, Sep 1939 – Jun 1940",
+  "2": "Britain alone, Jul 1940 – Jun 1941",
+  "3": "Barbarossa, Jun 1941 – Jan 1942",
+  "4": "The turning points, Feb 1942 – Jul 1943",
+  "5": "Bombers, rockets and Italy, Jul 1943 – May 1944",
+  "6": "D-Day and Bagration, Jun – Aug 1944",
+  "7": "Arnhem and the Ardennes, Sep – Dec 1944",
+  "8": "The fall of Germany, Jan – May 1945"
+ },
+ "TL": [
+  [
+   1,
+   "Westerplatte — the first shots",
+   "1–7 Sep 1939",
+   "HIGH",
+   54.4075,
+   18.67139,
+   "",
+   1,
+   "At about 04:45 on 1 September 1939 (sources give times between 04:43 and 04:48) the old German battleship Schleswig-Holstein, on a 'courtesy visit' to Danzig, opened fire on the Polish military depot on the Westerplatte peninsula. Major Henryk Sucharski's garrison — 182 men in the older accounts, perhaps 210–240 by recent research — held out for seven days against naval guns, dive-bombers and assault troops, and surrendered on 7 September. Fifteen defenders were killed. Westerplatte became the symbol of Poland's fight in 1939.",
+   "Shell-scarred guardhouses and the ruined barracks among the trees, the defenders' cemetery and, on a mound above the harbour mouth, the tall 1966 Monument to the Defenders of the Coast. Ships still pass the channel where the battleship lay.",
+   ""
+  ],
+  [
+   2,
+   "Hel — the last stronghold on the coast",
+   "1 Sep – 2 Oct 1939",
+   "LOW",
+   54.61167,
+   18.80806,
+   "",
+   1,
+   "The Hel peninsula, a 35 km sand spit closing the Bay of Gdańsk, was the base of Poland's coastal defence. About 3,000 soldiers and sailors under Rear-Admiral Józef Unrug held it for a month under fire from land, sea and air — after the Soviet invasion of eastern Poland on 17 September and the surrender of Warsaw on 28 September. The garrison gave up on 2 October 1939. The last battle of the campaign, at Kock, ended on 6 October; Poland was then divided between Germany and the Soviet Union.",
+   "A fishing and holiday town at the tip of the spit. Concrete gun positions, bunkers and observation towers of the 1930s coastal batteries survive in the pine woods, some open as a museum of coastal defence.",
+   ""
+  ],
+  [
+   3,
+   "Katyn — the NKVD murders",
+   "Apr – May 1940",
+   "MEDIUM",
+   54.77222,
+   31.79,
+   "",
+   1,
+   "Under the secret protocol of the Nazi–Soviet Pact the Red Army occupied eastern Poland and took about a quarter of a million Polish prisoners. In April and May 1940, on a Politburo order, the NKVD shot some 22,000 Polish officers, police, officials and professionals — 21,857 by the Soviet files released in 1990 — here in the Katyn forest near Smolensk, at Kalinin (Tver), Kharkiv and other sites. Germany announced the discovery of the Katyn graves in April 1943; the Soviet Union blamed the Germans until 1990.",
+   "The Polish war cemetery opened in 2000, with the names of 4,412 victims from the Kozelsk camp on iron plaques, beside a Russian section for victims of Stalin's purges. Current UK and US advice is against all travel to Russia.",
+   ""
+  ],
+  [
+   4,
+   "Narvik — the fight for the iron-ore port",
+   "9 Apr – 8 Jun 1940",
+   "LOW",
+   68.42056,
+   17.56,
+   "",
+   1,
+   "Germany invaded Denmark and Norway on 9 April 1940, partly to secure the winter route for Swedish iron ore through ice-free Narvik. Ten destroyers landed about 2,000 of General Dietl's mountain troops here. The Royal Navy struck back in two battles in the fjord, on 10 and 13 April — the second with the battleship Warspite — and sank all ten destroyers. Norwegian, French and Polish troops retook the town on 28 May, the first Allied land victory of the war, but with France collapsing the Allies left on 8 June and Norway capitulated.",
+   "The Narvik War Museum (Narviksenteret) in the town centre tells the story of the campaign. Wrecks of German destroyers still lie in the fjord, and soldiers and sailors of several nations are buried in the town.",
+   ""
+  ],
+  [
+   5,
+   "Eben-Emael — gliders on the roof",
+   "10–11 May 1940",
+   "HIGH",
+   50.79694,
+   5.67972,
+   "",
+   1,
+   "Finished in 1935 to guard the Albert Canal and the Meuse bridges north of Liège, Fort Eben-Emael was thought one of the strongest forts in Europe. At dawn on 10 May 1940 nine gliders of 'Group Granite' — about 80 men of Sturmabteilung Koch — landed on its roof and wrecked casemates and gun cupolas with hollow charges, the first use of such weapons in battle. Other glider troops seized two of the three canal bridges. The garrison, about 750 men present, surrendered at 12:30 on 11 May. The way into Belgium was open.",
+   "The fort opens on set days, run by a volunteer association: walk the long galleries and gun casemates inside, then climb out onto the grassy roof to see the shattered cupolas the glider troops attacked. Allow half a day.",
+   ""
+  ],
+  [
+   6,
+   "Sedan — the panzers cross the Meuse",
+   "13–14 May 1940",
+   "MEDIUM",
+   49.7025,
+   4.9425,
+   "",
+   1,
+   "While the best Allied armies advanced into Belgium to meet what they took for the main attack, seven panzer divisions came through the Ardennes. On 13 May Guderian's XIX Panzer Corps attacked across the Meuse at Sedan after hours of Luftwaffe bombing that did little damage to bunkers but broke French communications and nerve. Infantry of the 1st Panzer Division crossed in rubber boats near Gaulier; that evening a false report of tanks at Bulson set off a panic in the French 55th Division. Tanks crossed on 14 May and turned west for the Channel.",
+   "From the ramparts of the huge château-fort, look down on the loop of the Meuse and the meadows where the assault boats crossed. A few French blockhouses of 1940 survive along the river south of the town.",
+   ""
+  ],
+  [
+   7,
+   "Rotterdam — the bombing of the old city",
+   "14 May 1940",
+   "DOC",
+   51.9176,
+   4.4831,
+   "",
+   1,
+   "German airborne troops landed around Rotterdam and The Hague on 10 May, but the Dutch held the Maas bridges in Rotterdam for four days. On 14 May, while surrender talks were under way, bombers of KG 54 struck the old city centre; a recall reached only part of the force. Fires burned out the heart of the city, about 850 people were killed and some 80,000 lost their homes. Threatened with the same for Utrecht, the Netherlands surrendered the next day.",
+   "Ossip Zadkine's bronze 'The Destroyed City' (1953), a figure with a hole torn through its body, stands on Plein 1940 by the Leuvehaven. Rotterdam's modern skyline is itself the legacy of the bombing; a line of lamps marks the edge of the fire zone.",
+   ""
+  ],
+  [
+   8,
+   "Dunkirk — Operation Dynamo",
+   "26 May – 4 Jun 1940",
+   "HIGH",
+   51.050406,
+   2.368703,
+   "",
+   1,
+   "Cut off by the panzers' dash to the Channel, the British Expeditionary Force and part of the French First Army fell back into a perimeter round Dunkirk. Hitler's halt order of 24 May gave them time to dig in. Between 26 May and 4 June, directed from Dover by Vice-Admiral Bertram Ramsay, 338,226 men were brought out — about 239,000 from the harbour, most of them over the narrow East Mole, and some 99,000 from the beaches. About 40,000 French troops of the rearguard were captured when the town fell on 4 June.",
+   "The East Mole (Jetée de l'Est) still runs out from the harbour mouth; Bastion 32, Admiral Abrial's headquarters, now houses the Dunkirk 1940 Museum. At low tide wrecks appear off Malo-les-Bains and Bray-Dunes.",
+   ""
+  ],
+  [
+   9,
+   "Compiègne — France signs an armistice",
+   "22 Jun 1940",
+   "HIGH",
+   49.42722,
+   2.90639,
+   "",
+   1,
+   "The Germans entered Paris on 14 June; Italy had declared war on 10 June; Marshal Pétain asked for terms on 17 June. Hitler had the French sign them on 22 June in the same railway carriage, in the same clearing in the forest of Compiègne, where Germany had signed the armistice of November 1918. France was split into an occupied north and west and an unoccupied south governed from Vichy. The carriage was taken to Berlin as a trophy and burned by the SS in 1945.",
+   "The restored glade with the Foch statue and the stone slab where the carriages stood in 1918 and 1940. The museum holds an identical 1913 dining car fitted out like the original, and surviving fragments of the real one.",
+   ""
+  ],
+  [
+   10,
+   "Uxbridge — the Battle of Britain bunker",
+   "Jul – Oct 1940; 15 Sep",
+   "HIGH",
+   51.54125,
+   -0.46528,
+   "",
+   2,
+   "No. 11 Group of RAF Fighter Command, under Air Vice-Marshal Keith Park, defended London and the south-east from this underground operations room. Radar and Observer Corps reports, filtered at Bentley Priory, appeared on the plotting table, and controllers sent squadrons up by telephone and radio. Churchill watched here on 15 September 1940 as Park committed every squadron he had. The defeat of that day's great raids, now Battle of Britain Day, showed that the Luftwaffe had not won command of the air; on 17 September Hitler postponed the invasion.",
+   "Steps lead down to the restored operations room with its map table, the tote board of squadrons and the controllers' gallery, as on 15 September. A visitor centre and exhibition stand above ground.",
+   ""
+  ],
+  [
+   11,
+   "Coventry — the Moonlight Sonata raid",
+   "14–15 Nov 1940",
+   "HIGH",
+   52.4083,
+   -1.5072,
+   "",
+   2,
+   "The Blitz on Britain's cities ran from September 1940 to May 1941 and killed about 43,000 civilians. On the night of 14–15 November some 500 German bombers, guided by radio beams, attacked Coventry for about eleven hours. They aimed at its aircraft and engine factories but burned out the medieval centre, including St Michael's Cathedral; 568 people were killed. The Germans coined a word, 'coventrieren', for such destruction. The RAF's own area bombing of German cities would later far exceed it.",
+   "The roofless shell and tower of the old cathedral, with the Charred Cross and the words 'Father Forgive' behind the altar, joined by a porch to Basil Spence's new cathedral, consecrated in 1962.",
+   ""
+  ],
+  [
+   12,
+   "St Paul's — the second Great Fire of London",
+   "29–30 Dec 1940",
+   "HIGH",
+   51.5138,
+   -0.0983,
+   "",
+   2,
+   "London was bombed on 57 consecutive nights from 7 September 1940. On the night of 29–30 December an incendiary raid on the City started some 1,500 fires. Churchill sent word that St Paul's must be saved at all costs, and the volunteer St Paul's Watch and the fire brigades kept the flames off it; Herbert Mason's photograph of the dome rising above the smoke became the image of London's endurance. In September a delayed-action bomb had been dug out beside the cathedral, earning two Royal Engineers the George Cross.",
+   "The cathedral itself, with the American Memorial Chapel behind the high altar honouring about 28,000 Americans based in Britain who died in the war. The streets around it, flattened that night, were rebuilt after the war.",
+   ""
+  ],
+  [
+   13,
+   "Bletchley Park — the codebreakers",
+   "1939–45; naval Enigma read from mid-1941",
+   "HIGH",
+   51.99806,
+   -0.74111,
+   "",
+   2,
+   "The Government Code and Cypher School moved here in August 1939. Building on Polish work on the Enigma machine, Alan Turing and Gordon Welchman designed the 'bombe' to find the daily settings. Luftwaffe keys were read from 1940; naval Enigma, after captures of material at sea in spring 1941, from mid-1941. The intelligence, called Ultra, routed convoys away from U-boats, tracked Rommel's supply ships and, with the Colossus computers from February 1944, read the German high command's teleprinter cipher. By January 1945 nearly 9,000 people worked for it, three-quarters of them women.",
+   "The Victorian mansion, the restored wooden huts and brick blocks where the codebreakers worked, a rebuilt working bombe and exhibitions. The National Museum of Computing next door shows a rebuilt Colossus.",
+   ""
+  ],
+  [
+   14,
+   "Maleme — the airborne invasion of Crete",
+   "20 May – 1 Jun 1941",
+   "HIGH",
+   35.522395,
+   23.8311892,
+   "",
+   2,
+   "After overrunning Yugoslavia and Greece in April 1941, Germany attacked Crete from the air. On 20 May paratroopers and glider troops of Operation Mercury landed around Maleme, Chania, Rethymno and Heraklion and suffered terrible losses. Ultra had warned Freyberg's Creforce, but that night the 22nd New Zealand Battalion pulled back from Hill 107 above Maleme airfield. Transport aircraft began landing mountain troops, and the island was lost. About 18,000 men were evacuated, mostly from Sfakia, and some 12,000 British and Commonwealth troops were captured. Germany never again made a large airborne assault.",
+   "The German war cemetery, laid out in terraces on Hill 107, looks down over the old airfield and the coast where the gliders and paratroops came down. The Commonwealth cemetery is at Souda Bay, 20 km east.",
+   ""
+  ],
+  [
+   15,
+   "Brest Fortress — Barbarossa begins",
+   "22 Jun 1941",
+   "HIGH",
+   52.082961,
+   23.654251,
+   "",
+   3,
+   "At 04:15 Moscow time on 22 June 1941 more than three million German and allied troops invaded the Soviet Union on a front from the Baltic to the Black Sea. The 19th-century fortress at Brest, on the Bug, was hit by a massive bombardment and surrounded by 09:00, yet its trapped garrison fought on. Most resistance ended within about a week, but pockets held out for weeks; Major Pyotr Gavrilov was captured, wounded, on 23 July. In Soviet memory the fortress became the symbol of the desperate frontier battles.",
+   "The memorial complex of 1971: a star-shaped entrance cut through the ramparts, a giant stone soldier's head, the sculpture 'Thirst', and the bullet-scarred Kholm Gate and barracks. Check current UK and US travel advice before going to Belarus.",
+   ""
+  ],
+  [
+   16,
+   "Leningrad — the siege",
+   "8 Sep 1941 – 27 Jan 1944",
+   "DOC",
+   59.9969,
+   30.4214,
+   "",
+   3,
+   "Army Group North and the Finns cut Leningrad's land links on 8 September 1941. Hitler meant to starve the city rather than storm it. In the winter of 1941–42 the bread ration fell for many to 125 grams a day, and the only supply route was the 'Road of Life' over the ice of Lake Ladoga. A land corridor was opened in January 1943, and the siege was lifted on 27 January 1944 after 872 days. Estimates of civilian deaths range from about 650,000 to over a million.",
+   "Piskaryovskoye Memorial Cemetery, opened in 1960: 186 grass mass graves, marked only by year, lead to the Mother Motherland statue and Olga Berggolts's words 'No one is forgotten, nothing is forgotten'. About 420,000 civilians lie here. Current advice is against travel to Russia.",
+   ""
+  ],
+  [
+   17,
+   "Babi Yar — the Holocaust by bullets",
+   "29–30 Sep 1941",
+   "HIGH",
+   50.47139,
+   30.44889,
+   "",
+   3,
+   "Behind the armies, the four Einsatzgruppen of the SS and police, with Order Police battalions, army units and local auxiliaries, shot Jewish men and then whole communities. Kyiv fell on 19 September 1941. On 29–30 September Sonderkommando 4a of Einsatzgruppe C and police units murdered 33,771 Jews in this ravine on the city's edge. Over the next two years between 100,000 and 150,000 people in all — Jews, Roma, Soviet prisoners, psychiatric patients and others — were killed here. In 1943 prisoners were forced to dig up and burn the bodies.",
+   "A wooded park in north-west Kyiv with memorials from different eras, among them the Soviet monument of 1976 and the Menorah of 1991. Ukraine is at war: check current travel advice before going.",
+   ""
+  ],
+  [
+   18,
+   "Moscow — the Red Army strikes back",
+   "30 Sep 1941 – Jan 1942",
+   "DOC",
+   55.73056,
+   37.50389,
+   "",
+   3,
+   "Operation Typhoon, the drive on Moscow, opened on 30 September 1941 and trapped some 500,000–670,000 Soviet soldiers in pockets at Vyazma and Bryansk. Then autumn rain, frost, exhaustion and stiffening resistance slowed it; on 2 December a German reconnaissance unit reached Khimki, about 30 km from the Kremlin. On 5–6 December Zhukov counter-attacked with fresh reserves, many from Siberia and the Far East, and drove the Germans back 100–250 km. There would be no quick victory. Days later Germany declared war on the United States.",
+   "The Museum of the Great Patriotic War on Poklonnaya Hill (1995), with its Hall of Remembrance and an outdoor park of tanks and guns, in Victory Park. Current advice is against travel to Russia.",
+   ""
+  ],
+  [
+   19,
+   "Wannsee — the Final Solution organised",
+   "20 Jan 1942",
+   "HIGH",
+   52.43306,
+   13.16556,
+   "",
+   3,
+   "In this lakeside villa, an SS guest house, Reinhard Heydrich chaired a meeting of 15 senior officials of the SS, the Party and government ministries. Mass murder was already under way: in the occupied Soviet Union since 1941 and, since December, in gas vans at Chełmno. The meeting was to coordinate the deportation and murder of all of Europe's Jews, whom Heydrich counted at 11 million, under SS direction. Adolf Eichmann's minutes, found in 1947, are the plainest record of the bureaucracy of genocide.",
+   "The villa has been a memorial and education centre since 1992. The permanent exhibition, in the rooms where the officials met, sets out the conference, its participants and its consequences. The garden looks out over the lake.",
+   ""
+  ],
+  [
+   20,
+   "Saint-Nazaire — the Normandie dock raid",
+   "28 Mar 1942",
+   "HIGH",
+   47.275,
+   -2.19667,
+   "",
+   4,
+   "The Normandie dock was the only dry dock on the Atlantic coast big enough for the battleship Tirpitz. In Operation Chariot the old destroyer HMS Campbeltown, packed with explosives, rammed its outer gate at 01:34 on 28 March 1942 while commandos landed from motor launches to wreck the dock machinery. Of some 612 men, 169 were killed and 215 captured; five Victoria Crosses were awarded. Campbeltown blew up around noon, killing many Germans aboard and on the quay, and the dock was out of use for the rest of the war.",
+   "The Normandie dock is still in use: walk round it to the memorial where Campbeltown struck. The vast U-boat base beside it, with a roof terrace over the harbour, shows why the port mattered.",
+   ""
+  ],
+  [
+   21,
+   "Prague — Operation Anthropoid",
+   "27 May – 18 Jun 1942",
+   "HIGH",
+   50.0759637,
+   14.4176245,
+   "",
+   4,
+   "Reinhard Heydrich, head of the Reich Security Main Office and acting Reich Protector of Bohemia and Moravia, was attacked in his open car in Prague-Libeň on 27 May 1942 by Jozef Gabčík and Jan Kubiš, Czechoslovak soldiers parachuted from Britain. Gabčík's Sten jammed; Kubiš's grenade wounded Heydrich, who died on 4 June. Betrayed, the parachutists were trapped in the crypt of the Orthodox Cathedral of Sts Cyril and Methodius, where all seven died on 18 June after hours of fighting with hundreds of SS troops.",
+   "The crypt is now the National Memorial to the Heroes of the Heydrich Terror. Outside on Resslova Street, the narrow vent where the SS tried to flood the crypt is still pitted with bullet and shell marks.",
+   ""
+  ],
+  [
+   22,
+   "Lidice — the reprisal",
+   "10 Jun 1942",
+   "HIGH",
+   50.14361,
+   14.19028,
+   "",
+   4,
+   "In reprisal for Heydrich's death, on the false claim that the village had sheltered his killers, German police surrounded Lidice on the night of 9–10 June 1942. All the men and boys over 15 who were there — 173 by the memorial's count, 172 in some accounts — were shot; the women were sent to Ravensbrück, and most of the children were later gassed at Chełmno. The village was burned and razed. About 340 people from Lidice died. The hamlet of Ležáky was destroyed two weeks later.",
+   "A green valley where the village stood: the common grave, the site of the Horák farm where the men were shot, Marie Uchytilová's bronze group of 82 children, a museum and a rose garden. The new village stands above.",
+   ""
+  ],
+  [
+   23,
+   "Treblinka — Operation Reinhard",
+   "23 Jul 1942 – Oct 1943",
+   "HIGH",
+   52.63111,
+   22.05306,
+   "",
+   4,
+   "Treblinka II, with Bełżec and Sobibór, was built for Operation Reinhard, the murder of the Jews of occupied Poland. From 23 July 1942 the trains came above all from the Warsaw ghetto — some 265,000 people that summer — then from across Poland and from as far as Greece. People were gassed with engine exhaust within hours of arrival. Most estimates put the dead at between 800,000 and 925,000, almost all of them Jews. After a prisoners' revolt on 2 August 1943 the camp was dismantled and the ground ploughed over.",
+   "A memorial landscape of 1959–64: a great stone monument where the gas chambers stood, a symbolic railway line of concrete sleepers, and a field of about 17,000 jagged stones, many carved with the names of destroyed communities. A museum stands at the entrance.",
+   ""
+  ],
+  [
+   24,
+   "Malta — the island under siege",
+   "Jun 1940 – Nov 1942; Pedestal 15 Aug 1942",
+   "DOC",
+   35.8944972,
+   14.51105,
+   "",
+   4,
+   "Malta, 90 km south of Sicily, was the base from which British submarines and aircraft attacked Rommel's supply convoys to North Africa, and the Axis tried to bomb and starve it into surrender. In April 1942 King George VI awarded the whole island the George Cross. By August it was close to starvation. Operation Pedestal fought 14 merchant ships through from Gibraltar; only five arrived, the crippled tanker Ohio towed into Grand Harbour on 15 August, but they kept Malta in the war. From these tunnels Eisenhower later directed the landings in Sicily.",
+   "The Lascaris War Rooms, tunnelled into the rock under the Upper Barrakka Gardens in Valletta, keep the operations rooms used during the siege and for the Sicily landings. The Saluting Battery and the view over Grand Harbour are just above.",
+   ""
+  ],
+  [
+   25,
+   "Dieppe — the raid that failed",
+   "19 Aug 1942",
+   "MEDIUM",
+   49.9333,
+   1.0833,
+   "",
+   4,
+   "Operation Jubilee was a one-day raid by about 6,000 men, nearly 5,000 of them from the 2nd Canadian Division, with British commandos and a few US Rangers, to seize a port briefly and test the German defences. Landings began at 04:50. On the main beach in front of the town, tanks stuck on the shingle and the infantry were cut down from the cliffs; the withdrawal ended by 14:00. Of the Canadians, more than 900 were killed and nearly 2,000 captured. The lesson for D-Day: never attack a defended port head-on.",
+   "The long shingle beach below the cliffs and the castle, with memorials to the Canadian regiments along the seafront. The Canadian War Cemetery is at Hautot-sur-Mer, just south of the town.",
+   ""
+  ],
+  [
+   26,
+   "Stalingrad — Mamayev Kurgan",
+   "13 Sep 1942 – 2 Feb 1943",
+   "HIGH",
+   48.741927,
+   44.538918,
+   "",
+   4,
+   "Hitler's 1942 summer offensive aimed at the Caucasus oilfields, with the Sixth Army guarding its flank on the Volga. From 13 September it fought for Stalingrad street by street; Mamayev Kurgan, the hill commanding the city and the river crossings, changed hands again and again. Chuikov's 62nd Army clung to a strip along the river. On 19 November Operation Uranus broke the Romanian armies on the flanks and trapped some 250,000–300,000 Axis troops. Paulus surrendered on 31 January; the last pocket gave up on 2 February 1943.",
+   "The memorial ensemble of 1967 climbs the hill past ruined walls and the Hall of Military Glory to Vuchetich's 'The Motherland Calls', 85 m from base to sword tip. Marshal Chuikov is buried here. Current advice is against travel to Russia.",
+   ""
+  ],
+  [
+   27,
+   "Vemork — the heavy-water raid",
+   "night of 27–28 Feb 1943",
+   "HIGH",
+   59.87111,
+   8.49139,
+   "",
+   4,
+   "The Norsk Hydro plant at Vemork was the world's only large producer of heavy water, which German scientists needed for nuclear research. A British glider raid, Operation Freshman, ended in disaster in November 1942, and the survivors were murdered. On the night of 27–28 February 1943 six Norwegian commandos of Operation Gunnerside, joined by the Grouse team already waiting on the plateau, climbed through the gorge, entered the plant without firing a shot and destroyed the electrolysis cells. In February 1944 the resistance sank the ferry Hydro carrying the remaining stock.",
+   "The 1911 power station, now the Norwegian Industrial Workers Museum, with exhibitions on the sabotage, reached across a bridge over the gorge the saboteurs climbed. The electrolysis building they attacked has gone.",
+   ""
+  ],
+  [
+   28,
+   "Kharkov — Manstein's counterstroke",
+   "Feb – Mar 1943",
+   "LOW",
+   49.96667,
+   36.31667,
+   "",
+   4,
+   "After Stalingrad the Red Army surged west and on 16 February 1943 retook Kharkov, the Soviet Union's fourth city, after the SS Panzer Corps abandoned it against Hitler's orders. Field Marshal von Manstein then struck the overstretched Soviet fronts in the flank; the SS divisions retook the city in mid-March and Belgorod on 18 March. It was Germany's last great victory in the East. The front it left bulged westward around Kursk — the target of the next German summer offensive. The city changed hands for the last time in August 1943.",
+   "Kharkiv, Ukraine's second city, has war memorials including the Memorial of Glory in the Forest Park. It has been heavily shelled since 2022: current advice is against travel.",
+   ""
+  ],
+  [
+   29,
+   "Warsaw — the Ghetto Uprising",
+   "19 Apr – 16 May 1943",
+   "HIGH",
+   52.24972,
+   20.99389,
+   "",
+   4,
+   "About 400,000 Jews were crowded into the Warsaw ghetto from 1940; thousands died of hunger and typhus every month. In the 'Great Action' of July–September 1942 some 265,000 were deported to Treblinka. When the SS entered the ghetto on 19 April 1943 to clear it, a few hundred fighters of the Jewish Combat Organisation (ŻOB) under Mordechai Anielewicz and the Jewish Military Union (ŻZW) fought back. The Germans burned it block by block; on 16 May SS General Jürgen Stroop ended the action by blowing up the Great Synagogue.",
+   "Nathan Rapoport's Monument to the Ghetto Heroes (1948), where Willy Brandt knelt in 1970, stands in front of the POLIN Museum of the History of Polish Jews. A trail of memorial stones leads to the Umschlagplatz, the deportation square.",
+   ""
+  ],
+  [
+   30,
+   "Liverpool — Western Approaches and 'Black May'",
+   "Feb 1941 – May 1945; May 1943",
+   "HIGH",
+   53.4074,
+   -2.9932,
+   "",
+   4,
+   "From February 1941 the Royal Navy's Western Approaches Command and RAF Coastal Command's No. 15 Group ran the convoy battle from this bunker under Derby House. In early 1943 the U-boat packs came close to cutting the Atlantic lifeline. Then, under Admiral Sir Max Horton, escort support groups, escort carriers, very-long-range Liberators, centimetric radar and Ultra turned the battle. In May 1943 the Germans lost 41 U-boats, and on 24 May Dönitz withdrew his boats from the North Atlantic. They never regained the initiative.",
+   "The restored operations room with its wall-sized plot of the Atlantic, the teleprinter and cipher rooms, and Horton's office, in the basement of an office block behind Liverpool Town Hall.",
+   ""
+  ],
+  [
+   31,
+   "Prokhorovka — the tank battle at Kursk",
+   "5–13 Jul 1943; 12 Jul",
+   "MEDIUM",
+   51.03639,
+   36.73639,
+   "",
+   4,
+   "Operation Citadel, Germany's pincer attack on the Kursk salient, began on 5 July 1943 against defences dug in depth for months. In the south, the II SS Panzer Corps drove towards Prokhorovka. On 12 July Rotmistrov's 5th Guards Tank Army counter-attacked with some 600 tanks and self-propelled guns against fewer than 300 German. Soviet losses were heavy, German losses far lighter, but the advance was stopped. On 13 July Hitler called off Citadel, citing the Allied landing in Sicily, and the Red Army went over to an offensive that did not stop.",
+   "The 'Third Military Field of Russia': a museum, a memorial belfry and tank monuments on open farmland where the armour met. Current advice is against travel to Russia; this border region has been attacked since 2022.",
+   ""
+  ],
+  [
+   32,
+   "Hamburg — Operation Gomorrah",
+   "24 Jul – 3 Aug 1943",
+   "HIGH",
+   53.5475,
+   9.9905556,
+   "",
+   5,
+   "In a week of raids from 24 July 1943, RAF Bomber Command by night and the US Eighth Air Force by day attacked Hamburg, Germany's second city and greatest port. 'Window' — strips of foil — blinded German radar for the first time. On the night of 27–28 July hot, dry weather and concentrated bombing raised a firestorm that swept the eastern districts. About 34,000–40,000 people died that week, most of them in that one night, and around a million fled the city. The spire of St Nikolai served the bomber crews as a landmark.",
+   "The ruined church of St Nikolai, its 147 m tower kept as a memorial to the victims of war and tyranny 1933–1945, with a documentation centre in the crypt and a lift to a viewing platform at about 75 m.",
+   ""
+  ],
+  [
+   33,
+   "Peenemünde — the rocket centre",
+   "17–18 Aug 1943",
+   "DOC",
+   54.137778,
+   13.768889,
+   "",
+   5,
+   "On the island of Usedom the German Army and Luftwaffe built their research centre for long-range weapons. Here Walter Dornberger and Wernher von Braun developed the A4 rocket, later called the V-2, and the Luftwaffe tested the V-1 flying bomb. On the night of 17–18 August 1943 about 600 Bomber Command aircraft attacked in Operation Hydra, killing staff and hundreds of forced labourers in the Trassenheide camp. Production moved underground to the Mittelwerk in the Harz, built and worked by concentration-camp prisoners, thousands of whom died.",
+   "The Historical-Technical Museum in the great brick power station, with exhibitions on the weapons, the people who built them and the forced labour behind them, rockets displayed outside, and ruins of the test site in the woods.",
+   ""
+  ],
+  [
+   34,
+   "La Coupole — the V-2 dome",
+   "Oct 1943 – Jul 1944",
+   "HIGH",
+   50.7052616,
+   2.2436221,
+   "",
+   5,
+   "In a chalk quarry near Saint-Omer the Organisation Todt, using forced labour, built a bomb-proof base to store, fuel and launch V-2 rockets at London under a concrete dome 71 m across and 5 m thick. Allied intelligence found it, and in the Crossbow campaign against the V-weapon sites it was bombed repeatedly, including with 12,000 lb Tallboy bombs in June and July 1944. Construction stopped and no rocket was ever launched from it. The V-2s that hit London and Antwerp from September 1944 came from mobile launchers instead.",
+   "The museum inside the bunker: tunnels, the shaft beneath the dome, exhibitions on the V-weapons, the occupation of northern France and deportation, and a planetarium. The Blockhaus d'Éperlecques, the other great V-weapon bunker, is nearby.",
+   ""
+  ],
+  [
+   35,
+   "Monte Cassino — the Gustav Line",
+   "17 Jan – 18 May 1944",
+   "HIGH",
+   41.49,
+   13.81389,
+   "",
+   5,
+   "Italy changed sides in September 1943, but German armies under Kesselring held the peninsula line by line. The Gustav Line, anchored on Monte Cassino, stopped the Allies through the winter, and the Anzio landing of 22 January was sealed off. Four battles were fought below the Benedictine abbey, which Allied bombers destroyed on 15 February 1944; American, British, French, New Zealand, Indian and Polish troops all attacked it. In May French colonial troops broke through the mountains, and on 18 May Polish soldiers raised their flag over the ruins. Rome fell on 4 June.",
+   "The rebuilt abbey (consecrated 1964) on its summit, a working monastery with a dress code; on the slope below, the Polish war cemetery. The companion 'Into Europe' guide covers the Italian campaign in detail.",
+   ""
+  ],
+  [
+   36,
+   "Auschwitz-Birkenau — the Hungarian deportations",
+   "May – Jul 1944",
+   "HIGH",
+   50.03583,
+   19.17833,
+   "",
+   5,
+   "Auschwitz began in June 1940 as a camp for Polish political prisoners. Birkenau, built from October 1941, became the largest killing centre of the Holocaust: from 1942 trains brought Jews from all over Europe to the ramp, where most were sent straight to the gas chambers. After Germany occupied Hungary in March 1944, about 424,000 Hungarian Jews were deported here between mid-May and early July, along a new railway spur into the camp. About 1.1 million people were murdered at Auschwitz, about a million of them Jews.",
+   "The gate tower and the 1944 railway ramp, rows of brick and wooden barracks, the chimneys of vanished huts and, at the far end, the blown-up ruins of the gas chambers and crematoria with the international monument between them.",
+   ""
+  ],
+  [
+   37,
+   "Pegasus Bridge — the first action of D-Day",
+   "6 Jun 1944, 00:16",
+   "HIGH",
+   49.24222,
+   -0.27444,
+   "",
+   6,
+   "The invasion began in the dark, with three airborne divisions landing on the flanks of the beaches. At 00:16 on 6 June 1944 the first of six Horsa gliders carrying D Company, 2nd Oxfordshire and Buckinghamshire Light Infantry, under Major John Howard, landed beside the Caen Canal bridge at Bénouville. Within minutes they had taken it and the Orne bridge nearby; Lieutenant Den Brotheridge was mortally wounded in the rush. Paratroops of the 6th Airborne Division and, in the early afternoon, Lord Lovat's commandos from Sword Beach joined them.",
+   "A 1994 bridge of the same design; the original stands in the grounds of Memorial Pegasus at Ranville with a full-size Horsa. Café Gondrée, said to be the first house liberated in France, faces the bridge.",
+   ""
+  ],
+  [
+   38,
+   "Omaha Beach — the hardest landing",
+   "6 Jun 1944, from 06:30",
+   "MEDIUM",
+   49.370931,
+   -0.879765,
+   "",
+   6,
+   "About 156,000 men landed in Normandy by sea and air on D-Day. On Omaha the US 1st and 29th Infantry Divisions, with Rangers, faced bluffs held by the German 352nd Infantry Division, stronger than expected. Rough seas swamped most of the swimming tanks and scattered the landing craft, and the bombing fell inland. For hours men lay pinned at the shingle. Small groups worked up the bluffs between the strongpoints while destroyers came in close to fire. By night two shallow footholds were held, at a cost of about 2,400 casualties.",
+   "Anilore Banon's steel sculpture 'Les Braves' (2004) on the sand at Saint-Laurent, the remains of strongpoint WN62 above Colleville, and the Normandy American Cemetery on the bluff, with 9,388 graves.",
+   ""
+  ],
+  [
+   39,
+   "Juno Beach — the Canadians land",
+   "6 Jun 1944, from about 07:35",
+   "DOC",
+   49.33639,
+   -0.46167,
+   "",
+   6,
+   "On Juno, between Gold and Sword, the 3rd Canadian Infantry Division and 2nd Canadian Armoured Brigade landed around Courseulles, Bernières and Saint-Aubin. The rising tide had delayed them, so many obstacles were already under water, and the first waves took heavy losses at the sea wall. But by evening the Canadians had pushed further inland than any other Allied division. About 14,000 Canadians came ashore on D-Day and 359 were killed. The Germans' 12th SS Panzer Division counter-attacked them over the following days.",
+   "The Juno Beach Centre (2003), Canada's museum in Normandy, stands among the dunes at Courseulles. Restored bunkers of the German strongpoint survive in front of it, and the beach is open to walk.",
+   ""
+  ],
+  [
+   40,
+   "Arromanches — the Mulberry harbour",
+   "Jun 1944 – early 1945",
+   "MEDIUM",
+   49.34,
+   -0.6211,
+   "",
+   6,
+   "Rather than capture a port, the Allies brought two prefabricated harbours across the Channel. Concrete Phoenix caissons sunk from 8 June formed a breakwater off Arromanches, with floating roadways running ashore. The American Mulberry off Omaha was wrecked by the great storm of 19–22 June, but this one, 'Port Winston', survived and was used for ten months. Figures for what it landed vary, but run to more than two million men and millions of tons of supplies. Even so, most supplies came over the open beaches.",
+   "Dozens of Phoenix caissons still lie in an arc offshore, clearest at low tide from the cliff-top viewpoint east of the town. The D-Day Museum on the seafront explains how the harbour worked.",
+   ""
+  ],
+  [
+   41,
+   "Oradour-sur-Glane — the massacre",
+   "10 Jun 1944",
+   "HIGH",
+   45.928,
+   1.041,
+   "",
+   6,
+   "As the 2nd SS Panzer Division Das Reich moved north from Montauban towards Normandy, it waged a campaign of terror against the Resistance and civilians; at Tulle, 99 men were hanged on 9 June. On 10 June a company of the Der Führer regiment under Adolf Diekmann surrounded Oradour-sur-Glane. The men were shot in barns and garages; the women and children were locked in the church, which was set on fire. 642 people died (643 by a later count). The 1953 trial in Bordeaux, and the amnesty of the Alsatians convicted, still divide France.",
+   "The ruined village, left as it was on General de Gaulle's order: burnt-out houses, cars, sewing machines, tram rails and the church. Enter through the Centre de la mémoire (1999). A place for silence.",
+   ""
+  ],
+  [
+   42,
+   "Minsk — Operation Bagration",
+   "22 Jun – 19 Aug 1944; Minsk 3 Jul",
+   "LOW",
+   53.90056,
+   27.55861,
+   "",
+   6,
+   "Three years after Barbarossa, the Red Army attacked Army Group Centre in Belorussia, which Hitler had stripped of armour in expectation of a blow further south. Deception, partisans cutting the railways and four fronts attacking with massed artillery and aircraft tore it apart. Vitebsk and Bobruisk were encircled; Minsk was retaken on 3 July, trapping about 100,000 Germans east of the city. Some 28 divisions were destroyed and German losses were around 400,000 or more. By August the Red Army stood on the Vistula. It was the worst defeat in German military history.",
+   "Minsk, rebuilt after the war, has the Belarusian Museum of the Great Patriotic War and the Khatyn memorial to burned villages about 50 km north. Check current UK and US travel advice before going to Belarus.",
+   ""
+  ],
+  [
+   43,
+   "Hill 112 — the battle for Caen",
+   "10–11 Jul 1944",
+   "HIGH",
+   49.123737,
+   -0.460581,
+   "",
+   6,
+   "Montgomery's plan drew most of the German armour onto the British and Canadian front around Caen while the Americans prepared to break out in the west. The price was a grinding battle. On 10 July 1944, in Operation Jupiter, the 43rd (Wessex) Division attacked Hill 112, a low rise south-west of Caen overlooking the Odon and Orne valleys. It was taken and lost again against the 9th and 10th SS Panzer Divisions, and the division lost about 2,000 men in two days. Northern Caen had fallen on 9 July; the rest followed in Operation Goodwood on 18–19 July.",
+   "Memorials to the 43rd (Wessex) Division and a Churchill tank stand on the flat summit among open fields, with a wide view north to Caen. The Caen Memorial museum is the best place for the whole battle.",
+   ""
+  ],
+  [
+   44,
+   "Wolf's Lair — the 20 July bomb",
+   "20 Jul 1944, 12:42",
+   "HIGH",
+   54.0804,
+   21.4941,
+   "",
+   6,
+   "Hitler's East Prussian headquarters, where he spent more than 800 days of the war. On 20 July 1944 Colonel Claus von Stauffenberg left a briefcase bomb under the table in the conference hut and flew to Berlin to launch Operation Valkyrie. It exploded at 12:42; four men died of their wounds, but Hitler was only slightly hurt, and the coup collapsed that night. Stauffenberg and three others were shot in the Bendlerblock courtyard in Berlin. Some 200 people were later executed. The bunkers were blown up in January 1945.",
+   "Huge tilted slabs of blown-up concrete bunkers in the forest near Kętrzyn, linked by paths; a memorial stone marks the site of the conference hut. Expect mosquitoes and ticks in summer.",
+   ""
+  ],
+  [
+   45,
+   "Majdanek — the first camp liberated",
+   "22–24 Jul 1944",
+   "HIGH",
+   51.22056,
+   22.59944,
+   "",
+   6,
+   "Majdanek, on the edge of Lublin, was a concentration camp and killing site from October 1941. On 3 November 1943, in 'Operation Harvest Festival', the SS shot about 18,000 Jewish prisoners in trenches here in a single day. The Red Army reached the camp on 22–24 July 1944, so fast that the SS could not destroy it: gas chambers, crematorium and a warehouse of victims' shoes were filmed and shown to the world. Current research puts the dead at about 78,000, 59,000 of them Jews; early post-war estimates were far higher.",
+   "The camp survives largely as it was, beside the main road into Lublin: barracks, watchtowers, gas chambers and crematorium, with Wiktor Tołkin's 1969 monument at the gate and the domed mausoleum of ashes at the far end.",
+   ""
+  ],
+  [
+   46,
+   "Warsaw — the Rising",
+   "1 Aug – 2 Oct 1944",
+   "DOC",
+   52.23282,
+   20.981049,
+   "",
+   6,
+   "As Soviet tanks approached the Vistula, the Polish Home Army rose in Warsaw at 17:00 on 1 August 1944 to free the capital before the Red Army arrived. Some 20,000–49,000 poorly armed fighters under General Bór-Komorowski held parts of the city for 63 days. German SS and police units murdered tens of thousands of civilians in Wola in the first week. The Red Army halted across the river, and Stalin long refused landing rights to Allied supply aircraft. About 16,000 insurgents and 150,000–200,000 civilians died; the city was then systematically destroyed.",
+   "The Warsaw Rising Museum (2004) in a former tram power station in Wola: a replica Liberator, a sewer passage, armbands, weapons and film, and the Memorial Wall with the fighters' names in the park outside.",
+   ""
+  ],
+  [
+   47,
+   "Mont-Ormel — closing the Falaise Pocket",
+   "19–21 Aug 1944",
+   "DOC",
+   48.837331,
+   0.142182,
+   "",
+   6,
+   "The Americans broke out west of Saint-Lô on 25 July in Operation Cobra. Hitler ordered a counter-attack at Mortain instead of a retreat, and two German armies were nearly encircled between Falaise and Argentan. At the mouth of the pocket the 1st Polish Armoured Division seized the Mont-Ormel ridge, 'Maczuga', on 19 August and, cut off and short of ammunition, held it against Germans trying to break out until the Canadian Grenadier Guards arrived on 21 August. Perhaps 20,000–50,000 Germans escaped, mostly without their vehicles; the rest were killed or captured.",
+   "The Montormel Memorial on the ridge, with a Sherman tank and a viewing terrace looking down the Dives valley, the 'corridor of death', towards Chambois, where Poles and Americans met on 19 August.",
+   ""
+  ],
+  [
+   48,
+   "Paris — the city liberated",
+   "19–25 Aug 1944",
+   "HIGH",
+   48.8564,
+   2.3525,
+   "",
+   6,
+   "On 19 August 1944 the Paris police and the Resistance's FFI rose against the German garrison. Eisenhower had meant to bypass the city, but at de Gaulle's urging he let General Leclerc's French 2nd Armoured Division, with the US 4th Infantry Division, go in. Captain Raymond Dronne's men reached the Hôtel de Ville late on 24 August; next day General von Choltitz surrendered, without carrying out Hitler's order to leave the city in ruins. That evening de Gaulle spoke here: 'Paris outraged! Paris broken! Paris martyred! But Paris liberated!'",
+   "The Hôtel de Ville and its square; plaques across Paris mark where Resistance fighters and soldiers fell. The Musée de la Libération at Place Denfert-Rochereau shows Colonel Rol-Tanguy's underground command post.",
+   ""
+  ],
+  [
+   49,
+   "Arnhem — a bridge too far",
+   "17–21 Sep 1944",
+   "HIGH",
+   51.97472,
+   5.91194,
+   "",
+   7,
+   "Operation Market Garden aimed to lay a carpet of airborne troops along one road so that XXX Corps could cross the Maas, the Waal and the Lower Rhine and outflank the Siegfried Line. The British 1st Airborne Division landed 10–13 km west of Arnhem; only about 740 men, mostly of Lieutenant-Colonel John Frost's 2nd Parachute Battalion, reached the north end of the road bridge on 17 September. They held it for nearly four days against SS panzer units. The rest of the division held a perimeter at Oosterbeek until evacuated on the night of 25–26 September.",
+   "The rebuilt road bridge (1948), renamed John Frostbrug in 1977, with a memorial and panels at the north end where Frost's men held the houses. The Airborne Museum Hartenstein in Oosterbeek is about 5 km west.",
+   ""
+  ],
+  [
+   50,
+   "Hürtgen Forest — the battle in the trees",
+   "Sep 1944 – Feb 1945; Vossenack 2–8 Nov",
+   "DOC",
+   50.686707,
+   6.3701744,
+   "",
+   7,
+   "After the dash across France the Allied armies ran short of fuel and supplies at the German border, where the West Wall and the forests favoured the defender. Aachen, the first German city to fall, was taken on 21 October. To the south-east, the US First Army fought from September to February through the dense, hilly Hürtgen Forest. In November the 28th Infantry Division took Vossenack and Schmidt and was thrown back, its only supply route the narrow Kall Trail. US casualties were about 33,000. Historian Charles MacDonald called it 'a misconceived and basically fruitless battle'.",
+   "Museum Hürtgenwald 1944 in Vossenack, the German war cemeteries at Vossenack and Hürtgen, and the steep Kall Trail, now a marked walk through the woods. Stay on the paths: munitions still lie in the forest.",
+   ""
+  ],
+  [
+   51,
+   "Natzweiler-Struthof — the camp in France",
+   "May 1941 – Sep 1944; reached 23 Nov 1944",
+   "HIGH",
+   48.4566667,
+   7.2538889,
+   "",
+   7,
+   "Natzweiler-Struthof, opened in May 1941 in annexed Alsace, was the only concentration camp the Germans set up on French territory. About 52,000 prisoners of 32 nationalities passed through it and its 70 or so subcamps, many of them resistance members held under the 'Night and Fog' decree; some 22,000 died. Four women agents of SOE were executed here on 6 July 1944, and in August 1943, 86 Jews were gassed for a Strasbourg professor's skeleton collection. The SS evacuated it in September; Allied troops found it emptied in late November 1944.",
+   "High in the Vosges: the gate, the terraced camp with two rebuilt barracks, the cell block and crematorium, the national cemetery and memorial, and the European Centre of Deported Resistance Members. The gas chamber is lower down the road.",
+   ""
+  ],
+  [
+   52,
+   "Bastogne — the Battle of the Bulge",
+   "16 Dec 1944 – Jan 1945; Bastogne 20–26 Dec",
+   "DOC",
+   50.0106,
+   5.739196,
+   "",
+   7,
+   "On 16 December 1944 three German armies struck the thinly held Ardennes front, aiming for Antwerp. Fog grounded Allied aircraft; on 17 December Kampfgruppe Peiper's SS troops murdered American prisoners at Baugnez near Malmedy. Bastogne, a vital road junction, was held by the 101st Airborne Division and armoured units, surrounded from 20 December. To a German demand for surrender on 22 December, Brigadier-General Anthony McAuliffe replied 'Nuts!'. Patton's Third Army broke through on 26 December. The offensive failed short of the Meuse and used up Germany's last reserves.",
+   "The Mardasson Memorial (1950), a five-pointed star bearing the names of the US states, beside the Bastogne War Museum on the hill east of town. A Sherman tank stands in McAuliffe Square; the Bois Jacques foxholes are north near Foy.",
+   ""
+  ],
+  [
+   53,
+   "Auschwitz — the Red Army arrives",
+   "27 Jan 1945",
+   "HIGH",
+   50.0275,
+   19.205,
+   "",
+   8,
+   "The Soviet Vistula–Oder offensive opened on 12 January 1945 and in three weeks carried the Red Army from the Vistula to the Oder, some 70 km from Berlin. As it approached, the SS drove about 58,000 prisoners out of Auschwitz on death marches to the west and blew up the Birkenau gas chambers and crematoria. On 27 January soldiers of the Soviet 60th Army entered the camps and found about 7,000 prisoners, most of them sick or dying. The day is now International Holocaust Remembrance Day.",
+   "Auschwitz I, the main camp: the 'Arbeit macht frei' gate, brick blocks with national exhibitions, the execution wall, and the gas chamber and crematorium. Entry is free but must be booked in advance; most visitors take a guided tour.",
+   ""
+  ],
+  [
+   54,
+   "Dresden — the firestorm",
+   "13–15 Feb 1945",
+   "HIGH",
+   51.05194,
+   13.74167,
+   "",
+   8,
+   "On the night of 13–14 February 1945 two waves of RAF Lancasters bombed Dresden, then crowded with refugees from the east, and the US Eighth Air Force followed on 14 and 15 February. A firestorm destroyed the old city. An independent historians' commission concluded in 2010 that up to 25,000 people died, far below the 200,000 or more claimed by Nazi propaganda and repeated for decades. The raids, meant to disrupt traffic behind the Eastern Front, became the centre of the argument over area bombing; Churchill himself questioned it in a memo of 28 March.",
+   "The Frauenkirche, whose dome fell on 15 February 1945, was left a ruin under East Germany and rebuilt in 1994–2005, with blackened original stones set among the new. Its gilded orb and cross were made in London.",
+   ""
+  ],
+  [
+   55,
+   "Remagen — the bridge on the Rhine",
+   "7–17 Mar 1945",
+   "HIGH",
+   50.5791667,
+   7.2441667,
+   "",
+   8,
+   "Hitler had ordered every Rhine bridge destroyed. On 7 March 1945 men of the US 9th Armored Division found the Ludendorff railway bridge at Remagen still standing. The German demolition charge only partly damaged it, and Lieutenant Karl Timmermann's infantry company rushed across. The Americans built up a bridgehead on the east bank while the Germans tried to destroy the bridge with artillery, aircraft and even V-2 rockets. Weakened, it collapsed on 17 March, killing 28 US engineers; pontoon bridges were by then in use. Hitler had four officers shot for its loss.",
+   "Only the stone towers remain, on both banks. The western towers at Remagen house the Peace Museum; across the river at Erpel the railway tunnel under the cliff is now an arts venue.",
+   ""
+  ],
+  [
+   56,
+   "Wesel — crossing the Rhine",
+   "23–24 Mar 1945",
+   "LOW",
+   51.65861111,
+   6.61777778,
+   "",
+   8,
+   "Montgomery's 21st Army Group crossed the lower Rhine on the night of 23–24 March 1945 at Rees and around Wesel, a town almost entirely destroyed by bombing and shelling beforehand. The British Second Army and US Ninth Army crossed under a huge artillery barrage; the next morning, in Operation Varsity, the British 6th and US 17th Airborne Divisions landed beyond the river in daylight, at heavy cost. Churchill watched and briefly crossed himself. By early April the Ruhr was encircled, and more than 300,000 Germans surrendered there later that month.",
+   "Rebuilt Wesel and the wide Rhine meadows. The Berliner Tor, one of the few old buildings to survive, stands in the centre. The Reichswald Forest War Cemetery near Kleve, the largest Commonwealth war cemetery in Germany, is about 40 km north-west.",
+   ""
+  ],
+  [
+   57,
+   "Buchenwald — the camp above Weimar",
+   "11 Apr 1945",
+   "DOC",
+   51.022778,
+   11.249167,
+   "",
+   8,
+   "Buchenwald, opened in July 1937 on the Ettersberg above Weimar, the city of Goethe, held about 280,000 prisoners in all; some 56,000 died. As US troops approached in April 1945 the SS sent many on death marches. On 11 April tanks of the US 6th Armored Division arrived; the prisoners' underground had already taken control of the camp. On 4 April the Americans had found the subcamp at Ohrdruf, which Eisenhower, Bradley and Patton visited on 12 April. From 1945 to 1950 the Soviet NKVD used Buchenwald as a special camp.",
+   "The gate with its clock stopped at 3.15 — the hour of liberation — and the words 'Jedem das Seine', the crematorium, the open site of the barracks, the museum in the former depot, and the 1958 East German memorial on the hill's southern slope.",
+   ""
+  ],
+  [
+   58,
+   "Bergen-Belsen — the British find Belsen",
+   "15 Apr 1945",
+   "HIGH",
+   52.7577778,
+   9.9077778,
+   "",
+   8,
+   "Bergen-Belsen began as a prisoner-of-war camp, where some 20,000 Soviet prisoners died, and from 1943 was an SS camp for Jews held for possible exchange. In the last months, as transports arrived from camps in the east, it became a place of mass death from starvation and typhus; Anne and Margot Frank died there in early 1945. The British 11th Armoured Division entered on 15 April under a local truce and found about 60,000 prisoners and thousands of unburied dead. About 14,000 more died after liberation despite a huge medical effort.",
+   "No barracks survive: the British burned them to stop the typhus. A documentation centre stands at the edge of heathland with mass-grave mounds, the obelisk and inscription wall, and a memorial stone to Anne and Margot Frank.",
+   ""
+  ],
+  [
+   59,
+   "Seelow Heights — the road to Berlin",
+   "16–19 Apr 1945",
+   "HIGH",
+   52.534896,
+   14.395727,
+   "",
+   8,
+   "Zhukov's 1st Belorussian Front opened the Berlin offensive before dawn on 16 April 1945 from its bridgehead over the Oder. Searchlights meant to blind the defenders dazzled his own troops, and the Germans had pulled back to the Seelow ridge, which held for three days against repeated mass attacks. Konev's 1st Ukrainian Front, attacking further south, made faster progress. When the heights fell on 19 April the way to Berlin was open, and the two fronts encircled the capital by 25 April. Tens of thousands of soldiers died in the battle for the heights.",
+   "The Soviet memorial of November 1945, with its statue of a Red Army soldier, above the town of Seelow; a museum of 1972, renewed since; Soviet guns and tanks; and the view east over the Oder flats the attackers crossed.",
+   ""
+  ],
+  [
+   60,
+   "Torgau — East meets West",
+   "25 Apr 1945",
+   "HIGH",
+   51.56028,
+   13.00556,
+   "",
+   8,
+   "On 25 April 1945 patrols of the US 69th Infantry Division met soldiers of the Soviet 58th Guards Rifle Division on the Elbe — first near Strehla and Lorenzkirch, then that afternoon on the wrecked bridge at Torgau, where Lieutenant William Robertson's patrol crossed. Germany was cut in two. The commanders' official handshake followed the next day, and newsreels made Torgau the symbol of the meeting. The Western Allies had already decided to halt on the Elbe and leave Berlin to the Red Army.",
+   "The Elbe bank below Hartenfels Castle, with the 1945 Soviet monument and a plaque marking the meeting; the bridge has been replaced. A documentation centre in the town covers its military prisons and the Soviet special camps after the war.",
+   ""
+  ],
+  [
+   61,
+   "Dachau — the first camp",
+   "29 Apr 1945",
+   "HIGH",
+   48.2702778,
+   11.4680556,
+   "",
+   8,
+   "Opened on 22 March 1933, weeks after Hitler took power, Dachau was the first concentration camp and the model for the SS camp system. About 200,000 prisoners from across Europe passed through it and its subcamps, and some 41,500 died. On 29 April 1945 troops of the US Seventh Army found a train from Buchenwald outside with more than 2,000 bodies in its wagons, and about 30,000 survivors inside. Some SS guards were shot after surrendering, an incident later investigated by the US Army.",
+   "The gate with 'Arbeit macht frei', the roll-call square, two reconstructed barracks and the foundations of the rest, the museum in the former maintenance building, the crematorium area and the religious memorials at the north end.",
+   ""
+  ],
+  [
+   62,
+   "Reichstag — the flag over Berlin",
+   "30 Apr – 2 May 1945",
+   "HIGH",
+   52.51861,
+   13.37611,
+   "",
+   8,
+   "The battle for Berlin cost the Red Army about 80,000 dead. The Reichstag, burned out in 1933 and unused since, was to the Soviets the symbol of the Nazi state. Troops of the 150th Rifle Division stormed it from 30 April — the afternoon Hitler killed himself in his bunker about a kilometre to the south. Fighting in the building went on into 1 May, and Berlin's garrison surrendered on 2 May. Yevgeny Khaldei's famous photograph of the flag over the roof was taken on 2 May, restaged after the fighting.",
+   "The rebuilt parliament under Norman Foster's glass dome (book a free visit online). Inside, Cyrillic graffiti left by Soviet soldiers in 1945 has been kept on the walls. The Brandenburg Gate is next door.",
+   ""
+  ],
+  [
+   63,
+   "Mauthausen — the stairs of death",
+   "5 May 1945",
+   "HIGH",
+   48.25694444,
+   14.50111111,
+   "",
+   8,
+   "Mauthausen, opened in August 1938 after the annexation of Austria, was the SS's harshest camp, meant for 'incorrigible' enemies. With Gusen and its other subcamps it held about 190,000–200,000 prisoners, of whom more than 90,000 died, many worked to death in the Wiener Graben granite quarry, carrying blocks up its 186 steps. In February 1945 some 500 Soviet officers broke out; almost all were hunted down and killed. A patrol of the US 11th Armored Division reached the camp on 5 May 1945.",
+   "The fortress-like stone camp above the Danube: walls and gate, roll-call square, barracks, gas chamber and crematorium, and below it the quarry and the 'stairs of death'. National memorials line the slope outside the walls.",
+   ""
+  ],
+  [
+   64,
+   "Reims — the surrender at SHAEF",
+   "7 May 1945, 02:41",
+   "HIGH",
+   49.2629807,
+   4.0269291,
+   "",
+   8,
+   "Hitler's successor, Grand Admiral Dönitz, hoped to surrender to the Western Allies alone; Eisenhower refused. At 02:41 on 7 May 1945, in a technical school used as SHAEF's war room, General Alfred Jodl signed the unconditional surrender of all German forces. General Walter Bedell Smith signed for the Allied Expeditionary Force, General Ivan Susloparov for the Soviet Union, and General François Sevez of France as witness. It took effect at 23:01 Central European Time on 8 May. Stalin insisted on a second, formal signing in Berlin.",
+   "The Musée de la Reddition in the school, now the Lycée Roosevelt: the map room is kept as it was that morning, with the operations maps still on the walls, seen through glass.",
+   ""
+  ],
+  [
+   65,
+   "Karlshorst — the final surrender",
+   "8 May 1945, late evening",
+   "HIGH",
+   52.4861111,
+   13.5397222,
+   "",
+   8,
+   "In the officers' mess of a former German army engineering school in Karlshorst, then Soviet headquarters, Field Marshal Wilhelm Keitel, Admiral Hans-Georg von Friedeburg and Colonel-General Hans-Jürgen Stumpff signed the ratified surrender shortly before midnight on 8 May 1945 — already 9 May in Moscow. Marshal Zhukov and Air Chief Marshal Tedder signed for the Allies, with General Spaatz and General de Lattre de Tassigny as witnesses. The war in Europe was over: the West marks VE Day on 8 May, Russia Victory Day on 9 May.",
+   "Museum Berlin-Karlshorst keeps the hall where the surrender was signed, with a permanent exhibition on the German–Soviet war of 1941–45. Entry is free. Soviet tanks and guns stand outside.",
+   ""
+  ]
+ ],
+ "TL_SRC": [
+  [
+   1,
+   "https://en.wikipedia.org/wiki/Battle_of_Westerplatte"
+  ],
+  [
+   2,
+   "https://en.wikipedia.org/wiki/Hel,_Poland"
+  ],
+  [
+   3,
+   "https://en.wikipedia.org/wiki/Katyn_massacre"
+  ],
+  [
+   4,
+   "https://en.wikipedia.org/wiki/Battles_of_Narvik"
+  ],
+  [
+   5,
+   "https://fr.wikipedia.org/wiki/Fort_d%27%C3%89ben-%C3%89mael"
+  ],
+  [
+   6,
+   "https://en.wikipedia.org/wiki/Battle_of_Sedan_(1940)"
+  ],
+  [
+   7,
+   "https://en.wikipedia.org/wiki/The_Destroyed_City"
+  ],
+  [
+   8,
+   "https://www.dunkerque-tourisme.fr/app/uploads/dunkerque/2026/06/Guide-memoire_FR.pdf"
+  ],
+  [
+   9,
+   "https://en.wikipedia.org/wiki/Glade_of_the_Armistice"
+  ],
+  [
+   10,
+   "https://en.wikipedia.org/wiki/Battle_of_Britain_Bunker"
+  ],
+  [
+   11,
+   "https://en.wikipedia.org/wiki/Coventry_Cathedral"
+  ],
+  [
+   12,
+   "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral"
+  ],
+  [
+   13,
+   "https://en.wikipedia.org/wiki/Bletchley_Park"
+  ],
+  [
+   14,
+   "https://en.wikipedia.org/wiki/Maleme"
+  ],
+  [
+   15,
+   "https://en.wikipedia.org/wiki/Brest_Fortress"
+  ],
+  [
+   16,
+   "https://en.wikipedia.org/wiki/Piskaryovskoye_Memorial_Cemetery"
+  ],
+  [
+   17,
+   "https://en.wikipedia.org/wiki/Babi_Yar"
+  ],
+  [
+   18,
+   "https://en.wikipedia.org/wiki/Museum_of_the_Great_Patriotic_War,_Moscow"
+  ],
+  [
+   19,
+   "https://en.wikipedia.org/wiki/Wannsee_Conference"
+  ],
+  [
+   20,
+   "https://en.wikipedia.org/wiki/St_Nazaire_Raid"
+  ],
+  [
+   21,
+   "https://www.prague.eu/en/object/places/565/national-monument-to-the-heroes-of-the-heydrich-terror-narodni-pamatnik-hrdinu-heydrichiady"
+  ],
+  [
+   22,
+   "https://en.wikipedia.org/wiki/Lidice"
+  ],
+  [
+   23,
+   "https://en.wikipedia.org/wiki/Treblinka_extermination_camp"
+  ],
+  [
+   24,
+   "https://en.wikipedia.org/wiki/Lascaris_War_Rooms"
+  ],
+  [
+   25,
+   "https://en.wikipedia.org/wiki/Dieppe_Raid"
+  ],
+  [
+   26,
+   "https://en.wikipedia.org/wiki/Mamayev_Kurgan"
+  ],
+  [
+   27,
+   "https://en.wikipedia.org/wiki/Norwegian_heavy_water_sabotage"
+  ],
+  [
+   28,
+   "https://en.wikipedia.org/wiki/Third_Battle_of_Kharkov"
+  ],
+  [
+   29,
+   "https://en.wikipedia.org/wiki/Monument_to_the_Ghetto_Heroes"
+  ],
+  [
+   30,
+   "https://en.wikipedia.org/wiki/Western_Approaches_Command"
+  ],
+  [
+   31,
+   "https://en.wikipedia.org/wiki/Battle_of_Prokhorovka"
+  ],
+  [
+   32,
+   "https://de.wikipedia.org/wiki/Mahnmal_St._Nikolai"
+  ],
+  [
+   33,
+   "https://de.wikipedia.org/wiki/Historisch-Technisches_Museum_Peenem%C3%BCnde"
+  ],
+  [
+   34,
+   "https://en.wikipedia.org/wiki/La_Coupole"
+  ],
+  [
+   35,
+   "https://en.wikipedia.org/wiki/Monte_Cassino"
+  ],
+  [
+   36,
+   "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp"
+  ],
+  [
+   37,
+   "https://en.wikipedia.org/wiki/Pegasus_Bridge"
+  ],
+  [
+   38,
+   "https://www.tracesofwar.com/sights/1437"
+  ],
+  [
+   39,
+   "https://en.wikipedia.org/wiki/Juno_Beach_Centre"
+  ],
+  [
+   40,
+   "https://en.wikipedia.org/wiki/Arromanches-les-Bains"
+  ],
+  [
+   41,
+   "https://en.wikipedia.org/wiki/Oradour-sur-Glane_massacre"
+  ],
+  [
+   42,
+   "https://en.wikipedia.org/wiki/Minsk"
+  ],
+  [
+   43,
+   "https://www.tracesofwar.com/sights/1119"
+  ],
+  [
+   44,
+   "https://en.wikipedia.org/wiki/Wolf%27s_Lair"
+  ],
+  [
+   45,
+   "https://en.wikipedia.org/wiki/Majdanek_concentration_camp"
+  ],
+  [
+   46,
+   "https://tracesofwar.com/sights/1208/Warsaw-Uprising-Museum.htm"
+  ],
+  [
+   47,
+   "https://www.tracesofwar.com/sights/99"
+  ],
+  [
+   48,
+   "https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville,_Paris"
+  ],
+  [
+   49,
+   "https://en.wikipedia.org/wiki/John_Frost_Bridge"
+  ],
+  [
+   50,
+   "https://www.tracesofwar.com/sights/711/Museum-H%FCrtgenwald-1944-und-im-Frieden.htm"
+  ],
+  [
+   51,
+   "https://de.wikipedia.org/wiki/KZ_Natzweiler-Struthof"
+  ],
+  [
+   52,
+   "https://www.uswarmemorials.org/html/site_details.php?SiteID=185"
+  ],
+  [
+   53,
+   "https://en.wikipedia.org/wiki/Auschwitz_I"
+  ],
+  [
+   54,
+   "https://en.wikipedia.org/wiki/Frauenkirche,_Dresden"
+  ],
+  [
+   55,
+   "https://de.wikipedia.org/wiki/Ludendorff-Br%C3%BCcke"
+  ],
+  [
+   56,
+   "NOT FOUND — coordinates still to be checked"
+  ],
+  [
+   57,
+   "https://de.wikipedia.org/wiki/Speziallager_Nr._2_Buchenwald"
+  ],
+  [
+   58,
+   "https://de.wikipedia.org/wiki/KZ_Bergen-Belsen"
+  ],
+  [
+   59,
+   "https://de.wikipedia.org/wiki/Gedenkst%C3%A4tte_Seelower_H%C3%B6hen"
+  ],
+  [
+   60,
+   "https://en.wikipedia.org/wiki/Torgau"
+  ],
+  [
+   61,
+   "https://de.wikipedia.org/wiki/KZ_Dachau"
+  ],
+  [
+   62,
+   "https://en.wikipedia.org/wiki/Reichstag_building"
+  ],
+  [
+   63,
+   "NOT FOUND — coordinates still to be checked"
+  ],
+  [
+   64,
+   "NOT FOUND — coordinates still to be checked"
+  ],
+  [
+   65,
+   "https://de.wikipedia.org/wiki/Museum_Berlin-Karlshorst"
+  ]
+ ],
+ "FACTORS": [
+  [
+   "Space and distance",
+   "Germany fought a war of short campaigns because it could not afford a long one. In the west in 1940 that worked: distances were small, roads good and the enemy within reach. In the Soviet Union it did not. The front ran some 1,600 km from the Baltic to the Black Sea and widened as it went east; the railways changed gauge at the border; the roads turned to mud in the autumn and spring rasputitsa. Every kilometre gained stretched German supply lines further and gave the Red Army room to retreat, rebuild and strike back. In the west, the Channel saved Britain in 1940, and the Atlantic kept American industry out of reach of German bombers for the whole war.",
+   "Front in the East · c. 1,600 km in 1941, far longer by 1942"
+  ],
+  [
+   "Industry and manpower",
+   "Germany began the war better armed, not better supplied. Once the Soviet Union and the United States were in, the Allies could outbuild the Axis many times over. The Soviets moved some 1,500 factories east of the Urals in 1941 and from 1942 out-produced Germany in tanks and guns. In 1943 alone the United States built about 86,000 aircraft, Germany about 25,000. German production rose late, under Albert Speer, and relied increasingly on millions of forced labourers and concentration-camp prisoners, many of them brought from the occupied East. Manpower told the same story: Germany could not replace its losses in the East, while the Red Army, for all its terrible casualties, could. American lorries, locomotives and food sent under Lend-Lease let Soviet factories concentrate on weapons.",
+   "Aircraft built in 1943 · USA c. 86,000 · Germany c. 25,000"
+  ],
+  [
+   "Oil",
+   "Modern armies run on oil, and Germany had very little. It relied on Romanian oil from Ploiești, on stocks seized in 1940 and on synthetic fuel made from coal. Fuel shaped strategy: the 1942 summer offensive was aimed at the oilfields of the Caucasus, and Stalingrad was a flank of that drive. From May 1944 the US bombers turned on the synthetic-oil plants and production of aviation fuel collapsed; Romania changed sides in August 1944. By the Ardennes offensive in December, German tanks went into battle hoping to capture Allied fuel dumps, and new Luftwaffe pilots had too little fuel to train. The Allies drew on American and Middle Eastern oil, moved by tanker across the Atlantic, and in 1944 laid a pipeline under the Channel to France.",
+   "US offensive against synthetic-oil plants · from May 1944"
+  ],
+  [
+   "Codebreaking, intelligence and deception",
+   "Polish mathematicians first broke the German Enigma machine in the 1930s and handed their work to Britain and France in July 1939. At Bletchley Park the British turned it into an industry, and the resulting intelligence, Ultra, helped win the Battle of the Atlantic, tracked German movements in Africa and Normandy, and allowed the Allies to see whether their deceptions were believed. The Germans had successes too: their naval codebreakers read British convoy codes into 1943. Deception mattered as much as decoding. Operation Fortitude convinced Hitler that the main landing would come at Calais, holding his Fifteenth Army there for weeks after D-Day, and Soviet maskirovka hid the build-up for Bagration. Germany, by contrast, ran almost no agents in Britain who were not caught or turned.",
+   "Polish Enigma work shared with the Allies · July 1939"
+  ],
+  [
+   "Air power",
+   "In 1939–40 the Luftwaffe worked as flying artillery for the panzers. Over Britain in 1940 it met an integrated air defence — radar, observers, operations rooms and fighters — and failed. The Allied bomber offensive took years to become effective and cost Bomber Command 55,573 aircrew, while killing several hundred thousand German civilians; historians still argue over its value. But it forced Germany to pull fighters and thousands of anti-aircraft guns home from the fronts, and in early 1944, with long-range Mustang escorts, the Americans destroyed the Luftwaffe's fighter force. That gave the Allies command of the air over Normandy. In the East, where the air war was mainly flown in support of the armies, Soviet ground-attack aircraft such as the Il-2 were built in vast numbers.",
+   "RAF Bomber Command · 55,573 aircrew killed"
+  ],
+  [
+   "Sea power and the Atlantic",
+   "Britain could only fight on if food, fuel and arms crossed the Atlantic, and the American armies that liberated western Europe had to be shipped across it. The U-boats sank thousands of Allied merchant ships, and in early 1943 they came close to cutting the route. Convoys, long-range aircraft, radar, escort carriers and codebreaking turned the battle in May 1943; about three-quarters of U-boat crews were killed by the end. Sea power also carried Lend-Lease supplies to Murmansk on the Arctic convoys and made possible every Allied landing, from North Africa and Sicily to Normandy, where some 7,000 vessels took part on D-Day. Germany, a land power, lost much of its small surface fleet off Norway in 1940 and never had the ships to invade Britain.",
+   "Battle of the Atlantic · Sep 1939 – May 1945"
+  ],
+  [
+   "The scale of the Eastern Front",
+   "Most of the fighting on land, and most of the dying, happened in the East. From June 1941 the bulk of the German army was in the Soviet Union, and most German soldiers killed in the war died there or in its aftermath. The Soviet Union lost about 27 million people, soldiers and civilians — an estimate that has its critics, but nobody doubts the order of magnitude. Stalingrad, Kursk and Bagration each destroyed or broke more German divisions than any battle in the west. The western Allies' bombing, their campaigns in Africa and Italy and finally the second front in France drew off German aircraft and divisions, but the Red Army bore the heaviest weight. That is why so many of the war's largest battles, and its largest cemeteries, lie in the East.",
+   "Soviet war dead · about 27 million (estimates vary)"
+  ],
+  [
+   "Coalition warfare",
+   "The Grand Alliance of Britain, the Soviet Union and the United States was a marriage of necessity between a democracy with an empire, a communist dictatorship and a republic that had wanted to stay out. It held together because each needed the others. Lend-Lease sent the Soviets trucks, locomotives, food and fuel; Stalin pressed for a second front in France, which came only in 1944; Churchill favoured the Mediterranean. At Tehran (1943) and Yalta (1945) the leaders fixed the shape of the post-war world, and for Poland — the country for which Britain had gone to war — the result was Soviet domination. Germany's own allies, Italy, Hungary, Romania and Finland, were weaker and less committed, and Hitler rarely consulted them; by late 1944 all but Hungary had left the war.",
+   "Tehran Nov 1943 · Yalta Feb 1945"
+  ],
+  [
+   "Ideology, terror and genocide",
+   "Nazi Germany fought in the East a war of conquest and annihilation. Orders before Barbarossa freed troops from punishment for crimes against civilians and ordered the shooting of Soviet political commissars; plans foresaw the starvation of millions. About 3 million of the 5.7 million Soviet prisoners of war died in German hands. The murder of about six million Jews was not a by-product of the war but one of its aims, carried out across occupied Europe. Terror against civilians bred resistance from Norway to Greece and in the vast partisan movements of the East. It cost Germany labour and goodwill it could have used — but it also bound many Germans to the regime until the end, fearing what defeat would bring.",
+   "About 6 million Jews murdered · 1941–45"
+  ],
+  [
+   "Logistics",
+   "Armies win on what reaches the front. Germany invaded the Soviet Union with some 600,000 horses and most of its infantry on foot, and a supply system that could not keep pace with its own panzers. The Allies, by contrast, were rich in lorries but short of ports. After the breakout from Normandy in August 1944 their supplies still came over the beaches and Cherbourg, hundreds of kilometres behind the front, and the advance stalled on the German border for lack of fuel and ammunition. Antwerp, captured on 4 September, could not be used until its river approaches were cleared in November, and Market Garden was in part a gamble to win the war before the supply crisis bit. The Red Army, too, outran its railways after every great offensive and had to pause to repair them.",
+   "Antwerp open to Allied shipping · 28 Nov 1944"
+  ]
+ ],
+ "CLOCK_HEADS": [
+  "The war in the West and the Mediterranean",
+  "The Eastern Front and the wider war"
+ ],
+ "CLOCK": [
+  [
+   "1939"
+  ],
+  [
+   "1–3 Sep",
+   "Britain and France declare war on Germany on 3 September but do almost nothing in the west: the 'Phoney War'. The liner Athenia is torpedoed that night.",
+   "Germany invades Poland at dawn on 1 September. Westerplatte is shelled; Warsaw is bombed."
+  ],
+  [
+   "17 Sep",
+   "A U-boat sinks the carrier HMS Courageous in the Western Approaches. In October U-47 sinks the battleship Royal Oak in Scapa Flow.",
+   "The Red Army invades eastern Poland under the Nazi–Soviet Pact. Warsaw surrenders on 28 September; Hel holds until 2 October."
+  ],
+  [
+   "30 Nov",
+   "On 13 December the Battle of the River Plate traps the Graf Spee, which is scuttled off Montevideo four days later.",
+   "The Soviet Union attacks Finland: the Winter War, ended by Finland's cession of territory on 13 March 1940."
+  ],
+  [
+   "1940"
+  ],
+  [
+   "9 Apr",
+   "Germany invades Denmark and Norway. Allied troops land in Norway but are driven out of the south by early May.",
+   "In April and May the NKVD shoots about 22,000 Polish prisoners at Katyn and other sites."
+  ],
+  [
+   "10 May",
+   "Germany attacks the Netherlands, Belgium and Luxembourg; Churchill becomes Prime Minister. On 13 May the panzers cross the Meuse at Sedan.",
+   "In occupied Poland the Germans murder the educated classes; on 14 June the first Polish political prisoners arrive at Auschwitz."
+  ],
+  [
+   "26 May",
+   "Operation Dynamo begins at Dunkirk: 338,226 men are evacuated by 4 June.",
+   "The Soviet Union occupies Lithuania, Latvia and Estonia in mid-June and annexes them in August."
+  ],
+  [
+   "22 Jun",
+   "France signs the armistice at Compiègne; Italy has declared war on 10 June. On 3 July the Royal Navy fires on the French fleet at Mers-el-Kébir.",
+   "On 28 June the Soviet Union takes Bessarabia and northern Bukovina from Romania."
+  ],
+  [
+   "13 Aug",
+   "'Eagle Day': the Luftwaffe's main assault on RAF airfields. On 7 September the Blitz on London begins.",
+   "On 13 September Italy invades Egypt from Libya; on 27 September Germany, Italy and Japan sign the Tripartite Pact."
+  ],
+  [
+   "15 Sep",
+   "Battle of Britain Day. On 17 September Hitler postpones the invasion of Britain.",
+   "On 28 October Italy invades Greece from Albania and is driven back."
+  ],
+  [
+   "14 Nov",
+   "Coventry is devastated. The Blitz on British cities goes on until May 1941.",
+   "On 18 December Hitler signs the directive for Operation Barbarossa. The Warsaw ghetto has been sealed since 15 November."
+  ],
+  [
+   "1941"
+  ],
+  [
+   "11 Mar",
+   "The US Lend-Lease Act is signed. In February Rommel has landed in Tripoli after British forces destroyed an Italian army in Libya.",
+   "Rommel's first offensive drives the British back to Egypt; Tobruk is besieged from 10 April."
+  ],
+  [
+   "6 Apr",
+   "Germany invades Yugoslavia and Greece; Athens falls on 27 April. Crete is invaded on 20 May; the Bismarck is sunk on 27 May.",
+   "British forces put down a pro-Axis coup in Iraq in May and invade Vichy-held Syria on 8 June."
+  ],
+  [
+   "22 Jun",
+   "Churchill broadcasts support for the Soviet Union. In August he and Roosevelt issue the Atlantic Charter.",
+   "Operation Barbarossa: Germany and its allies invade the Soviet Union. The Einsatzgruppen begin mass shootings of Jews."
+  ],
+  [
+   "8 Sep",
+   "The first Arctic convoy reached Archangel in August; British supplies flow to the Soviet Union.",
+   "Leningrad is cut off. Kyiv falls on 19 September, and 33,771 Jews are murdered at Babi Yar on 29–30 September."
+  ],
+  [
+   "5–11 Dec",
+   "In North Africa, Operation Crusader relieves Tobruk on 10 December.",
+   "Zhukov's counter-offensive saves Moscow. Japan attacks Pearl Harbor on 7 December; Germany declares war on the United States on 11 December. Gassing begins at Chełmno."
+  ],
+  [
+   "1942"
+  ],
+  [
+   "20 Jan",
+   "U-boats begin a slaughter of shipping off the US east coast.",
+   "The Wannsee conference coordinates the murder of Europe's Jews. Bełżec begins gassing in March, Sobibór in May."
+  ],
+  [
+   "28 Mar",
+   "The St Nazaire raid. That night the RAF burns Lübeck; on 30–31 May it sends 1,000 bombers to Cologne.",
+   "On 27 May Heydrich is attacked in Prague; Lidice is destroyed on 10 June. In late June Germany's summer offensive opens towards the Caucasus."
+  ],
+  [
+   "19 Aug",
+   "The Dieppe raid fails. In mid-August Operation Pedestal saves Malta.",
+   "The Sixth Army reaches the Volga north of Stalingrad on 23 August; the battle for the city begins."
+  ],
+  [
+   "23 Oct",
+   "Second Battle of El Alamein. On 8 November Anglo-American forces land in French North Africa; on 11 November Germany occupies Vichy France.",
+   "On 19 November Operation Uranus begins the encirclement of the Sixth Army at Stalingrad."
+  ],
+  [
+   "1943"
+  ],
+  [
+   "31 Jan",
+   "At Casablanca (14–24 January) Roosevelt and Churchill have demanded unconditional surrender. The US Eighth Air Force makes its first raid on Germany on 27 January.",
+   "Paulus surrenders at Stalingrad; the last pocket gives up on 2 February."
+  ],
+  [
+   "19 Apr",
+   "On 13 May the Axis forces in Tunisia surrender. The Dambusters raid is on 16–17 May.",
+   "The Warsaw Ghetto Uprising. Germany announced the discovery of the Katyn graves on 13 April."
+  ],
+  [
+   "24 May",
+   "After losing 41 U-boats in May, Dönitz withdraws them from the North Atlantic.",
+   "The Red Army prepares deep defences around the Kursk salient."
+  ],
+  [
+   "10 Jul",
+   "The Allies land in Sicily. On 25 July Mussolini is deposed; on 27–28 July the firestorm destroys much of Hamburg.",
+   "The Battle of Kursk began on 5 July; Prokhorovka is fought on 12 July and Hitler calls off the offensive next day."
+  ],
+  [
+   "8–9 Sep",
+   "Italy's armistice is announced and the Allies land at Salerno; Germany seizes Rome and most of Italy.",
+   "The Red Army retakes Smolensk on 25 September and Kyiv on 6 November. In October most of Denmark's Jews escape to Sweden; Sobibór revolts on 14 October."
+  ],
+  [
+   "28 Nov",
+   "At Tehran Roosevelt, Churchill and Stalin fix the invasion of France for May 1944.",
+   "On 26 December the Royal Navy sinks the Scharnhorst off North Cape."
+  ],
+  [
+   "1944"
+  ],
+  [
+   "22 Jan",
+   "The Allies land at Anzio. Monte Cassino's abbey is bombed on 15 February. In late February 'Big Week' wears down the Luftwaffe's fighters.",
+   "The siege of Leningrad is lifted on 27 January."
+  ],
+  [
+   "19 Mar",
+   "On 18 May Polish troops take Monte Cassino; Rome falls on 4 June.",
+   "Germany occupies Hungary. From 15 May some 424,000 Hungarian Jews are deported to Auschwitz."
+  ],
+  [
+   "6 Jun",
+   "D-Day: Allied landings in Normandy. The first V-1 flying bombs hit London on 13 June.",
+   "On 22 June the Red Army opens Operation Bagration; Minsk is retaken on 3 July."
+  ],
+  [
+   "20 Jul",
+   "The Allies take Caen; the Americans break out in Operation Cobra on 25 July.",
+   "Stauffenberg's bomb at the Wolf's Lair fails. Majdanek is liberated on 22–24 July."
+  ],
+  [
+   "1 Aug",
+   "Allied forces land in Provence on 15 August; the Falaise pocket closes on 21 August; Paris is liberated on 25 August.",
+   "The Warsaw Rising begins. Romania changes sides on 23 August; the Slovak National Uprising breaks out on 29 August."
+  ],
+  [
+   "17 Sep",
+   "Operation Market Garden. Brussels and Antwerp fell on 3–4 September; the first V-2 hit London on 8 September.",
+   "Finland signs an armistice on 19 September. The Warsaw Rising ends on 2 October; Belgrade is liberated on 20 October."
+  ],
+  [
+   "16 Dec",
+   "Germany's Ardennes offensive: the Battle of the Bulge. Bastogne is relieved on 26 December.",
+   "The Red Army surrounds Budapest on 26 December. In Athens British troops fight the communist-led ELAS."
+  ],
+  [
+   "1945"
+  ],
+  [
+   "12 Jan",
+   "The Ardennes salient is eliminated by the end of January.",
+   "The Vistula–Oder offensive opens. Auschwitz is liberated on 27 January."
+  ],
+  [
+   "4 Feb",
+   "Dresden is bombed on 13–15 February.",
+   "Roosevelt, Churchill and Stalin meet at Yalta (4–11 February). Budapest falls on 13 February."
+  ],
+  [
+   "7 Mar",
+   "US troops seize the Remagen bridge. Montgomery crosses the lower Rhine on 23–24 March.",
+   "Germany's last offensive, at Lake Balaton in Hungary, fails in mid-March."
+  ],
+  [
+   "11–16 Apr",
+   "Buchenwald (11 April) and Bergen-Belsen (15 April) are liberated; President Roosevelt dies on 12 April.",
+   "Vienna falls on 13 April. On 16 April the Red Army attacks the Seelow Heights: the battle for Berlin begins."
+  ],
+  [
+   "25 Apr",
+   "Americans and Soviets meet at Torgau. On 29 April Dachau is liberated and the German surrender in Italy is signed.",
+   "Berlin is surrounded. Hitler kills himself on 30 April; the Berlin garrison surrenders on 2 May."
+  ],
+  [
+   "7–8 May",
+   "Jodl signs the surrender at Reims; VE Day on 8 May.",
+   "The ratified surrender is signed at Karlshorst late on 8 May. The Red Army enters Prague on 9 May."
+  ],
+  [
+   "2 Sep",
+   "The Potsdam conference (17 July – 2 August) has settled the occupation of Germany.",
+   "After the atomic bombs and the Soviet attack on Manchuria, Japan signs its surrender in Tokyo Bay. The Second World War is over."
+  ]
+ ],
+ "GLOSS": [
+  [
+   "Wehrmacht",
+   "Germany's armed forces as a whole from 1935: the army (Heer), navy (Kriegsmarine) and air force (Luftwaffe)"
+  ],
+  [
+   "OKW / OKH",
+   "The High Command of the Armed Forces and the High Command of the Army; from late 1941 Hitler commanded the army himself"
+  ],
+  [
+   "Waffen-SS",
+   "The armed branch of Himmler's SS, which grew from a few regiments to some 38 divisions; it fought alongside the army and committed many massacres"
+  ],
+  [
+   "SS and SD",
+   "Himmler's Party organisation, which ran the police, the concentration camps and the security service (SD)"
+  ],
+  [
+   "RSHA",
+   "Reich Security Main Office, under Heydrich and then Kaltenbrunner — the headquarters of the Gestapo, the criminal police and the SD"
+  ],
+  [
+   "Einsatzgruppen",
+   "SS and police mobile killing units that followed the army into Poland and the Soviet Union and shot Jews, communists and others"
+  ],
+  [
+   "Final Solution",
+   "The Nazi term for the murder of all of Europe's Jews"
+  ],
+  [
+   "Operation Reinhard",
+   "The 1942–43 programme to murder the Jews of occupied Poland in the camps of Bełżec, Sobibór and Treblinka"
+  ],
+  [
+   "Luftwaffe",
+   "The German air force"
+  ],
+  [
+   "Kriegsmarine",
+   "The German navy; its U-boat arm was led by Admiral Karl Dönitz"
+  ],
+  [
+   "Blitzkrieg",
+   "'Lightning war' — fast, concentrated attacks by tanks and aircraft; a label used more by journalists than by German doctrine"
+  ],
+  [
+   "Panzer",
+   "German tank, and the armoured divisions built round tanks"
+  ],
+  [
+   "Kessel",
+   "'Cauldron' — a pocket of encircled troops"
+  ],
+  [
+   "Atlantic Wall",
+   "The German coastal defences from Norway to the Spanish border, strengthened under Rommel in 1944"
+  ],
+  [
+   "West Wall",
+   "Germany's border fortifications, called the Siegfried Line by the Allies"
+  ],
+  [
+   "Organisation Todt",
+   "The German construction organisation that built the Atlantic Wall and U-boat bases, largely with forced labour"
+  ],
+  [
+   "Red Army",
+   "The Soviet army; its army groups were called Fronts"
+  ],
+  [
+   "NKVD",
+   "The Soviet secret police, responsible for Katyn, deportations and the post-war special camps"
+  ],
+  [
+   "Great Patriotic War",
+   "The Russian name for the war against Germany, 1941–45"
+  ],
+  [
+   "Home Army (AK)",
+   "Poland's underground army, loyal to the government-in-exile in London"
+  ],
+  [
+   "FFI",
+   "French Forces of the Interior, the armed Resistance in 1944"
+  ],
+  [
+   "SOE",
+   "Special Operations Executive — the British organisation that ran sabotage and agents in occupied Europe"
+  ],
+  [
+   "RAF Fighter Command",
+   "The RAF's fighter organisation, which fought the Battle of Britain through its Groups; No. 11 Group defended the south-east"
+  ],
+  [
+   "Bomber Command",
+   "The RAF's bomber force, under Sir Arthur Harris from February 1942; it bombed mainly by night"
+  ],
+  [
+   "Eighth Air Force",
+   "The US strategic bomber force in Britain, which bombed by day"
+  ],
+  [
+   "Enigma",
+   "The German cipher machine used by all the armed forces"
+  ],
+  [
+   "Ultra",
+   "The British name for intelligence from broken high-level German codes and ciphers"
+  ],
+  [
+   "Lend-Lease",
+   "The US programme, from March 1941, that supplied Britain, the Soviet Union and other Allies with arms, vehicles, fuel and food"
+  ],
+  [
+   "BEF",
+   "British Expeditionary Force — the British army in France in 1939–40"
+  ],
+  [
+   "SHAEF",
+   "Supreme Headquarters Allied Expeditionary Force, Eisenhower's command in north-west Europe from 1944"
+  ],
+  [
+   "21st Army Group",
+   "Montgomery's British and Canadian command in north-west Europe, 1944–45"
+  ],
+  [
+   "Overlord / Neptune",
+   "The invasion of Normandy; Neptune was its naval and landing phase"
+  ],
+  [
+   "Barbarossa",
+   "The German invasion of the Soviet Union, 22 June 1941"
+  ],
+  [
+   "Bagration",
+   "The Soviet offensive in Belarus, June–August 1944"
+  ],
+  [
+   "Market Garden",
+   "The airborne and ground attack towards Arnhem, September 1944"
+  ],
+  [
+   "V-1 / V-2",
+   "German 'vengeance weapons': a pulse-jet flying bomb and a ballistic rocket"
+  ],
+  [
+   "CWGC",
+   "Commonwealth War Graves Commission"
+  ],
+  [
+   "ABMC",
+   "American Battle Monuments Commission"
+  ],
+  [
+   "Volksbund",
+   "The German War Graves Commission (Volksbund Deutsche Kriegsgräberfürsorge)"
+  ]
+ ],
+ "BRIEF_STORY": [
+  {
+   "h": "Poland.",
+   "p": "On 1 September 1939 Germany invaded Poland, and two days later Britain and France declared war. The Polish army fought hard, but it was outnumbered, attacked from three sides and, from 17 September, stabbed in the back by the Soviet Union under the secret terms of the Nazi–Soviet Pact. Warsaw surrendered on 28 September and the last Polish forces on 6 October. The country was divided between two dictatorships. The Germans set out to destroy the Polish elite and to crowd Poland's Jews into ghettos; in the east, the Soviets deported hundreds of thousands and in 1940 shot some 22,000 Polish prisoners at Katyn and other sites."
+  },
+  {
+   "h": "The fall of France.",
+   "p": "After a winter of 'Phoney War', Germany seized Denmark and Norway in April 1940. On 10 May it attacked the Netherlands, Belgium and France. The British and French moved their best armies into Belgium, but the main German blow came through the Ardennes: on 13 May the panzers crossed the Meuse at Sedan and in a week reached the Channel, trapping the northern armies. Some 338,000 men were evacuated from Dunkirk, but France was beaten. It signed an armistice at Compiègne on 22 June, and the Vichy regime under Pétain collaborated with the occupier."
+  },
+  {
+   "h": "Britain alone.",
+   "p": "Churchill refused to negotiate. In the summer of 1940 the Luftwaffe tried to win control of the air over southern England as a prelude to invasion and failed against the RAF's radar-directed fighters; on 17 September Hitler postponed the invasion. The Blitz on British cities went on until May 1941. In the Atlantic the U-boats attacked the convoys that kept Britain alive, while Italy's entry into the war opened fronts in North Africa and the Mediterranean. Germany rescued its ally by conquering Yugoslavia and Greece in April 1941 and Crete in May, and sent Rommel to Libya."
+  },
+  {
+   "h": "Barbarossa.",
+   "p": "On 22 June 1941 Germany and its allies invaded the Soviet Union with more than three million men. The Red Army lost millions killed and captured in vast encirclements, and by the autumn the Germans were outside Leningrad and Moscow. Behind them the Einsatzgruppen shot Jewish communities by the tens of thousands, as at Babi Yar in September. But the Soviet state did not collapse. Its factories were moved east, its reserves were thrown in, and on 5 December Zhukov counter-attacked before Moscow. Two days later Japan attacked Pearl Harbor, and on 11 December Hitler declared war on the United States."
+  },
+  {
+   "h": "The Holocaust.",
+   "p": "At Wannsee in January 1942 senior officials coordinated the deportation and murder of all Europe's Jews. Death camps were built in occupied Poland — Chełmno, Bełżec, Sobibór and Treblinka, then Auschwitz-Birkenau and Majdanek — and trains came to them from France, the Netherlands, Greece, Italy, Hungary and everywhere German power reached. In 1942 alone some 2.7 million Jews were killed. By 1945 about six million had been murdered, along with Roma, Soviet prisoners of war, disabled people and others. In the Warsaw ghetto in 1943, and at Treblinka and Sobibór, Jews rose against their killers."
+  },
+  {
+   "h": "The turning points.",
+   "p": "In 1942 Germany struck again in the East, towards the Caucasus oilfields and the Volga. At Stalingrad the Sixth Army was drawn into a street battle, and in November the Red Army encircled it; Paulus surrendered at the start of February 1943. In North Africa the British won at El Alamein in November 1942 and Anglo-American forces landed in Morocco and Algeria; the Axis armies in Tunisia surrendered in May 1943. That same month the escorts beat the U-boats in the Atlantic. In July Germany's last great offensive in the East, at Kursk, failed within a week."
+  },
+  {
+   "h": "The squeeze.",
+   "p": "From mid-1943 Germany was on the defensive everywhere. The Allies landed in Sicily in July and in Italy in September; Mussolini fell and Italy changed sides, but the Germans held most of the peninsula and fought the Allies to a standstill at Monte Cassino until May 1944. The British and American bomber offensive burned Hamburg in July 1943 and in early 1944 destroyed the Luftwaffe's fighter force. In the East the Red Army advanced across Ukraine and in January 1944 ended the siege of Leningrad. Across occupied Europe resistance grew, and so did German reprisals."
+  },
+  {
+   "h": "Summer 1944.",
+   "p": "On 6 June 1944 the Western Allies landed in Normandy. For ten weeks they fought a bitter battle in the hedgerows and around Caen, until the Americans broke out in late July and two German armies were nearly trapped in the Falaise pocket. Paris was freed on 25 August. In the East, Operation Bagration destroyed Army Group Centre in Belarus from 22 June, and the Red Army reached the Vistula. On 20 July Stauffenberg's bomb failed to kill Hitler. On 1 August the Polish Home Army rose in Warsaw; the Soviets halted across the river, and after 63 days the Rising was crushed."
+  },
+  {
+   "h": "Autumn and winter.",
+   "p": "The Allied pursuit ran out of fuel at the German frontier. Market Garden, the airborne gamble to cross the Rhine at Arnhem in September, failed. Through the autumn the Americans fought slow, costly battles at Aachen and in the Hürtgen Forest. In the Balkans, Romania and Bulgaria changed sides and the Germans left Greece. On 16 December Hitler threw his last reserves into the Ardennes. The Battle of the Bulge took the Americans by surprise, but Bastogne held, and by January the German army had lost the strength it could no longer replace."
+  },
+  {
+   "h": "The fall of Germany.",
+   "p": "In January 1945 the Red Army swept from the Vistula to the Oder, freeing Auschwitz on 27 January. In the west the Allies cleared the Rhineland, crossed the Rhine at Remagen on 7 March and in strength on 23–24 March, and encircled the Ruhr. As they advanced, they found the camps — Buchenwald, Belsen, Dachau — and the world saw what had been done. On 16 April the Soviets attacked towards Berlin; on 25 April Americans and Soviets met on the Elbe. Hitler killed himself on 30 April. Germany surrendered unconditionally at Reims on 7 May and at Karlshorst late on 8 May."
+  }
+ ],
+ "WHY": "No one place explains the Second World War in Europe. Westerplatte and Sedan show how fast Germany won in 1939–40; Uxbridge, Bletchley and the Western Approaches bunker show how Britain held on. The cemeteries of Normandy and the memorials of Stalingrad and Prokhorovka show where the war was decided and at what cost. The camps — Treblinka, Auschwitz, Dachau, Belsen — and villages such as Lidice and Oradour show what the war was for in Nazi eyes, and what victory stopped. Seen together, from Gdańsk to Karlshorst, the places add up to one war: a war of armies, industry and codes, and of genocide.",
+ "CAVEATS": [
+  [
+   "How many Soviet dead?",
+   "The Soviet Union lost about 27 million people, soldiers and civilians, according to the figure published in 1990 from demographic calculations; Stalin had admitted 7 million, Khrushchev 20 million. For military deaths, the Russian General Staff study led by G. F. Krivosheev gives about 8.7 million, including prisoners who died in captivity. Some Russian and Western researchers argue that this is too low and that military dead may have exceeded 11 million. Civilian deaths are harder still to count, because the borders of 1941 and the population of the occupied lands are themselves uncertain."
+  ],
+  [
+   "The halt before Dunkirk",
+   "On 24 May 1940 Hitler confirmed a halt of the panzers short of Dunkirk, which gave the Allies time to organise the perimeter and the evacuation. Why is still argued. The halt was proposed by Rundstedt, commanding Army Group A, to rest and repair his tanks for the battle still to come in the south and to avoid the canals and marshes round Dunkirk; Göring promised that the Luftwaffe could finish the job. The idea that Hitler let the British go to make peace easier comes mainly from later claims and is doubted by most historians."
+  ],
+  [
+   "How big was Prokhorovka?",
+   "Soviet histories described Prokhorovka on 12 July 1943 as the greatest tank battle in history, with some 1,500 tanks and a German armoured force smashed. Research in German and Soviet archives since the 1990s — by Karl-Heinz Frieser, Valeriy Zamulin, David Glantz and others — shows roughly 600 Soviet tanks and self-propelled guns against fewer than 300 German. The Soviets lost around 300–400 tanks that day; German permanent losses were small, perhaps only a handful, though many more were damaged. The Soviet attack nevertheless stopped the SS Panzer Corps, and the offensive was called off."
+  ],
+  [
+   "The Dresden death toll",
+   "For decades, figures of 135,000, 200,000 or even more were quoted for the dead of the February 1945 raids on Dresden. They began with Nazi propaganda, which added a nought to a police report, and were spread after the war, notably by David Irving on the basis of a forged document. A historians' commission set up by the city reported in 2010 that between 18,000 and 25,000 people died. The moral argument over the raid — military necessity or terror bombing — continues separately from the numbers."
+  ],
+  [
+   "Katyn",
+   "When Germany announced the discovery of the Katyn graves in April 1943, the Soviet Union blamed the Germans, broke off relations with the Polish government in London when it asked for a Red Cross inquiry, and in 1944 produced its own commission report. The Soviets even raised Katyn at the Nuremberg trials, where the charge was quietly dropped. Western governments, needing Stalin, said little. Only in 1990 did the Soviet Union admit that the NKVD had carried out the killings; some Russian investigation files remain closed, and the full list of victims from Belarus has never been published."
+  ],
+  [
+   "Why did the Red Army stop at Warsaw?",
+   "When the Home Army rose in August 1944, the Red Army stood a few kilometres from Warsaw and then halted. One view stresses military reasons: the Soviet armies were exhausted after advancing hundreds of kilometres in Bagration, and German panzer divisions had just defeated their spearhead north-east of the city. The other stresses Stalin's politics: he wanted no independent Polish authority in the capital, and for weeks refused Allied supply aircraft the use of Soviet airfields. Most historians accept that both played a part; they disagree on the balance."
+  ],
+  [
+   "Who lost at Arnhem?",
+   "Montgomery called Market Garden '90 per cent successful'; others see it as an avoidable failure. Blame has been laid on the plan's single road, on intelligence warnings about SS panzer units near Arnhem that were discounted, on drop zones 10–13 km from the bridge, on radios that did not work, on the delay at Nijmegen and on the slow advance of XXX Corps. Major-General Sosabowski of the Polish Parachute Brigade, who had warned against the plan, was removed from command afterwards — a decision widely seen today as unjust."
+  ],
+  [
+   "Numbers murdered in the camps",
+   "Early post-war figures for individual camps were often far too high: a Soviet commission put the dead of Auschwitz at 4 million, which stood on the memorial until 1990, and Majdanek's at 1.5 million. Research in the camp records, transport lists and population data has since produced lower, better-founded figures — about 1.1 million for Auschwitz (Franciszek Piper), about 78,000 for Majdanek (Tomasz Kranz). Treblinka estimates range from about 800,000 to 925,000. These revisions do not change the total of about six million Jews murdered, which rests on separate population studies."
+  ],
+  [
+   "Myths of 'the Few'",
+   "Some 2,900 aircrew of Fighter Command took part in the Battle of Britain, and about 544 were killed. They were not only British: about one in five came from elsewhere, including Poles, Czechs, New Zealanders, Canadians and others, and the Polish No. 303 Squadron had the best record of any. Nor were they hopelessly outnumbered in fighters. Their success owed much to radar and the control system, to Hurricanes as much as Spitfires, and to German errors. Some historians argue that the Royal Navy, rather than Fighter Command alone, was the real barrier to invasion."
+  ]
+ ],
+ "ORIGINS": [
+  {
+   "h": "1 · Versailles and the 1930s",
+   "paras": [
+    {
+     "b": "An unhappy peace.",
+     "p": "The Treaty of Versailles, signed on 28 June 1919, took territory from Germany in the east and west, limited its army to 100,000 men with no tanks or aircraft, demilitarised the Rhineland and made it pay reparations. Most Germans regarded the treaty as a dictated peace, and the claim that the army had been 'stabbed in the back' at home in 1918 poisoned politics. Poland was reborn, with a corridor to the sea that cut East Prussia off from the rest of Germany; Danzig became a Free City under the League of Nations."
+    },
+    {
+     "b": "The Depression.",
+     "p": "The new democracies of central Europe survived the 1920s, but the world economic crisis after 1929 broke the Weimar Republic. By early 1932 about six million Germans were out of work. Voters turned to the extremes, and the Nazi Party became the largest in the Reichstag that July. Elsewhere, too, democracy was in retreat: Italy had been Fascist since 1922, and by the late 1930s most states between the Baltic and the Aegean were run by dictators or authoritarian governments."
+    }
+   ]
+  },
+  {
+   "h": "2 · Hitler's rise and rearmament",
+   "paras": [
+    {
+     "b": "Power.",
+     "p": "Hitler was appointed Chancellor on 30 January 1933. Within months the Reichstag fire was used to suspend civil rights, the Enabling Act let him rule by decree, other parties were banned and the first concentration camp opened at Dachau. Jews were driven out of public life and, by the Nuremberg Laws of 1935, stripped of citizenship."
+    },
+    {
+     "b": "Rearmament.",
+     "p": "Germany left the League of Nations in October 1933, announced conscription and an air force in March 1935 and sent troops into the demilitarised Rhineland on 7 March 1936. Britain and France protested and did nothing. In the Spanish Civil War, from July 1936, the Luftwaffe's Condor Legion gained combat experience, bombing Guernica in April 1937, while Mussolini's Italy, after conquering Ethiopia, drew closer to Hitler in the Rome–Berlin Axis."
+    },
+    {
+     "b": "Living space.",
+     "p": "Hitler's aims went far beyond revising Versailles. He wanted 'living space' (Lebensraum) in the East, to be won by war against the Soviet Union and settled by Germans at the expense of the Slav peoples, and he saw the Jews as the enemy behind both Bolshevism and the Western democracies."
+    }
+   ]
+  },
+  {
+   "h": "3 · Appeasement and Munich",
+   "paras": [
+    {
+     "b": "Austria.",
+     "p": "In March 1938 German troops marched into Austria, and the Anschluss made it part of the Reich. Hitler next demanded the Sudetenland, the German-speaking border regions of Czechoslovakia, a democracy allied to France with strong frontier fortifications."
+    },
+    {
+     "b": "Munich.",
+     "p": "Britain's Prime Minister, Neville Chamberlain, believed a general war could be avoided by meeting Germany's 'reasonable' grievances, and Britain and France were not ready to fight. At Munich on 29–30 September 1938 Britain, France and Italy agreed that Germany should take the Sudetenland; the Czechoslovaks were not even at the table. Chamberlain returned promising 'peace for our time'. Historians still argue whether appeasement was cowardice or a realistic way of buying time to rearm; it certainly bought time for Germany as well."
+    },
+    {
+     "b": "The end of illusions.",
+     "p": "On the night of 9–10 November 1938, in the Kristallnacht pogrom, synagogues and Jewish shops were destroyed across Germany. On 15 March 1939 Hitler occupied what remained of the Czech lands. This was no German grievance, and British opinion turned. On 31 March Britain and France guaranteed Poland's independence. Hitler now demanded Danzig and a route across the Polish corridor."
+    }
+   ]
+  },
+  {
+   "h": "4 · The Nazi–Soviet Pact",
+   "paras": [
+    {
+     "b": "Two dictators.",
+     "p": "Britain and France held half-hearted talks with the Soviet Union in the summer of 1939; Poland would not allow Soviet troops onto its soil. Stalin, distrustful of the West after Munich, took the better offer. On 23 August 1939 the German and Soviet foreign ministers, Ribbentrop and Molotov, signed a non-aggression pact in Moscow. A secret protocol divided eastern Europe into spheres: western Poland and Lithuania for Germany (Lithuania was soon traded), eastern Poland, the Baltic states, Finland and Bessarabia for the Soviet Union."
+    },
+    {
+     "b": "War.",
+     "p": "Free of the danger of a war on two fronts, Hitler attacked Poland on 1 September 1939, after the SS staged a fake Polish attack on the radio station at Gleiwitz. Britain, which had signed an alliance with Poland on 25 August, and France declared war on 3 September. The Soviet Union invaded from the east on 17 September and supplied Germany with oil, grain and raw materials until June 1941."
+    }
+   ]
+  },
+  {
+   "h": "5 · How the armies were organised",
+   "paras": [
+    {
+     "b": "Common building blocks.",
+     "p": "Almost every army used the same ladder: sections or squads of about ten men, platoons of about thirty, companies of about 120, battalions of 600–900, regiments or brigades of three battalions, and divisions of 10,000–18,000 men with their own artillery, engineers and supply. Two to five divisions made a corps, several corps an army, and several armies an army group — called a Front in the Red Army."
+    },
+    {
+     "b": "German.",
+     "p": "The German army of 1939–40 was mostly infantry that marched on foot with horse-drawn supply; its edge came from a small number of panzer divisions, close air support and well-trained junior leaders encouraged to use initiative. It grew to well over 200 divisions, many of them worn down to a fraction of their strength by 1944. The Waffen-SS expanded alongside it, and from 1944 the Volksgrenadier divisions and the Volkssturm militia filled the gaps with older men and boys."
+    },
+    {
+     "b": "British and Commonwealth.",
+     "p": "Britain sent a small, fully motorised Expeditionary Force to France in 1939–40. It grew into a citizen army that fought alongside contingents from Canada, Australia, New Zealand, South Africa and India — whose army became the largest volunteer force in history — and was strongest in artillery. Infantry divisions of three brigades were backed by armoured divisions and independent tank brigades."
+    },
+    {
+     "b": "French.",
+     "p": "France mobilised about five million men behind the Maginot Line in 1939. Its army had good tanks but spread many of them among infantry units, relied on slow communications and was organised for a methodical war like 1918. After 1942 the Free French and the army of North Africa, re-equipped by the Americans, fought in Tunisia, Italy and France."
+    },
+    {
+     "b": "American.",
+     "p": "The US Army grew from fewer than 200,000 men in 1939 to more than eight million in 1945, including the Army Air Forces, and fielded 89 divisions. Its divisions were fully motorised, supplied on a lavish scale and supported by plentiful artillery with very good fire control."
+    },
+    {
+     "b": "Soviet.",
+     "p": "The Red Army was purged of much of its senior command in 1937–38 and was caught reorganising in 1941. It lost millions of men that year but rebuilt itself: rifle divisions were smaller than western ones, while tank and mechanised corps and massed artillery were concentrated for breakthroughs. By 1944 it was a skilled, hard-hitting force, though still careless of casualties, and moved by American-built lorries."
+    },
+    {
+     "b": "Polish.",
+     "p": "Poland mobilised about a million men in 1939, with infantry divisions and cavalry brigades but few tanks or modern aircraft. After its defeat, Poles fought on in the west — in France in 1940, in the Battle of Britain, at Tobruk, Monte Cassino, Falaise and Arnhem — while the Home Army fought underground at home and a Soviet-sponsored Polish army fought its way from the east to Berlin."
+    }
+   ]
+  },
+  {
+   "h": "6 · The Holocaust and the war",
+   "paras": [
+    {
+     "b": "Inseparable.",
+     "p": "The murder of Europe's Jews cannot be told apart from the war. Conquest brought millions of Jews under German control: about 3.3 million in Poland, millions more in the occupied Soviet Union. Persecution became mass murder with the invasion of the Soviet Union in 1941, when the Einsatzgruppen began shooting whole communities, and systematic deportation to death camps followed from 1942. About six million Jews were murdered, along with Roma, people with disabilities, Soviet prisoners of war and others."
+    },
+    {
+     "b": "At the sites.",
+     "p": "Many of the places in this guide — Wannsee, Treblinka, Auschwitz, Majdanek, Babi Yar, Dachau, Belsen and the Anne Frank House — belong to this story. They are places of memory and of mourning, and some are graves. Dress and behave accordingly, follow the memorials' rules on photography, and allow time: these are not sites to hurry through."
+    }
+   ]
+  }
+ ],
+ "HOME_LEDE": "From the first shots at Westerplatte to the surrender at Karlshorst: the places where the Second World War in Europe was fought, decided and remembered, with the camps, the codebreakers and the occupied cities between them.",
+ "SOURCES": [
+  "https://de.wikipedia.org/wiki/Gedenkst%C3%A4tte_Seelower_H%C3%B6hen",
+  "https://de.wikipedia.org/wiki/Historisch-Technisches_Museum_Peenem%C3%BCnde",
+  "https://de.wikipedia.org/wiki/KZ_Bergen-Belsen",
+  "https://de.wikipedia.org/wiki/KZ_Dachau",
+  "https://de.wikipedia.org/wiki/KZ_Mauthausen",
+  "https://de.wikipedia.org/wiki/KZ_Natzweiler-Struthof",
+  "https://de.wikipedia.org/wiki/Ludendorff-Br%C3%BCcke",
+  "https://de.wikipedia.org/wiki/Mahnmal_St._Nikolai",
+  "https://de.wikipedia.org/wiki/Museum_Berlin-Karlshorst",
+  "https://de.wikipedia.org/wiki/Speziallager_Nr._2_Buchenwald",
+  "https://en.wikipedia.org/wiki/Arromanches-les-Bains",
+  "https://en.wikipedia.org/wiki/Assassination_of_Reinhard_Heydrich",
+  "https://en.wikipedia.org/wiki/Auschwitz-Birkenau_State_Museum",
+  "https://en.wikipedia.org/wiki/Auschwitz_I",
+  "https://en.wikipedia.org/wiki/Auschwitz_concentration_camp",
+  "https://en.wikipedia.org/wiki/Babi_Yar",
+  "https://en.wikipedia.org/wiki/Battle_of_Britain_Bunker",
+  "https://en.wikipedia.org/wiki/Battle_of_Crete",
+  "https://en.wikipedia.org/wiki/Battle_of_Fort_Eben-Emael",
+  "https://en.wikipedia.org/wiki/Battle_of_H%C3%BCrtgen_Forest",
+  "https://en.wikipedia.org/wiki/Battle_of_Hill_262",
+  "https://en.wikipedia.org/wiki/Battle_of_Moscow",
+  "https://en.wikipedia.org/wiki/Battle_of_Prokhorovka",
+  "https://en.wikipedia.org/wiki/Battle_of_Sedan_(1940)",
+  "https://en.wikipedia.org/wiki/Battle_of_Westerplatte",
+  "https://en.wikipedia.org/wiki/Battles_of_Narvik",
+  "https://en.wikipedia.org/wiki/Bletchley_Park",
+  "https://en.wikipedia.org/wiki/Bombing_of_Hamburg_in_World_War_II",
+  "https://en.wikipedia.org/wiki/Brest_Fortress",
+  "https://en.wikipedia.org/wiki/Buchenwald_concentration_camp",
+  "https://en.wikipedia.org/wiki/Coventry_Cathedral",
+  "https://en.wikipedia.org/wiki/Dieppe_Raid",
+  "https://en.wikipedia.org/wiki/Dunkirk_evacuation",
+  "https://en.wikipedia.org/wiki/Elbe_Day",
+  "https://en.wikipedia.org/wiki/Falaise_pocket",
+  "https://en.wikipedia.org/wiki/Frauenkirche,_Dresden",
+  "https://en.wikipedia.org/wiki/German_Instrument_of_Surrender",
+  "https://en.wikipedia.org/wiki/Glade_of_the_Armistice",
+  "https://en.wikipedia.org/wiki/H%C3%B4tel_de_Ville,_Paris",
+  "https://en.wikipedia.org/wiki/Hel,_Poland",
+  "https://en.wikipedia.org/wiki/House_of_the_Wannsee_Conference",
+  "https://en.wikipedia.org/wiki/John_Frost_Bridge",
+  "https://en.wikipedia.org/wiki/Juno_Beach_Centre",
+  "https://en.wikipedia.org/wiki/Katyn_massacre",
+  "https://en.wikipedia.org/wiki/Katyn_war_cemetery",
+  "https://en.wikipedia.org/wiki/La_Coupole",
+  "https://en.wikipedia.org/wiki/Lascaris_War_Rooms",
+  "https://en.wikipedia.org/wiki/Liberation_of_Paris",
+  "https://en.wikipedia.org/wiki/Lidice",
+  "https://en.wikipedia.org/wiki/Ludendorff_Bridge",
+  "https://en.wikipedia.org/wiki/Majdanek_concentration_camp",
+  "https://en.wikipedia.org/wiki/Maleme",
+  "https://en.wikipedia.org/wiki/Mamayev_Kurgan",
+  "https://en.wikipedia.org/wiki/Mardasson_Memorial",
+  "https://en.wikipedia.org/wiki/Mauthausen_concentration_camp",
+  "https://en.wikipedia.org/wiki/Minsk",
+  "https://en.wikipedia.org/wiki/Monte_Cassino",
+  "https://en.wikipedia.org/wiki/Monument_to_the_Ghetto_Heroes",
+  "https://en.wikipedia.org/wiki/Mulberry_harbour",
+  "https://en.wikipedia.org/wiki/Museum_of_the_Great_Patriotic_War,_Moscow",
+  "https://en.wikipedia.org/wiki/Narvik",
+  "https://en.wikipedia.org/wiki/Natzweiler-Struthof",
+  "https://en.wikipedia.org/wiki/Norwegian_heavy_water_sabotage",
+  "https://en.wikipedia.org/wiki/Operation_Bagration",
+  "https://en.wikipedia.org/wiki/Operation_Plunder",
+  "https://en.wikipedia.org/wiki/Oradour-sur-Glane_massacre",
+  "https://en.wikipedia.org/wiki/Pegasus_Bridge",
+  "https://en.wikipedia.org/wiki/Piskaryovskoye_Memorial_Cemetery",
+  "https://en.wikipedia.org/wiki/Poklonnaya_Hill",
+  "https://en.wikipedia.org/wiki/Reichstag_building",
+  "https://en.wikipedia.org/wiki/St_Nazaire_Raid",
+  "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral",
+  "https://en.wikipedia.org/wiki/The_Destroyed_City",
+  "https://en.wikipedia.org/wiki/Third_Battle_of_Kharkov",
+  "https://en.wikipedia.org/wiki/Torgau",
+  "https://en.wikipedia.org/wiki/Treblinka_extermination_camp",
+  "https://en.wikipedia.org/wiki/Vemork",
+  "https://en.wikipedia.org/wiki/Wannsee_Conference",
+  "https://en.wikipedia.org/wiki/Wesel",
+  "https://en.wikipedia.org/wiki/Western_Approaches_Command",
+  "https://en.wikipedia.org/wiki/Wolf%27s_Lair",
+  "https://fr.wikipedia.org/wiki/Fort_d%27%C3%89ben-%C3%89mael",
+  "https://tracesofwar.com/sights/1208/Warsaw-Uprising-Museum.htm",
+  "https://www.dunkerque-tourisme.fr/app/uploads/dunkerque/2026/06/Guide-memoire_FR.pdf",
+  "https://www.prague.eu/en/object/places/565/national-monument-to-the-heroes-of-the-heydrich-terror-narodni-pamatnik-hrdinu-heydrichiady",
+  "https://www.tracesofwar.com/sights/1119",
+  "https://www.tracesofwar.com/sights/1437",
+  "https://www.tracesofwar.com/sights/711/Museum-H%FCrtgenwald-1944-und-im-Frieden.htm",
+  "https://www.tracesofwar.com/sights/99",
+  "https://www.uswarmemorials.org/html/site_details.php?SiteID=185"
+ ],
+ "NOTES": "TL positions with lat/lon null (Mauthausen, Reims, Wesel) still need coordinates from an opened source: Wikipedia was rate-limiting (HTTP 429) and the pages read had no coordinates; the regional researchers also left Reims and Mauthausen null. TL_SRC entries for positions 8, 21, 33, 38, 43, 46, 47, 50, 52, 57 use coordinates taken from the regional research files in Research/regions/ and cite the source recorded there."
+}
