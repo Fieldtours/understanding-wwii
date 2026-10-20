@@ -1,4 +1,4 @@
-/* Understanding WWII service worker — keeps the guides working without internet */
+/* Footsteps of WWII service worker — keeps the guides working without internet */
 const CORE="uw-core2", DATA="uw-data2", VERSION="v2";
 const CORE_FILES=["./","index.html","welcome.jpg","welcome-wide.jpg","site.webmanifest","favicon.ico","favicon-32.png","favicon-16.png","apple-touch-icon.png","icon-192.png","icon-512.png","icon-maskable-512.png","fonts/bss-700.woff2","fonts/bss-800.woff2","fonts/bss-700-ext.woff2","fonts/bss-800-ext.woff2","fonts/special-elite-400.woff2","fonts/courier-prime-400.woff2","fonts/courier-prime-700.woff2"];
 self.addEventListener("install",e=>{e.waitUntil(caches.open(CORE).then(c=>Promise.all(CORE_FILES.map(f=>fetch(f,{cache:"no-store"}).then(r=>r.ok&&c.put(f,r)).catch(()=>{})))).then(()=>self.skipWaiting()))});

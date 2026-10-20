@@ -1,4 +1,4 @@
-UNDERSTANDING WWII - THE SECOND WORLD WAR IN EUROPE 1939-1945 - A DZ CHARLIE FIELD GUIDE
+FOOTSTEPS OF WWII (formerly "Understanding WWII") - THE SECOND WORLD WAR IN EUROPE 1939-1945 - A DZ CHARLIE FIELD GUIDE
 
 WHAT IT IS
 A free phone guide to the whole war in Europe, from the first shots at Westerplatte

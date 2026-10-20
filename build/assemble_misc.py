@@ -1,10 +1,10 @@
 # Head, welcome, header, theme, storage keys, diary, weapons, More page, maps, counter.
-TITLE = 'Understanding WWII: the Second World War in Europe 1939–1945 — Battlefield Field Guide | DZ Charlie'
+TITLE = 'Footsteps of WWII: the Second World War in Europe 1939–1945 — Battlefield Field Guide | DZ Charlie'
 DESC = ('Free offline phone guide to the Second World War in Europe, 1939–1945: Westerplatte, Dunkirk, the Battle of Britain, '
         'Stalingrad, Normandy, Arnhem, Bastogne, Berlin and the camps — routes, maps, museums and memorials.')
-URL = 'https://dzcharlie.com/understanding-wwii/'
+URL = 'https://dzcharlie.com/footsteps-of-wwii/'
 a = T.index('<title>'); b = T.index('</script><style>', a) + len('</script>')
-ld = {"@context": "https://schema.org", "@type": "TravelApplication", "name": "Understanding WWII — DZ Charlie field guide to the Second World War in Europe",
+ld = {"@context": "https://schema.org", "@type": "TravelApplication", "name": "Footsteps of WWII — DZ Charlie field guide to the Second World War in Europe",
       "url": URL, "description": DESC, "image": URL + "welcome-wide.jpg", "applicationCategory": "TravelApplication", "operatingSystem": "Web, iOS, Android",
       "inLanguage": "en", "isAccessibleForFree": True, "offers": {"@type": "Offer", "price": "0", "priceCurrency": "EUR"},
       "about": "The Second World War in Europe, 1 September 1939 – 8 May 1945", "publisher": {"@type": "Organization", "name": "DZ Charlie", "url": "https://dzcharlie.com/"}}
@@ -49,14 +49,14 @@ rep('.wel .welbg{position:absolute;inset:-40px;background:#2a241c url(welcome.jp
     '.wel .welbg{position:absolute;inset:-40px;background:#1b2631 url(welcome.jpg) center/cover no-repeat;filter:blur(22px) brightness(.5)}')
 T = T.replace('.wel{position:fixed;inset:0;z-index:1000;display:flex;flex-direction:column;background:#1c1a15;', '.wel{position:fixed;inset:0;z-index:1000;display:flex;flex-direction:column;background:#1b2631;')
 a = T.index('<img class="welimg" src="welcome.jpg" alt="'); b = T.index('"></picture>', a)
-T = T[:a] + '<img class="welimg" src="welcome.jpg" alt="Understanding WWII — the Second World War in Europe, 1939–1945. Cover: a wartime RAF operations room, plotters moving markers across a large map table, under the title in stencil letters and a red MOST SECRET stamp' + T[b:]
+T = T[:a] + '<img class="welimg" src="welcome.jpg" alt="Footsteps of WWII — the Second World War in Europe, 1939–1945. Cover: a wartime RAF operations room, plotters moving markers across a large map table, under the title in stencil letters and a red MOST SECRET stamp' + T[b:]
 rep('<p class="welt">Follow the Allied armies from the beaches of Sicily to the Alps, 1943–1945.</p>', '<p class="welt">The whole war in Europe, from the first shots at Westerplatte to the surrender in Berlin, 1939–1945.</p>')
 
 # header and page titles
 rep('const CAMP="Italy";', 'const CAMP="Europe 1939–45";')
 rep('dday:"The campaign"', 'dday:"The war"')
-rep('$("#rdeyebrow").textContent=c==="home"?"Into Europe · field guide":"Into Europe · Italy 1943–45";', '$("#rdeyebrow").textContent=c==="home"?"Understanding WWII · field guide":"Understanding WWII · Europe 1939–45";')
-T = T.replace('<small id="rdeyebrow">Into Europe · field guide</small><b id="rdtitle">Italy</b>', '<small id="rdeyebrow">Understanding WWII · field guide</small><b id="rdtitle">Europe 1939–45</b>')
+rep('$("#rdeyebrow").textContent=c==="home"?"Into Europe · field guide":"Into Europe · Italy 1943–45";', '$("#rdeyebrow").textContent=c==="home"?"Footsteps of WWII · field guide":"Footsteps of WWII · Europe 1939–45";')
+T = T.replace('<small id="rdeyebrow">Into Europe · field guide</small><b id="rdtitle">Italy</b>', '<small id="rdeyebrow">Footsteps of WWII · field guide</small><b id="rdtitle">Europe 1939–45</b>')
 T = T.replace('aria-controls="p-dday">Campaign</button>', 'aria-controls="p-dday">The war</button>')
 T = T.replace('aria-label="War Diary — your trip journal: save or share each day of your route" title="War Diary — your trip journal"', 'aria-label="Despatches — your trip journal: save or share each day of your route" title="Despatches — your trip journal"')
 
@@ -70,9 +70,9 @@ a = T.index('AAR_CFG={key:"ie-aar",data:') if 'AAR_CFG={key:"ie-aar",data:' in T
 b = T.index('\n tourCard:false', a)
 T = T[:a] + 'AAR_CFG={key:"uw-aar",data:' + J(AAR) + ',' + T[b:]
 rep('docName:"WAR DIARY",docNameShort:"War Diary",plural:"War Diary pages",short:"pages",guide:"Into Europe · Italy 1943–45",place:"ITALY",',
-    'docName:"DESPATCHES",docNameShort:"Despatches",plural:"My despatches",short:"despatches",guide:"Understanding WWII · Europe 1939–45",place:"EUROPE",')
+    'docName:"DESPATCHES",docNameShort:"Despatches",plural:"My despatches",short:"despatches",guide:"Footsteps of WWII · Europe 1939–45",place:"EUROPE",')
 rep('foot:"DZ CHARLIE · INTO EUROPE",stamp:"VISITED",done:"COMPLETED",coverTitle:"IN THE FOOTSTEPS OF THE ITALIAN CAMPAIGN",fileBase:"into-europe-italy",',
-    'foot:"DZ CHARLIE · UNDERSTANDING WWII",stamp:"SEEN",done:"COMPLETED",coverTitle:"A JOURNEY THROUGH THE SECOND WORLD WAR",fileBase:"understanding-wwii",')
+    'foot:"DZ CHARLIE · FOOTSTEPS OF WWII",stamp:"SEEN",done:"COMPLETED",coverTitle:"A JOURNEY THROUGH THE SECOND WORLD WAR",fileBase:"footsteps-of-wwii",')
 rep('intro:"At the end of each day, write one page of your war diary:', 'intro:"At the end of each day, write your despatch home:')
 rep('theme:{paper:"#ece5cc",ink:"#1c1a15",ink2:"#3f3a2e",faint:"#6f6a58",title:"#24323f",when:"#1c1a15",rule:"#7c8b98",box:"#e2d9ba",stamp:"#a3261e",band:null,bandInk:"#efe9d2",',
     'theme:{paper:"#e9e3d2",ink:"#1b1f24",ink2:"#3d4550",faint:"#6b717b",title:"#24323f",when:"#1b1f24",rule:"#7c8b98",box:"#dcd6c3",stamp:"#a3261e",band:null,bandInk:"#efe9da",')
@@ -142,7 +142,7 @@ if os.path.exists(f'{B}/raster.json'):
 else:
     setconst('RASTER', '[]')
 # visitor counter: this guide's own name
-T = T.replace("'into-europe'", "'understanding-wwii'").replace('"into-europe"', '"understanding-wwii"')
+T = T.replace("'into-europe'", "'footsteps-of-wwii'").replace('"into-europe"', '"footsteps-of-wwii"')
 
 # offline list: every map picture + fonts (the Save for offline button)
 RAS = json.loads(open(f'{B}/raster.json').read()) if os.path.exists(f'{B}/raster.json') else []
@@ -150,12 +150,12 @@ FILES = [r['src'] for r in RAS] + ['fonts/bss-700.woff2', 'fonts/bss-800.woff2',
 a = T.index('const FILES=['); b = T.index('];', a) + 2
 T = T[:a] + 'const FILES=' + json.dumps(FILES) + ';' + T[b:]
 SW = open('/home/claude/fieldtours/into-europe/app/sw.js').read()
-SW = SW.replace('Into Europe service worker', 'Understanding WWII service worker').replace('"ie-core2", DATA="ie-data2", VERSION="v2"', '"uw-core2", DATA="uw-data2", VERSION="v2"')
+SW = SW.replace('Into Europe service worker', 'Footsteps of WWII service worker').replace('"ie-core2", DATA="ie-data2", VERSION="v2"', '"uw-core2", DATA="uw-data2", VERSION="v2"')
 SW = SW.replace('"ie-seen2"', '"uw-seen1"')
 SW = SW.replace('"fonts/stardos-stencil-400.woff2","fonts/stardos-stencil-700.woff2"', '"fonts/bss-700.woff2","fonts/bss-800.woff2","fonts/bss-700-ext.woff2","fonts/bss-800-ext.woff2"')
 assert 'ie-' not in SW and 'stardos' not in SW
 open(f'{B}/app/sw.js', 'w').write(SW)
-open(f'{B}/app/site.webmanifest', 'w').write(json.dumps({"name": "Understanding WWII · The Second World War in Europe", "short_name": "Understanding WWII", "lang": "en",
+open(f'{B}/app/site.webmanifest', 'w').write(json.dumps({"name": "Footsteps of WWII · The Second World War in Europe", "short_name": "Footsteps of WWII", "lang": "en",
     "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
               {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}],
     "theme_color": "#24323f", "background_color": "#1b2631", "display": "standalone", "start_url": "index.html"}, ensure_ascii=False))
@@ -190,8 +190,8 @@ rep('<p class="ncamp"><b>Campsite or motorhome area we suggest:</b> ${esc(b.name
 # visiting-info script: the Italy data is keyed to Into Europe's stops, so empty it; keep "Report a problem" on every stop
 import re as _re
 _j = T.index('<script id="vz-script">'); _k = T.index('</script>', _j); _t = T[_j:_k]
-_t = _re.sub(r'var V=\{.*?\},K=\{.*?\},G="Into Europe: Italy 1943–45"', 'var V={},K={},G="Understanding WWII: Europe 1939–45"', _t, count=1, flags=_re.S)
-assert 'G="Understanding WWII' in _t, 'vz header not replaced'
+_t = _re.sub(r'var V=\{.*?\},K=\{.*?\},G="Into Europe: Italy 1943–45"', 'var V={},K={},G="Footsteps of WWII: Europe 1939–45"', _t, count=1, flags=_re.S)
+assert 'G="Footsteps of WWII' in _t, 'vz header not replaced'
 _t = _t.replace('CK="Sep 2026"', 'CK="Oct 2026"')
 _t = _t.replace('''  }else{
     h='<div class="vz-none">No confirmed visiting details for this spot. Check locally before you go.</div>';
@@ -200,9 +200,9 @@ _t = _t.replace('''  }else{
   }''')
 assert 'data-vz=""' in _t
 T = T[:_j] + _t + T[_k:]
-# visitor counter: count this guide under /understanding-wwii
-rep("if(p.indexOf('/into-europe')!==0)p='/into-europe'+p;", "if(p.indexOf('/understanding-wwii')!==0)p='/understanding-wwii'+p;")
-rep('artist:"Into Europe field guide"', 'artist:"Understanding WWII field guide"')
+# visitor counter: count this guide under /footsteps-of-wwii
+rep("if(p.indexOf('/into-europe')!==0)p='/into-europe'+p;", "if(p.indexOf('/footsteps-of-wwii')!==0)p='/footsteps-of-wwii'+p;")
+rep('artist:"Into Europe field guide"', 'artist:"Footsteps of WWII field guide"')
 # enlarged map: never zoom past the sharpest map picture drawn for that place (no giant blurry names)
 rep('''  lbZoom=1;
   const lb=document.createElement("div"); lb.className="lb lb2";''', '''  lbZoom=1;

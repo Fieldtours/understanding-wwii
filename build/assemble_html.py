@@ -2,16 +2,16 @@
 C = json.load(open(f'{B}/counts.json'))
 NSTOP = C['stops']; NTL = C['TL']; NDAYS = C['DAYS']; NMUS = C['MUS']; NBAT = len(BT)
 NPEOPLE = len(PP['people'])
-PDFNAME = 'pdf/Understanding-WWII-Europe-1939-1945.pdf'
+PDFNAME = 'pdf/Footsteps-of-WWII-Europe-1939-1945.pdf'
 PDFINFO = json.load(open(f'{B}/pdfinfo.json')) if os.path.exists(f'{B}/pdfinfo.json') else {'pages': 0, 'mb': 0}
 PDFSMALL = f"{PDFINFO['pages']} pages · {PDFINFO['mb']} MB" if PDFINFO['pages'] else 'printable guide'
-PDFBOX = lambda i: f'''<div class="pdfdl pdfbtn" id="{i}"><div class="pk">📄 Download as PDF</div><p>Everything in this guide as a printable PDF: read it offline, print it, or keep it for the trip.</p><a class="pdl main" href="{PDFNAME}" download data-pdf><b>⬇ Understanding WWII · Europe 1939–1945</b><small>{PDFSMALL}</small></a><p class="pn">Tip: download before you travel — once saved it needs no signal.</p></div>'''
+PDFBOX = lambda i: f'''<div class="pdfdl pdfbtn" id="{i}"><div class="pk">📄 Download as PDF</div><p>Everything in this guide as a printable PDF: read it offline, print it, or keep it for the trip.</p><a class="pdl main" href="{PDFNAME}" download data-pdf><b>⬇ Footsteps of WWII · Europe 1939–1945</b><small>{PDFSMALL}</small></a><p class="pn">Tip: download before you travel — once saved it needs no signal.</p></div>'''
 
 # ---------- home ----------
 a = T.index('<section id="p-home"'); b = T.index('</section>', a)
 home = T[a:b]
 home = re.sub(r'<div class="hero-top">.*?</div>', '<div class="hero-top"><span>War room briefing · Europe 1939–1945</span><span>First edition · 2026</span></div>', home, count=1, flags=re.S)
-home = re.sub(r'<div class="hero-title">.*?</div>', '<div class="hero-title">Understanding<br>WWII</div>', home, count=1, flags=re.S)
+home = re.sub(r'<div class="hero-title">.*?</div>', '<div class="hero-title">Footsteps of<br>WWII</div>', home, count=1, flags=re.S)
 home = re.sub(r'<div class="hero-sub">.*?</div>', '<div class="hero-sub">The Second World War in Europe · Dunkirk · the Battle of Britain · Stalingrad · Normandy · Arnhem · Bastogne · Berlin · the camps</div>', home, count=1, flags=re.S)
 home = re.sub(r'<div class="hero-stamp">.*?</div>', '<div class="hero-stamp">1 Sep 1939 – 8 May 1945</div>', home, count=1, flags=re.S)
 home = re.sub(r'<p class="hero-lede">.*?</p>', f'<p class="hero-lede">{E(BP["HOME_LEDE"])}</p>', home, count=1, flags=re.S)

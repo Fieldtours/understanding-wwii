@@ -1,4 +1,4 @@
-# Build Understanding WWII (index.html) from the Into Europe template + the research files.
+# Build Footsteps of WWII (index.html) from the Into Europe template + the research files.
 # usage: python3 assemble.py  -> app/index.html
 import json, re, glob, html, os, math, sys
 B = '/home/claude/uwwii/build'; RS = '/home/claude/uwwii/Research'

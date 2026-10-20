@@ -3,7 +3,7 @@ const {chromium}=require('/home/claude/gmap/node_modules/playwright');const fs=r
 (async()=>{const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
 for(const f of ['uwwii']){
 const ctx=await b.newContext({viewport:{width:600,height:900},deviceScaleFactor:2.5,serviceWorkers:'block'});const p=await ctx.newPage();
-await p.goto('http://localhost:8830/understanding-wwii/index.html#pdf');await p.waitForTimeout(1500);
+await p.goto('http://localhost:8830/footsteps-of-wwii/index.html#pdf');await p.waitForTimeout(1500);
 const D=await p.evaluate(()=>{ensureDdayPool();
  const T=e=>e?e.innerText.trim():'';
  const L={};(typeof LINKS!=='undefined'?LINKS:[]).forEach(([n,a])=>L[n]=a);

@@ -4,7 +4,7 @@
 import json, html, asyncio, re, os, shutil, sys
 from playwright.async_api import async_playwright
 E = lambda s: html.escape(str(s or ''))
-ROOT = '/home/claude/uwwii/build/app/'          # served on :8830/understanding-wwii/ — fonts, welcome.jpg
+ROOT = '/home/claude/uwwii/build/app/'          # served on :8830/footsteps-of-wwii/ — fonts, welcome.jpg
 BUILD = ROOT + 'pdfbuild/'
 os.makedirs(BUILD + 'maps', exist_ok=True)
 from PIL import Image
@@ -14,7 +14,7 @@ for f in os.listdir('/home/claude/uwwii/build/pdf/maps'):
     im.save(BUILD + 'maps/' + f.replace('.png', '.jpg'), quality=50, optimize=True, progressive=True)
 
 GUIDES = {
- 'uwwii': dict(out='Understanding-WWII-Europe-1939-1945.pdf', place='Europe 1939–1945', foot='Understanding WWII · Europe 1939–1945'),
+ 'uwwii': dict(out='Footsteps-of-WWII-Europe-1939-1945.pdf', place='Europe 1939–1945', foot='Footsteps of WWII · Europe 1939–1945'),
 }
 
 def links(L):
@@ -48,7 +48,7 @@ def build(key):
     P = []
     # ---- cover
     P.append(f'''<section class="cover"><div class="doc"><span>{E(D["top"])}</span><span>{E(D["dates"])}</span></div>
-<div class="ttl"><h1><small>Understanding WWII</small><br>{G["place"]}</h1>
+<div class="ttl"><h1><small>Footsteps of WWII</small><br>{G["place"]}</h1>
 <p class="sub">{E(D["sub"])}</p><p class="stamp">{nstops} SITES · {len(D["tl"])} DATED POSITIONS</p></div>
 <p class="note">Free guide · dzcharlie.com · Printed edition of the phone guide. Positions carry a rating for how sure we are of the exact spot: HIGH (exact spot known), MEDIUM (right area), LOW (general area only).</p></section>''')
     # ---- contents + the story in brief
@@ -155,7 +155,7 @@ section.cover{page-break-before:auto;box-sizing:border-box;height:258mm;backgrou
 .tl{font-size:9.5pt;margin:0 0 5px}.stat{font-size:8.5pt;color:#6f6a58}
 .man{break-inside:avoid;border-top:1px dashed #b9b39c;padding:6px 0 2px}.life{color:#6f6a58;font-size:8.5pt}.deco{font-size:9pt;margin:0 0 4px}
 .notes{font-size:9.5pt}.cl{columns:2;column-gap:14px;font-size:9pt;padding-left:18px}.cl li{break-inside:avoid;margin:0 0 3px}.notes dt{font-weight:bold}.notes dd{margin:0 0 4px 12px}'''
-    doc = '<!doctype html><html><head><meta charset="utf-8"><style>' + css + '</style></head><body>' + ''.join(P) + '</body></html>'
+    doc = '<!doctype html><html><head><meta charset="utf-8"><title>Footsteps of WWII · Europe 1939–1945 · DZ Charlie field guide</title><style>' + css + '</style></head><body>' + ''.join(P) + '</body></html>'
     open(BUILD + key + '.html', 'w').write(doc)
     return G
 
@@ -164,7 +164,7 @@ async def main(keys):
         b = await p.chromium.launch(executable_path='/opt/pw-browsers/chromium-1194/chrome-linux/chrome'); pg = await b.new_page()
         for k in keys:
             G = build(k)
-            await pg.goto(f'http://localhost:8830/understanding-wwii/pdfbuild/{k}.html'); await pg.wait_for_timeout(1500)
+            await pg.goto(f'http://localhost:8830/footsteps-of-wwii/pdfbuild/{k}.html'); await pg.wait_for_timeout(1500)
             await pg.pdf(path=f'/home/claude/uwwii/build/pdf/out/{G["out"]}', format='A4', print_background=True, display_header_footer=True,
                          header_template='<span></span>',
                          footer_template=f'<div style="font-size:8px;width:100%;text-align:center;color:#6f6a58">{G["foot"]} · DZ Charlie field guide · <span class="pageNumber"></span></div>',
