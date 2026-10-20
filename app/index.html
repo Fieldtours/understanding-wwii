@@ -3887,6 +3887,7 @@ if(x.origin===location.origin&&/\/pdf\/.*\.pdf$/i.test(x.pathname))send('record_
 .card .body>p.dzc-clamp{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
 .dzc-more{all:unset;display:inline-flex;align-items:center;min-height:40px;font-weight:700;font-size:14px;color:#1a5fc4;cursor:pointer;margin:-2px 0 6px}
 .card .plan.dzc-plan{font-family:inherit!important;font-size:14px!important;color:var(--ink,#222)!important;background:var(--paper3,#fffbe9);border-left:4px solid #1a73e8;border-radius:8px;padding:8px 10px;margin:4px 0 10px!important;line-height:1.45}
+.card .plan.dzc-vz summary{display:none}
 .card .plan.dzc-plan::before{content:"Plan your visit";display:block;font-size:11px;font-weight:700;letter-spacing:1.5px;text-transform:uppercase;color:#1a5fc4;margin-bottom:2px}
 /* 2 · 7 · Today on the home screen */
 #dzToday{margin:0 0 14px}
@@ -3963,10 +3964,10 @@ document.addEventListener("click",e=>{const c=e.target.closest(".dzc-change");if
   for(const s of FOLD){const b=e.target.closest(s+">button[aria-pressed]");if(b){put("open"+s,"0");setTimeout(fold,30)}}},true);
 
 /* ---------- 4 · shorter text first; the visiting plan in a fixed place ---------- */
-function tidyCards(root){$$(".card .body",root).forEach(body=>{if(body.dataset.dz)return;body.dataset.dz="1";
+function tidyCards(root){$$(".card .body",root).forEach(body=>{
   const p=$(":scope>p",body),plan=$(":scope>.plan",body);
-  if(plan&&p){plan.classList.add("dzc-plan");body.insertBefore(plan,p)}
-  if(p&&p.textContent.length>260){p.classList.add("dzc-clamp");const m=document.createElement("button");m.type="button";m.className="dzc-more";m.textContent="Read the full story ▾";p.after(m)}})}
+  if(plan&&p&&!plan.classList.contains("dzc-plan")){plan.classList.add("dzc-plan");const dt=$("details",plan);if(dt){dt.open=true;plan.classList.add("dzc-vz")}body.insertBefore(plan,p)}
+  if(p&&!p.dataset.dz){p.dataset.dz="1";if(p.textContent.length>260){p.classList.add("dzc-clamp");const m=document.createElement("button");m.type="button";m.className="dzc-more";m.textContent="Read the full story ▾";p.after(m)}}})}
 document.addEventListener("click",e=>{const m=e.target.closest(".dzc-more");if(!m)return;const p=m.previousElementSibling;const open=p.classList.toggle("dzc-clamp");m.textContent=open?"Read the full story ▾":"Show less ▴"});
 
 /* ---------- 2 · 7 · Today on the home screen, with progress ---------- */
