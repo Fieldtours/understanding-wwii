@@ -5,7 +5,7 @@ const {chromium}=require('/home/claude/gmap/node_modules/playwright');
 const p=await (await b.newContext({viewport:{width:390,height:844},serviceWorkers:'block'})).newPage();
 const errs=[];p.on('pageerror',e=>errs.push('ERR '+e.message));
 const O='/tmp/claude-0/maps';require('fs').mkdirSync(O,{recursive:true});
-await p.goto('http://localhost:8830/understanding-wwii/index.html#x');await p.waitForTimeout(2500);
+await p.goto('http://localhost:8830/footsteps-of-wwii/index.html#x');await p.waitForTimeout(2500);
 await p.evaluate(()=>{const h=document.getElementById('heromap');h.scrollIntoView()});await p.waitForTimeout(1500);
 await (await p.$('#heromap')).screenshot({path:O+'/m01-hero.png'});
 // tour: Dunkirk & Normandy, day 4 (Sword, Juno, Gold)

@@ -1,4 +1,4 @@
 const {chromium}=require('/home/claude/gmap/node_modules/playwright');
 (async()=>{const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});const p=await (await b.newContext({viewport:{width:390,height:844},serviceWorkers:'block'})).newPage();
-await p.goto('http://localhost:8830/understanding-wwii/index.html');await p.waitForTimeout(1000);await p.evaluate(()=>{document.querySelectorAll('.welcome,#welcome').forEach(w=>w.remove());goTab('tab-tour')});await p.waitForTimeout(1200);
+await p.goto('http://localhost:8830/footsteps-of-wwii/index.html');await p.waitForTimeout(1000);await p.evaluate(()=>{document.querySelectorAll('.welcome,#welcome').forEach(w=>w.remove());goTab('tab-tour')});await p.waitForTimeout(1200);
 console.log(await p.evaluate(()=>[document.querySelectorAll('#tourout article.card').length,document.querySelectorAll('#tourout .vz-rep').length,document.querySelectorAll('#tourout .vz details').length,decodeURIComponent(document.querySelector('#tourout .vz-rep').href).slice(0,120)]));await b.close()})();

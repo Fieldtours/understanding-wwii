@@ -7,7 +7,7 @@ await p.evaluate(()=>{goTab('tab-dday');document.getElementById('battles').scrol
 const names=await p.evaluate(()=>BATTLES.map(b=>b.name));
 for(let i=0;i<names.length;i++){
   await p.evaluate(()=>document.querySelector('.bsel').scrollIntoView({block:'start'}));await p.waitForTimeout(150);
-  const btn=await p.$(`.bsel [data-bsel="${i}"]`);await btn.scrollIntoViewIfNeeded();await btn.click();await p.waitForTimeout(900);
+  await p.evaluate(()=>{const c=document.querySelector('.bsel>.dzc-change');if(c&&document.querySelector('.bsel').classList.contains('dzc-fold'))c.click()});await p.waitForTimeout(150);const btn=await p.$(`.bsel [data-bsel="${i}"]`);await btn.scrollIntoViewIfNeeded();await btn.click();await p.waitForTimeout(900);
   const r=await p.evaluate(()=>{const m=document.getElementById('bmap').getBoundingClientRect(),hd=document.querySelector('.bhead').getBoundingClientRect();return {sel:BSEL,head:document.querySelector('.bhead b').textContent,mapTop:Math.round(m.top),mapBottom:Math.round(m.bottom),headTop:Math.round(hd.top),vh:innerHeight}});
   const ok=r.sel===i&&r.mapTop>=0&&r.mapTop<r.vh*0.4;if(!ok)fails++;
   console.log((ok?'ok  ':'FAIL')+` ${w}px ${names[i]} -> heading at ${r.headTop}px, map ${r.mapTop}-${r.mapBottom} of ${r.vh}`);

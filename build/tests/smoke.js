@@ -3,7 +3,7 @@ const {chromium}=require('/home/claude/gmap/node_modules/playwright');
 const W=+(process.env.W||390),H=+(process.env.H||844);
 const ctx=await b.newContext({viewport:{width:W,height:H},deviceScaleFactor:1,serviceWorkers:'block'});const p=await ctx.newPage();
 const errs=[];p.on('pageerror',e=>errs.push('PE '+e.message));p.on('console',m=>{if(m.type()==='error')errs.push('CE '+m.text().slice(0,200))});
-await p.goto('http://localhost:8830/understanding-wwii/index.html');await p.waitForTimeout(800);
+await p.goto('http://localhost:8830/footsteps-of-wwii/index.html');await p.waitForTimeout(800);
 const out=process.env.OUT||'/tmp/claude-0/shots';require('fs').mkdirSync(out,{recursive:true});
 await p.screenshot({path:out+'/00-welcome.png'});
 await p.click('#welgo').catch(()=>{});await p.waitForTimeout(700);

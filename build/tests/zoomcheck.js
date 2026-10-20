@@ -6,7 +6,7 @@ const {chromium}=require('/home/claude/gmap/node_modules/playwright');
 const W0=+(process.env.WIDTH||390);
 const p=await (await b.newContext({viewport:{width:W0,height:W0<600?844:850},serviceWorkers:'block'})).newPage();
 const errs=[];p.on('pageerror',e=>errs.push(e.message));
-await p.goto('http://localhost:8830/understanding-wwii/index.html');await p.waitForTimeout(1200);
+await p.goto('http://localhost:8830/footsteps-of-wwii/index.html');await p.waitForTimeout(1200);
 await p.evaluate(()=>document.querySelectorAll('.welcome,#welcome').forEach(w=>w.remove()));
 const tours=await p.evaluate(()=>APP.tours.filter(t=>t.id!=='grand').map(t=>t.id));
 const bad=[];let views=0,maxsteps=0;

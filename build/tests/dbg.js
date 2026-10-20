@@ -1,0 +1,10 @@
+const {chromium}=require('/home/claude/gmap/node_modules/playwright');
+(async()=>{const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
+const p=await (await b.newContext({viewport:{width:390,height:844},serviceWorkers:'block'})).newPage();
+await p.goto('http://localhost:8830/footsteps-of-wwii/index.html');await p.waitForTimeout(1200);
+await p.evaluate(()=>document.querySelectorAll('.welcome,#welcome').forEach(w=>w.remove()));
+await p.evaluate(()=>{goTab('tab-tour');const t=APP.tours.find(t=>t.id==='britain');plan.tour='britain';plan.days=t.days.length;plan.mode='full';savePlan();renderTour()});await p.waitForTimeout(800);
+const ms=await p.$$('#tourout .sitmap');await ms[0].click();await p.waitForTimeout(1000);
+console.log(await p.evaluate(()=>{const svg=document.querySelector('#lb svg'),v=document.querySelector('#lb .view');const wp=[...document.querySelectorAll('#lb .wp')].map(w=>w.getAttribute('aria-label'));
+ return {proj:svg.getAttribute('data-proj'),vb:svg.getAttribute('viewBox'),cw:svg.clientWidth,ch:svg.clientHeight,bw:svg.getBoundingClientRect().width,bh:svg.getBoundingClientRect().height,vw:v.clientWidth,vh:v.clientHeight,wp}}));
+await b.close()})();

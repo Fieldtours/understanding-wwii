@@ -4,7 +4,7 @@ const {chromium}=require('/home/claude/gmap/node_modules/playwright');
 const p=await (await b.newContext({viewport:{width:390,height:844},deviceScaleFactor:2,serviceWorkers:'block'})).newPage();
 const errs=[];p.on('pageerror',e=>errs.push(e.message));
 const O='/tmp/claude-0/lb';require('fs').mkdirSync(O,{recursive:true});
-await p.goto('http://localhost:8830/understanding-wwii/index.html');await p.waitForTimeout(1200);
+await p.goto('http://localhost:8830/footsteps-of-wwii/index.html');await p.waitForTimeout(1200);
 await p.evaluate(()=>document.querySelectorAll('.welcome,#welcome').forEach(w=>w.remove()));
 const shoot=async(tour,dayIdx,name,steps)=>{
   await p.evaluate(id=>{goTab('tab-tour');const t=APP.tours.find(t=>t.id===id);plan.tour=id;plan.days=t.days.length;plan.mode='full';savePlan();renderTour()},tour);await p.waitForTimeout(800);
@@ -25,7 +25,7 @@ console.log(errs.join('\n')||'no page errors');await b.close();await second()})(
 // zoom into a site by double-clicking on it repeatedly
 async function second(){const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
 const p=await (await b.newContext({viewport:{width:390,height:844},deviceScaleFactor:2,serviceWorkers:'block'})).newPage();
-await p.goto('http://localhost:8830/understanding-wwii/index.html');await p.waitForTimeout(1200);
+await p.goto('http://localhost:8830/footsteps-of-wwii/index.html');await p.waitForTimeout(1200);
 await p.evaluate(()=>document.querySelectorAll('.welcome,#welcome').forEach(w=>w.remove()));
 await p.evaluate(()=>{goTab('tab-tour');const t=APP.tours.find(t=>t.id==='britain');plan.tour='britain';plan.days=t.days.length;plan.mode='full';savePlan();renderTour()});await p.waitForTimeout(800);
 const ms=await p.$$('#tourout .sitmap');await ms[0].scrollIntoViewIfNeeded();await ms[0].click();await p.waitForTimeout(1200);

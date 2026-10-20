@@ -3,7 +3,7 @@ const {chromium}=require('/home/claude/gmap/node_modules/playwright');
 (async()=>{const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
 const O='/tmp/claude-0/shots';require('fs').mkdirSync(O,{recursive:true});
 const ctx=await b.newContext({viewport:{width:390,height:844},deviceScaleFactor:2,serviceWorkers:'block'});const p=await ctx.newPage();
-const URL='http://localhost:8830/understanding-wwii/index.html';
+const URL='http://localhost:8830/footsteps-of-wwii/index.html';
 await p.goto(URL);await p.waitForTimeout(2000);await p.screenshot({path:O+'/welcome.png'});
 await p.click('#welgo');await p.waitForTimeout(1200);await p.screenshot({path:O+'/home.png'});
 await p.click('#qa-plan');await p.waitForTimeout(800);await p.click('[data-uxpick=area]');await p.waitForTimeout(1800);await p.screenshot({path:O+'/area.png'});

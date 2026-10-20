@@ -6,7 +6,7 @@ const errs=[],fails=[];p.on('pageerror',e=>errs.push('ERR '+e.message));
 const ok=(c,m)=>{console.log((c?'  ok   ':'  FAIL ')+m);if(!c)fails.push(m)};
 const vis=sel=>p.evaluate(s=>{const e=document.querySelector(s);return !!e&&!e.hidden&&getComputedStyle(e).display!=='none'&&e.offsetHeight>0},sel);
 const shot=n=>p.screenshot({path:`/tmp/claude-0/my/${n}.png`});
-await p.goto('http://localhost:8830/understanding-wwii/index.html');await p.waitForTimeout(900);
+await p.goto('http://localhost:8830/footsteps-of-wwii/index.html');await p.waitForTimeout(900);
 await p.evaluate(()=>document.querySelectorAll('.welcome,#welcome').forEach(w=>w.remove()));
 // 1. AAR
 ok(await p.$$eval('#p-home .tile[data-aar]',x=>x.length)===0,'no AAR tile on the Home list');

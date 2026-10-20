@@ -3,7 +3,7 @@ const {chromium}=require('/home/claude/gmap/node_modules/playwright');
 (async()=>{const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
 const O='/tmp/claude-0/extra';require('fs').mkdirSync(O,{recursive:true});
 const errs=[],fails=[];const ok=(c,m)=>{console.log((c?'  ok   ':'  FAIL ')+m);if(!c)fails.push(m)};
-const URL='http://localhost:8830/understanding-wwii/index.html';
+const URL='http://localhost:8830/footsteps-of-wwii/index.html';
 // ---------- phone: diary + search
 let ctx=await b.newContext({viewport:{width:390,height:844},serviceWorkers:'block'});let p=await ctx.newPage();
 p.on('pageerror',e=>errs.push('ERR '+e.message));

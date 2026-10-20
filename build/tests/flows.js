@@ -4,7 +4,7 @@ const {chromium}=require('/home/claude/gmap/node_modules/playwright');
 const ctx=await b.newContext({viewport:{width:390,height:844},deviceScaleFactor:1,serviceWorkers:'block'});const p=await ctx.newPage();
 const errs=[];p.on('pageerror',e=>errs.push('ERR '+e.message+' '+(e.stack||'').split('\n')[1]));p.on('console',m=>{if(m.type()==='error'&&!/404|Failed to load/.test(m.text()))errs.push('CON '+m.text())});
 const OUT='/tmp/claude-0/flows';require('fs').mkdirSync(OUT,{recursive:true});
-await p.goto('http://localhost:8830/understanding-wwii/index.html');await p.waitForTimeout(1200);await p.click('#welgo');await p.waitForTimeout(500);
+await p.goto('http://localhost:8830/footsteps-of-wwii/index.html');await p.waitForTimeout(1200);await p.click('#welgo');await p.waitForTimeout(500);
 const S=async n=>{await p.waitForTimeout(600);await p.screenshot({path:OUT+'/'+n+'.png'})};
 const T=async sel=>(await p.evaluate(s=>{const e=document.querySelector(s);return e?e.innerText:'(none)'},sel));
 const clickT=async (sel,t)=>p.evaluate(([sel,t])=>{const e=[...document.querySelectorAll(sel)].find(b=>b.textContent.trim().startsWith(t));if(!e)return 'NOTFOUND '+t;e.click();return 'ok'},[sel,t]);
@@ -13,14 +13,14 @@ await p.click('#qa-plan');await S('t01-tour');
 // every ready-made tour, full length and 2 days, both modes
 const tours=await p.evaluate(()=>APP.tours.map(t=>[t.id,t.days.length]));
 for(const [id,n] of tours){
-  await p.click(`[data-tour="${id}"]`);await p.waitForTimeout(200);
+  await p.$eval(`[data-tour="${id}"]`,e=>e.click());await p.waitForTimeout(200);
   const r=await p.evaluate(()=>{const d=buildPlan();return {n:d.length,stops:d.flat().length,empty:d.filter(x=>!x.length).length,days:plan.days,outside:d.flat().filter(s=>!tourDays().includes(s.day)).length}});
   check(r.n===n&&r.empty===0&&r.outside===0,`tour ${id}: ${r.n} days, ${r.stops} stops, empty ${r.empty}`);
   await p.click('[data-days="2"]').catch(()=>{});await p.waitForTimeout(150);
   const r2=await p.evaluate(()=>{const d=buildPlan();return {n:d.length,stops:d.flat().length,mins:d.map(x=>x.reduce((s,p)=>s+p.min,0))}});
   check(r2.n===Math.min(2,n)&&r2.stops>0,`tour ${id} in 2 days: ${r2.stops} stops, minutes/day ${r2.mins.join('/')}`);
 }
-await p.click('[data-tour="west40"]');await p.click('[data-mode="easy"]');await p.waitForTimeout(300);await S('t02-west40-easy');
+await p.$eval('[data-tour="west40"]',e=>e.click());await p.click('[data-mode="easy"]');await p.waitForTimeout(300);await S('t02-west40-easy');
 await p.click('[data-mode="full"]');await p.click('[data-days="8"]');await p.waitForTimeout(400);await S('t03-west40-full');
 console.log((await T('#tourout')).slice(0,500).replace(/\n+/g,' | '));
 // by area

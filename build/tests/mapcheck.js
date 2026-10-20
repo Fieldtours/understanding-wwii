@@ -5,7 +5,7 @@ const {chromium}=require('/home/claude/gmap/node_modules/playwright');
 (async()=>{const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
 const p=await (await b.newContext({viewport:{width:+(process.env.WIDTH||390),height:+(process.env.HEIGHT||844)},serviceWorkers:'block'})).newPage();
 const errs=[];p.on('pageerror',e=>errs.push(e.message));
-await p.goto(process.env.URL||'http://localhost:8830/understanding-wwii/index.html');await p.waitForTimeout(1200);
+await p.goto(process.env.URL||'http://localhost:8830/footsteps-of-wwii/index.html');await p.waitForTimeout(1200);
 await p.evaluate(()=>document.querySelectorAll('.welcome,#welcome').forEach(w=>w.remove()));
 const check=()=>p.evaluate(()=>{
   const RES=r=>r.w/(r.b[2]-r.b[0]);const out=[];const seen=new Set();

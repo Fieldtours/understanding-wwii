@@ -1,0 +1,11 @@
+const {chromium}=require('/home/claude/gmap/node_modules/playwright');
+(async()=>{const b=await chromium.launch({executablePath:'/opt/pw-browsers/chromium-1194/chrome-linux/chrome'});
+const p=await (await b.newContext({viewport:{width:1440,height:900},serviceWorkers:'block'})).newPage();
+await p.goto('http://localhost:8830/footsteps-of-wwii/index.html');await p.waitForTimeout(1200);
+await p.evaluate(()=>document.querySelectorAll('.welcome,#welcome').forEach(w=>w.remove()));
+await p.evaluate(()=>{goTab('tab-tour');const t=APP.tours.find(t=>t.id==='britain');plan.tour='britain';plan.days=t.days.length;plan.mode='full';savePlan();renderTour()});await p.waitForTimeout(800);
+await p.evaluate(()=>openMap(document.querySelectorAll('#tourout .sitmap')[0]));await p.waitForTimeout(1500);
+console.log(await p.evaluate(()=>{const svg=document.querySelector('#lb svg');const [cx,cy,sc,W]=svg.getAttribute('data-proj').split(',').map(Number);const rw=svg.getBoundingClientRect().width;
+ const ims=[...svg.querySelectorAll('image')].map(i=>i.getAttribute('href'));const by={};ims.forEach(h=>{const r=RASTER.find(r=>r.src===h);const k=r.g+'/'+r.lv+'/'+Math.round(r.w/(r.b[2]-r.b[0]));by[k]=(by[k]||0)+1});
+ const fam={};RASTER.filter(r=>r.g===20||r.g===23).forEach(r=>{fam[r.g+'/'+r.lv]=Math.round(r.w/(r.b[2]-r.b[0]))});
+ return JSON.stringify({sc,W,rw,d:sc*rw/W*1.5,by,fam})}));await b.close()})();

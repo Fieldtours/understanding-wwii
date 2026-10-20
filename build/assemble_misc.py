@@ -318,3 +318,8 @@ rep('if(t.dataset.tour){apOff();if(plan.tour!==t.dataset.tour){plan.tour=t.datas
 # battle maps: tapping a battle's name takes you straight to its map (it was drawn below the list, out of sight)
 rep('if(t.dataset.bsel!==undefined){BSEL=+t.dataset.bsel;BPH=0;renderBattles();return}',
     'if(t.dataset.bsel!==undefined){BSEL=+t.dataset.bsel;BPH=0;renderBattles();let set=null,n=0;const tick=()=>{if(set!==null&&Math.abs(window.scrollY-set)>4)return;const o=document.querySelector("#battles .bph")||document.querySelector("#battles .bhead");if(!o)return;const y=Math.round(o.getBoundingClientRect().top+window.scrollY-(document.querySelector(".sticky")?.offsetHeight||0)-10);if(Math.abs(y-window.scrollY)>4)window.scrollTo({top:y});set=window.scrollY;if(n++<12)setTimeout(tick,150)};setTimeout(tick,30);return}')
+# DZ Charlie phone-friendly layer, shared by all guides (kept in /home/claude/dzux/dzux.html)
+import re as _re
+_dz = open('/home/claude/dzux/dzux.html').read()
+T = _re.sub(r'<!-- dzux start.*?<!-- dzux end -->\n?', '', T, flags=_re.S)
+_i = T.rfind('</body>'); T = T[:_i] + _dz + T[_i:]
