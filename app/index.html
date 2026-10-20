@@ -3223,7 +3223,7 @@ document.addEventListener("click",e=>{
   if(t.dataset.ph!==undefined){tphase=+t.dataset.ph;renderTL();return}
   if(t.dataset.days){apOff();plan.days=+t.dataset.days;savePlan();renderTour();return}
   if(t.dataset.mode){apOff();plan.mode=t.dataset.mode;savePlan();renderTour();return}
-  if(t.dataset.tour){apOff();if(plan.tour!==t.dataset.tour){plan.tour=t.dataset.tour;plan.days=tourDays().length}savePlan();renderTour();return}
+  if(t.dataset.tour){apOff();if(plan.tour!==t.dataset.tour){plan.tour=t.dataset.tour;plan.days=tourDays().length}savePlan();renderTour();let set=null,n=0;const tick=()=>{if(set!==null&&Math.abs(window.scrollY-set)>4)return;/* the visitor scrolled: leave them */const o=document.querySelector("#p-tour .summ")||document.getElementById("tourout");if(!o)return;const y=Math.round(o.getBoundingClientRect().top+window.scrollY-(document.querySelector(".sticky")?.offsetHeight||0)-10);if(Math.abs(y-window.scrollY)>4)window.scrollTo({top:y});set=window.scrollY;if(n++<12)setTimeout(tick,150)};setTimeout(tick,30);return}
   if(t.dataset.route){const k=t.dataset.route,out=t.classList.contains("in");
     if(out){plan.forced=plan.forced.filter(x=>x!==k);if(!plan.dropped.includes(k))plan.dropped.push(k)}else{plan.dropped=plan.dropped.filter(x=>x!==k);if(!plan.forced.includes(k))plan.forced.push(k)}
     savePlan();renderTour();const d=buildPlan().findIndex(ds=>ds.some(p=>p.id===k));
