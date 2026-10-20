@@ -739,7 +739,7 @@ body.radio-on .rd main{padding-bottom:calc(var(--bbar) + 120px + env(safe-area-i
 
 /* ---- v3: tappable waypoints ---- */
 .sitmap svg *{pointer-events:none}
-.sitmap svg .wp,.sitmap svg .wp *{pointer-events:auto}
+.sitmap svg .wp,.sitmap svg .wp,.sitmap svg .wp *{pointer-events:auto}.sitmap svg .wp circle{pointer-events:all}
 .sitmap .wp{cursor:pointer}
 .sitmap .wp:hover .wpc,.sitmap .wp:focus .wpc{fill:#fff;stroke:#a3261e;stroke-width:3}
 .sitmap .wp:focus{outline:none}
@@ -3388,7 +3388,8 @@ document.addEventListener("click",e=>{const g=e.target.closest&&e.target.closest
 document.addEventListener("keydown",e=>{if(e.key!=="Enter"&&e.key!==" ")return;const g=e.target.closest&&e.target.closest(".wp[data-key]");if(!g)return;
   e.preventDefault();e.stopPropagation();goWaypoint(g.dataset.key,g.dataset.tab)},true);
 function closeMap(){const lb=document.getElementById("lb");if(lb){lb.remove();document.body.style.overflow=""}}
-document.addEventListener("click",e=>{const box=e.target.closest(".sitmap");if(box&&!e.target.closest("#lb")&&!e.target.closest("a"))openMap(box)});
+function nearWp(root,x,y,R){let best=null,bd=R;root.querySelectorAll(".wp[data-key]").forEach(g=>{const c=g.querySelector(".wpc")||g;const r=c.getBoundingClientRect();if(!r.width)return;const d=Math.hypot(r.x+r.width/2-x,r.y+r.height/2-y);if(d<bd){bd=d;best=g}});return best}
+document.addEventListener("click",e=>{const box=e.target.closest(".sitmap");if(box&&!e.target.closest("#lb")&&!e.target.closest("a")){const g=nearWp(box,e.clientX,e.clientY,22);if(g){goWaypoint(g.dataset.key,g.dataset.tab);return}openMap(box)}});
 document.addEventListener("keydown",e=>{if((e.key==="Enter"||e.key===" ")&&e.target.classList&&e.target.classList.contains("sitmap")){e.preventDefault();openMap(e.target)}});
 renderTL();renderTour();renderMus();renderDday();renderHome();renderBattles();
 

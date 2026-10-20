@@ -318,6 +318,13 @@ rep('if(t.dataset.tour){apOff();if(plan.tour!==t.dataset.tour){plan.tour=t.datas
 # battle maps: tapping a battle's name takes you straight to its map (it was drawn below the list, out of sight)
 rep('if(t.dataset.bsel!==undefined){BSEL=+t.dataset.bsel;BPH=0;renderBattles();return}',
     'if(t.dataset.bsel!==undefined){BSEL=+t.dataset.bsel;BPH=0;renderBattles();let set=null,n=0;const tick=()=>{if(set!==null&&Math.abs(window.scrollY-set)>4)return;const o=document.querySelector("#battles .bph")||document.querySelector("#battles .bhead");if(!o)return;const y=Math.round(o.getBoundingClientRect().top+window.scrollY-(document.querySelector(".sticky")?.offsetHeight||0)-10);if(Math.abs(y-window.scrollY)>4)window.scrollTo({top:y});set=window.scrollY;if(n++<12)setTimeout(tick,150)};setTimeout(tick,30);return}')
+
+# map dots: a tap on a phone opens the site, even when the finger lands a little off the dot
+# (iPhone Safari did not pick up taps on the small dots; we now find the nearest dot ourselves)
+rep('.wp,.sitmap svg .wp *{pointer-events:auto}', '.wp,.sitmap svg .wp,.sitmap svg .wp *{pointer-events:auto}.sitmap svg .wp circle{pointer-events:all}')
+rep('document.addEventListener("click",e=>{const box=e.target.closest(".sitmap");if(box&&!e.target.closest("#lb")&&!e.target.closest("a"))openMap(box)});',
+    'function nearWp(root,x,y,R){let best=null,bd=R;root.querySelectorAll(".wp[data-key]").forEach(g=>{const c=g.querySelector(".wpc")||g;const r=c.getBoundingClientRect();if(!r.width)return;const d=Math.hypot(r.x+r.width/2-x,r.y+r.height/2-y);if(d<bd){bd=d;best=g}});return best}\n'
+    'document.addEventListener("click",e=>{const box=e.target.closest(".sitmap");if(box&&!e.target.closest("#lb")&&!e.target.closest("a")){const g=nearWp(box,e.clientX,e.clientY,22);if(g){goWaypoint(g.dataset.key,g.dataset.tab);return}openMap(box)}});')
 # DZ Charlie phone-friendly layer, shared by all guides (kept in /home/claude/dzux/dzux.html)
 import re as _re
 _dz = open('/home/claude/dzux/dzux.html').read()
