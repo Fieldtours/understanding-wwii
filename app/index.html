@@ -2455,7 +2455,7 @@ function drawBattle(sites){
   document.getElementById("btext").innerHTML=`<div class="head">${esc(P.t)}</div><p style="margin:0">${esc(P.p)}</p>`;
   document.querySelectorAll(".bph button").forEach((x,i)=>x.setAttribute("aria-pressed",i===BPH))}
 document.addEventListener("click",e=>{const s=e.target.closest("[data-scroll]");if(s)setTimeout(()=>{const el=document.getElementById(s.dataset.scroll);if(el)el.scrollIntoView({behavior:"smooth",block:"start"})},80);const t=e.target.closest("[data-bsel],[data-bph],[data-battle]");if(!t)return;
-  if(t.dataset.bsel!==undefined){BSEL=+t.dataset.bsel;BPH=0;renderBattles();return}
+  if(t.dataset.bsel!==undefined){BSEL=+t.dataset.bsel;BPH=0;renderBattles();let set=null,n=0;const tick=()=>{if(set!==null&&Math.abs(window.scrollY-set)>4)return;const o=document.querySelector("#battles .bph")||document.querySelector("#battles .bhead");if(!o)return;const y=Math.round(o.getBoundingClientRect().top+window.scrollY-(document.querySelector(".sticky")?.offsetHeight||0)-10);if(Math.abs(y-window.scrollY)>4)window.scrollTo({top:y});set=window.scrollY;if(n++<12)setTimeout(tick,150)};setTimeout(tick,30);return}
   if(t.dataset.bph!==undefined){BPH=+t.dataset.bph;drawBattle();return}
   if(t.dataset.battle!==undefined){e.stopPropagation();document.querySelectorAll(".locsheet").forEach(o=>o.remove());BSEL=+t.dataset.battle;BPH=0;goTab("tab-dday");renderBattles();setTimeout(()=>document.getElementById("battles").scrollIntoView({behavior:"smooth",block:"start"}),60)}});
 
