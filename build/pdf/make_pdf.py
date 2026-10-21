@@ -8,10 +8,12 @@ ROOT = '/home/claude/uwwii/build/app/'          # served on :8830/footsteps-of-w
 BUILD = ROOT + 'pdfbuild/'
 os.makedirs(BUILD + 'maps', exist_ok=True)
 from PIL import Image
-for f in os.listdir('/home/claude/uwwii/build/pdf/maps'):
-    im = Image.open('/home/claude/uwwii/build/pdf/maps/' + f).convert('RGB')
-    if im.width > 900: im = im.resize((900, round(im.height * 900 / im.width)), Image.LANCZOS)
-    im.save(BUILD + 'maps/' + f.replace('.png', '.jpg'), quality=50, optimize=True, progressive=True)
+# maps: the print-quality versions (pmaps/ -> maps_print/, drawn at 4x from the OpenStreetMap data), 1800 px wide (about 250 dpi on the page)
+MP = '/home/claude/uwwii/build/pdf/maps_print/'
+for f in os.listdir(MP):
+    im = Image.open(MP + f).convert('RGB')
+    if im.width > 1800: im = im.resize((1800, round(im.height * 1800 / im.width)), Image.LANCZOS)
+    im.save(BUILD + 'maps/' + f, quality=82, optimize=True, progressive=True)
 
 GUIDES = {
  'uwwii': dict(out='Footsteps-of-WWII-Europe-1939-1945.pdf', place='Europe 1939–1945', foot='Footsteps of WWII · Europe 1939–1945'),
