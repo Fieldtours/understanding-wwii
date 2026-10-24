@@ -23,7 +23,7 @@ v1 - 19 October 2026 - first version
        button saves only the maps for your tour (smaller).
      - 9 GPS pins corrected after an independent check (Research/gps-check.csv, gps-moves.csv)
      - "Where the sources disagree" on 90 stops (list: Research/accuracy-check.md)
-     - "Report a problem" on every stop (to jj28@posteo.uk)
+     - "Report a problem" on every stop (to dzcharlie44@gmail.com)
      - PDF in the house layout: 177 pages, 5.8 MB
      - Visitor counter: counted as "Understanding WWII" on your numbers page
      - Tested: every ready-made tour, every area, build-my-own, the diary, search, offline,
