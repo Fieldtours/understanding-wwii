@@ -1,6 +1,6 @@
 /* Footsteps of WWII service worker — keeps the guides working without internet */
-const CORE="uw-core2", DATA="uw-data2", VERSION="v3-icon";
-const CORE_FILES=["lib/jspdf.umd.min.js","lib/qrcode.js","./","index.html","welcome.jpg","welcome-wide.jpg","site.webmanifest","favicon.ico","favicon-32.png","favicon-16.png","apple-touch-icon.png","icon-192.png","icon-512.png","icon-maskable-512.png","fonts/bss-700.woff2","fonts/bss-800.woff2","fonts/bss-700-ext.woff2","fonts/bss-800-ext.woff2","fonts/special-elite-400.woff2","fonts/courier-prime-400.woff2","fonts/courier-prime-700.woff2"];
+const CORE="uw-core2", DATA="uw-data2", VERSION="v4-waypoints";
+const CORE_FILES=["waypoints/Footsteps-of-WWII-Europe-1939-1945.gpx","waypoints/Footsteps-of-WWII-Europe-1939-1945.kml","lib/jspdf.umd.min.js","lib/qrcode.js","./","index.html","welcome.jpg","welcome-wide.jpg","site.webmanifest","favicon.ico","favicon-32.png","favicon-16.png","apple-touch-icon.png","icon-192.png","icon-512.png","icon-maskable-512.png","fonts/bss-700.woff2","fonts/bss-800.woff2","fonts/bss-700-ext.woff2","fonts/bss-800-ext.woff2","fonts/special-elite-400.woff2","fonts/courier-prime-400.woff2","fonts/courier-prime-700.woff2"];
 self.addEventListener("install",e=>{e.waitUntil(caches.open(CORE).then(c=>Promise.all(CORE_FILES.map(f=>fetch(f,{cache:"no-store"}).then(r=>r.ok&&c.put(f,r)).catch(()=>{})))).then(()=>self.skipWaiting()))});
 self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==CORE&&k!==DATA&&k!=="uw-seen1").map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
 async function fromCache(req){const u=new URL(req.url),p=u.pathname,last=p.split("/").pop();
